@@ -1606,6 +1606,24 @@
       ]
     },
     {
+      "id": "TN-DRAFT-NAI-STRATEGY-2026-2030",
+      "jurisdiction": "Tunisia",
+      "regulator": "Presidency of the Government · Ministry of Communication Technologies",
+      "title": "National Artificial Intelligence Strategy 2026–2030 (strategic outline presented)",
+      "instrumentType": "National strategy (in development)",
+      "status": "Proposed",
+      "publicationDate": "2026-08-15",
+      "topic": "AI strategy · privacy · digital sovereignty · national development",
+      "sourceUrl": "https://www.pm.gov.tn/fr",
+      "summary": "At a restricted ministerial council on digital transformation, the Minister of Communication Technologies presented the main lines of a 2026–2030 national AI strategy. The government source describes an outline intended to guide AI development while respecting privacy and national sovereignty; it does not establish that a final strategy or binding regulation has been adopted.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Presidency of the Government portal; the linked announcement describes an outline rather than a final instrument."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-16615",
       "jurisdiction": "United States · Federal",
       "regulator": "Federal Communications Commission",
@@ -2578,6 +2596,24 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "ME-DRAFT-AI-STRATEGY-2026-2030",
+      "jurisdiction": "Montenegro",
+      "regulator": "Ministry of Public Administration · interdepartmental AI strategy working group",
+      "title": "Draft Artificial Intelligence Strategy of Montenegro 2026–2030",
+      "instrumentType": "National strategy (draft)",
+      "status": "Proposed",
+      "publicationDate": "2026-05-27",
+      "topic": "National AI strategy · governance · infrastructure · public services",
+      "sourceUrl": "https://www.gov.me/clanak/odrzana-peta-sjednica-radne-grupe-za-izradu-strategije-vjestacke-inteligencije-crne-gore-za-period-2026-2030",
+      "summary": "Montenegro’s government reports that a working group is preparing a 2026–2030 AI strategy and has discussed its first draft, objectives and success indicators. The strategy was still being finalized; this record is a proposed policy, not an adopted rule.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry of Public Administration’s official report on the working group’s fifth session and first draft."
         }
       ]
     },
@@ -3738,6 +3774,24 @@
       ]
     },
     {
+      "id": "PY-DRAFT-AI-SYSTEMS-BILL-S-2502197-2025",
+      "jurisdiction": "Paraguay",
+      "regulator": "Senate · National Congress",
+      "title": "Bill regulating and promoting the creation, development, innovation and implementation of AI systems (S-2502197)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-05-08",
+      "topic": "AI systems · regulation · innovation · regulatory sandbox",
+      "sourceUrl": "https://mitic.gov.py/ministro-villate-insta-al-pronto-tratamiento-de-la-ley-sobre-proteccion-de-datos-personales/",
+      "summary": "A Senate bill proposes rules and support for AI systems. Paraguay’s Ministry of Information and Communication Technologies reported that the proposal was being studied by Senate advisory committees and discussed at a public hearing. The Ministry also described a regulatory sandbox as a possible approach. The bill is not in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official MITIC update describing Senate committee review and public discussion of the bill."
+        }
+      ]
+    },
+    {
       "id": "PE-LAW-32314-2025",
       "jurisdiction": "Peru",
       "regulator": "Congress of the Republic",
@@ -3756,6 +3810,24 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against El Peruano."
+        }
+      ]
+    },
+    {
+      "id": "PY-DRAFT-AI-PROMOTION-BILL-D-2584139-2025",
+      "jurisdiction": "Paraguay",
+      "regulator": "Chamber of Deputies · National Congress",
+      "title": "Bill promoting the use of AI for Paraguay’s economic and social development (D-2584139)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-04-28",
+      "topic": "AI development · innovation · safeguards · rights",
+      "sourceUrl": "https://silpy.congreso.gov.py/web/expediente/142181",
+      "summary": "This Chamber of Deputies bill would promote the use of AI for economic and social development. The Congress tracking system lists it as pending in the first constitutional stage and under committee consideration. It is a proposal, not enacted law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Congress legislative tracking system; bill remains pending in committee review."
         }
       ]
     },
@@ -5299,78 +5371,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "ME-DRAFT-AI-STRATEGY-2026-2030",
-      "jurisdiction": "Montenegro",
-      "regulator": "Ministry of Public Administration · interdepartmental AI strategy working group",
-      "title": "Draft Artificial Intelligence Strategy of Montenegro 2026–2030",
-      "instrumentType": "National strategy (draft)",
-      "status": "Proposed",
-      "publicationDate": "2026-05-27",
-      "topic": "National AI strategy · governance · infrastructure · public services",
-      "sourceUrl": "https://www.gov.me/clanak/odrzana-peta-sjednica-radne-grupe-za-izradu-strategije-vjestacke-inteligencije-crne-gore-za-period-2026-2030",
-      "summary": "Montenegro’s government reports that a working group is preparing a 2026–2030 AI strategy and has discussed its first draft, objectives and success indicators. The strategy was still being finalized; this record is a proposed policy, not an adopted rule.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry of Public Administration’s official report on the working group’s fifth session and first draft."
-        }
-      ]
-    },
-    {
-      "id": "TN-DRAFT-NAI-STRATEGY-2026-2030",
-      "jurisdiction": "Tunisia",
-      "regulator": "Presidency of the Government · Ministry of Communication Technologies",
-      "title": "National Artificial Intelligence Strategy 2026–2030 (strategic outline presented)",
-      "instrumentType": "National strategy (in development)",
-      "status": "Proposed",
-      "publicationDate": "2026-08-15",
-      "topic": "AI strategy · privacy · digital sovereignty · national development",
-      "sourceUrl": "https://www.pm.gov.tn/fr",
-      "summary": "At a restricted ministerial council on digital transformation, the Minister of Communication Technologies presented the main lines of a 2026–2030 national AI strategy. The government source describes an outline intended to guide AI development while respecting privacy and national sovereignty; it does not establish that a final strategy or binding regulation has been adopted.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Presidency of the Government portal; the linked announcement describes an outline rather than a final instrument."
-        }
-      ]
-    },
-    {
-      "id": "PY-DRAFT-AI-PROMOTION-BILL-D-2584139-2025",
-      "jurisdiction": "Paraguay",
-      "regulator": "Chamber of Deputies · National Congress",
-      "title": "Bill promoting the use of AI for Paraguay’s economic and social development (D-2584139)",
-      "instrumentType": "Bill",
-      "status": "Proposed",
-      "publicationDate": "2025-04-28",
-      "topic": "AI development · innovation · safeguards · rights",
-      "sourceUrl": "https://silpy.congreso.gov.py/web/expediente/142181",
-      "summary": "This Chamber of Deputies bill would promote the use of AI for economic and social development. The Congress tracking system lists it as pending in the first constitutional stage and under committee consideration. It is a proposal, not enacted law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Congress legislative tracking system; bill remains pending in committee review."
-        }
-      ]
-    },
-    {
-      "id": "PY-DRAFT-AI-SYSTEMS-BILL-S-2502197-2025",
-      "jurisdiction": "Paraguay",
-      "regulator": "Senate · National Congress",
-      "title": "Bill regulating and promoting the creation, development, innovation and implementation of AI systems (S-2502197)",
-      "instrumentType": "Bill",
-      "status": "Proposed",
-      "publicationDate": "2025-05-08",
-      "topic": "AI systems · regulation · innovation · regulatory sandbox",
-      "sourceUrl": "https://mitic.gov.py/ministro-villate-insta-al-pronto-tratamiento-de-la-ley-sobre-proteccion-de-datos-personales/",
-      "summary": "A Senate bill proposes rules and support for AI systems. Paraguay’s Ministry of Information and Communication Technologies reported that the proposal was being studied by Senate advisory committees and discussed at a public hearing. The Ministry also described a regulatory sandbox as a possible approach. The bill is not in force.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official MITIC update describing Senate committee review and public discussion of the bill."
         }
       ]
     }
