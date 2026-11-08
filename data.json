@@ -2998,6 +2998,24 @@
       ]
     },
     {
+      "id": "UA-DRAFT-AI-STRATEGY-2030-CONSULTATION-2026",
+      "jurisdiction": "Ukraine",
+      "regulator": "Ministry of Digital Transformation of Ukraine",
+      "title": "Draft Artificial Intelligence Development Strategy through 2030 and Operational Plan",
+      "instrumentType": "National strategy (draft; public consultation)",
+      "status": "Consultation",
+      "publicationDate": "2026-03-30",
+      "topic": "National AI strategy · public sector · defence · education · health · infrastructure",
+      "sourceUrl": "https://ai.thedigital.gov.ua/en/news/the-path-to-ai-development-by-2030-review-the-draft-strategy-and-provide-feedback",
+      "summary": "The Ministry published a draft strategy and operational plan for public review, outlining AI adoption goals across government, defence, education, healthcare and other sectors. Comments were invited through April 14, 2026. This is a draft strategic policy, not a binding AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry of Digital Transformation’s official AI portal; public feedback period was announced through April 14, 2026."
+        }
+      ]
+    },
+    {
       "id": "US-NY-S8828-2026",
       "jurisdiction": "United States · New York",
       "regulator": "New York State Legislature / Governor",
@@ -3780,6 +3798,24 @@
         {
           "date": "2026-11-08",
           "change": "Added from the official AI Cambodia announcement about consultations on the draft strategy."
+        }
+      ]
+    },
+    {
+      "id": "UA-CMU-ORDER-457-R-2025-AI-ACTION-PLAN",
+      "jurisdiction": "Ukraine",
+      "regulator": "Cabinet of Ministers of Ukraine · Ministry of Digital Transformation",
+      "title": "Cabinet Order No. 457-r · Action Plan for Implementing the AI Development Concept, 2025–2026",
+      "instrumentType": "Cabinet order / action plan",
+      "status": "In force",
+      "publicationDate": "2025-05-09",
+      "topic": "AI governance · legislative development · cybersecurity · implementation plan",
+      "sourceUrl": "https://zakon.rada.gov.ua/laws/show/457-2025-%D1%80",
+      "summary": "The Cabinet approved a 2025–2026 action plan for Ukraine’s AI development concept. The plan tasks the Ministry of Digital Transformation with preparing and submitting an AI legal framework bill by the fourth quarter of 2026, alongside cybersecurity recommendations and other implementation work. This order is an active government plan; the future bill is not yet law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Ukraine’s official legislation database; marked current and in force there."
         }
       ]
     },
@@ -5381,42 +5417,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "UA-CMU-ORDER-457-R-2025-AI-ACTION-PLAN",
-      "jurisdiction": "Ukraine",
-      "regulator": "Cabinet of Ministers of Ukraine · Ministry of Digital Transformation",
-      "title": "Cabinet Order No. 457-r · Action Plan for Implementing the AI Development Concept, 2025–2026",
-      "instrumentType": "Cabinet order / action plan",
-      "status": "In force",
-      "publicationDate": "2025-05-09",
-      "topic": "AI governance · legislative development · cybersecurity · implementation plan",
-      "sourceUrl": "https://zakon.rada.gov.ua/laws/show/457-2025-%D1%80",
-      "summary": "The Cabinet approved a 2025–2026 action plan for Ukraine’s AI development concept. The plan tasks the Ministry of Digital Transformation with preparing and submitting an AI legal framework bill by the fourth quarter of 2026, alongside cybersecurity recommendations and other implementation work. This order is an active government plan; the future bill is not yet law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from Ukraine’s official legislation database; marked current and in force there."
-        }
-      ]
-    },
-    {
-      "id": "UA-DRAFT-AI-STRATEGY-2030-CONSULTATION-2026",
-      "jurisdiction": "Ukraine",
-      "regulator": "Ministry of Digital Transformation of Ukraine",
-      "title": "Draft Artificial Intelligence Development Strategy through 2030 and Operational Plan",
-      "instrumentType": "National strategy (draft; public consultation)",
-      "status": "Consultation",
-      "publicationDate": "2026-03-30",
-      "topic": "National AI strategy · public sector · defence · education · health · infrastructure",
-      "sourceUrl": "https://ai.thedigital.gov.ua/en/news/the-path-to-ai-development-by-2030-review-the-draft-strategy-and-provide-feedback",
-      "summary": "The Ministry published a draft strategy and operational plan for public review, outlining AI adoption goals across government, defence, education, healthcare and other sectors. Comments were invited through April 14, 2026. This is a draft strategic policy, not a binding AI law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry of Digital Transformation’s official AI portal; public feedback period was announced through April 14, 2026."
         }
       ]
     }
