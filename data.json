@@ -3097,6 +3097,24 @@
       ]
     },
     {
+      "id": "WS-NATIONAL-ICT-POLICY-2025-2031-AI",
+      "jurisdiction": "Samoa",
+      "regulator": "Ministry of Communications and Information Technology",
+      "title": "Samoa National ICT Policy 2025/26–2030/31 · AI in public services",
+      "instrumentType": "National ICT policy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-04-17",
+      "topic": "AI in public services · financial inclusion · disaster preparedness · climate resilience",
+      "sourceUrl": "https://mcit.gov.ws/official-launch-of-the-national-ict-policy-national-cybersecurity-strategy/",
+      "summary": "Samoa launched its National ICT Policy for 2025/26–2030/31. The policy includes the role of AI in public-service delivery, financial inclusion, disaster preparedness and climate resilience. It is a broad ICT policy, not a standalone AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official launch notice dated April 17, 2026."
+        }
+      ]
+    },
+    {
       "id": "US-ME-LD2082-2026",
       "jurisdiction": "United States · Maine",
       "regulator": "Maine Legislature / Governor",
@@ -3497,6 +3515,25 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the SDAIA publications page."
+        }
+      ]
+    },
+    {
+      "id": "VU-DIGITAL-TRANSFORMATION-ACT-42-2025",
+      "jurisdiction": "Vanuatu",
+      "regulator": "Parliament of Vanuatu · Department of Communications and Digital Transformation",
+      "title": "Digital Transformation Act No. 42 of 2025",
+      "instrumentType": "Act",
+      "status": "In force",
+      "publicationDate": "2025-12-12",
+      "effectiveDate": "2025-12-17",
+      "topic": "AI-related data services · ICT permits · AI public-sector governance",
+      "sourceUrl": "https://dcdt.gov.vu/images/dossier%20legislation/EN%20-%20DT%20Act%20No%2042%20of%202025.pdf",
+      "summary": "This Act includes AI and AI-related data services in its ICT services classes, which are subject to the Act’s ICT service permit framework. It also requires the Department to develop and enforce public-sector AI frameworks and gives it oversight and coordination duties for government AI initiatives. The Act is a broader digital-transformation law, not a comprehensive AI Act. It was assented to December 12, 2025 and commenced December 17, 2025.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Act text and DCDT legislation page; AI service classification and commencement dates verified in the Act."
         }
       ]
     },
@@ -4167,6 +4204,24 @@
         {
           "date": "2026-11-08",
           "change": "Added from MTCIT’s official policies register; publication date is April 1, 2025."
+        }
+      ]
+    },
+    {
+      "id": "FJ-NATIONAL-DIGITAL-STRATEGY-AI-FRAMEWORK-2025-2030",
+      "jurisdiction": "Fiji",
+      "regulator": "Office of the Prime Minister · Ministry responsible for Communications · Digital Government Transformation Office",
+      "title": "Fiji National Digital Strategy 2025–2030 · National AI Framework milestone",
+      "instrumentType": "National digital strategy with AI policy milestones",
+      "status": "Adopted policy",
+      "publicationDate": "2025-04-01",
+      "topic": "National AI framework · ethics · privacy · accountability · government services",
+      "sourceUrl": "https://mobile.digital.gov.fj/fnds.pdf",
+      "summary": "Fiji’s National Digital Strategy sets a 2027 milestone to develop a National AI Framework. The strategy says the future framework should address ethical AI adoption, privacy, accountability and governance across government and private-sector services. This is an adopted digital strategy with a future AI policy commitment; the AI framework itself is not yet in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Fiji National Digital Strategy; Cabinet endorsement is recorded by the Prime Minister’s Office."
         }
       ]
     },
@@ -5649,6 +5704,23 @@
       ]
     },
     {
+      "id": "VU-NATIONAL-AI-STRATEGY-PROCUREMENT-2026",
+      "jurisdiction": "Vanuatu",
+      "regulator": "Prime Minister’s Office · Department of Communications and Digital Transformation",
+      "title": "National AI Strategy (development commissioned / procurement underway)",
+      "instrumentType": "National AI strategy (in development)",
+      "status": "Proposed",
+      "topic": "National AI strategy · cultural knowledge · consent · AI governance",
+      "sourceUrl": "https://pmo.gov.vu/en/public-information/press-release/1167-connectivity%2C-resilience-and-ai-governance-vanuatu-s-message-to-pacific-ict-ministers.html",
+      "summary": "Vanuatu’s Prime Minister’s Office reports that the government is procuring the development of a National AI Strategy. The country has called for free, prior and informed consent before AI systems use Pacific cultural and traditional knowledge and has advocated for that safeguard to be enforceable. The strategy is not yet recorded as adopted.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Prime Minister’s Office statement to Pacific ICT Ministers; it says procurement for a national AI strategy is underway."
+        }
+      ]
+    },
+    {
       "id": "TH-ETDA-AI-LAW-DRAFT-2025",
       "jurisdiction": "Thailand",
       "regulator": "Electronic Transactions Development Agency (ETDA) / Ministry of Digital Economy and Society",
@@ -5797,78 +5869,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "VU-DIGITAL-TRANSFORMATION-ACT-42-2025",
-      "jurisdiction": "Vanuatu",
-      "regulator": "Parliament of Vanuatu · Department of Communications and Digital Transformation",
-      "title": "Digital Transformation Act No. 42 of 2025",
-      "instrumentType": "Act",
-      "status": "In force",
-      "publicationDate": "2025-12-12",
-      "effectiveDate": "2025-12-17",
-      "topic": "AI-related data services · ICT permits · AI public-sector governance",
-      "sourceUrl": "https://dcdt.gov.vu/images/dossier%20legislation/EN%20-%20DT%20Act%20No%2042%20of%202025.pdf",
-      "summary": "This Act includes AI and AI-related data services in its ICT services classes, which are subject to the Act’s ICT service permit framework. It also requires the Department to develop and enforce public-sector AI frameworks and gives it oversight and coordination duties for government AI initiatives. The Act is a broader digital-transformation law, not a comprehensive AI Act. It was assented to December 12, 2025 and commenced December 17, 2025.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Act text and DCDT legislation page; AI service classification and commencement dates verified in the Act."
-        }
-      ]
-    },
-    {
-      "id": "VU-NATIONAL-AI-STRATEGY-PROCUREMENT-2026",
-      "jurisdiction": "Vanuatu",
-      "regulator": "Prime Minister’s Office · Department of Communications and Digital Transformation",
-      "title": "National AI Strategy (development commissioned / procurement underway)",
-      "instrumentType": "National AI strategy (in development)",
-      "status": "Proposed",
-      "topic": "National AI strategy · cultural knowledge · consent · AI governance",
-      "sourceUrl": "https://pmo.gov.vu/en/public-information/press-release/1167-connectivity%2C-resilience-and-ai-governance-vanuatu-s-message-to-pacific-ict-ministers.html",
-      "summary": "Vanuatu’s Prime Minister’s Office reports that the government is procuring the development of a National AI Strategy. The country has called for free, prior and informed consent before AI systems use Pacific cultural and traditional knowledge and has advocated for that safeguard to be enforceable. The strategy is not yet recorded as adopted.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Prime Minister’s Office statement to Pacific ICT Ministers; it says procurement for a national AI strategy is underway."
-        }
-      ]
-    },
-    {
-      "id": "FJ-NATIONAL-DIGITAL-STRATEGY-AI-FRAMEWORK-2025-2030",
-      "jurisdiction": "Fiji",
-      "regulator": "Office of the Prime Minister · Ministry responsible for Communications · Digital Government Transformation Office",
-      "title": "Fiji National Digital Strategy 2025–2030 · National AI Framework milestone",
-      "instrumentType": "National digital strategy with AI policy milestones",
-      "status": "Adopted policy",
-      "publicationDate": "2025-04-01",
-      "topic": "National AI framework · ethics · privacy · accountability · government services",
-      "sourceUrl": "https://mobile.digital.gov.fj/fnds.pdf",
-      "summary": "Fiji’s National Digital Strategy sets a 2027 milestone to develop a National AI Framework. The strategy says the future framework should address ethical AI adoption, privacy, accountability and governance across government and private-sector services. This is an adopted digital strategy with a future AI policy commitment; the AI framework itself is not yet in force.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Fiji National Digital Strategy; Cabinet endorsement is recorded by the Prime Minister’s Office."
-        }
-      ]
-    },
-    {
-      "id": "WS-NATIONAL-ICT-POLICY-2025-2031-AI",
-      "jurisdiction": "Samoa",
-      "regulator": "Ministry of Communications and Information Technology",
-      "title": "Samoa National ICT Policy 2025/26–2030/31 · AI in public services",
-      "instrumentType": "National ICT policy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-04-17",
-      "topic": "AI in public services · financial inclusion · disaster preparedness · climate resilience",
-      "sourceUrl": "https://mcit.gov.ws/official-launch-of-the-national-ict-policy-national-cybersecurity-strategy/",
-      "summary": "Samoa launched its National ICT Policy for 2025/26–2030/31. The policy includes the role of AI in public-service delivery, financial inclusion, disaster preparedness and climate resilience. It is a broad ICT policy, not a standalone AI law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry’s official launch notice dated April 17, 2026."
         }
       ]
     }
