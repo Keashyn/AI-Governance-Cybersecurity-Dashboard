@@ -540,6 +540,11 @@
       "name": "Ukraine Ministry of Digital Transformation · draft AI strategy",
       "url": "https://ai.thedigital.gov.ua/en/news/the-path-to-ai-development-by-2030-review-the-draft-strategy-and-provide-feedback",
       "status": "Draft strategy and operational plan; consultation announced"
+    },
+    {
+      "name": "Office of the Prime Minister of The Bahamas · 2026/27 budget address",
+      "url": "https://opm.gov.bs/prime-minister-davis-budget-debate-contribution-2026-2027/",
+      "status": "Official announcement of planned AI governance legislation and committee"
     }
   ],
   "items": [
@@ -5419,6 +5424,24 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "BS-PLANNED-AI-GOVERNANCE-ACT-2026-27",
+      "jurisdiction": "The Bahamas",
+      "regulator": "Ministry of Innovation and National Development · Government of The Bahamas",
+      "title": "Artificial Intelligence Governance Act (announced; legislation planned)",
+      "instrumentType": "Legislative proposal (announced)",
+      "status": "Proposed",
+      "publicationDate": "2026-05-01",
+      "topic": "AI governance · proposed AI Commission · ethical safeguards",
+      "sourceUrl": "https://opm.gov.bs/prime-minister-davis-budget-debate-contribution-2026-2027/",
+      "summary": "In the 2026/27 budget debate, the Prime Minister said the government is preparing its first AI legislation and plans to establish a National AI Committee. The budget materials describe a proposed Artificial Intelligence Governance Act that would establish a National AI Commission and ethical safeguards. No enacted Act is identified by these sources, so this is recorded as a planned proposal.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Prime Minister’s official budget-debate address; source describes planned legislation, not an enacted Act."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5479,8 +5502,8 @@
     },
     {
       "country": "Bahamas",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official budget address announces planned AI legislation and a National AI Committee; no enacted AI Governance Act is confirmed by the cited source."
     },
     {
       "country": "Bahrain",
