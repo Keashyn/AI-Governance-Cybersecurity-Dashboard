@@ -570,6 +570,31 @@
       "name": "North Macedonia Ministry of Digital Transformation · Vezilka project",
       "url": "https://mdt.gov.mk/en-GB/odnosi-so-javnost/soopstenija/andonovski-makedonija-dobiva-nacionalen-centar-za-vestacka-inteligencija-zapocnuva-proektot-vezilka",
       "status": "Official National Centre for AI project announcement"
+    },
+    {
+      "name": "Bhutan GovTech · National AI Strategy",
+      "url": "https://tech.gov.bt/wp-content/uploads/2025/10/National-AI-Strategy-2025.pdf",
+      "status": "Official national AI strategy for 2025"
+    },
+    {
+      "name": "Bhutan GovTech · Civil Service Generative AI Guideline",
+      "url": "https://tech.gov.bt/guideline-for-generative-artificial-intelligence-usage-in-the-civil-service-2024/",
+      "status": "Official government guideline for civil-service use"
+    },
+    {
+      "name": "Oman MTCIT · National AI Program",
+      "url": "https://www.mtcit.gov.om/sectors?sector=artificial_intelligence",
+      "status": "Official record of National AI Program and Cabinet approval"
+    },
+    {
+      "name": "Oman MTCIT · Safe and Ethical AI Policy",
+      "url": "https://www.mtcit.gov.om/library-3/legislations-policies-8/policies-73/general-policy-for-the-safe-and-ethical-use-of-artificial-intelligence-systems-291",
+      "status": "Official National AI Policy published April 2025"
+    },
+    {
+      "name": "Sri Lanka Cabinet Office · National AI Strategy decision",
+      "url": "https://www.cabinetoffice.gov.lk/cab/index.php?Itemid=49&dID=12770&id=16&lang=en&option=com_content&view=article",
+      "status": "Official Cabinet decision record approving implementation of the national strategy"
     }
   ],
   "items": [
@@ -5555,6 +5580,95 @@
           "change": "Added from the Ministry of Digital Transformation’s official announcement dated October 14, 2025."
         }
       ]
+    },
+    {
+      "id": "BT-NATIONAL-AI-STRATEGY-2025",
+      "jurisdiction": "Bhutan",
+      "regulator": "GovTech Agency · Royal Government of Bhutan",
+      "title": "Bhutan National AI Strategy 2025 · AI for Gross National Happiness",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-10-01",
+      "topic": "National AI strategy · governance · ethics · public services · risk management",
+      "sourceUrl": "https://tech.gov.bt/wp-content/uploads/2025/10/National-AI-Strategy-2025.pdf",
+      "summary": "Bhutan’s strategy sets a national plan to use AI in areas such as agriculture, tourism, health, education and public services, guided by Gross National Happiness. It calls for human-centered, ethical and inclusive AI and future governance, monitoring and regulatory frameworks. It is a strategy, not itself a detailed binding AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Royal Government’s 2025 National AI Strategy published by GovTech Bhutan."
+        }
+      ]
+    },
+    {
+      "id": "BT-CIVIL-SERVICE-GENAI-GUIDELINE-2024",
+      "jurisdiction": "Bhutan",
+      "regulator": "GovTech Agency · Royal Government of Bhutan",
+      "title": "Guideline for Generative AI Usage in the Civil Service 2024",
+      "instrumentType": "Civil-service guideline",
+      "status": "Guidance",
+      "topic": "Generative AI · public administration · responsible use",
+      "sourceUrl": "https://tech.gov.bt/guideline-for-generative-artificial-intelligence-usage-in-the-civil-service-2024/",
+      "summary": "GovTech Bhutan provides an overarching framework for responsible use of generative AI in civil service work. The guideline is directed at government employees; it does not establish rules for every private-sector AI system.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official GovTech Bhutan guideline page and attached guidance document."
+        }
+      ]
+    },
+    {
+      "id": "OM-NATIONAL-AI-PROGRAM-2024",
+      "jurisdiction": "Oman",
+      "regulator": "Council of Ministers · Ministry of Transport, Communications and Information Technology",
+      "title": "National Program for Artificial Intelligence and Advanced Digital Technologies",
+      "instrumentType": "National AI program",
+      "status": "Adopted policy",
+      "publicationDate": "2024-09-19",
+      "topic": "National AI program · responsible use · digital technologies · public services",
+      "sourceUrl": "https://www.mtcit.gov.om/sectors?sector=artificial_intelligence",
+      "summary": "The Council of Ministers approved a national program to promote AI across economic and development sectors and support local capabilities and infrastructure. The Ministry describes human-centered governance, ethical and safe use, privacy, and review of laws and policies as part of the program. This is an adopted government program, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from MTCIT’s official program page, which records Cabinet approval on September 19, 2024."
+        }
+      ]
+    },
+    {
+      "id": "OM-GENERAL-AI-SAFE-ETHICAL-POLICY-2025",
+      "jurisdiction": "Oman",
+      "regulator": "Ministry of Transport, Communications and Information Technology",
+      "title": "General Policy for the Safe and Ethical Use of Artificial Intelligence Systems",
+      "instrumentType": "National AI policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-04-01",
+      "topic": "AI ethics · safety · responsible adoption · national capabilities",
+      "sourceUrl": "https://www.mtcit.gov.om/library-3/legislations-policies-8/policies-73/general-policy-for-the-safe-and-ethical-use-of-artificial-intelligence-systems-291",
+      "summary": "Oman’s policy sets a framework for safe and ethical AI adoption, capability building, infrastructure, investment, research and innovation. The Ministry presents it as a national policy aligned with Oman Vision 2040. It is recorded as policy rather than a binding AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from MTCIT’s official policies register; publication date is April 1, 2025."
+        }
+      ]
+    },
+    {
+      "id": "LK-NATIONAL-AI-STRATEGY-2024",
+      "jurisdiction": "Sri Lanka",
+      "regulator": "Cabinet of Ministers · Ministry of Technology",
+      "title": "Sri Lanka National Strategy on Artificial Intelligence",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2024-08-26",
+      "topic": "National AI strategy · public services · agriculture · health · education",
+      "sourceUrl": "https://www.cabinetoffice.gov.lk/cab/index.php?Itemid=49&dID=12770&id=16&lang=en&option=com_content&view=article",
+      "summary": "Sri Lanka’s Cabinet approved the proposed implementation of a national AI strategy, aiming to develop and use AI across sectors including agriculture, health and education and to build the country as a regional AI hub by 2030. The Cabinet record describes an adopted strategy, not a standalone AI regulation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Cabinet Office record of its August 26, 2024 decision."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5655,8 +5769,8 @@
     },
     {
       "country": "Bhutan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "National AI Strategy 2025 and a civil-service generative AI guideline are recorded; the guideline says Bhutan then lacked a specific general AI law or regulation."
     },
     {
       "country": "Bolivia",
@@ -6205,8 +6319,8 @@
     },
     {
       "country": "Oman",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Cabinet-approved national AI program and the Ministry’s 2025 safe and ethical AI policy are recorded; these are policy/program instruments, not a standalone AI statute."
     },
     {
       "country": "Pakistan",
@@ -6380,8 +6494,8 @@
     },
     {
       "country": "Sri Lanka",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Cabinet record confirms approval of implementation of the National AI Strategy; this is an adopted policy, not a standalone AI regulation."
     },
     {
       "country": "Sudan",
