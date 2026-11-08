@@ -655,6 +655,21 @@
       "name": "Belize · National Digital Agenda",
       "url": "https://egov.gov.bz/digital-agenda/",
       "status": "Official Ministry of E-Governance digital agenda reviewed; not an AI-specific instrument"
+    },
+    {
+      "name": "Algeria · Prime Minister’s Office, Government meeting 25 May 2026",
+      "url": "https://www.premier-ministre.gov.dz/fr/post/le-premier-ministre-preside-une-reunion-du-gouvernement-180",
+      "status": "Official notice: draft national AI strategy examined by government"
+    },
+    {
+      "name": "Andorra · Government AI ethics code approval",
+      "url": "https://www.govern.ad/ca/w/el-govern-aprova-un-codi-etic-sobre-intel-ligencia-artificial-ia-1",
+      "status": "Official approval notice; AI code is recommendations/guidance"
+    },
+    {
+      "name": "Angola · MINTTICS Public Consultation Portal",
+      "url": "https://consultapublica.minttics.gov.ao/",
+      "status": "Official portal lists a draft AI law for public consultation"
     }
   ],
   "items": [
@@ -5948,6 +5963,63 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "DZ-NATIONAL-AI-STRATEGY-DRAFT-2026",
+      "jurisdiction": "Algeria · National",
+      "regulator": "Government of Algeria · Prime Minister’s Office",
+      "title": "Draft National Artificial Intelligence Strategy",
+      "instrumentType": "Draft national strategy",
+      "status": "Proposed",
+      "publicationDate": "2026-05-25",
+      "effectiveDate": "",
+      "topic": "AI · national strategy · data · digital infrastructure · skills",
+      "sourceUrl": "https://www.premier-ministre.gov.dz/fr/post/le-premier-ministre-preside-une-reunion-du-gouvernement-180",
+      "summary": "The Government examined a draft national AI strategy at its 25 May 2026 meeting. It is organized around data, digital infrastructure and human skills. The announcement says implementation action plans would follow adoption by the Council of Ministers, so the strategy is not recorded here as adopted.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Prime Minister’s Office release; draft was examined by government, not yet adopted in cited notice."
+        }
+      ]
+    },
+    {
+      "id": "AD-AI-ETHICS-CODE-2024",
+      "jurisdiction": "Andorra · National",
+      "regulator": "Government of Andorra · State Secretariat for Digital Transformation and Telecommunications",
+      "title": "Code of Ethics on the Use of Artificial Intelligence",
+      "instrumentType": "Government guidance",
+      "status": "Guidance",
+      "publicationDate": "2024-05-02",
+      "effectiveDate": "",
+      "topic": "AI · ethics · human rights · public sector",
+      "sourceUrl": "https://www.govern.ad/ca/w/el-govern-aprova-un-codi-etic-sobre-intel-ligencia-artificial-ia-1",
+      "summary": "Andorra’s government approved an ethical code offering recommendations for AI use by public bodies, businesses and the public. It promotes reliable AI and protection of rights. Public-sector adherence is required for certain processes, while adherence is voluntary for other actors; the government described it as guidance and a first step toward possible future regulation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Government of Andorra approval notice; classified as guidance, not a statute."
+        }
+      ]
+    },
+    {
+      "id": "AO-AI-LAW-CONSULTATION-2026",
+      "jurisdiction": "Angola · National",
+      "regulator": "Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS)",
+      "title": "Draft Artificial Intelligence Law (Proposta de Lei da Inteligência Artificial)",
+      "instrumentType": "Draft law · public consultation",
+      "status": "Consultation",
+      "publicationDate": "",
+      "effectiveDate": "",
+      "topic": "AI · proposed legislation · public consultation",
+      "sourceUrl": "https://consultapublica.minttics.gov.ao/",
+      "summary": "The official MINTTICS consultation portal lists a draft Artificial Intelligence Law and provides a link to the proposal. The document is open for public consultation on the portal; it is not enacted law. The portal reports submissions received, but this page does not show a consultation deadline.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official MINTTICS public consultation portal; draft law is categorized as consultation."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5963,18 +6035,18 @@
     },
     {
       "country": "Algeria",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official notice confirms draft national AI strategy examined by government; not yet marked adopted in the cited notice."
     },
     {
       "country": "Andorra",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Government-approved AI ethics code recorded as guidance; not a statute."
     },
     {
       "country": "Angola",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official public consultation portal lists a draft AI law; consultation status, not enacted."
     },
     {
       "country": "Antigua and Barbuda",
