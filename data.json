@@ -5548,6 +5548,25 @@
       ]
     },
     {
+      "id": "CM-AI-STRATEGY-ROADMAP-2024",
+      "jurisdiction": "Cameroon · National",
+      "regulator": "Ministry of Posts and Telecommunications (MINPOSTEL)",
+      "title": "National consultations and roadmap development for a national AI strategy",
+      "instrumentType": "National AI strategy (in development)",
+      "status": "Proposed",
+      "publicationDate": "2024-07-02",
+      "effectiveDate": "",
+      "topic": "AI · national strategy · policy development",
+      "sourceUrl": "https://www.minpostel.gov.cm/index.php/en/actualites/485-conia",
+      "summary": "Cameroon’s national AI consultations in June 2024 produced recommendations to develop a roadmap for a national AI strategy, including institutional support, skills, public-sector adoption, data security and a legal/regulatory framework. The official source describes recommendations and a roadmap, not an adopted strategy or binding rules.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official MINPOSTEL report of national AI consultations; status is development-stage."
+        }
+      ]
+    },
+    {
       "id": "CG-LAW-14-2024-CARIA",
       "jurisdiction": "Congo (Republic of the) · National",
       "regulator": "Parliament and Presidency of the Republic of the Congo",
@@ -6215,25 +6234,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "CM-AI-STRATEGY-ROADMAP-2024",
-      "jurisdiction": "Cameroon · National",
-      "regulator": "Ministry of Posts and Telecommunications (MINPOSTEL)",
-      "title": "National consultations and roadmap development for a national AI strategy",
-      "instrumentType": "National AI strategy (in development)",
-      "status": "Proposed",
-      "publicationDate": "2024-07-02",
-      "effectiveDate": "",
-      "topic": "AI · national strategy · policy development",
-      "sourceUrl": "https://www.minpostel.gov.cm/index.php/en/actualites/485-conia",
-      "summary": "Cameroon’s national AI consultations in June 2024 produced recommendations to develop a roadmap for a national AI strategy, including institutional support, skills, public-sector adoption, data security and a legal/regulatory framework. The official source describes recommendations and a roadmap, not an adopted strategy or binding rules.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official MINPOSTEL report of national AI consultations; status is development-stage."
         }
       ]
     }
