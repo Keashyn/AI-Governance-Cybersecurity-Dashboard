@@ -180,6 +180,26 @@
       "name": "Egypt · Ministry of Communications and Information Technology",
       "url": "https://mcit.gov.eg/en/Artificial_Intelligence",
       "status": "Official national AI strategy and policy materials"
+    },
+    {
+      "name": "Pakistan · Ministry of IT and Telecommunication",
+      "url": "https://www.moitt.gov.pk/Policies",
+      "status": "Official approved national policies and policy texts"
+    },
+    {
+      "name": "Bangladesh · ICT Division",
+      "url": "https://ictd.gov.bd/",
+      "status": "Official policy drafts, consultation notices, and updates"
+    },
+    {
+      "name": "Jordan · Ministry of Digital Economy and Entrepreneurship",
+      "url": "https://www.modee.gov.jo/",
+      "status": "Official AI strategy, policy, and consultation materials"
+    },
+    {
+      "name": "Qatar · Ministry of Communications and Information Technology",
+      "url": "https://www.mcit.gov.qa/",
+      "status": "Official AI strategy and policy documents"
     }
   ],
   "items": [
@@ -3612,6 +3632,118 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "PK-NAI-POLICY-2025",
+      "jurisdiction": "Pakistan",
+      "regulator": "Ministry of Information Technology and Telecommunication",
+      "title": "National Artificial Intelligence Policy 2025",
+      "instrumentType": "National policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-07-31",
+      "topic": "AI governance · skills · infrastructure · adoption",
+      "sourceUrl": "https://www.moitt.gov.pk/PolicyDetail/MmQ1MWZjYTctYjE4Ny00NWI4LTg1ZGUtYjFkNzQ5YjI0ZjU0",
+      "summary": "Pakistan's Ministry of IT and Telecommunication lists the National Artificial Intelligence Policy as approved on July 31, 2025. It is a national policy framework, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2025-07-31",
+          "change": "Listed by the Ministry as approved; official policy PDF describes the ratified National AI Policy 2025."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Approval status checked against the Ministry policy register."
+        }
+      ]
+    },
+    {
+      "id": "BD-NATIONAL-AI-POLICY-DRAFT-2026",
+      "jurisdiction": "Bangladesh",
+      "regulator": "Information and Communication Technology Division",
+      "title": "National AI Policy Bangladesh 2026–2030 (Draft V1.1)",
+      "instrumentType": "Draft national policy",
+      "status": "Proposed",
+      "publicationDate": "2026-01-14",
+      "topic": "AI policy · national governance · responsible adoption",
+      "sourceUrl": "https://ictd.gov.bd/pages/notices/national-ai-policy-bangladesh-2026-2030-draft-v11-6966e23b8c8a196928d558b4",
+      "summary": "Bangladesh published Draft V1.1 of its 2026–2030 National AI Policy for consultation. The official notice gives January 14, 2026 as its publication date and an archive date of June 30, 2026. It remains a draft in this register; no final approval was confirmed in the cited source.",
+      "history": [
+        {
+          "date": "2026-01-14",
+          "change": "Draft V1.1 published on the ICT Division's official notice page."
+        },
+        {
+          "date": "2026-06-30",
+          "change": "Official notice archive date; this record remains a proposal pending verified final adoption."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Status checked against the official notice; no final policy approval was confirmed there."
+        }
+      ]
+    },
+    {
+      "id": "JO-AI-STRATEGY-2023-2027",
+      "jurisdiction": "Jordan",
+      "regulator": "Ministry of Digital Economy and Entrepreneurship / Council of Ministers",
+      "title": "Jordan Artificial Intelligence Strategy and Implementation Plan 2023–2027",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "topic": "AI strategy · capacity building · sectoral adoption",
+      "sourceUrl": "https://www.modee.gov.jo/ebv4.0/root_storage/en/eb_homepage/40435648.pdf",
+      "summary": "Jordan's Council of Ministers approved the national AI strategy and implementation plan for 2023–2027. It sets 68 initiatives across priority sectors. This is an adopted policy strategy, not a statute.",
+      "history": [
+        {
+          "date": "2023-03-21",
+          "change": "Ministry described the strategy as recently approved by the Council of Ministers and began coordinating implementation across government institutions."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record checked against the official Ministry strategy and policy listings."
+        }
+      ]
+    },
+    {
+      "id": "QA-NATIONAL-AI-STRATEGY-2019",
+      "jurisdiction": "Qatar",
+      "regulator": "Ministry of Communications and Information Technology / National AI Committee",
+      "title": "National Artificial Intelligence Strategy for Qatar",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "topic": "AI strategy · education · data · employment · business · research · ethics",
+      "sourceUrl": "https://www.mcit.gov.qa/-/media/mcit/documents/strategies/national_artificial_intelligence_strategy_for_qatar_2019_en.pdf",
+      "summary": "Qatar's official National AI Strategy sets six pillars: education, data access, employment, business, research, and ethics. It is a national strategy, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2019-01-01",
+          "change": "National AI Strategy issued in 2019; exact publication day is not stated in the official document."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the Ministry's official English strategy document."
+        }
+      ]
+    },
+    {
+      "id": "SA-NATIONAL-AI-RMF-2026",
+      "jurisdiction": "Saudi Arabia",
+      "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+      "title": "National AI Risk Management Framework",
+      "instrumentType": "National framework · guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-01-04",
+      "topic": "AI risk identification · assessment · treatment · monitoring",
+      "sourceUrl": "https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/Pages/SDAIAPublications.aspx",
+      "summary": "SDAIA's official publications page lists the National AI Risk Management Framework, dated January 4, 2026. It gives government and private entities a methodology for identifying, assessing, treating, and monitoring AI risks; recorded as guidance, not a statute.",
+      "history": [
+        {
+          "date": "2026-01-04",
+          "change": "Framework listed in SDAIA's official publications catalog."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the SDAIA publications page."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -3682,8 +3814,8 @@
     },
     {
       "country": "Bangladesh",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Barbados",
@@ -4042,8 +4174,8 @@
     },
     {
       "country": "Jordan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Kazakhstan",
@@ -4267,8 +4399,8 @@
     },
     {
       "country": "Pakistan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Palau",
@@ -4317,8 +4449,8 @@
     },
     {
       "country": "Qatar",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Romania",
