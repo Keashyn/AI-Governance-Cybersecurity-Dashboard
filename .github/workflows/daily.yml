@@ -22,6 +22,8 @@ jobs:
           python-version: '3.x'
       - name: Fetch official Federal Register records
         run: python ingest.py
+      - name: Fetch cybersecurity laws and regulations
+        run: python cybersecurity_ingest.py
       - name: Commit data and history
         run: |
           git config user.name github-actions[bot]
