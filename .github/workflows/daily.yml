@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
       - name: Fetch official Federal Register records
         run: python ingest.py
-      - name: Fetch cybersecurity laws and regulations
+      - name: Fetch cybersecurity laws and standards
         run: python cybersecurity_ingest.py
       - name: Commit data and history
         run: |

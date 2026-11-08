@@ -36,6 +36,11 @@ EFFECTIVE_RE = re.compile(
     r"effective from|effective date|applies? from|application begins)",
     re.I,
 )
+STANDARD_STATUS = {
+    "pubblicato": "Published standard",
+    "ritirato": "Withdrawn standard",
+    "in_sviluppo": "In development",
+}
 
 
 def fetch(path):
@@ -101,10 +106,47 @@ def make_item(doc, jurisdiction, catalog_date, today):
     }
 
 
+def make_standard(record, today):
+    summary = record.get("summary", {})
+    kind = record.get("kind", "standard").replace("_", " ").title()
+    sectors = record.get("sectors", [])
+    status = STANDARD_STATUS.get(record.get("status"), "Published standard")
+    return {
+        "id": "CYBERSTANDARD-" + re.sub(r"[^A-Za-z0-9_-]", "-", record["slug"]).upper(),
+        "jurisdiction": "Cross-country standards reference",
+        "showInCountryFilters": True,
+        "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+        "regulator": ", ".join(record.get("bodies", [])) or "Standards body",
+        "title": norm(record.get("title") or record.get("reference") or record["slug"]),
+        "officialTitle": norm(record.get("reference")),
+        "instrumentType": kind,
+        "status": status,
+        "publicationDate": record.get("date_published") or "",
+        "adoptedDate": "",
+        "effectiveDate": "",
+        "topic": "Cybersecurity standard · " + " · ".join(s.replace("-", " ") for s in sectors),
+        "sourceUrl": record.get("catalog_url"),
+        "catalogEntryUrl": record.get("url"),
+        "summary": norm(summary.get("en") if isinstance(summary, dict) else summary)[:1800],
+        "access": record.get("access"),
+        "standardEdition": record.get("edition") or "",
+        "history": [{
+            "date": today,
+            "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference.",
+        }],
+        "catalogSource": "Cybersecurity Database standards",
+        "catalogRecordId": record.get("id"),
+        "catalogSlug": record.get("slug"),
+        "catalogUpdatedAt": record.get("updated_at", today),
+    }
+
+
 def materially_update(old, fresh, today):
     fields = (
         "jurisdiction", "regulator", "title", "officialTitle", "instrumentType",
         "status", "adoptedDate", "effectiveDate", "topic", "sourceUrl", "summary",
+        "publicationDate", "catalogEntryUrl", "access", "standardEdition",
+        "showInCountryFilters", "scopeNote",
     )
     changed = [key for key in fields if old.get(key, "") != fresh.get(key, "")]
     if not changed:
@@ -128,6 +170,7 @@ def main():
     try:
         documents_payload = fetch("documents.json")
         jurisdiction_payload = fetch("jurisdictions.json")
+        standards_payload = fetch("standards.json")
     except Exception as exc:
         print(f"Cybersecurity catalog unavailable; preserving existing records: {exc}")
         return
@@ -184,6 +227,26 @@ def main():
         title_index.setdefault(base, []).append(key)
         added += 1
 
+    standards_added = 0
+    standards_updated = 0
+    standards_skipped = 0
+    for record in standards_payload.get("standards", []):
+        if not record.get("catalog_url"):
+            standards_skipped += 1
+            continue
+        fresh = make_standard(record, today)
+        old = by_id.get(fresh["id"])
+        if old:
+            if materially_update(old, fresh, today):
+                standards_updated += 1
+            continue
+        if norm(fresh["sourceUrl"]) in source_urls:
+            standards_skipped += 1
+            continue
+        by_id[fresh["id"]] = fresh
+        source_urls.add(norm(fresh["sourceUrl"]))
+        standards_added += 1
+
     data["items"] = sorted(
         by_id.values(),
         key=lambda x: (x.get("publicationDate") or x.get("adoptedDate") or "", x["id"]),
@@ -197,12 +260,16 @@ def main():
         "attribution": documents_payload.get("attribution", "Cybersecurity Database – cybersecuritydatabase.org"),
         "catalogUpdatedAt": documents_payload.get("updated_at", today),
         "lastChecked": today,
+        "standardsApiUrl": API + "standards.json",
+        "standardsCount": standards_payload.get("count", len(standards_payload.get("standards", []))),
+        "standardsUpdatedAt": standards_payload.get("updated_at", documents_payload.get("updated_at", today)),
     }
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
     print(
         f"Cybersecurity catalog {documents_payload.get('updated_at', 'unknown')}: "
         f"added {added}, updated {updated}, skipped {skipped_duplicate} duplicates, "
-        f"skipped {skipped_scope} out-of-scope records; {len(data['items'])} total dashboard records."
+        f"skipped {skipped_scope} out-of-scope records; standards added {standards_added}, "
+        f"updated {standards_updated}, skipped {standards_skipped}; {len(data['items'])} total dashboard records."
     )
 
 
