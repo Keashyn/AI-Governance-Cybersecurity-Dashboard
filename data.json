@@ -2624,6 +2624,28 @@
       ]
     },
     {
+      "id": "PK-ISLAMABAD-AI-DECLARATION-2026",
+      "jurisdiction": "Pakistan",
+      "regulator": "Pakistan Digital Authority / Ministry of Information Technology and Telecommunication",
+      "title": "Islamabad AI Declaration on Sovereign, Responsible and Capability-Driven Artificial Intelligence",
+      "instrumentType": "National AI declaration",
+      "status": "Adopted policy",
+      "publicationDate": "2026-02-09",
+      "topic": "AI governance · sovereignty · accountability · public value",
+      "sourceUrl": "https://www.pda.gov.pk/press-details.php?id=islamabad-ai-declaration",
+      "summary": "Pakistan's Digital Authority reports that the government formally adopted the Islamabad AI Declaration on 9 February 2026. It sets out nine principles for sovereign and responsible AI and is intended to guide future implementation. The declaration is a policy statement, not a standalone statute.",
+      "history": [
+        {
+          "date": "2026-02-09",
+          "change": "Pakistan Digital Authority reported formal adoption of the Islamabad AI Declaration."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Adoption date and policy status checked against the Pakistan Digital Authority release."
+        }
+      ]
+    },
+    {
       "id": "SG-MGF-AGENTIC-2026",
       "jurisdiction": "Singapore",
       "regulator": "Infocomm Media Development Authority / Ministry of Digital Development and Information",
@@ -3425,6 +3447,28 @@
         {
           "date": "2026-11-08",
           "change": "Voluntary status and summary checked against Malaysia's official government portal."
+        }
+      ]
+    },
+    {
+      "id": "PK-SENATE-AI-BILL-2024-WITHDRAWN",
+      "jurisdiction": "Pakistan · Federal",
+      "regulator": "Senate of Pakistan",
+      "title": "The Regulation of Artificial Intelligence Bill, 2024",
+      "instrumentType": "Private member’s bill",
+      "status": "Withdrawn",
+      "publicationDate": "2024-09-09",
+      "topic": "AI regulation · governance · proposed legislation",
+      "sourceUrl": "https://www.senate.gov.pk/en/billsummary.php?bid=1544",
+      "summary": "A private member’s AI regulation bill was introduced in the Senate and referred to committee in September 2024. The Senate’s official bill summary says it was neither passed nor rejected by the committee and consequently stands withdrawn from the committee. It did not become law.",
+      "history": [
+        {
+          "date": "2024-09-09",
+          "change": "Introduced in the Senate and referred to committee, according to the official bill summary."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Senate record checked; it states the Bill stands withdrawn from the committee and was not passed."
         }
       ]
     },
@@ -4507,50 +4551,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "PK-ISLAMABAD-AI-DECLARATION-2026",
-      "jurisdiction": "Pakistan",
-      "regulator": "Pakistan Digital Authority / Ministry of Information Technology and Telecommunication",
-      "title": "Islamabad AI Declaration on Sovereign, Responsible and Capability-Driven Artificial Intelligence",
-      "instrumentType": "National AI declaration",
-      "status": "Adopted policy",
-      "publicationDate": "2026-02-09",
-      "topic": "AI governance · sovereignty · accountability · public value",
-      "sourceUrl": "https://www.pda.gov.pk/press-details.php?id=islamabad-ai-declaration",
-      "summary": "Pakistan's Digital Authority reports that the government formally adopted the Islamabad AI Declaration on 9 February 2026. It sets out nine principles for sovereign and responsible AI and is intended to guide future implementation. The declaration is a policy statement, not a standalone statute.",
-      "history": [
-        {
-          "date": "2026-02-09",
-          "change": "Pakistan Digital Authority reported formal adoption of the Islamabad AI Declaration."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Adoption date and policy status checked against the Pakistan Digital Authority release."
-        }
-      ]
-    },
-    {
-      "id": "PK-SENATE-AI-BILL-2024-WITHDRAWN",
-      "jurisdiction": "Pakistan · Federal",
-      "regulator": "Senate of Pakistan",
-      "title": "The Regulation of Artificial Intelligence Bill, 2024",
-      "instrumentType": "Private member’s bill",
-      "status": "Withdrawn",
-      "publicationDate": "2024-09-09",
-      "topic": "AI regulation · governance · proposed legislation",
-      "sourceUrl": "https://www.senate.gov.pk/en/billsummary.php?bid=1544",
-      "summary": "A private member’s AI regulation bill was introduced in the Senate and referred to committee in September 2024. The Senate’s official bill summary says it was neither passed nor rejected by the committee and consequently stands withdrawn from the committee. It did not become law.",
-      "history": [
-        {
-          "date": "2024-09-09",
-          "change": "Introduced in the Senate and referred to committee, according to the official bill summary."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Senate record checked; it states the Bill stands withdrawn from the committee and was not passed."
         }
       ]
     }
