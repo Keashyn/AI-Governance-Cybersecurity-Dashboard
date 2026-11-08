@@ -725,6 +725,16 @@
       "name": "Djibouti · Presidency Council of Ministers, 1 September 2026",
       "url": "https://presidence.dj/conseil-des-ministres/2026-09-01",
       "status": "Official notice describes preparation of future AI regulatory and ethical framework"
+    },
+    {
+      "name": "Gabon · Council of Ministers communiqué, 26 February 2026",
+      "url": "https://presidence.ga/2026/02/26/communique-final-du-conseil-des-ministres-du-26-fevrier-2026/",
+      "status": "Official Presidency notice of proposed ordinance covering AI-generated/amplified platform content"
+    },
+    {
+      "name": "Eswatini · Ministry of ICT Annual Report 2025",
+      "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+      "status": "Official report to Parliament; describes planned AI and Data Analysis Unit"
     }
   ],
   "items": [
@@ -6284,6 +6294,44 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "GA-SOCIAL-MEDIA-AI-CONTENT-ORDER-DRAFT-2026",
+      "jurisdiction": "Gabon · National",
+      "regulator": "Council of Ministers; High Authority for Communication",
+      "title": "Draft ordinance regulating social media use and AI-generated or AI-amplified content",
+      "instrumentType": "Draft ordinance",
+      "status": "Proposed",
+      "publicationDate": "2026-02-26",
+      "effectiveDate": "",
+      "topic": "AI · platform content · communications regulation",
+      "sourceUrl": "https://presidence.ga/2026/02/26/communique-final-du-conseil-des-ministres-du-26-fevrier-2026/",
+      "summary": "The Gabonese Council of Ministers examined a draft ordinance regulating social-media use. The government says it would establish public and judicial response mechanisms for online communications posing a serious and immediate risk and create a regulatory regime for content generated or amplified by AI systems on digital platforms. It remains a draft in the cited communiqué, not enacted law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Presidency communiqué; instrument expressly described as a draft ordinance."
+        }
+      ]
+    },
+    {
+      "id": "SZ-AI-DATA-ANALYSIS-UNIT-2025",
+      "jurisdiction": "Eswatini · National",
+      "regulator": "Ministry of Information, Communications and Technology; Royal Science and Technology Park",
+      "title": "Artificial Intelligence and Data Analysis Unit at the Royal Science and Technology Park",
+      "instrumentType": "Government program",
+      "status": "Proposed",
+      "publicationDate": "2025-01-01",
+      "effectiveDate": "",
+      "topic": "AI · data analytics · public-sector capacity",
+      "sourceUrl": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+      "summary": "The Ministry’s annual report says an AI and Data Analysis Unit is being established at the Royal Science and Technology Park to implement AI-driven data management, processing and analysis solutions. The report describes an institutional initiative, not an AI regulation or adopted national AI policy.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official ICT annual report to document an identified government AI initiative; not classified as legislation."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -6569,8 +6617,8 @@
     },
     {
       "country": "Eswatini",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Ministry annual report describes an AI and Data Analysis Unit at the Royal Science and Technology Park; not regulation."
     },
     {
       "country": "Ethiopia",
@@ -6594,8 +6642,8 @@
     },
     {
       "country": "Gabon",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Council of Ministers communiqué describes a draft ordinance regulating AI-generated or amplified social-media content."
     },
     {
       "country": "Gambia",
