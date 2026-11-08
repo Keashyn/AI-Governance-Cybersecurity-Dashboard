@@ -2034,6 +2034,28 @@
       ]
     },
     {
+      "id": "MX-DRAFT-AI-LAW-2026-06",
+      "jurisdiction": "Mexico · Federal",
+      "regulator": "Chamber of Deputies of the Congress of the Union",
+      "title": "Initiative for a General Law for the Regulation and Ethical Use of Artificial Intelligence in the United Mexican States",
+      "instrumentType": "Draft bill / legislative initiative",
+      "status": "Proposed",
+      "publicationDate": "2026-06-17",
+      "topic": "AI regulation · ethics · risk management · oversight",
+      "sourceUrl": "https://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?Asunto=5104326&SID=&Seguimiento=5104882",
+      "summary": "Mexico’s official legislative information system lists an initiative introduced on 17 June 2026 proposing a general law on AI regulation and ethical use. The proposal includes risk-based controls and oversight. It is not presented as enacted law; this record captures the official initiative listing, not subsequent legislative passage.",
+      "history": [
+        {
+          "date": "2026-06-17",
+          "change": "Official legislative system lists the initiative as introduced on this date."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Official legislative tracking entry checked; no enactment is asserted."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-11854",
       "jurisdiction": "United States · Federal",
       "regulator": "Commodity Futures Trading Commission",
@@ -2661,6 +2683,28 @@
       ]
     },
     {
+      "id": "MX-ETHICAL-AI-DECLARATION-2026",
+      "jurisdiction": "Mexico",
+      "regulator": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti) and Agencia de Transformación Digital y Telecomunicaciones (ATDT)",
+      "title": "Declaration of Ethics and Good Practices for the Use and Development of AI in Mexico (Chapultepec Principles)",
+      "instrumentType": "Government ethics declaration",
+      "status": "Guidance",
+      "publicationDate": "2026-01-29",
+      "topic": "AI ethics · human rights · responsible innovation",
+      "sourceUrl": "https://www.gob.mx/atdt/comunicacion/declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-ia-en-mexico-secihti-y-atdt",
+      "summary": "Mexico’s science and digital transformation authorities presented a declaration of ethics and good practices as a roadmap for public policy on AI development and use. It promotes responsible innovation, inclusion, social well-being, and technological sovereignty. It is guidance, not a binding AI law.",
+      "history": [
+        {
+          "date": "2026-01-29",
+          "change": "Secihti and ATDT presented the declaration, according to official government communications."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Scope and non-statutory status checked against the official ATDT release."
+        }
+      ]
+    },
+    {
       "id": "SG-MGF-AGENTIC-2026",
       "jurisdiction": "Singapore",
       "regulator": "Infocomm Media Development Authority / Ministry of Digital Development and Information",
@@ -2920,6 +2964,28 @@
         {
           "date": "2026-11-08",
           "change": "Added from the official National Centre for AI and Robotics strategy document."
+        }
+      ]
+    },
+    {
+      "id": "MX-DRAFT-GENERAL-AI-LAW-2025-09",
+      "jurisdiction": "Mexico · Federal",
+      "regulator": "Chamber of Deputies of the Congress of the Union",
+      "title": "Initiative for a General Law for the Ethical and Technological Development of Artificial Intelligence",
+      "instrumentType": "Draft bill / legislative initiative",
+      "status": "Proposed",
+      "publicationDate": "2025-09-17",
+      "topic": "AI regulation · ethics · risk classification · oversight",
+      "sourceUrl": "https://gaceta.diputados.gob.mx/PDF/66/2025/sep/20250917-II-3-1.pdf",
+      "summary": "A deputy introduced a proposed general AI law in the Chamber of Deputies’ parliamentary gazette on 17 September 2025. The text would establish an AI regulator and rules for development and use. This is a legislative initiative, not enacted law; the source record establishes its introduction, not its current committee progress.",
+      "history": [
+        {
+          "date": "2025-09-17",
+          "change": "Legislative initiative published in the Chamber of Deputies Parliamentary Gazette."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Official legislative publication checked; item remains classified as a proposal because no enactment is established by this source."
         }
       ]
     },
@@ -4566,72 +4632,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "MX-ETHICAL-AI-DECLARATION-2026",
-      "jurisdiction": "Mexico",
-      "regulator": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti) and Agencia de Transformación Digital y Telecomunicaciones (ATDT)",
-      "title": "Declaration of Ethics and Good Practices for the Use and Development of AI in Mexico (Chapultepec Principles)",
-      "instrumentType": "Government ethics declaration",
-      "status": "Guidance",
-      "publicationDate": "2026-01-29",
-      "topic": "AI ethics · human rights · responsible innovation",
-      "sourceUrl": "https://www.gob.mx/atdt/comunicacion/declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-ia-en-mexico-secihti-y-atdt",
-      "summary": "Mexico’s science and digital transformation authorities presented a declaration of ethics and good practices as a roadmap for public policy on AI development and use. It promotes responsible innovation, inclusion, social well-being, and technological sovereignty. It is guidance, not a binding AI law.",
-      "history": [
-        {
-          "date": "2026-01-29",
-          "change": "Secihti and ATDT presented the declaration, according to official government communications."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Scope and non-statutory status checked against the official ATDT release."
-        }
-      ]
-    },
-    {
-      "id": "MX-DRAFT-GENERAL-AI-LAW-2025-09",
-      "jurisdiction": "Mexico · Federal",
-      "regulator": "Chamber of Deputies of the Congress of the Union",
-      "title": "Initiative for a General Law for the Ethical and Technological Development of Artificial Intelligence",
-      "instrumentType": "Draft bill / legislative initiative",
-      "status": "Proposed",
-      "publicationDate": "2025-09-17",
-      "topic": "AI regulation · ethics · risk classification · oversight",
-      "sourceUrl": "https://gaceta.diputados.gob.mx/PDF/66/2025/sep/20250917-II-3-1.pdf",
-      "summary": "A deputy introduced a proposed general AI law in the Chamber of Deputies’ parliamentary gazette on 17 September 2025. The text would establish an AI regulator and rules for development and use. This is a legislative initiative, not enacted law; the source record establishes its introduction, not its current committee progress.",
-      "history": [
-        {
-          "date": "2025-09-17",
-          "change": "Legislative initiative published in the Chamber of Deputies Parliamentary Gazette."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Official legislative publication checked; item remains classified as a proposal because no enactment is established by this source."
-        }
-      ]
-    },
-    {
-      "id": "MX-DRAFT-AI-LAW-2026-06",
-      "jurisdiction": "Mexico · Federal",
-      "regulator": "Chamber of Deputies of the Congress of the Union",
-      "title": "Initiative for a General Law for the Regulation and Ethical Use of Artificial Intelligence in the United Mexican States",
-      "instrumentType": "Draft bill / legislative initiative",
-      "status": "Proposed",
-      "publicationDate": "2026-06-17",
-      "topic": "AI regulation · ethics · risk management · oversight",
-      "sourceUrl": "https://sil.gobernacion.gob.mx/Librerias/pp_HProcesoLegislativo.php?Asunto=5104326&SID=&Seguimiento=5104882",
-      "summary": "Mexico’s official legislative information system lists an initiative introduced on 17 June 2026 proposing a general law on AI regulation and ethical use. The proposal includes risk-based controls and oversight. It is not presented as enacted law; this record captures the official initiative listing, not subsequent legislative passage.",
-      "history": [
-        {
-          "date": "2026-06-17",
-          "change": "Official legislative system lists the initiative as introduced on this date."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Official legislative tracking entry checked; no enactment is asserted."
         }
       ]
     }
