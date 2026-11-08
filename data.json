@@ -75,6 +75,31 @@
       "name": "Utah · Legislature",
       "url": "https://le.utah.gov/Session/2024/bills/static/SB0149.html",
       "status": "Official bill text and status for SB 149"
+    },
+    {
+      "name": "South Korea · National Law Information Center",
+      "url": "https://www.law.go.kr/",
+      "status": "Official statutory text and commencement dates"
+    },
+    {
+      "name": "Vietnam · Government Legal Documents Portal",
+      "url": "https://vanban.chinhphu.vn/",
+      "status": "Official laws, issuing authority, and effective dates"
+    },
+    {
+      "name": "Taiwan · Laws & Regulations Database",
+      "url": "https://law.moj.gov.tw/",
+      "status": "Official national laws database"
+    },
+    {
+      "name": "Kazakhstan · Adilet Legal Information System",
+      "url": "https://adilet.zan.kz/eng",
+      "status": "Official statutory text and commencement rules"
+    },
+    {
+      "name": "Singapore · IMDA / MDDI",
+      "url": "https://www.imda.gov.sg/",
+      "status": "Official AI governance frameworks and guidance"
     }
   ],
   "items": [
@@ -2247,6 +2272,1196 @@
           "change": "Enforcement began after implementation delay."
         }
       ]
+    },
+    {
+      "id": "KR-AI-BASIC-2025",
+      "jurisdiction": "South Korea",
+      "regulator": "Ministry of Science and ICT / Ministry of Government Legislation",
+      "title": "Framework Act on the Development of Artificial Intelligence and the Creation of a Foundation for Trust",
+      "instrumentType": "Act",
+      "status": "In force",
+      "publicationDate": "2025-01-21",
+      "effectiveDate": "2026-01-22",
+      "topic": "AI framework · high-impact AI · transparency",
+      "sourceUrl": "https://www.law.go.kr/lsInfoP.do?efYd=20260122&lsId=014820&lsiSeq=268543&urlMode=engLsInfoR&viewCls=engLsInfoR",
+      "summary": "South Korea's national AI framework law establishes governance, trust, and obligations for AI systems, including high-impact AI. Official English statutory text and effective date are provided by the national law information center.",
+      "history": [
+        {
+          "date": "2025-01-21",
+          "change": "Promulgated as Act No. 20676; official English version records the one-year commencement period."
+        },
+        {
+          "date": "2026-01-22",
+          "change": "Entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official English law database."
+        }
+      ]
+    },
+    {
+      "id": "VN-AI-2025-134",
+      "jurisdiction": "Vietnam",
+      "regulator": "National Assembly of Vietnam",
+      "title": "Law on Artificial Intelligence (Law No. 134/2025/QH15)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "2025-12-10",
+      "effectiveDate": "2026-03-01",
+      "topic": "AI framework · risk governance · accountability",
+      "sourceUrl": "https://vanban.chinhphu.vn/?classid=1&docid=216334&pageid=27160&typegr=",
+      "summary": "Vietnam's national AI law, adopted by the National Assembly. The Government's official legal document portal lists the instrument number, issuing authority, promulgation date, and effective date.",
+      "history": [
+        {
+          "date": "2025-12-10",
+          "change": "Law No. 134/2025/QH15 promulgated."
+        },
+        {
+          "date": "2026-03-01",
+          "change": "Entered into force according to the Government legal-document portal."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official Government legal-document portal."
+        }
+      ]
+    },
+    {
+      "id": "TW-AI-BASIC-2026",
+      "jurisdiction": "Taiwan",
+      "regulator": "National Science and Technology Council",
+      "title": "Artificial Intelligence Basic Act",
+      "instrumentType": "Act",
+      "status": "In force",
+      "publicationDate": "2026-01-14",
+      "effectiveDate": "2026-01-14",
+      "topic": "AI framework · principles · public-sector governance",
+      "sourceUrl": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093",
+      "summary": "Taiwan's Artificial Intelligence Basic Act sets national principles and governance duties for AI development and use. The official national laws database states that the Act takes effect on promulgation.",
+      "history": [
+        {
+          "date": "2026-01-14",
+          "change": "Promulgated; Article 20 provides that the Act takes effect from promulgation."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official national laws database."
+        }
+      ]
+    },
+    {
+      "id": "KZ-AI-2025-230",
+      "jurisdiction": "Kazakhstan",
+      "regulator": "Ministry of Artificial Intelligence and Digital Development / Government of Kazakhstan",
+      "title": "Law of the Republic of Kazakhstan On Artificial Intelligence (No. 230-VIII)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "2025-11-17",
+      "effectiveDate": "2026-01-18",
+      "topic": "AI framework · risk management · synthetic content",
+      "sourceUrl": "https://adilet.zan.kz/eng/docs/Z2500000230",
+      "summary": "Kazakhstan's national AI law establishes requirements for AI systems, including risk management, transparency, and restrictions on specified uses. The official Adilet legal information system provides the statutory text and commencement rule.",
+      "history": [
+        {
+          "date": "2025-11-17",
+          "change": "Law No. 230-VIII dated November 17, 2025."
+        },
+        {
+          "date": "2026-01-18",
+          "change": "Entered into force 60 calendar days after first official publication."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official Adilet legal information system."
+        }
+      ]
+    },
+    {
+      "id": "SG-MGF-AGENTIC-2026",
+      "jurisdiction": "Singapore",
+      "regulator": "Infocomm Media Development Authority / Ministry of Digital Development and Information",
+      "title": "Model AI Governance Framework for Agentic AI",
+      "instrumentType": "Framework",
+      "status": "Guidance",
+      "publicationDate": "2026-01-22",
+      "effectiveDate": "—",
+      "topic": "Agentic AI · voluntary governance guidance",
+      "sourceUrl": "https://www.mddi.gov.sg/newsroom/singapore-launches-new-model-ai-governance-framework-for-agentic-ai--/",
+      "summary": "Official, non-binding guidance for organisations deploying agentic AI, addressing responsible deployment and risk mitigation. It is recorded as guidance, not legislation.",
+      "history": [
+        {
+          "date": "2026-01-22",
+          "change": "Framework launched by IMDA and announced by the Ministry of Digital Development and Information."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official ministry announcement."
+        }
+      ]
+    },
+    {
+      "id": "CN-ALG-RECOMMEND-2022",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security; State Administration for Market Regulation",
+      "title": "Provisions on the Administration of Algorithmic Recommendations in Internet Information Services (Order No. 9)",
+      "instrumentType": "Departmental rules",
+      "status": "In force",
+      "publicationDate": "2021-12-31",
+      "effectiveDate": "2022-03-01",
+      "topic": "Algorithmic recommendations · platform governance · user rights",
+      "sourceUrl": "https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm",
+      "summary": "Binding departmental provisions regulating algorithmic recommendation services provided within China, including recommendation, ranking, search, and scheduling systems. Official issuing-authority text states the effective date.",
+      "history": [
+        {
+          "date": "2021-12-31",
+          "change": "Jointly issued as Order No. 9."
+        },
+        {
+          "date": "2022-03-01",
+          "change": "Entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the CAC official text."
+        }
+      ]
+    },
+    {
+      "id": "CN-DEEP-SYNTH-2023",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security",
+      "title": "Provisions on the Administration of Deep Synthesis in Internet Information Services (Order No. 12)",
+      "instrumentType": "Departmental rules",
+      "status": "In force",
+      "publicationDate": "2022-11-25",
+      "effectiveDate": "2023-01-10",
+      "topic": "Deep synthesis · synthetic media · service-provider duties",
+      "sourceUrl": "https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm",
+      "summary": "Binding provisions governing internet information services that use deep-synthesis technologies, including service-provider responsibilities and content controls. Official text identifies the issuing authorities and effective date.",
+      "history": [
+        {
+          "date": "2022-11-25",
+          "change": "Jointly issued as Order No. 12."
+        },
+        {
+          "date": "2023-01-10",
+          "change": "Entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the CAC official text."
+        }
+      ]
+    },
+    {
+      "id": "CN-AI-LABEL-2025",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security; National Radio and Television Administration",
+      "title": "Measures for Labeling AI-Generated and AI-Synthesized Content",
+      "instrumentType": "Departmental measures",
+      "status": "In force",
+      "publicationDate": "2025-03-14",
+      "effectiveDate": "2025-09-01",
+      "topic": "Generative AI · content labeling · transparency",
+      "sourceUrl": "https://www.cac.gov.cn/2025-03/14/c_1743654685899683.htm",
+      "summary": "Binding measures requiring explicit and/or implicit labeling of AI-generated and AI-synthesized content, paired with a mandatory national standard. The CAC announcement confirms publication and the September 1, 2025 commencement date.",
+      "history": [
+        {
+          "date": "2025-03-14",
+          "change": "Issued jointly by four authorities; mandatory accompanying national standard also published."
+        },
+        {
+          "date": "2025-09-01",
+          "change": "Measures and accompanying standard entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the CAC official announcement."
+        }
+      ]
+    }
+  ],
+  "countryCoverage": [
+    {
+      "country": "Afghanistan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Albania",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Algeria",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Andorra",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Angola",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Argentina",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Armenia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Australia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Austria",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Azerbaijan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bahamas",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bahrain",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bangladesh",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Barbados",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Belarus",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Belgium",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Belize",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Benin",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bhutan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bolivia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Botswana",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Brazil",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Brunei",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Bulgaria",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Burkina Faso",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Burundi",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Cabo Verde",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Cambodia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Cameroon",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Canada",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Central African Republic",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Chad",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Chile",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "China",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Colombia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Comoros",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Congo (Republic of the)",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Costa Rica",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Côte d’Ivoire",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Croatia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Cuba",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Cyprus",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Czechia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Denmark",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Djibouti",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Dominica",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Dominican Republic",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Ecuador",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Egypt",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "El Salvador",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Equatorial Guinea",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Eritrea",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Estonia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Eswatini",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Ethiopia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Fiji",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Finland",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "France",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Gabon",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Gambia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Georgia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Germany",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Ghana",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Greece",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Grenada",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Guatemala",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Guinea",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Guinea-Bissau",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Guyana",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Haiti",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Honduras",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Hungary",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Iceland",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "India",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Indonesia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Iran",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Iraq",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Ireland",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Israel",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Italy",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Jamaica",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Japan",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Jordan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Kazakhstan",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Kenya",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Kiribati",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Kuwait",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Kyrgyzstan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Laos",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Latvia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Lebanon",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Lesotho",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Liberia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Libya",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Liechtenstein",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Lithuania",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Luxembourg",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Madagascar",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Malawi",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Malaysia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Maldives",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mali",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Malta",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Marshall Islands",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mauritania",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mauritius",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mexico",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Micronesia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Moldova",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Monaco",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mongolia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Montenegro",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Morocco",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Mozambique",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Myanmar",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Namibia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Nauru",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Nepal",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Netherlands",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "New Zealand",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Nicaragua",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Niger",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Nigeria",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "North Korea",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "North Macedonia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Norway",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Oman",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Pakistan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Palau",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Palestine",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Panama",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Papua New Guinea",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Paraguay",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Peru",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Philippines",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Poland",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Portugal",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Qatar",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Romania",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Russia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Rwanda",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Saint Lucia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Samoa",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "San Marino",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Saudi Arabia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Senegal",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Serbia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Seychelles",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Sierra Leone",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Singapore",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Slovakia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Slovenia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Solomon Islands",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Somalia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "South Africa",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "South Korea",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "South Sudan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Spain",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Sri Lanka",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Sudan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Suriname",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Sweden",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Switzerland",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Syria",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Taiwan",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Tajikistan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Tanzania",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Thailand",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Timor-Leste",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Togo",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Tonga",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Tunisia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Türkiye",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Turkmenistan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Tuvalu",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Uganda",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Ukraine",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "United Arab Emirates",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "United Kingdom",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "United States",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Uruguay",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Uzbekistan",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Vanuatu",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Vatican City",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Venezuela",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Vietnam",
+      "status": "Record present",
+      "note": "One or more verified register records are available."
+    },
+    {
+      "country": "Yemen",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Zambia",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+    },
+    {
+      "country": "Zimbabwe",
+      "status": "Not yet reviewed",
+      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
     }
   ]
 }
