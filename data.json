@@ -415,6 +415,26 @@
       "name": "Ecuador · National Assembly archived AI regulation bill notice",
       "url": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
       "status": "Official legislative reporting"
+    },
+    {
+      "name": "Tanzania · Ministry draft National AI Strategy Framework v0.6",
+      "url": "https://www.mawasiliano.go.tz/uploads/documents/sw-1753973562-Final%20Tanzania%20NAI%20Strategic%20Framework%20rev2%20wTC%20-%20AN%20Commented%20-%2031%20July%202025%20%284%29.pdf",
+      "status": "Official draft document"
+    },
+    {
+      "name": "Uganda · Ministry-hosted Ethical AI framework report",
+      "url": "https://ict.go.ug/site/documents/uganda-report-developing-a-framework-for-ethical-ai.pdf",
+      "status": "Official ministry resource"
+    },
+    {
+      "name": "Ireland · National AI Strategy Refresh 2024",
+      "url": "https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/publications/national-ai-strategy-refresh-2024/",
+      "status": "Official government publication"
+    },
+    {
+      "name": "Ireland · Public service trustworthy AI guidance",
+      "url": "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/press-releases/government-commits-to-using-trustworthy-ai-in-the-public-service/",
+      "status": "Official government release"
     }
   ],
   "items": [
@@ -4827,6 +4847,94 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "TZ-DRAFT-NAI-STRATEGY-2025",
+      "jurisdiction": "Tanzania",
+      "regulator": "Ministry of Communication and Information Technology",
+      "title": "Tanzania National Artificial Intelligence Strategy Framework (Draft v0.6)",
+      "instrumentType": "Draft national strategy framework",
+      "status": "Proposed",
+      "publicationDate": "2025-07-31",
+      "topic": "AI strategy · responsible AI · governance",
+      "sourceUrl": "https://www.mawasiliano.go.tz/uploads/documents/sw-1753973562-Final%20Tanzania%20NAI%20Strategic%20Framework%20rev2%20wTC%20-%20AN%20Commented%20-%2031%20July%202025%20%284%29.pdf",
+      "summary": "Tanzania’s Ministry published a draft national AI strategy framework (version 0.6, July 2025). It is a draft policy document, not an adopted strategy or binding law. This record does not establish whether a later version has since been approved.",
+      "history": [
+        {
+          "date": "2025-07-31",
+          "change": "Official Ministry PDF identifies itself as Draft Version 0.6, July 2025."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Draft status checked against the published official version; no later adoption instrument is represented here."
+        }
+      ]
+    },
+    {
+      "id": "UG-ETHICAL-AI-FRAMEWORK-ROADMAP-2022",
+      "jurisdiction": "Uganda",
+      "regulator": "Ministry of ICT and National Guidance",
+      "title": "Developing a Framework for Ethical AI: Roadmap Options for Uganda",
+      "instrumentType": "Policy report and framework options",
+      "status": "Guidance",
+      "publicationDate": "2022-06-01",
+      "topic": "AI ethics · policy pathways · human rights · governance",
+      "sourceUrl": "https://ict.go.ug/site/documents/uganda-report-developing-a-framework-for-ethical-ai.pdf",
+      "summary": "This Ministry-hosted report sets out ethical principles and three possible approaches for future AI governance in Uganda. It describes options and recommendations, not an adopted regulation or final national AI strategy.",
+      "history": [
+        {
+          "date": "2022-06-01",
+          "change": "The report identifies its publication as June 2022 and presents roadmap options, not a binding instrument."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Document and non-binding status checked against the Ministry’s official resource listing and report."
+        }
+      ]
+    },
+    {
+      "id": "IE-NATIONAL-AI-STRATEGY-REFRESH-2024",
+      "jurisdiction": "Ireland",
+      "regulator": "Department of Enterprise, Tourism and Employment",
+      "title": "AI – Here for Good: National AI Strategy Refresh 2024",
+      "instrumentType": "National strategy refresh",
+      "status": "Adopted policy",
+      "publicationDate": "2024-11-06",
+      "topic": "AI strategy · EU AI Act implementation · innovation · public services",
+      "sourceUrl": "https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/publications/national-ai-strategy-refresh-2024/",
+      "summary": "Ireland refreshed its national AI strategy in November 2024. The policy sets actions for trustworthy AI, implementation of the EU AI Act, SME adoption, public services, research and an AI regulatory sandbox. It is policy, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2024-11-06",
+          "change": "The Department published the National AI Strategy Refresh 2024."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Strategy content and adoption status checked against the current official publication page."
+        }
+      ]
+    },
+    {
+      "id": "IE-TRUSTWORTHY-AI-PUBLIC-SERVICE-2024",
+      "jurisdiction": "Ireland",
+      "regulator": "Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",
+      "title": "Government Guidance on the Use of Trustworthy AI in the Public Service",
+      "instrumentType": "Public service guidance",
+      "status": "Guidance",
+      "publicationDate": "2024-01-09",
+      "topic": "AI governance · public sector · ethics · human oversight",
+      "sourceUrl": "https://www.gov.ie/en/department-of-public-expenditure-infrastructure-public-service-reform-and-digitalisation/press-releases/government-commits-to-using-trustworthy-ai-in-the-public-service/",
+      "summary": "Ireland’s Government approved guidance requiring public-service AI tools to follow seven ethical AI requirements, including human agency and oversight. The guidance applies to public-service use and complements legislation; it is not a standalone statute.",
+      "history": [
+        {
+          "date": "2024-01-09",
+          "change": "Government approved public-service AI guidance, according to the official release."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Approval date and guidance status checked against the government release."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5692,8 +5800,8 @@
     },
     {
       "country": "Tanzania",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "An official draft national AI strategy framework is recorded; adoption of a later version is not confirmed here."
     },
     {
       "country": "Thailand",
@@ -5742,8 +5850,8 @@
     },
     {
       "country": "Uganda",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "An official non-binding ethical AI framework report is recorded; this does not establish the status of all national law or policy."
     },
     {
       "country": "Ukraine",
