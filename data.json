@@ -310,6 +310,16 @@
       "name": "Sierra Leone · Ministry of Communication, Technology and Innovation",
       "url": "https://mocti.gov.sl/the-ministry-of-communication-technology-and-innovation-mocti-in-collaboration-with-the-world-bank-group-is-developing-sierra-leones-first-ever-national-ai-strategy/",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Zambia · Ministry of Technology and Science",
+      "url": "https://www.mots.gov.zm/?p=4492",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Namibia · Ministry of Information and Communication Technology",
+      "url": "https://mwt.gov.na/documents/869282/6500577/NDS4%2B040825.pdf/aeb1c2a6-63a9-f04e-7f78-3e15549eefcf?t=1754320341496",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -4302,6 +4312,42 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "ZM-NAIS-2024-2026",
+      "jurisdiction": "Zambia",
+      "regulator": "Ministry of Technology and Science",
+      "title": "National Artificial Intelligence Strategy 2024–2026",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2024-11-21",
+      "topic": "AI governance · national strategy · development",
+      "sourceUrl": "https://www.mots.gov.zm/?p=4492",
+      "summary": "Zambia’s strategy sets a national plan to use AI for economic growth and public services, with priorities including skills, infrastructure and sector adoption. The Ministry describes it as an adopted national framework. It is a strategy, not a comprehensive AI statute; Parliament’s 2025 record separately called for a policy and legal framework for AI use.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry launch notice and current official references to the adopted strategy."
+        }
+      ]
+    },
+    {
+      "id": "NA-NATIONAL-DIGITAL-STRATEGY-2025-2028",
+      "jurisdiction": "Namibia",
+      "regulator": "Ministry of Information and Communication Technology · Cabinet of Namibia",
+      "title": "National Digital Strategy 2025–2028 · AI governance and regulatory framework actions",
+      "instrumentType": "National digital strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-08-05",
+      "topic": "AI policy · digital strategy · future regulatory framework",
+      "sourceUrl": "https://mwt.gov.na/documents/869282/6500577/NDS4%2B040825.pdf/aeb1c2a6-63a9-f04e-7f78-3e15549eefcf?t=1754320341496",
+      "summary": "Namibia’s Cabinet-approved digital strategy identifies a national AI strategy and legislative framework as actions for responsible AI development and deployment, with principles focused on rights, privacy and safety. The strategy sets these as future work; it is not itself an AI-specific law and does not mean those future instruments are already in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official National Digital Strategy and its AI-specific action section."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4897,8 +4943,8 @@
     },
     {
       "country": "Namibia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Cabinet-approved digital strategy with specific future AI strategy and legislative framework actions recorded; those future instruments are not represented as enacted."
     },
     {
       "country": "Nauru",
@@ -5277,8 +5323,8 @@
     },
     {
       "country": "Zambia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official adopted national AI strategy recorded; Parliament separately reported in 2025 that a comprehensive AI legal framework was being sought."
     },
     {
       "country": "Zimbabwe",
