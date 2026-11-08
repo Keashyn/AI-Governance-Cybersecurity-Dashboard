@@ -10,7 +10,7 @@ The public dashboard is hosted on GitHub Pages at https://keashyn.github.io/AI-G
 
 ## Sources and coverage
 
-`data.json` links to government and regulator sources, including EUR-Lex, U.S. Federal Register, UK legislation, Canada Gazette, China’s CAC, Japan’s Cabinet Office, Colorado’s General Assembly, and New York City’s DCWP. The country directory distinguishes countries with verified records from countries whose official-source review is incomplete. “Not yet reviewed” is not a finding that no AI law applies. Records remain a curated baseline rather than an exhaustive survey of every AI-related law, sector rule, or subnational instrument. The current scheduled ingestion automatically checks only the U.S. Federal Register; other sources require curation. Verify current law with the issuing authority. This tracker is informational, not legal advice.
+`data.json` links to government and regulator sources, including EUR-Lex, U.S. Federal Register, UK legislation, Canada Gazette, China’s CAC, Japan’s Cabinet Office, Colorado’s General Assembly, and New York City’s DCWP. Country-specific entries include individual instruments or bounded source-review findings where no AI-specific instrument was verified in the sources consulted. These findings do not prove that no applicable law exists. The register remains a curated baseline rather than an exhaustive survey of every AI-related law, sector rule, or subnational instrument. The current scheduled ingestion automatically checks only the U.S. Federal Register; other sources require curation. Verify current law with the issuing authority. This tracker is informational, not legal advice.
 
 ## Local use
 
