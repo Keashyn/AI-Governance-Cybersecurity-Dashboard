@@ -250,6 +250,16 @@
       "name": "Serbia · Government of the Republic of Serbia",
       "url": "https://www.srbija.gov.rs/tekst/en/149169/strategy-for-the-development-of-artificial-intelligence-in-the-republic-of-serbia.php",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Azerbaijan · Ministry of Economy official strategy listing",
+      "url": "https://economy.gov.az/en/page/ganunvericilik/strategiyalar",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Azerbaijan · Ministry of Digital Development and Transport",
+      "url": "https://mincom.gov.az/en/media-en/news/measures-to-promote-responsible-and-ethical-artificial-intelligence-continue-under-azerbaijans-artificial-intelligence-strategy",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -3990,6 +4000,78 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "AZ-AI-STRATEGY-2025-2028",
+      "jurisdiction": "Azerbaijan",
+      "regulator": "President of the Republic of Azerbaijan · Ministry of Digital Development and Transport",
+      "title": "Artificial Intelligence Strategy of the Republic of Azerbaijan 2025–2028",
+      "instrumentType": "National strategy · presidential order",
+      "status": "Adopted policy",
+      "publicationDate": "2025-03-19",
+      "topic": "AI governance · ethics · data · skills",
+      "sourceUrl": "https://economy.gov.az/en/page/ganunvericilik/strategiyalar",
+      "summary": "The government’s strategy sets national priorities for AI governance, data infrastructure, skills and the business environment. Official government materials report that it was approved by presidential order on 19 March 2025. It is an adopted strategy and does not itself establish all of the detailed compliance rules being drafted under it.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from official Azerbaijani government strategy listings and implementation updates."
+        }
+      ]
+    },
+    {
+      "id": "AZ-DRAFT-ETHICAL-AI-REQUIREMENTS-2026",
+      "jurisdiction": "Azerbaijan",
+      "regulator": "Ministry of Digital Development and Transport · Cabinet of Ministers (drafting)",
+      "title": "Draft Requirements for Responsible and Ethical Artificial Intelligence Systems",
+      "instrumentType": "Draft Cabinet resolution",
+      "status": "Proposed",
+      "publicationDate": "2026-10-08",
+      "topic": "AI governance · responsible and ethical systems",
+      "sourceUrl": "https://mincom.gov.az/en/media-en/news/measures-to-promote-responsible-and-ethical-artificial-intelligence-continue-under-azerbaijans-artificial-intelligence-strategy",
+      "summary": "The Ministry reports that a draft Cabinet resolution setting requirements for responsible and ethical AI systems is undergoing a second round of coordination with government authorities. It is still a draft and is not yet an adopted requirement.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official update describing the draft’s coordination status."
+        }
+      ]
+    },
+    {
+      "id": "AZ-DRAFT-AI-PERSONAL-DATA-RISK-2026",
+      "jurisdiction": "Azerbaijan",
+      "regulator": "Ministry of Digital Development and Transport · Cabinet of Ministers (drafting)",
+      "title": "Draft Rules on Identifying and Preventing AI-Related Personal Data Protection Risks",
+      "instrumentType": "Draft Cabinet resolution",
+      "status": "Proposed",
+      "publicationDate": "2026-10-08",
+      "topic": "AI · personal data protection · risk management",
+      "sourceUrl": "https://mincom.gov.az/en/media-en/news/measures-to-promote-responsible-and-ethical-artificial-intelligence-continue-under-azerbaijans-artificial-intelligence-strategy",
+      "summary": "The Ministry reports draft rules to identify and prevent personal data protection risks in AI system design, deployment and use. The draft was submitted for initial interagency coordination; it is not yet an adopted rule.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official update describing the draft’s coordination status."
+        }
+      ]
+    },
+    {
+      "id": "AZ-DRAFT-AI-HPC-REQUIREMENTS-2026",
+      "jurisdiction": "Azerbaijan",
+      "regulator": "Ministry of Digital Development and Transport · Cabinet of Ministers (drafting)",
+      "title": "Draft Requirements for High-Performance Computing Infrastructure",
+      "instrumentType": "Draft Cabinet resolution",
+      "status": "Proposed",
+      "publicationDate": "2026-10-08",
+      "topic": "AI infrastructure · high-performance computing",
+      "sourceUrl": "https://mincom.gov.az/en/media-en/news/measures-to-promote-responsible-and-ethical-artificial-intelligence-continue-under-azerbaijans-artificial-intelligence-strategy",
+      "summary": "The Ministry reports a draft resolution establishing requirements for high-performance computing infrastructure used to support AI. It is still being coordinated with government authorities and is not yet an adopted requirement.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official update describing the draft’s coordination status."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4045,8 +4127,8 @@
     },
     {
       "country": "Azerbaijan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official national AI strategy and three draft implementing requirements recorded; other binding AI or cross-sector laws may also apply."
     },
     {
       "country": "Bahamas",
