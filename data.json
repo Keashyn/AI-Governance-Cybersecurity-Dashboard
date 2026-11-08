@@ -595,6 +595,16 @@
       "name": "Sri Lanka Cabinet Office · National AI Strategy decision",
       "url": "https://www.cabinetoffice.gov.lk/cab/index.php?Itemid=49&dID=12770&id=16&lang=en&option=com_content&view=article",
       "status": "Official Cabinet decision record approving implementation of the national strategy"
+    },
+    {
+      "name": "Côte d’Ivoire Government Portal · National AI Strategy",
+      "url": "https://www.gouv.ci/actualite/strategies-nationales-de-lintelligence-artificielle-et-de-la-gouvernance-des-donnees-le-ministre-kalil-konate-remet-officiellement-les-documents-au-premier-ministre-2374",
+      "status": "Official presentation of SNIA 2030; ANSSI register also lists the strategy"
+    },
+    {
+      "name": "Burundi Ministry of Finance, Budget and Digital Economy · AI assessment",
+      "url": "https://finances.gov.bi/index.php/2025/11/25/ouverture-officielle-de-latelier-sur-levaluation-du-paysage-de-lintelligence-artificielle-au-burundi/",
+      "status": "Official national AI readiness and regulatory landscape assessment; future roadmap planned"
     }
   ],
   "items": [
@@ -5669,6 +5679,42 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "CI-NATIONAL-AI-STRATEGY-2030",
+      "jurisdiction": "Côte d’Ivoire",
+      "regulator": "Ministry of Digital Transition and Digitalization · National Agency for Information Systems Security (ANSSI)",
+      "title": "National Artificial Intelligence Strategy · SNIA 2030",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-03-13",
+      "topic": "National AI strategy · responsible AI · inclusion · governance · digital capacity",
+      "sourceUrl": "https://www.gouv.ci/actualite/strategies-nationales-de-lintelligence-artificielle-et-de-la-gouvernance-des-donnees-le-ministre-kalil-konate-remet-officiellement-les-documents-au-premier-ministre-2374",
+      "summary": "The government presented its National AI Strategy alongside a data-governance strategy. The strategy aims to use inclusive, ethical and responsible AI for digital transformation, skills, infrastructure, research and economic development through 2030. Government reporting says implementation is underway. It is a policy strategy, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from official government reporting on presentation to the Prime Minister and the official ANSSI strategy register."
+        }
+      ]
+    },
+    {
+      "id": "BI-AI-READINESS-AND-ROADMAP-DEVELOPMENT-2025",
+      "jurisdiction": "Burundi",
+      "regulator": "Ministry of Finance, Budget and Digital Economy",
+      "title": "AI ecosystem assessment and national AI roadmap development",
+      "instrumentType": "AI governance planning process",
+      "status": "Proposed",
+      "publicationDate": "2025-11-25",
+      "topic": "AI readiness · governance · regulatory assessment · national roadmap",
+      "sourceUrl": "https://finances.gov.bi/index.php/2025/11/25/ouverture-officielle-de-latelier-sur-levaluation-du-paysage-de-lintelligence-artificielle-au-burundi/",
+      "summary": "Burundi’s Ministry opened a national AI ecosystem assessment workshop to review existing initiatives, technical capacity and the regulatory landscape. The government said the findings would inform a strategic roadmap for AI development. This is an assessment and planning process, not an adopted AI law or policy.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official announcement; it describes an assessment intended to inform a future roadmap."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5809,8 +5855,8 @@
     },
     {
       "country": "Burundi",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official government AI ecosystem and regulatory-readiness assessment recorded; it is intended to inform a future roadmap, not an adopted AI law."
     },
     {
       "country": "Cabo Verde",
@@ -5874,8 +5920,8 @@
     },
     {
       "country": "Côte d’Ivoire",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "National AI Strategy (SNIA 2030) and its implementation are recorded from official government sources; this is policy, not a standalone AI law."
     },
     {
       "country": "Croatia",
