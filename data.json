@@ -3586,6 +3586,25 @@
       ]
     },
     {
+      "id": "BB-DEEP-TECH-FELLOWSHIP-2026",
+      "jurisdiction": "Barbados · National",
+      "regulator": "Ministry of Innovation, Industry, Science and Technology",
+      "title": "Deep Tech Fellowship Programme for AI, data systems and digital governance",
+      "instrumentType": "Government program",
+      "status": "In force",
+      "publicationDate": "2026-01-13",
+      "effectiveDate": "2026-01-12",
+      "topic": "AI · capacity building · digital governance",
+      "sourceUrl": "https://gisbarbados.gov.bb/blog/fellowship-programme-to-build-national-ai-digital-capacity/",
+      "summary": "The Government of Barbados launched a 12-week fellowship with 10 participants to build national capability in AI, data systems and digital governance through work on public-sector challenges. This is a capacity-building programme, not an AI law or regulatory policy.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Government Information Service announcement; distinguished as a program, not regulation."
+        }
+      ]
+    },
+    {
       "id": "MA-AI-MADE-IN-MOROCCO-EDUCATION-2026",
       "jurisdiction": "Morocco",
       "regulator": "Ministry of National Education, Preschool and Sports · Ministry of Digital Transition",
@@ -4040,6 +4059,25 @@
         {
           "date": "2026-11-08",
           "change": "AI-specific provisions and current status checked against the official State Agency legal registry."
+        }
+      ]
+    },
+    {
+      "id": "BH-NATIONAL-AI-POLICY-2025",
+      "jurisdiction": "Bahrain · National",
+      "regulator": "Information & eGovernment Authority (iGA); Ministerial Committee for Information Technology and Communication",
+      "title": "National Policy for the Use of Artificial Intelligence",
+      "instrumentType": "National AI policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-07-27",
+      "effectiveDate": "",
+      "topic": "AI · public-sector governance · ethics · privacy",
+      "sourceUrl": "https://www.iga.gov.bh/Media/Publications/National%20Digital%20Policies/General%20Policy%20for%20the%20Use%20of%20AI%20-%20%20Final%2030%20Jul%202025.pdf",
+      "summary": "Bahrain’s national policy sets governance expectations for AI use, especially by government entities. It covers legal compliance, adoption, public awareness and cooperation, and assigns implementation and oversight roles to the ICT Governance Committee and iGA. It is an adopted policy, not a standalone statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added using the official iGA policy PDF; status classified as adopted policy."
         }
       ]
     },
@@ -4565,6 +4603,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the official Government of Serbia strategy listing."
+        }
+      ]
+    },
+    {
+      "id": "AG-AI-LAW-DEVELOPMENT-2025",
+      "jurisdiction": "Antigua and Barbuda · National",
+      "regulator": "Ministry of Legal Affairs; Ministry of ICTs, Utilities and Energy",
+      "title": "AI legal framework development and UNESCO AI Readiness Assessment",
+      "instrumentType": "Policy and legislative development (proposed)",
+      "status": "Proposed",
+      "publicationDate": "2025-01-01",
+      "effectiveDate": "",
+      "topic": "AI · legislative development · readiness assessment",
+      "sourceUrl": "https://ab.gov.ag/pdf/2025_Throne_Speech.pdf",
+      "summary": "The government’s 2025 Throne Speech says the Ministry of Legal Affairs was directed to work with other CARICOM ministries to draft laws addressing AI. A separate Ministry of ICT release describes a UNESCO AI Readiness Assessment intended to guide national strategy development. These are preparatory steps, not enacted AI rules.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from official government sources; proposal-stage legal and policy development."
         }
       ]
     },
@@ -6033,63 +6090,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "AG-AI-LAW-DEVELOPMENT-2025",
-      "jurisdiction": "Antigua and Barbuda · National",
-      "regulator": "Ministry of Legal Affairs; Ministry of ICTs, Utilities and Energy",
-      "title": "AI legal framework development and UNESCO AI Readiness Assessment",
-      "instrumentType": "Policy and legislative development (proposed)",
-      "status": "Proposed",
-      "publicationDate": "2025-01-01",
-      "effectiveDate": "",
-      "topic": "AI · legislative development · readiness assessment",
-      "sourceUrl": "https://ab.gov.ag/pdf/2025_Throne_Speech.pdf",
-      "summary": "The government’s 2025 Throne Speech says the Ministry of Legal Affairs was directed to work with other CARICOM ministries to draft laws addressing AI. A separate Ministry of ICT release describes a UNESCO AI Readiness Assessment intended to guide national strategy development. These are preparatory steps, not enacted AI rules.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from official government sources; proposal-stage legal and policy development."
-        }
-      ]
-    },
-    {
-      "id": "BH-NATIONAL-AI-POLICY-2025",
-      "jurisdiction": "Bahrain · National",
-      "regulator": "Information & eGovernment Authority (iGA); Ministerial Committee for Information Technology and Communication",
-      "title": "National Policy for the Use of Artificial Intelligence",
-      "instrumentType": "National AI policy",
-      "status": "Adopted policy",
-      "publicationDate": "2025-07-27",
-      "effectiveDate": "",
-      "topic": "AI · public-sector governance · ethics · privacy",
-      "sourceUrl": "https://www.iga.gov.bh/Media/Publications/National%20Digital%20Policies/General%20Policy%20for%20the%20Use%20of%20AI%20-%20%20Final%2030%20Jul%202025.pdf",
-      "summary": "Bahrain’s national policy sets governance expectations for AI use, especially by government entities. It covers legal compliance, adoption, public awareness and cooperation, and assigns implementation and oversight roles to the ICT Governance Committee and iGA. It is an adopted policy, not a standalone statute.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added using the official iGA policy PDF; status classified as adopted policy."
-        }
-      ]
-    },
-    {
-      "id": "BB-DEEP-TECH-FELLOWSHIP-2026",
-      "jurisdiction": "Barbados · National",
-      "regulator": "Ministry of Innovation, Industry, Science and Technology",
-      "title": "Deep Tech Fellowship Programme for AI, data systems and digital governance",
-      "instrumentType": "Government program",
-      "status": "In force",
-      "publicationDate": "2026-01-13",
-      "effectiveDate": "2026-01-12",
-      "topic": "AI · capacity building · digital governance",
-      "sourceUrl": "https://gisbarbados.gov.bb/blog/fellowship-programme-to-build-national-ai-digital-capacity/",
-      "summary": "The Government of Barbados launched a 12-week fellowship with 10 participants to build national capability in AI, data systems and digital governance through work on public-sector challenges. This is a capacity-building programme, not an AI law or regulatory policy.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Government Information Service announcement; distinguished as a program, not regulation."
         }
       ]
     }
