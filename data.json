@@ -1189,7 +1189,7 @@
     },
     {
       "id": "NR-REVIEW-AI-LAWS-2026",
-      "jurisdiction": "Nauru · National",
+      "jurisdiction": "Nauru",
       "regulator": "Department of Justice and Border Control (RONLAW)",
       "title": "Official-source review: AI-specific legislation not identified in RONLAW search",
       "instrumentType": "Coverage review",
@@ -1265,7 +1265,7 @@
     },
     {
       "id": "DO-DECREE-787-26-AI-CODE",
-      "jurisdiction": "Dominican Republic · National",
+      "jurisdiction": "Dominican Republic",
       "regulator": "President of the Republic; Ministry of Public Administration; Directorate General of Government Ethics and Integrity; OGTIC",
       "title": "Decree No. 787-26 approving the Code of Ethics for Artificial Intelligence in Public Services",
       "instrumentType": "Decree",
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "CV-DL-45-2026-AI-PUBLIC-SERVICE",
-      "jurisdiction": "Cabo Verde · National",
+      "jurisdiction": "Cabo Verde",
       "regulator": "Council of Ministers; Ministry of State Reform, Local Government and Decentralization",
       "title": "Decree-Law No. 45/2026 on the Ministry’s structure, including public-sector AI governance responsibilities",
       "instrumentType": "Decree-Law",
@@ -2021,7 +2021,7 @@
     },
     {
       "id": "TL-AI-PILOT-ANUNNAI-2026",
-      "jurisdiction": "Timor-Leste · National",
+      "jurisdiction": "Timor-Leste",
       "regulator": "Council of Ministers / National ASEAN Organising Council",
       "title": "ANUNNAI AI-enabled government coordination pilot",
       "instrumentType": "Government pilot",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "HT-AI-ROADMAP-CONSULTATION-2026",
-      "jurisdiction": "Haiti · National",
+      "jurisdiction": "Haiti",
       "regulator": "Bank of the Republic of Haiti / ProAI national partners",
       "title": "National AI governance framework and roadmap development",
       "instrumentType": "Roadmap development",
@@ -2259,7 +2259,7 @@
     },
     {
       "id": "DJ-AI-REGULATORY-ETHICS-FRAMEWORK-PREP-2026",
-      "jurisdiction": "Djibouti · National",
+      "jurisdiction": "Djibouti",
       "regulator": "Presidency of the Republic of Djibouti",
       "title": "Preparation of a regulatory and ethical framework for responsible AI (planned AI Forum)",
       "instrumentType": "AI governance planning process",
@@ -2411,7 +2411,7 @@
     },
     {
       "id": "LS-AI-POLICY-2026",
-      "jurisdiction": "Lesotho · National",
+      "jurisdiction": "Lesotho",
       "regulator": "Government of Lesotho; Ministry of Information, Communications, Science, Technology and Innovation",
       "title": "Artificial Intelligence Policy (Final, 17 August 2026)",
       "instrumentType": "Policy",
@@ -2622,7 +2622,7 @@
     },
     {
       "id": "SD-DATA-AI-BILL-2026-DRAFT",
-      "jurisdiction": "Sudan · National",
+      "jurisdiction": "Sudan",
       "regulator": "Ministry of Justice; Ministry of Digital Transformation and Communications",
       "title": "Draft Bill to Regulate Data and Artificial Intelligence 2026",
       "instrumentType": "Bill",
@@ -2641,7 +2641,7 @@
     },
     {
       "id": "CD-SNIA-2026-DRAFT",
-      "jurisdiction": "Democratic Republic of the Congo · National",
+      "jurisdiction": "Democratic Republic of the Congo",
       "regulator": "Ministry of Digital Economy; Council of Ministers (adoption pending)",
       "title": "National Artificial Intelligence Strategy (SNIA)",
       "instrumentType": "Strategy",
@@ -3043,7 +3043,7 @@
     },
     {
       "id": "PG-AI-DEEPFAKE-LAW-DRAFTING-2026",
-      "jurisdiction": "Papua New Guinea · National",
+      "jurisdiction": "Papua New Guinea",
       "regulator": "Department of Information and Communications Technology",
       "title": "Drafting initiative on AI deepfakes, voice cloning and digital impersonation",
       "instrumentType": "Legislative initiative",
@@ -3062,7 +3062,7 @@
     },
     {
       "id": "SY-CYBERCRIME-REVIEW-AI",
-      "jurisdiction": "Syria · National",
+      "jurisdiction": "Syria",
       "regulator": "Ministry of Justice",
       "title": "Cybercrime law review relevant to AI (official status notice)",
       "instrumentType": "Legal status review",
@@ -3425,7 +3425,7 @@
     },
     {
       "id": "LY-NATIONAL-AI-STRATEGY-2026",
-      "jurisdiction": "Libya · National",
+      "jurisdiction": "Libya",
       "regulator": "General Information Authority / Prime Minister",
       "title": "National Artificial Intelligence Strategy 2026–2030",
       "instrumentType": "Strategy",
@@ -3444,7 +3444,7 @@
     },
     {
       "id": "LY-NATIONAL-AI-CHARTER-2026",
-      "jurisdiction": "Libya · National",
+      "jurisdiction": "Libya",
       "regulator": "General Information Authority / Prime Minister",
       "title": "National Charter for Artificial Intelligence Ethics",
       "instrumentType": "Ethics charter",
@@ -3594,7 +3594,7 @@
     },
     {
       "id": "DZ-NATIONAL-AI-STRATEGY-DRAFT-2026",
-      "jurisdiction": "Algeria · National",
+      "jurisdiction": "Algeria",
       "regulator": "Government of Algeria · Prime Minister’s Office",
       "title": "Draft National Artificial Intelligence Strategy",
       "instrumentType": "Draft national strategy",
@@ -3613,7 +3613,7 @@
     },
     {
       "id": "TM-NATIONAL-AI-STRATEGY-DRAFT-2026",
-      "jurisdiction": "Turkmenistan · National",
+      "jurisdiction": "Turkmenistan",
       "regulator": "Ministry of Communications",
       "title": "National Artificial Intelligence Strategy (draft under development)",
       "instrumentType": "Strategy",
@@ -3877,7 +3877,7 @@
     },
     {
       "id": "CV-RES-72-2026-DIGITAL-AGENDA",
-      "jurisdiction": "Cabo Verde · National",
+      "jurisdiction": "Cabo Verde",
       "regulator": "Council of Ministers",
       "title": "Resolution No. 72/2026 establishing directions for the Cabo Verde Digital Agenda 2035",
       "instrumentType": "Council of Ministers resolution",
@@ -3969,7 +3969,7 @@
     },
     {
       "id": "TL-DIGITAL-TRANSFORMATION-STRATEGY-2026-2036",
-      "jurisdiction": "Timor-Leste · National",
+      "jurisdiction": "Timor-Leste",
       "regulator": "Ministry of Transport and Communications",
       "title": "Digital Transformation Strategy 2026–2036 (public consultation)",
       "instrumentType": "Digital strategy",
@@ -3988,7 +3988,7 @@
     },
     {
       "id": "SB-ICT-EDUCATION-MASTERPLAN-2026",
-      "jurisdiction": "Solomon Islands · National",
+      "jurisdiction": "Solomon Islands",
       "regulator": "Ministry of Education and Human Resources Development",
       "title": "ICT for Education Master Plan 2026–2030",
       "instrumentType": "Education policy",
@@ -4007,7 +4007,7 @@
     },
     {
       "id": "YE-CYBERCRIME-BILL-REVIEW",
-      "jurisdiction": "Yemen · National",
+      "jurisdiction": "Yemen",
       "regulator": "Ministry of Justice and Human Rights / Shura Council",
       "title": "Information Technology Crimes Bill (draft-stage review)",
       "instrumentType": "Bill",
@@ -4045,7 +4045,7 @@
     },
     {
       "id": "MU-HE-AI-REGS-2026",
-      "jurisdiction": "Mauritius · National",
+      "jurisdiction": "Mauritius",
       "regulator": "Minister responsible for higher education; Higher Education Commission",
       "title": "Higher Education (Use of Artificial Intelligence) Regulations 2026 (GN No. 39 of 2026)",
       "instrumentType": "Regulations",
@@ -4130,7 +4130,7 @@
     },
     {
       "id": "KI-CYBERSECURITY-ACT-2026",
-      "jurisdiction": "Kiribati · National",
+      "jurisdiction": "Kiribati",
       "regulator": "Ministry of Information, Communications and Transport; Digital Transformation Office",
       "title": "Cybersecurity Act 2026",
       "instrumentType": "Act",
@@ -4205,7 +4205,7 @@
     },
     {
       "id": "KM-AI-READINESS-ASSESSMENT-2026",
-      "jurisdiction": "Comoros · National",
+      "jurisdiction": "Comoros",
       "regulator": "Ministry of Posts and Telecommunications; Presidency of the Union of the Comoros",
       "title": "National AI readiness assessment and interministerial committee work",
       "instrumentType": "AI governance planning process",
@@ -4264,7 +4264,7 @@
     },
     {
       "id": "PG-DRAFT-SOVEREIGN-AI-STRATEGY-2026",
-      "jurisdiction": "Papua New Guinea · National",
+      "jurisdiction": "Papua New Guinea",
       "regulator": "Department of Information and Communications Technology",
       "title": "Draft National Sovereign AI and Digital Transformation Strategy",
       "instrumentType": "Strategy",
@@ -4283,7 +4283,7 @@
     },
     {
       "id": "NI-AI-EDUCATION-GUIDANCE-2026",
-      "jurisdiction": "Nicaragua · National",
+      "jurisdiction": "Nicaragua",
       "regulator": "Ministry of Education",
       "title": "Responsible and ethical use of AI for students (teaching material)",
       "instrumentType": "Educational guidance",
@@ -4302,7 +4302,7 @@
     },
     {
       "id": "GA-SOCIAL-MEDIA-AI-CONTENT-ORDER-DRAFT-2026",
-      "jurisdiction": "Gabon · National",
+      "jurisdiction": "Gabon",
       "regulator": "Council of Ministers; High Authority for Communication",
       "title": "Draft ordinance regulating social media use and AI-generated or AI-amplified content",
       "instrumentType": "Draft ordinance",
@@ -4321,7 +4321,7 @@
     },
     {
       "id": "PG-DRAFT-GOV-AI-ADOPTION-FRAMEWORK-2026",
-      "jurisdiction": "Papua New Guinea · National",
+      "jurisdiction": "Papua New Guinea",
       "regulator": "Department of Information and Communications Technology",
       "title": "Draft PNG Government Artificial Intelligence Adoption Framework (DG × DPI ^ AI)",
       "instrumentType": "Framework",
@@ -4340,7 +4340,7 @@
     },
     {
       "id": "KW-AI-ADOPTION-GUIDELINE-CONSULTATION-2026",
-      "jurisdiction": "Kuwait · National",
+      "jurisdiction": "Kuwait",
       "regulator": "Communications and Information Technology Regulatory Authority",
       "title": "Public consultation: Guide for AI adoption in Kuwait",
       "instrumentType": "Consultation",
@@ -4430,7 +4430,7 @@
     },
     {
       "id": "SR-AI-READINESS-2026",
-      "jurisdiction": "Suriname · National",
+      "jurisdiction": "Suriname",
       "regulator": "Ministry of Economic Affairs, Entrepreneurship and Technological Innovation (EZOTI)",
       "title": "AI Readiness Assessment and development of an integrated national AI strategy",
       "instrumentType": "National AI strategy (in development)",
@@ -4449,7 +4449,7 @@
     },
     {
       "id": "LAO-AI-STRATEGY-2026-DRAFT",
-      "jurisdiction": "Laos · National",
+      "jurisdiction": "Laos",
       "regulator": "Ministry of Technology and Communications",
       "title": "National Artificial Intelligence Strategy (development announced)",
       "instrumentType": "Strategy",
@@ -4490,7 +4490,7 @@
     },
     {
       "id": "SO-CYBERSECURITY-LAW-2026",
-      "jurisdiction": "Somalia · National",
+      "jurisdiction": "Somalia",
       "regulator": "Federal Parliament; Ministry of Communications and Technology; National Communications Authority",
       "title": "Cybersecurity Law (House approval reported)",
       "instrumentType": "Bill",
@@ -4509,7 +4509,7 @@
     },
     {
       "id": "GY-GOV-AI-ASSISTANT-2026",
-      "jurisdiction": "Guyana · National",
+      "jurisdiction": "Guyana",
       "regulator": "Ministry of Public Service, Government Efficiency and Implementation",
       "title": "AskGov AI assistant for government services (Digital Guyana initiative)",
       "instrumentType": "Government AI program",
@@ -4528,7 +4528,7 @@
     },
     {
       "id": "TM-AI-LEGAL-FRAMEWORK-INITIATIVE-2026",
-      "jurisdiction": "Turkmenistan · National",
+      "jurisdiction": "Turkmenistan",
       "regulator": "President; Cabinet of Ministers",
       "title": "Initiative to develop national AI legal framework and rules",
       "instrumentType": "Legislative initiative",
@@ -4570,7 +4570,7 @@
     },
     {
       "id": "MR-AI-EDUCATION-FRAMEWORK-2026",
-      "jurisdiction": "Mauritania · National",
+      "jurisdiction": "Mauritania",
       "regulator": "Ministry of National Education and Education System Reform",
       "title": "National Framework: Artificial Intelligence in Service of the Republican School",
       "instrumentType": "Framework",
@@ -4656,7 +4656,7 @@
     },
     {
       "id": "BB-DEEP-TECH-FELLOWSHIP-2026",
-      "jurisdiction": "Barbados · National",
+      "jurisdiction": "Barbados",
       "regulator": "Ministry of Innovation, Industry, Science and Technology",
       "title": "Deep Tech Fellowship Programme for AI, data systems and digital governance",
       "instrumentType": "Government program",
@@ -5005,7 +5005,7 @@
     },
     {
       "id": "TD-DECREE-2203-2025-DGAI",
-      "jurisdiction": "Chad · National",
+      "jurisdiction": "Chad",
       "regulator": "President of the Republic; Ministry of Telecommunications, Digital Economy and Administration Digitalisation",
       "title": "Decree No. 2203/PR/PM/MTENDA/2025 on organization of the Ministry, establishing the General Directorate of Artificial Intelligence",
       "instrumentType": "Decree",
@@ -5046,7 +5046,7 @@
     },
     {
       "id": "BF-AI-ACTION-PLAN-DEVELOPMENT-2025",
-      "jurisdiction": "Burkina Faso · National",
+      "jurisdiction": "Burkina Faso",
       "regulator": "Ministry of Digital Transition, Posts and Electronic Communications",
       "title": "National Action Plan on Artificial Intelligence (development workshop)",
       "instrumentType": "National action plan (in development)",
@@ -5101,7 +5101,7 @@
     },
     {
       "id": "GT-ENIA-DEVELOPMENT-2025-27",
-      "jurisdiction": "Guatemala · National",
+      "jurisdiction": "Guatemala",
       "regulator": "Secretariat of Planning and Programming of the Presidency (SEGEPLAN); National Secretariat of Science and Technology (SENACYT)",
       "title": "National Artificial Intelligence Strategy (ENIA) — co-creation and roadmap development",
       "instrumentType": "National AI strategy (in development)",
@@ -5190,7 +5190,7 @@
     },
     {
       "id": "NE-NATIONAL-AI-STRATEGY-INITIATIVE-2025",
-      "jurisdiction": "Niger · National",
+      "jurisdiction": "Niger",
       "regulator": "Ministry of Communication and New Information Technologies",
       "title": "National AI and Data Strategy (development announced)",
       "instrumentType": "Strategy",
@@ -5209,7 +5209,7 @@
     },
     {
       "id": "BH-NATIONAL-AI-POLICY-2025",
-      "jurisdiction": "Bahrain · National",
+      "jurisdiction": "Bahrain",
       "regulator": "Information & eGovernment Authority (iGA); Ministerial Committee for Information Technology and Communication",
       "title": "National Policy for the Use of Artificial Intelligence",
       "instrumentType": "National AI policy",
@@ -5272,7 +5272,7 @@
     },
     {
       "id": "CG-DECREE-2025-279-CARIA",
-      "jurisdiction": "Congo (Republic of the) · National",
+      "jurisdiction": "Congo (Republic of the)",
       "regulator": "President of the Republic; Ministry of Posts, Telecommunications and Digital Economy",
       "title": "Decree No. 2025-279 of 2 July 2025 approving the statutes of CARIA",
       "instrumentType": "Decree · implementing instrument",
@@ -5291,7 +5291,7 @@
     },
     {
       "id": "IS-AI-ACTION-PLAN-2025-2027",
-      "jurisdiction": "Iceland · National",
+      "jurisdiction": "Iceland",
       "regulator": "Ministry of Culture, Innovation and Higher Education; Government of Iceland",
       "title": "Iceland’s AI Action Plan 2025–2027",
       "instrumentType": "Action plan",
@@ -5366,7 +5366,7 @@
     },
     {
       "id": "TO-GOV-AI-USE-POLICY-2026",
-      "jurisdiction": "Tonga · National",
+      "jurisdiction": "Tonga",
       "regulator": "Government of Tonga",
       "title": "AI adoption in public services (2026 budget policy direction)",
       "instrumentType": "Budget policy",
@@ -5426,7 +5426,7 @@
     },
     {
       "id": "MG-CEDIA-AI-CUSTOMS",
-      "jurisdiction": "Madagascar · National",
+      "jurisdiction": "Madagascar",
       "regulator": "Directorate General of Customs",
       "title": "Data and Artificial Intelligence Center of Excellence (CEDIA)",
       "instrumentType": "Public-sector AI initiative",
@@ -5557,7 +5557,7 @@
     },
     {
       "id": "NA-AI-BILL-DRAFTING-2025",
-      "jurisdiction": "Namibia · National",
+      "jurisdiction": "Namibia",
       "regulator": "Ministry of Information and Communication Technology; collaborating ministries",
       "title": "Artificial Intelligence Bill and process-guiding principles (development announced)",
       "instrumentType": "Legislative initiative",
@@ -5741,7 +5741,7 @@
     },
     {
       "id": "VE-NATIONAL-AI-PLAN-2025",
-      "jurisdiction": "Venezuela · National",
+      "jurisdiction": "Venezuela",
       "regulator": "Ministry of People’s Power for Foreign Affairs / Presidency",
       "title": "Artificial Intelligence Plan for Sustainable Development",
       "instrumentType": "National plan",
@@ -5760,7 +5760,7 @@
     },
     {
       "id": "SN-NEW-DEAL-TECH-AI-2025",
-      "jurisdiction": "Senegal · National",
+      "jurisdiction": "Senegal",
       "regulator": "Government of Senegal; Presidency of the Republic",
       "title": "New Deal Technologique · AI & Digital Factory program",
       "instrumentType": "Digital strategy",
@@ -5779,7 +5779,7 @@
     },
     {
       "id": "SB-AI-EDUCATION-POLICY-PROPOSAL",
-      "jurisdiction": "Solomon Islands · National",
+      "jurisdiction": "Solomon Islands",
       "regulator": "Ministry of Education and Human Resources Development",
       "title": "AI education policy and framework development",
       "instrumentType": "Policy development",
@@ -5798,7 +5798,7 @@
     },
     {
       "id": "MM-NATIONAL-AI-STRATEGY-POLICY-DRAFT-2025",
-      "jurisdiction": "Myanmar · National",
+      "jurisdiction": "Myanmar",
       "regulator": "Ministry of Science and Technology; relevant ministries",
       "title": "National AI Strategy and National AI Policy (drafting process)",
       "instrumentType": "Strategy and policy",
@@ -5943,7 +5943,7 @@
     },
     {
       "id": "SZ-AI-DATA-ANALYSIS-UNIT-2025",
-      "jurisdiction": "Eswatini · National",
+      "jurisdiction": "Eswatini",
       "regulator": "Ministry of Information, Communications and Technology; Royal Science and Technology Park",
       "title": "Artificial Intelligence and Data Analysis Unit at the Royal Science and Technology Park",
       "instrumentType": "Government program",
@@ -5962,7 +5962,7 @@
     },
     {
       "id": "AG-AI-LAW-DEVELOPMENT-2025",
-      "jurisdiction": "Antigua and Barbuda · National",
+      "jurisdiction": "Antigua and Barbuda",
       "regulator": "Ministry of Legal Affairs; Ministry of ICTs, Utilities and Energy",
       "title": "AI legal framework development and UNESCO AI Readiness Assessment",
       "instrumentType": "Policy and legislative development (proposed)",
@@ -5981,7 +5981,7 @@
     },
     {
       "id": "KN-GOV-AI-LEGAL-ASSISTANT",
-      "jurisdiction": "Saint Kitts and Nevis · National",
+      "jurisdiction": "Saint Kitts and Nevis",
       "regulator": "Ministry of Justice and Legal Affairs",
       "title": "VoiceIt AI legal assistant (government deployment)",
       "instrumentType": "Public-sector AI deployment",
@@ -6084,7 +6084,7 @@
     },
     {
       "id": "MV-AI-MASTERPLAN-2024",
-      "jurisdiction": "Maldives · National",
+      "jurisdiction": "Maldives",
       "regulator": "Cabinet; Ministry of Homeland Security and Technology; Ministry of Economic Development and Trade",
       "title": "AI Masterplan and proposed legal framework",
       "instrumentType": "Policy initiative",
@@ -6152,7 +6152,7 @@
     },
     {
       "id": "MR-NATIONAL-AI-STRATEGY-2025-2029",
-      "jurisdiction": "Mauritania · National",
+      "jurisdiction": "Mauritania",
       "regulator": "Ministry of Digital Transformation and Administrative Modernization",
       "title": "National Artificial Intelligence Strategy 2025–2029",
       "instrumentType": "Strategy",
@@ -6873,7 +6873,7 @@
     },
     {
       "id": "BN-AI-GOV-ETHICS-GUIDE-2024",
-      "jurisdiction": "Brunei · National",
+      "jurisdiction": "Brunei",
       "regulator": "Authority for Info-communications Technology Industry (AITI)",
       "title": "Guide on AI Governance and Ethics for Brunei Darussalam",
       "instrumentType": "Guideline",
@@ -6892,7 +6892,7 @@
     },
     {
       "id": "CM-AI-STRATEGY-ROADMAP-2024",
-      "jurisdiction": "Cameroon · National",
+      "jurisdiction": "Cameroon",
       "regulator": "Ministry of Posts and Telecommunications (MINPOSTEL)",
       "title": "National consultations and roadmap development for a national AI strategy",
       "instrumentType": "National AI strategy (in development)",
@@ -6911,7 +6911,7 @@
     },
     {
       "id": "IR-NATIONAL-AI-DOCUMENT-2024",
-      "jurisdiction": "Iran · National",
+      "jurisdiction": "Iran",
       "regulator": "Supreme Council of the Cultural Revolution",
       "title": "National Artificial Intelligence Document of the Islamic Republic of Iran",
       "instrumentType": "National AI strategy",
@@ -6930,7 +6930,7 @@
     },
     {
       "id": "CG-LAW-14-2024-CARIA",
-      "jurisdiction": "Congo (Republic of the) · National",
+      "jurisdiction": "Congo (Republic of the)",
       "regulator": "Parliament and Presidency of the Republic of the Congo",
       "title": "Law No. 14-2024 of 23 May 2024 establishing the African Centre for Artificial Intelligence Research (CARIA)",
       "instrumentType": "Law",
@@ -6994,7 +6994,7 @@
     },
     {
       "id": "AD-AI-ETHICS-CODE-2024",
-      "jurisdiction": "Andorra · National",
+      "jurisdiction": "Andorra",
       "regulator": "Government of Andorra · State Secretariat for Digital Transformation and Telecommunications",
       "title": "Code of Ethics on the Use of Artificial Intelligence",
       "instrumentType": "Government guidance",
@@ -7051,7 +7051,7 @@
     },
     {
       "id": "FM-RESEARCH-POLICY-AI",
-      "jurisdiction": "Micronesia · National",
+      "jurisdiction": "Micronesia",
       "regulator": "FSM Office of National Archives, Culture & Historic Preservation; relevant State offices",
       "title": "FSM National Research Policy: AI disclosure and cultural-data safeguards",
       "instrumentType": "Policy",
@@ -7092,7 +7092,7 @@
     },
     {
       "id": "CF-LAW-24-002-CYBERSECURITY",
-      "jurisdiction": "Central African Republic · National",
+      "jurisdiction": "Central African Republic",
       "regulator": "National authorities; Agence Centrafricaine de Développement du Digital (ACDD)",
       "title": "Law No. 24.002 on Cybersecurity and Cybercrime",
       "instrumentType": "Law",
@@ -7111,7 +7111,7 @@
     },
     {
       "id": "CF-LAW-24-001-DATA-PROTECTION",
-      "jurisdiction": "Central African Republic · National",
+      "jurisdiction": "Central African Republic",
       "regulator": "National authorities; Agence Centrafricaine de Développement du Digital (ACDD)",
       "title": "Law No. 24.001 on the Protection of Personal Data",
       "instrumentType": "Law",
@@ -7223,7 +7223,7 @@
     },
     {
       "id": "PS-NATIONAL-AI-STRATEGY-POLICY",
-      "jurisdiction": "Palestine · National",
+      "jurisdiction": "Palestine",
       "regulator": "Ministry of Telecommunications and Digital Economy / Cabinet",
       "title": "National Artificial Intelligence Policy and Strategy",
       "instrumentType": "Policy and strategy",
@@ -7290,7 +7290,7 @@
     },
     {
       "id": "SM-LAW-40-2023-ALGORITHMS",
-      "jurisdiction": "San Marino · National",
+      "jurisdiction": "San Marino",
       "regulator": "Government of San Marino / ICT Authority",
       "title": "Law No. 40 of 2023: Data and algorithmic-use provisions",
       "instrumentType": "Law",
@@ -7309,7 +7309,7 @@
     },
     {
       "id": "BJ-AI-BIGDATA-STRATEGY-2023",
-      "jurisdiction": "Benin · National",
+      "jurisdiction": "Benin",
       "regulator": "Ministry of Digital Affairs and Digitalization",
       "title": "National Artificial Intelligence and Big Data Strategy 2023–2027",
       "instrumentType": "National AI strategy",
@@ -7355,7 +7355,7 @@
     },
     {
       "id": "TJ-NATIONAL-AI-STRATEGY-2040",
-      "jurisdiction": "Tajikistan · National",
+      "jurisdiction": "Tajikistan",
       "regulator": "Government of the Republic of Tajikistan",
       "title": "Strategy for the Development of Artificial Intelligence in the Republic of Tajikistan to 2040",
       "instrumentType": "Strategy",
@@ -7374,7 +7374,7 @@
     },
     {
       "id": "CU-RES-94-2022-AI-RESEARCH",
-      "jurisdiction": "Cuba · National",
+      "jurisdiction": "Cuba",
       "regulator": "Ministry of Science, Technology and Environment",
       "title": "Resolution 94/2022: National Science, Technology and Innovation Programs 2021–2025 (including Automation, Robotics and Artificial Intelligence)",
       "instrumentType": "Resolution",
@@ -7527,7 +7527,7 @@
     },
     {
       "id": "BO-AI-LIFECYCLE-MANUAL-2021",
-      "jurisdiction": "Bolivia · National",
+      "jurisdiction": "Bolivia",
       "regulator": "Ministry of Productive Development and Plural Economy · SIIP / DGAP",
       "title": "Technical Manual: Artificial Intelligence Life Cycle (Manual técnico · Ciclo de vida de la inteligencia artificial)",
       "instrumentType": "Government guidance",
@@ -7546,7 +7546,7 @@
     },
     {
       "id": "TV-NATIONAL-ICT-POLICY-AI",
-      "jurisdiction": "Tuvalu · National",
+      "jurisdiction": "Tuvalu",
       "regulator": "Department of ICT / Ministry of Transport, Energy, Communications and Innovation",
       "title": "Tuvalu National ICT Policy 2021",
       "instrumentType": "ICT policy",
@@ -7565,7 +7565,7 @@
     },
     {
       "id": "RU-DECREE-490-NATIONAL-AI-STRATEGY",
-      "jurisdiction": "Russia · National",
+      "jurisdiction": "Russia",
       "regulator": "President of the Russian Federation; Government of the Russian Federation",
       "title": "Presidential Decree No. 490: National Strategy for AI Development to 2030",
       "instrumentType": "Presidential Decree / Strategy",
@@ -7601,7 +7601,7 @@
     },
     {
       "id": "VC-AI-LAW-REVIEW-2026",
-      "jurisdiction": "Saint Vincent and the Grenadines · National",
+      "jurisdiction": "Saint Vincent and the Grenadines",
       "regulator": "Parliament / Government Printer",
       "title": "AI-specific laws and regulations: official repository review",
       "instrumentType": "Coverage review",
@@ -7637,7 +7637,7 @@
     },
     {
       "id": "TG-NATIONAL-AI-STRATEGY",
-      "jurisdiction": "Togo · National",
+      "jurisdiction": "Togo",
       "regulator": "Ministry of Public Service Efficiency and Digital Transformation",
       "title": "Togo National Artificial Intelligence Strategy (local-language AI priorities)",
       "instrumentType": "Strategy",
@@ -7656,7 +7656,7 @@
     },
     {
       "id": "STP-AI-READINESS-REPORT",
-      "jurisdiction": "Sao Tome and Principe · National",
+      "jurisdiction": "Sao Tome and Principe",
       "regulator": "National Institute of Innovation and Knowledge (INIC)",
       "title": "Artificial Intelligence in São Tomé and Príncipe: Readiness Assessment",
       "instrumentType": "Readiness assessment",
@@ -7675,7 +7675,7 @@
     },
     {
       "id": "SS-AI-LEGAL-STATUS-REVIEW",
-      "jurisdiction": "South Sudan · National",
+      "jurisdiction": "South Sudan",
       "regulator": "Ministry of Information, Communication Technology and Postal Services",
       "title": "AI-specific legal status review",
       "instrumentType": "Coverage review",
@@ -7694,7 +7694,7 @@
     },
     {
       "id": "SO-NATIONAL-AI-STRATEGY-2026-DRAFT",
-      "jurisdiction": "Somalia · National",
+      "jurisdiction": "Somalia",
       "regulator": "Somali National University; Somali National Artificial Intelligence Center",
       "title": "National AI Strategy 2026–2030 (in preparation)",
       "instrumentType": "Strategy",
@@ -7713,7 +7713,7 @@
     },
     {
       "id": "SC-AI-GOVERNANCE-FRAMEWORKS-2026",
-      "jurisdiction": "Seychelles · National",
+      "jurisdiction": "Seychelles",
       "regulator": "Government of Seychelles; Ministry of Finance, National Planning and Trade",
       "title": "2026 Budget commitment to develop AI and data governance frameworks",
       "instrumentType": "Policy initiative",
@@ -7774,7 +7774,7 @@
     },
     {
       "id": "PW-AI-LEGAL-STATUS-REVIEW",
-      "jurisdiction": "Palau · National",
+      "jurisdiction": "Palau",
       "regulator": "Government of Palau / National Congress",
       "title": "AI-specific legal status review",
       "instrumentType": "Coverage review",
@@ -7793,7 +7793,7 @@
     },
     {
       "id": "PS-AI-STRATEGY-FINAL-REVIEW",
-      "jurisdiction": "Palestine · National",
+      "jurisdiction": "Palestine",
       "regulator": "Ministry of Telecommunications and Digital Economy",
       "title": "National AI Strategy final version (review/adoption process)",
       "instrumentType": "Strategy",
@@ -7812,7 +7812,7 @@
     },
     {
       "id": "MW-NATIONAL-DIGITALIZATION-POLICY-2023-2028",
-      "jurisdiction": "Malawi · National",
+      "jurisdiction": "Malawi",
       "regulator": "Government of Malawi; Ministry of Information and Communications Technology",
       "title": "National Digitalization Policy 2023–2028 · AI legal and ethics framework actions",
       "instrumentType": "Policy",
@@ -7831,7 +7831,7 @@
     },
     {
       "id": "ML-DIGITAL-HEALTH-PLAN-REVIEW",
-      "jurisdiction": "Mali · National",
+      "jurisdiction": "Mali",
       "regulator": "Ministry of Health and Social Development",
       "title": "National Digital Health Strategic Plan 2024–2028 (AI relevance review)",
       "instrumentType": "Sectoral digital policy",
@@ -7850,7 +7850,7 @@
     },
     {
       "id": "MH-AI-GOVERNANCE-REVIEW-2026",
-      "jurisdiction": "Marshall Islands · National",
+      "jurisdiction": "Marshall Islands",
       "regulator": "Republic of the Marshall Islands Government",
       "title": "AI-specific instrument review (official-source coverage)",
       "instrumentType": "Coverage review",
@@ -7869,7 +7869,7 @@
     },
     {
       "id": "MC-AI-LEGAL-STATUS-REVIEW",
-      "jurisdiction": "Monaco · National",
+      "jurisdiction": "Monaco",
       "regulator": "Government of Monaco / Monaco Digital Security Agency",
       "title": "AI-specific legal status review",
       "instrumentType": "Coverage review",
@@ -7888,7 +7888,7 @@
     },
     {
       "id": "LR-NATIONAL-DIGITAL-STRATEGY-AI-ROADMAP",
-      "jurisdiction": "Liberia · National",
+      "jurisdiction": "Liberia",
       "regulator": "Ministry of Posts and Telecommunications; Ministries, Agencies and Commissions",
       "title": "National Digital Strategy 2025–2029 · AI strategy development roadmap",
       "instrumentType": "Strategy",
@@ -7907,7 +7907,7 @@
     },
     {
       "id": "LI-EU-AI-ACT-EEA-STATUS-REVIEW",
-      "jurisdiction": "Liechtenstein · National / EEA status",
+      "jurisdiction": "Liechtenstein",
       "regulator": "Office for Digital Innovation; EEA Coordination Unit",
       "title": "Official EEA status review: EU Artificial Intelligence Act in Liechtenstein",
       "instrumentType": "Coverage review",
@@ -7926,7 +7926,7 @@
     },
     {
       "id": "LC-AI-POLICY-LEGISLATIVE-FRAMEWORK-PROJECT",
-      "jurisdiction": "Saint Lucia · National",
+      "jurisdiction": "Saint Lucia",
       "regulator": "Government of Saint Lucia",
       "title": "Digital Transformation Agenda consultancy: develop first AI policy and legislative framework",
       "instrumentType": "Policy initiative",
@@ -7945,7 +7945,7 @@
     },
     {
       "id": "LB-NATIONAL-AI-FRAMEWORK-CONSULTATION",
-      "jurisdiction": "Lebanon · National",
+      "jurisdiction": "Lebanon",
       "regulator": "Ministry of Technology and Artificial Intelligence (MITAI)",
       "title": "National AI Framework (consultation reported by MITAI)",
       "instrumentType": "Framework",
@@ -7964,7 +7964,7 @@
     },
     {
       "id": "KW-NATIONAL-AI-STRATEGY-DRAFT",
-      "jurisdiction": "Kuwait · National",
+      "jurisdiction": "Kuwait",
       "regulator": "Central Agency for Information Technology",
       "title": "Kuwait National AI Strategy 2025–2028 (draft)",
       "instrumentType": "Strategy",
@@ -7983,7 +7983,7 @@
     },
     {
       "id": "KP-AI-LEGAL-STATUS-REVIEW",
-      "jurisdiction": "North Korea · National",
+      "jurisdiction": "North Korea",
       "regulator": "Government of the Democratic People’s Republic of Korea",
       "title": "AI-specific legal status review",
       "instrumentType": "Coverage review",
@@ -8002,7 +8002,7 @@
     },
     {
       "id": "KI-NATIONAL-ICT-POLICY-2019",
-      "jurisdiction": "Kiribati · National",
+      "jurisdiction": "Kiribati",
       "regulator": "Ministry of Information, Communications and Transport",
       "title": "National ICT Policy 2019",
       "instrumentType": "Policy",
@@ -8021,7 +8021,7 @@
     },
     {
       "id": "KI-DATA-PROTECTION-ACT-2025",
-      "jurisdiction": "Kiribati · National",
+      "jurisdiction": "Kiribati",
       "regulator": "Digital Transformation Office",
       "title": "Data Protection Act 2025",
       "instrumentType": "Act",
@@ -8040,7 +8040,7 @@
     },
     {
       "id": "KH-AI-POLICY-FRAMEWORK-OPTIONS",
-      "jurisdiction": "Cambodia · National",
+      "jurisdiction": "Cambodia",
       "regulator": "Ministry of Industry, Science, Technology & Innovation; Ministry of Post and Telecommunications",
       "title": "AI for Cambodia: Policy Framework and Options (strategy-development report)",
       "instrumentType": "Policy initiative",
@@ -8080,7 +8080,7 @@
     },
     {
       "id": "HN-DIGITAL-GOVERNMENT-AI-REVIEW",
-      "jurisdiction": "Honduras · National",
+      "jurisdiction": "Honduras",
       "regulator": "Directorate of Results Management (DIGER) / Presidency",
       "title": "Digital government policy and AI legal status review",
       "instrumentType": "Coverage review",
@@ -8099,7 +8099,7 @@
     },
     {
       "id": "GQ-AI-GOVERNMENT-DIRECTORATE",
-      "jurisdiction": "Equatorial Guinea · National",
+      "jurisdiction": "Equatorial Guinea",
       "regulator": "Ministry of Transport, Telecommunications and Artificial Intelligence Systems",
       "title": "Directorate General of Artificial Intelligence Systems",
       "instrumentType": "Government administration",
@@ -8118,7 +8118,7 @@
     },
     {
       "id": "GN-NATIONAL-DATA-AI-STRATEGY-PROCESS",
-      "jurisdiction": "Guinea · National",
+      "jurisdiction": "Guinea",
       "regulator": "Ministry of Higher Education, Scientific Research and Innovation",
       "title": "National digital data and AI strategy development process",
       "instrumentType": "Strategy",
@@ -8137,7 +8137,7 @@
     },
     {
       "id": "GN-BISSAU-AI-SOURCE-REVIEW",
-      "jurisdiction": "Guinea-Bissau · National",
+      "jurisdiction": "Guinea-Bissau",
       "regulator": "Government of Guinea-Bissau / INCM",
       "title": "AI-specific law and policy source review",
       "instrumentType": "Coverage review",
@@ -8156,7 +8156,7 @@
     },
     {
       "id": "GM-AI-DEVELOPMENT-POLICY-STRATEGY-PROPOSAL",
-      "jurisdiction": "The Gambia · National",
+      "jurisdiction": "The Gambia",
       "regulator": "Ministry of Communications and Digital Economy",
       "title": "Proposed Artificial Intelligence Development Policy and Strategy (National Digital Economy Masterplan)",
       "instrumentType": "Policy initiative",
@@ -8175,7 +8175,7 @@
     },
     {
       "id": "GD-AI-GOVERNMENT-DIGITAL-POLICY",
-      "jurisdiction": "Grenada · National",
+      "jurisdiction": "Grenada",
       "regulator": "Cabinet Office, Division of ICT",
       "title": "Government digital policy and AI-powered tools (coverage record)",
       "instrumentType": "Digital policy review",
@@ -8194,7 +8194,7 @@
     },
     {
       "id": "ERITREA-AI-STATUS-FOLLOWUP",
-      "jurisdiction": "Eritrea · National",
+      "jurisdiction": "Eritrea",
       "regulator": "Government of Eritrea",
       "title": "AI-specific law and policy source review (follow-up)",
       "instrumentType": "Coverage review",
@@ -8213,7 +8213,7 @@
     },
     {
       "id": "ER-AI-SOURCE-REVIEW",
-      "jurisdiction": "Eritrea · National",
+      "jurisdiction": "Eritrea",
       "regulator": "Government of Eritrea",
       "title": "AI-specific law and policy source review",
       "instrumentType": "Coverage review",
@@ -8232,7 +8232,7 @@
     },
     {
       "id": "DM-AI-LAW-REVIEW-2026",
-      "jurisdiction": "Dominica · National",
+      "jurisdiction": "Dominica",
       "regulator": "Government Printery / Ministry of Public Service",
       "title": "AI-specific laws and regulations: Gazette repository review",
       "instrumentType": "Coverage review",
@@ -8251,7 +8251,7 @@
     },
     {
       "id": "BZ-AI-SOURCE-REVIEW",
-      "jurisdiction": "Belize · National",
+      "jurisdiction": "Belize",
       "regulator": "Ministry of E-Governance",
       "title": "AI-specific instrument review: national digital agenda",
       "instrumentType": "Coverage review",
@@ -8270,7 +8270,7 @@
     },
     {
       "id": "BY-AI-LEGAL-STATUS-REVIEW",
-      "jurisdiction": "Belarus · National",
+      "jurisdiction": "Belarus",
       "regulator": "National Legal Internet Portal / Ministry of Communications and Informatization",
       "title": "AI-specific legal status review",
       "instrumentType": "Coverage review",
@@ -8323,7 +8323,7 @@
     },
     {
       "id": "AO-AI-LAW-CONSULTATION-2026",
-      "jurisdiction": "Angola · National",
+      "jurisdiction": "Angola",
       "regulator": "Ministry of Telecommunications, Information Technologies and Social Communication (MINTTICS)",
       "title": "Draft Artificial Intelligence Law (Proposta de Lei da Inteligência Artificial)",
       "instrumentType": "Draft law · public consultation",
@@ -8359,7 +8359,7 @@
     },
     {
       "id": "AF-AI-SOURCE-REVIEW",
-      "jurisdiction": "Afghanistan · National",
+      "jurisdiction": "Afghanistan",
       "regulator": "Ministry of Communications and Information Technology",
       "title": "AI-specific instrument review: MCIT policy catalogue",
       "instrumentType": "Coverage review",
