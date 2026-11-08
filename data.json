@@ -1136,6 +1136,28 @@
       ]
     },
     {
+      "id": "EC-AI-PROMOTION-BILL-ARCHIVED-2026",
+      "jurisdiction": "Ecuador",
+      "regulator": "National Assembly of Ecuador",
+      "title": "Organic Bill for the Regulation and Promotion of Artificial Intelligence in Ecuador",
+      "instrumentType": "Draft bill",
+      "status": "Withdrawn",
+      "publicationDate": "2026-09-15",
+      "topic": "AI regulation · promotion · legislative status",
+      "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
+      "summary": "The National Assembly Plenary voted in September 2026 to archive this AI bill at first debate. It did not become law and is no longer an active proposal in this record. This is a different proposal from the later bill on ethical use and governance.",
+      "history": [
+        {
+          "date": "2026-09-15",
+          "change": "The Plenary approved archiving the bill at first debate, with 88 votes, according to the Assembly."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Archived status checked against the Assembly’s official notice."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-18304",
       "jurisdiction": "United States · Federal",
       "regulator": "Commerce Department, Census Bureau",
@@ -1265,6 +1287,32 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "EC-DRAFT-AI-GOVERNANCE-BILL-2026",
+      "jurisdiction": "Ecuador",
+      "regulator": "National Assembly of Ecuador; Education, Culture, Science, Technology, Innovation and Ancestral Knowledge Committee",
+      "title": "Organic Bill for the Development, Ethical Use and Governance of Artificial Intelligence in Ecuador",
+      "instrumentType": "Draft bill",
+      "status": "Proposed",
+      "publicationDate": "2026-09-01",
+      "topic": "AI regulation · governance · rights · risk management",
+      "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticia/119810-comision-de-educacion-conoce-propuesta-para-regular-el",
+      "summary": "A proposed AI governance bill was introduced in September 2026 and qualified for committee treatment. It proposes rules on rights, child protection, risk management, responsibility and public oversight. The Assembly reported continued committee analysis in November 2026; it is not enacted law.",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "change": "Assembly reporting said the bill was presented by Assembly member Cecilia Baltazar."
+        },
+        {
+          "date": "2026-09-30",
+          "change": "The committee began treatment after qualification by the Legislative Administration Council."
+        },
+        {
+          "date": "2026-11-04",
+          "change": "The Assembly reported continued committee analysis of an AI bill and the government’s new strategy."
         }
       ]
     },
@@ -1493,6 +1541,28 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "PA-RES-89-26-NAI-STRATEGY",
+      "jurisdiction": "Panama",
+      "regulator": "Council of Ministers; Ministry of the Presidency; National Secretariat of Science, Technology and Innovation (SENACYT)",
+      "title": "Cabinet Resolution No. 89-26 approving Panama’s National Artificial Intelligence Strategy",
+      "instrumentType": "Cabinet resolution approving national strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-08-12",
+      "topic": "AI strategy · governance · innovation · responsible adoption",
+      "sourceUrl": "https://www.senacyt.gob.pa/gabinete-aprueba-la-estrategia-nacional-de-inteligencia-artificial/",
+      "summary": "Panama’s Cabinet approved Resolution No. 89-26 and its National AI Strategy on 12 August 2026. The strategy sets policy priorities for responsible AI development and adoption, including local capacity, technology sovereignty and sustainability. The register classifies the strategy as adopted policy, not as a comprehensive AI statute.",
+      "history": [
+        {
+          "date": "2026-08-12",
+          "change": "SENACYT announced Cabinet approval of Resolution No. 89-26 and the National AI Strategy."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Approval and policy classification checked against SENACYT’s official release."
         }
       ]
     },
@@ -2669,6 +2739,28 @@
       ]
     },
     {
+      "id": "EC-EFIA-2026-2029",
+      "jurisdiction": "Ecuador",
+      "regulator": "Ministry of Telecommunications and Information Society (MINTEL)",
+      "title": "Strategy for the Promotion of Ethical and Responsible AI Development and Use in Ecuador (EFIA) 2026–2029",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-03-10",
+      "topic": "AI strategy · governance · capacity · adoption",
+      "sourceUrl": "https://www.telecomunicaciones.gob.ec/gobierno-de-daniel-noboa-presenta-la-estrategia-para-la-inteligencia-artificial-en-ecuador/",
+      "summary": "Ecuador’s Ministry of Telecommunications presented a national AI strategy in March 2026. It sets a roadmap around AI governance, skills and technology, and AI adoption and development. It is government policy, not a standalone statute.",
+      "history": [
+        {
+          "date": "2026-03-10",
+          "change": "MINTEL officially presented the EFIA strategy and its three pillars."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Strategy scope and date checked against MINTEL’s official release."
+        }
+      ]
+    },
+    {
       "id": "IN-IT-RULES-AMENDMENT-2026-GSR120E",
       "jurisdiction": "India",
       "regulator": "Ministry of Electronics and Information Technology",
@@ -3105,6 +3197,50 @@
       ]
     },
     {
+      "id": "NZ-RESPONSIBLE-AI-GUIDANCE-BUSINESS-2025",
+      "jurisdiction": "New Zealand",
+      "regulator": "Ministry of Business, Innovation and Employment (MBIE)",
+      "title": "Responsible Artificial Intelligence Guidance for Businesses",
+      "instrumentType": "Government guidance",
+      "status": "Guidance",
+      "publicationDate": "2025-07-08",
+      "topic": "AI governance · business guidance · risk management",
+      "sourceUrl": "https://www.mbie.govt.nz/business-and-employment/business/support-for-business/responsible-ai-guidance-for-businesses",
+      "summary": "MBIE’s voluntary guidance helps businesses consider governance, accountability, privacy, cybersecurity, human rights, safety and other risks when using or developing AI. The ministry says it is guidance and does not replace applicable legislation.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "change": "MBIE released Responsible AI Guidance for Businesses alongside the national strategy."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Voluntary nature checked against MBIE’s official guidance page."
+        }
+      ]
+    },
+    {
+      "id": "NZ-AI-STRATEGY-2025",
+      "jurisdiction": "New Zealand",
+      "regulator": "Ministry of Business, Innovation and Employment (MBIE)",
+      "title": "New Zealand’s Strategy for Artificial Intelligence: Investing with Confidence",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-07-08",
+      "topic": "AI strategy · adoption · productivity · innovation",
+      "sourceUrl": "https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence",
+      "summary": "New Zealand’s July 2025 strategy encourages AI adoption and innovation, with the government taking a light-touch approach and relying on existing laws to manage risks. It is a national policy strategy, not a new AI statute.",
+      "history": [
+        {
+          "date": "2025-07-08",
+          "change": "The Government launched its first AI Strategy, as announced by the Minister of Science, Innovation and Technology."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Strategy and policy status checked against MBIE’s official page."
+        }
+      ]
+    },
+    {
       "id": "NO-DRAFT-AI-ACT-2025-2026",
       "jurisdiction": "Norway",
       "regulator": "Ministry of Digitalisation and Public Governance",
@@ -3514,6 +3650,28 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the official government publication page."
+        }
+      ]
+    },
+    {
+      "id": "CR-ENIA-2024-2027",
+      "jurisdiction": "Costa Rica",
+      "regulator": "Ministry of Science, Innovation, Technology and Telecommunications (MICITT)",
+      "title": "National Artificial Intelligence Strategy of Costa Rica 2024–2027",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2024-10-24",
+      "topic": "AI strategy · responsible adoption · inclusion · sustainability",
+      "sourceUrl": "https://www.micitt.go.cr/el-sector-informa/micitt-presento-estrategia-nacional-de-inteligencia-artificial-enia",
+      "summary": "Costa Rica launched a national public policy strategy to guide AI use, adoption and development from 2024 to 2027. It focuses on responsible and ethical use, inclusion, sustainability, risk management, cybersecurity and national capabilities. It is policy, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2024-10-24",
+          "change": "MICITT announced the launch of the 2024–2027 National AI Strategy."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Strategy period and public-policy classification checked against MICITT’s official page."
         }
       ]
     },
@@ -4667,164 +4825,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "CR-ENIA-2024-2027",
-      "jurisdiction": "Costa Rica",
-      "regulator": "Ministry of Science, Innovation, Technology and Telecommunications (MICITT)",
-      "title": "National Artificial Intelligence Strategy of Costa Rica 2024–2027",
-      "instrumentType": "National strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2024-10-24",
-      "topic": "AI strategy · responsible adoption · inclusion · sustainability",
-      "sourceUrl": "https://www.micitt.go.cr/el-sector-informa/micitt-presento-estrategia-nacional-de-inteligencia-artificial-enia",
-      "summary": "Costa Rica launched a national public policy strategy to guide AI use, adoption and development from 2024 to 2027. It focuses on responsible and ethical use, inclusion, sustainability, risk management, cybersecurity and national capabilities. It is policy, not a standalone AI statute.",
-      "history": [
-        {
-          "date": "2024-10-24",
-          "change": "MICITT announced the launch of the 2024–2027 National AI Strategy."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Strategy period and public-policy classification checked against MICITT’s official page."
-        }
-      ]
-    },
-    {
-      "id": "PA-RES-89-26-NAI-STRATEGY",
-      "jurisdiction": "Panama",
-      "regulator": "Council of Ministers; Ministry of the Presidency; National Secretariat of Science, Technology and Innovation (SENACYT)",
-      "title": "Cabinet Resolution No. 89-26 approving Panama’s National Artificial Intelligence Strategy",
-      "instrumentType": "Cabinet resolution approving national strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-08-12",
-      "topic": "AI strategy · governance · innovation · responsible adoption",
-      "sourceUrl": "https://www.senacyt.gob.pa/gabinete-aprueba-la-estrategia-nacional-de-inteligencia-artificial/",
-      "summary": "Panama’s Cabinet approved Resolution No. 89-26 and its National AI Strategy on 12 August 2026. The strategy sets policy priorities for responsible AI development and adoption, including local capacity, technology sovereignty and sustainability. The register classifies the strategy as adopted policy, not as a comprehensive AI statute.",
-      "history": [
-        {
-          "date": "2026-08-12",
-          "change": "SENACYT announced Cabinet approval of Resolution No. 89-26 and the National AI Strategy."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Approval and policy classification checked against SENACYT’s official release."
-        }
-      ]
-    },
-    {
-      "id": "NZ-AI-STRATEGY-2025",
-      "jurisdiction": "New Zealand",
-      "regulator": "Ministry of Business, Innovation and Employment (MBIE)",
-      "title": "New Zealand’s Strategy for Artificial Intelligence: Investing with Confidence",
-      "instrumentType": "National strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2025-07-08",
-      "topic": "AI strategy · adoption · productivity · innovation",
-      "sourceUrl": "https://www.mbie.govt.nz/business-and-employment/economic-growth/digital-policy/new-zealands-ai-strategy-investing-with-confidence",
-      "summary": "New Zealand’s July 2025 strategy encourages AI adoption and innovation, with the government taking a light-touch approach and relying on existing laws to manage risks. It is a national policy strategy, not a new AI statute.",
-      "history": [
-        {
-          "date": "2025-07-08",
-          "change": "The Government launched its first AI Strategy, as announced by the Minister of Science, Innovation and Technology."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Strategy and policy status checked against MBIE’s official page."
-        }
-      ]
-    },
-    {
-      "id": "NZ-RESPONSIBLE-AI-GUIDANCE-BUSINESS-2025",
-      "jurisdiction": "New Zealand",
-      "regulator": "Ministry of Business, Innovation and Employment (MBIE)",
-      "title": "Responsible Artificial Intelligence Guidance for Businesses",
-      "instrumentType": "Government guidance",
-      "status": "Guidance",
-      "publicationDate": "2025-07-08",
-      "topic": "AI governance · business guidance · risk management",
-      "sourceUrl": "https://www.mbie.govt.nz/business-and-employment/business/support-for-business/responsible-ai-guidance-for-businesses",
-      "summary": "MBIE’s voluntary guidance helps businesses consider governance, accountability, privacy, cybersecurity, human rights, safety and other risks when using or developing AI. The ministry says it is guidance and does not replace applicable legislation.",
-      "history": [
-        {
-          "date": "2025-07-08",
-          "change": "MBIE released Responsible AI Guidance for Businesses alongside the national strategy."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Voluntary nature checked against MBIE’s official guidance page."
-        }
-      ]
-    },
-    {
-      "id": "EC-EFIA-2026-2029",
-      "jurisdiction": "Ecuador",
-      "regulator": "Ministry of Telecommunications and Information Society (MINTEL)",
-      "title": "Strategy for the Promotion of Ethical and Responsible AI Development and Use in Ecuador (EFIA) 2026–2029",
-      "instrumentType": "National strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-03-10",
-      "topic": "AI strategy · governance · capacity · adoption",
-      "sourceUrl": "https://www.telecomunicaciones.gob.ec/gobierno-de-daniel-noboa-presenta-la-estrategia-para-la-inteligencia-artificial-en-ecuador/",
-      "summary": "Ecuador’s Ministry of Telecommunications presented a national AI strategy in March 2026. It sets a roadmap around AI governance, skills and technology, and AI adoption and development. It is government policy, not a standalone statute.",
-      "history": [
-        {
-          "date": "2026-03-10",
-          "change": "MINTEL officially presented the EFIA strategy and its three pillars."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Strategy scope and date checked against MINTEL’s official release."
-        }
-      ]
-    },
-    {
-      "id": "EC-DRAFT-AI-GOVERNANCE-BILL-2026",
-      "jurisdiction": "Ecuador",
-      "regulator": "National Assembly of Ecuador; Education, Culture, Science, Technology, Innovation and Ancestral Knowledge Committee",
-      "title": "Organic Bill for the Development, Ethical Use and Governance of Artificial Intelligence in Ecuador",
-      "instrumentType": "Draft bill",
-      "status": "Proposed",
-      "publicationDate": "2026-09-01",
-      "topic": "AI regulation · governance · rights · risk management",
-      "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticia/119810-comision-de-educacion-conoce-propuesta-para-regular-el",
-      "summary": "A proposed AI governance bill was introduced in September 2026 and qualified for committee treatment. It proposes rules on rights, child protection, risk management, responsibility and public oversight. The Assembly reported continued committee analysis in November 2026; it is not enacted law.",
-      "history": [
-        {
-          "date": "2026-09-01",
-          "change": "Assembly reporting said the bill was presented by Assembly member Cecilia Baltazar."
-        },
-        {
-          "date": "2026-09-30",
-          "change": "The committee began treatment after qualification by the Legislative Administration Council."
-        },
-        {
-          "date": "2026-11-04",
-          "change": "The Assembly reported continued committee analysis of an AI bill and the government’s new strategy."
-        }
-      ]
-    },
-    {
-      "id": "EC-AI-PROMOTION-BILL-ARCHIVED-2026",
-      "jurisdiction": "Ecuador",
-      "regulator": "National Assembly of Ecuador",
-      "title": "Organic Bill for the Regulation and Promotion of Artificial Intelligence in Ecuador",
-      "instrumentType": "Draft bill",
-      "status": "Withdrawn",
-      "publicationDate": "2026-09-15",
-      "topic": "AI regulation · promotion · legislative status",
-      "sourceUrl": "https://www.asambleanacional.gob.ec/es/noticia/119354-pleno-archiva-proyecto-de-ley-de-inteligencia",
-      "summary": "The National Assembly Plenary voted in September 2026 to archive this AI bill at first debate. It did not become law and is no longer an active proposal in this record. This is a different proposal from the later bill on ethical use and governance.",
-      "history": [
-        {
-          "date": "2026-09-15",
-          "change": "The Plenary approved archiving the bill at first debate, with 88 votes, according to the Assembly."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Archived status checked against the Assembly’s official notice."
         }
       ]
     }
