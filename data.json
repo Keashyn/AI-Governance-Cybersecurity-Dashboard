@@ -733,6 +733,24 @@
       ]
     },
     {
+      "id": "GH-PUBLIC-SECTOR-AI-PROCUREMENT-2026",
+      "jurisdiction": "Ghana",
+      "regulator": "Ministry of Communication, Digital Technology and Innovations · National Information Technology Agency",
+      "title": "Centralized Technical Review for Public-Sector AI Acquisitions",
+      "instrumentType": "Government procurement governance policy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-10-02",
+      "topic": "AI governance · public procurement · data sovereignty",
+      "sourceUrl": "https://www.isd.gov.gh/government-introduces-centralised-review-for-public-sector-ai-acquisitions/",
+      "summary": "The government announced a centralized review mechanism for AI purchases by public institutions. The review is described as checking interoperability, data protection, cybersecurity, sustainability and local skills transfer. The official announcement does not identify a separate law or instrument number, so this is recorded as government policy rather than a statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Information Services Department announcement."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-20143",
       "jurisdiction": "United States · Federal",
       "regulator": "Federal Trade Commission",
@@ -4213,24 +4231,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "GH-PUBLIC-SECTOR-AI-PROCUREMENT-2026",
-      "jurisdiction": "Ghana",
-      "regulator": "Ministry of Communication, Digital Technology and Innovations · National Information Technology Agency",
-      "title": "Centralized Technical Review for Public-Sector AI Acquisitions",
-      "instrumentType": "Government procurement governance policy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-10-02",
-      "topic": "AI governance · public procurement · data sovereignty",
-      "sourceUrl": "https://www.isd.gov.gh/government-introduces-centralised-review-for-public-sector-ai-acquisitions/",
-      "summary": "The government announced a centralized review mechanism for AI purchases by public institutions. The review is described as checking interoperability, data protection, cybersecurity, sustainability and local skills transfer. The official announcement does not identify a separate law or instrument number, so this is recorded as government policy rather than a statute.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Information Services Department announcement."
         }
       ]
     }
