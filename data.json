@@ -823,6 +823,24 @@
       ]
     },
     {
+      "id": "ET-CMR-588-2026-AI-UNIVERSITY",
+      "jurisdiction": "Ethiopia",
+      "regulator": "Council of Ministers of Ethiopia · Ministry of Justice legal register",
+      "title": "Council of Ministers Regulation No. 588/2026 · Medemer University of Artificial Intelligence Establishment",
+      "instrumentType": "Council of Ministers regulation",
+      "status": "In force",
+      "publicationDate": "2026-09-25",
+      "topic": "AI education · national capacity",
+      "sourceUrl": "https://justice.gov.et/en/law/%E1%88%98%E1%8B%B0%E1%88%98%E1%88%AD-%E1%8B%A8%E1%8A%A0%E1%88%AD%E1%89%B2%E1%8D%8A%E1%88%BB%E1%88%8D-%E1%8A%A2%E1%8A%95%E1%89%B0%E1%88%88%E1%8C%80%E1%8A%95%E1%88%B5-%E1%8B%A9%E1%8A%E1%92%E1%92/",
+      "summary": "This regulation establishes Medemer University of Artificial Intelligence. The Ministry of Justice lists it as in force from 25 September 2026. It concerns an AI-focused university and does not itself impose general AI system governance duties.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry of Justice official law register."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-19535",
       "jurisdiction": "United States · Federal",
       "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
@@ -4029,6 +4047,24 @@
       ]
     },
     {
+      "id": "ET-CMR-510-2022-AI-INSTITUTE",
+      "jurisdiction": "Ethiopia",
+      "regulator": "Council of Ministers of Ethiopia · Ministry of Justice legal register",
+      "title": "Council of Ministers Regulation No. 510/2022 · Establishment of the Artificial Intelligence Institute",
+      "instrumentType": "Council of Ministers regulation",
+      "status": "In force",
+      "publicationDate": "2022-04-23",
+      "topic": "AI institutions · national capacity",
+      "sourceUrl": "https://justice.gov.et/en/law/artificial-intelligence-institute-establishment-council-of-ministers-regulation-customs-regulation-council-of-ministers-regulation-no-510-2022/",
+      "summary": "This regulation establishes Ethiopia’s Artificial Intelligence Institute. The Ministry of Justice lists it as an in-force regulation. It creates an AI institution; it is not a general set of obligations for organizations that develop or use AI systems.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Ministry of Justice law record, which lists the regulation as in force."
+        }
+      ]
+    },
+    {
       "id": "CN-ALG-RECOMMEND-2022",
       "jurisdiction": "China",
       "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security; State Administration for Market Regulation",
@@ -4172,42 +4208,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "ET-CMR-510-2022-AI-INSTITUTE",
-      "jurisdiction": "Ethiopia",
-      "regulator": "Council of Ministers of Ethiopia · Ministry of Justice legal register",
-      "title": "Council of Ministers Regulation No. 510/2022 · Establishment of the Artificial Intelligence Institute",
-      "instrumentType": "Council of Ministers regulation",
-      "status": "In force",
-      "publicationDate": "2022-04-23",
-      "topic": "AI institutions · national capacity",
-      "sourceUrl": "https://justice.gov.et/en/law/artificial-intelligence-institute-establishment-council-of-ministers-regulation-customs-regulation-council-of-ministers-regulation-no-510-2022/",
-      "summary": "This regulation establishes Ethiopia’s Artificial Intelligence Institute. The Ministry of Justice lists it as an in-force regulation. It creates an AI institution; it is not a general set of obligations for organizations that develop or use AI systems.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Ministry of Justice law record, which lists the regulation as in force."
-        }
-      ]
-    },
-    {
-      "id": "ET-CMR-588-2026-AI-UNIVERSITY",
-      "jurisdiction": "Ethiopia",
-      "regulator": "Council of Ministers of Ethiopia · Ministry of Justice legal register",
-      "title": "Council of Ministers Regulation No. 588/2026 · Medemer University of Artificial Intelligence Establishment",
-      "instrumentType": "Council of Ministers regulation",
-      "status": "In force",
-      "publicationDate": "2026-09-25",
-      "topic": "AI education · national capacity",
-      "sourceUrl": "https://justice.gov.et/en/law/%E1%88%98%E1%8B%B0%E1%88%98%E1%88%AD-%E1%8B%A8%E1%8A%A0%E1%88%AD%E1%89%B2%E1%8D%8A%E1%88%BB%E1%88%8D-%E1%8A%A2%E1%8A%95%E1%89%B0%E1%88%88%E1%8C%80%E1%8A%95%E1%88%B5-%E1%8B%A9%E1%8A%E1%92%E1%92/",
-      "summary": "This regulation establishes Medemer University of Artificial Intelligence. The Ministry of Justice lists it as in force from 25 September 2026. It concerns an AI-focused university and does not itself impose general AI system governance duties.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry of Justice official law register."
         }
       ]
     }
