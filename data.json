@@ -3022,6 +3022,24 @@
       ]
     },
     {
+      "id": "MZ-DRAFT-NATIONAL-AI-STRATEGY-CONSULTATION-2026",
+      "jurisdiction": "Mozambique",
+      "regulator": "Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC)",
+      "title": "Draft National Artificial Intelligence Strategy (Draft 6)",
+      "instrumentType": "National AI strategy (draft; public consultation)",
+      "status": "Consultation",
+      "publicationDate": "2026-05-05",
+      "topic": "National AI strategy · ethical governance · digital economy · public services",
+      "sourceUrl": "https://intic.gov.mz/consulta-publica-da-proposta-da-estrategia-nacional-de-inteligencia-artificial/",
+      "summary": "INTIC published the first version of a proposed National AI Strategy and invited public input to refine it. The proposal aims to guide an ethical, inclusive and sustainable AI ecosystem and improve public services and economic development. Comments were due by September 4, 2026. The document remains a proposal in the official consultation materials, not an adopted strategy or law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from INTIC’s official public consultation notice; it identifies the document as a draft and records the comment deadline."
+        }
+      ]
+    },
+    {
       "id": "BS-PLANNED-AI-GOVERNANCE-ACT-2026-27",
       "jurisdiction": "The Bahamas",
       "regulator": "Ministry of Innovation and National Development · Government of The Bahamas",
@@ -3104,6 +3122,42 @@
         {
           "date": "2026-11-08",
           "change": "Status checked against official government news service."
+        }
+      ]
+    },
+    {
+      "id": "MU-NATIONAL-AI-STRATEGY-2026-2030",
+      "jurisdiction": "Mauritius",
+      "regulator": "Ministry of Information Technology, Communication and Innovation · AI Unit",
+      "title": "National Artificial Intelligence Strategy",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-04-10",
+      "topic": "National AI strategy · ethical adoption · infrastructure · skills · innovation",
+      "sourceUrl": "https://mitci.govmu.org/mitci/national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritius-as-a-high-tech-innovation-driven-economy/",
+      "summary": "Mauritius officially launched its first National AI Strategy to guide AI adoption and development, with priorities including ethical and transparent use, infrastructure, skills, research, startups and inclusive growth. This is a policy strategy rather than a standalone AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official announcement of the strategy launch on April 9, 2026."
+        }
+      ]
+    },
+    {
+      "id": "MU-FAIR-RESPONSIBLE-AI-GUIDELINES-2026",
+      "jurisdiction": "Mauritius",
+      "regulator": "Ministry of Information Technology, Communication and Innovation · AI Unit",
+      "title": "FAIR Guidelines for Responsible AI",
+      "instrumentType": "AI ethics guideline",
+      "status": "Guidance",
+      "publicationDate": "2026-04-10",
+      "topic": "Fairness · accountability · inclusion · integrity · responsible AI",
+      "sourceUrl": "https://mitci.govmu.org/mitci/national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritius-as-a-high-tech-innovation-driven-economy/",
+      "summary": "Launched alongside the National AI Strategy, the FAIR Guidelines set principles grounded in fairness, accountability, inclusiveness, integrity and responsibility for ethical AI development and use. The government describes these as guidelines, not a generally applicable binding AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official announcement of the FAIR Guidelines launch."
         }
       ]
     },
@@ -5723,60 +5777,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "MU-NATIONAL-AI-STRATEGY-2026-2030",
-      "jurisdiction": "Mauritius",
-      "regulator": "Ministry of Information Technology, Communication and Innovation · AI Unit",
-      "title": "National Artificial Intelligence Strategy",
-      "instrumentType": "National AI strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-04-10",
-      "topic": "National AI strategy · ethical adoption · infrastructure · skills · innovation",
-      "sourceUrl": "https://mitci.govmu.org/mitci/national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritius-as-a-high-tech-innovation-driven-economy/",
-      "summary": "Mauritius officially launched its first National AI Strategy to guide AI adoption and development, with priorities including ethical and transparent use, infrastructure, skills, research, startups and inclusive growth. This is a policy strategy rather than a standalone AI statute.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry’s official announcement of the strategy launch on April 9, 2026."
-        }
-      ]
-    },
-    {
-      "id": "MU-FAIR-RESPONSIBLE-AI-GUIDELINES-2026",
-      "jurisdiction": "Mauritius",
-      "regulator": "Ministry of Information Technology, Communication and Innovation · AI Unit",
-      "title": "FAIR Guidelines for Responsible AI",
-      "instrumentType": "AI ethics guideline",
-      "status": "Guidance",
-      "publicationDate": "2026-04-10",
-      "topic": "Fairness · accountability · inclusion · integrity · responsible AI",
-      "sourceUrl": "https://mitci.govmu.org/mitci/national-ai-strategy-and-fair-guidelines-unveiled-to-position-mauritius-as-a-high-tech-innovation-driven-economy/",
-      "summary": "Launched alongside the National AI Strategy, the FAIR Guidelines set principles grounded in fairness, accountability, inclusiveness, integrity and responsibility for ethical AI development and use. The government describes these as guidelines, not a generally applicable binding AI law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry’s official announcement of the FAIR Guidelines launch."
-        }
-      ]
-    },
-    {
-      "id": "MZ-DRAFT-NATIONAL-AI-STRATEGY-CONSULTATION-2026",
-      "jurisdiction": "Mozambique",
-      "regulator": "Instituto Nacional de Tecnologias de Informação e Comunicação (INTIC)",
-      "title": "Draft National Artificial Intelligence Strategy (Draft 6)",
-      "instrumentType": "National AI strategy (draft; public consultation)",
-      "status": "Consultation",
-      "publicationDate": "2026-05-05",
-      "topic": "National AI strategy · ethical governance · digital economy · public services",
-      "sourceUrl": "https://intic.gov.mz/consulta-publica-da-proposta-da-estrategia-nacional-de-inteligencia-artificial/",
-      "summary": "INTIC published the first version of a proposed National AI Strategy and invited public input to refine it. The proposal aims to guide an ethical, inclusive and sustainable AI ecosystem and improve public services and economic development. Comments were due by September 4, 2026. The document remains a proposal in the official consultation materials, not an adopted strategy or law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from INTIC’s official public consultation notice; it identifies the document as a draft and records the comment deadline."
         }
       ]
     }
