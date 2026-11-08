@@ -1,5 +1,5 @@
 {
-  "lastChecked": null,
+  "lastChecked": "2026-11-08",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -44,6 +44,1925 @@
   ],
   "items": [
     {
+      "id": "US-FR-2026-22743",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-11-09",
+      "effectiveDate": "2027-01-01",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "summary": "This final rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; limiting Medicare coverage of certain individuals; the Ambulatory Specialty Model; updates to drugs and biological products paid under Part B; Medicare Shared Savings Program requirements; updates to the Quality Payment Program; updates to policies for Rural Health Clinics and Federally Q",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-22739",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-11-06",
+      "effectiveDate": "2027-01-01",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+      "summary": "This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the ASC payment systems. In addition, this final rule with comment period updates and refines the requirements for the Hospital Outpatient Quality Reporting Program and the Ambulatory Surgical Center Quality Reporting Program. There are no changes to the Rural Emergency Hospital Quality Rep",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-22615",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Education Department",
+      "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-11-05",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
+      "summary": "The Secretary proposes to amend the Notice of Final Priorities and Definitions--Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States published in the Federal Register on September 9, 2025, the Notice of Final Priority and Definitions--Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities published in the Federal Register on February 12, 2026, the Notice of Final Priority and Definitions--Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness published in the Federal Register on April 13, 2026, and the Notice of Final Priority and Definition",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-22593",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Food and Drug Administration",
+      "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-11-05",
+      "effectiveDate": "2026-11-05",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+      "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligence algorithm. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reduci",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-22174",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Education Department",
+      "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-10-30",
+      "effectiveDate": "2027-07-01",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
+      "summary": "The Department revises the existing accrediting agency recognition regulations to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-22047",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Education Department",
+      "title": "Request for Information",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-29",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/29/2026-22047/request-for-information",
+      "summary": "NCES seeks comment on the strategic redesign of its portfolio of studies, including administrative data collections and sample surveys, both cross-sectional and longitudinal.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21948",
+      "jurisdiction": "United States · Federal",
+      "regulator": "National Credit Union Administration",
+      "title": "NCUA Draft 2027-2028 Budget",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-28",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/28/2026-21948/ncua-draft-2027-2028-budget",
+      "summary": "NCUA's draft \"detailed business-type budget\" is being made available for public review as required by federal statute. The proposed resources will finance the agency's annual operations and capital projects, both of which are necessary for the agency to accomplish its mission of enabling access to financial services by facilitating safe, sound, and resilient credit unions. Comment instructions are included in the SUPPLEMENTARY INFORMATION section.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21939",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Library of Congress, Copyright Office, Library of Congress",
+      "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-28",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/28/2026-21939/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works",
+      "summary": "The United States Copyright Office is conducting the tenth triennial rulemaking proceeding under the Digital Millennium Copyright Act (\"DMCA\"), concerning temporary exemptions to the DMCA's prohibition against circumvention of technological measures that control access to copyrighted works. Having carefully considered the petitions for new and renewal exemptions and comments received in response to the June 9, 2026 Notification of Inquiry, the Office announces the Register's intention to recommend all but one of the existing exemptions for renewal, and initiates three rounds of public comment on newly proposed exemptions. Comments submitted may not exceed twenty-five pages per class, excludi",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21884",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Energy Department",
+      "title": "Critical Material List; Addition of Helium",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-27",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/27/2026-21884/critical-material-list-addition-of-helium",
+      "summary": "The United States (U.S.) Department of Energy (DOE) is issuing this notice to advise the public that DOE added helium to the DOE Critical Material List. This notice also provides the link to the assessment that forms the justification for including helium on the Critical Material List. Helium is non-substitutable for multiple critical energy functions, including: semiconductor manufacturing, leak testing natural gas infrastructure, and quantum computing, along with being essential to key medical/scientific applications. Demand for helium is also growing as it enables advanced semiconductor manufacturing, which is essential for SI and data center supply chains.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21786",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Treasury Department, Investment Security Office",
+      "title": "Outbound Investment Security Program Regulations",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-26",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+      "summary": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving foreign persons that are engaged in notifiable technologies; and prohibit United States persons from engaging in certain other transactions involving foreign persons that are engaged in prohibited technologies. Where consistent with Title VIII, the proposed rule incorporates certain definitions and concepts from the current regulations gov",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21658",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Agriculture Department, Food and Nutrition Administration",
+      "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-23",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/23/2026-21658/supplemental-nutrition-assistance-program-electronic-benefits-transfer-card-security-measures",
+      "summary": "The Food and Nutrition Administration (FNA or the Agency), an agency of the U.S. Department of Agriculture (USDA or the Department), is issuing a rule proposing changes to Supplemental Nutrition Assistance Program (SNAP, the Program) regulations to modernize Electronic Benefit Transfer (EBT) technology and align EBT with consumer payment processing industry standards, improving both Program integrity and convenience for SNAP clients. These proposed changes will protect SNAP benefits from thieves and ensure benefits are accessible by approved households.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21505",
+      "jurisdiction": "United States · Federal",
+      "regulator": "State Justice Institute",
+      "title": "Grant Guideline; Notice",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-21",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/21/2026-21505/grant-guideline-notice",
+      "summary": "This guideline sets forth the administrative, programmatic, and financial requirements attendant to FY 2027 State Justice Institute grants.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-21149",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-16",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20993",
+      "jurisdiction": "United States · Federal",
+      "regulator": "International Trade Commission",
+      "title": "Certain Vertical Power Delivery Systems, Components Thereof, and Computing Systems Containing the Same; Notice of Institution of Investigation",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-14",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/14/2026-20993/certain-vertical-power-delivery-systems-components-thereof-and-computing-systems-containing-the-same",
+      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on September 9, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Vicor Corporation of Andover, Massachusetts. A supplement to the complaint was filed on September 10, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain vertical power delivery systems, components thereof, and computing systems containing the same by reason of the infringement of certain claims of U.S. Patent No. 10,903,734 (\"the '734 patent\"). T",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20890",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Agriculture Department, Forest Service",
+      "title": "Project-Level Predecisional Administrative Review Process",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-10-13",
+      "effectiveDate": "2026-11-12",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process",
+      "summary": "The U.S. Department of Agriculture is issuing a final rule amending its Project-Level Predecisional Administrative Review Process regulations. These regulations establish the process by which the public may file objections seeking administrative review of proposed projects and activities implementing land management plans on national forests and grasslands. The Department is amending these regulations to consolidate and streamline processes, increase efficiency, and better align with the Agency's statutory obligations and recent rescissions and revisions to National Environmental Policy Act regulations.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20888",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commodity Futures Trading Commission",
+      "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-13",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "summary": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act (\"CEA\" or \"Act\") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20537",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Library of Congress, Copyright Office, Library of Congress",
+      "title": "Music Streaming Fraud",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-10-07",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/07/2026-20537/music-streaming-fraud",
+      "summary": "Pursuant to a congressional request, the United States Copyright Office is soliciting information from the public regarding issues related to music streaming fraud.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20474",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Investment Adviser Performance-Based Compensation Modernization",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-06",
+      "effectiveDate": "2026-10-06",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/06/2026-20474/investment-adviser-performance-based-compensation-modernization",
+      "summary": "The Securities and Exchange Commission (the \"Commission\") is proposing to amend the rule under the Investment Advisers Act of 1940 that provides an exemption from the statutory prohibition on registered investment advisers receiving compensation on the basis of a share of capital gains in or capital appreciation of an advisory client's account. Specifically, the proposed amendments would expand the ability of investment advisers to receive this compensation from clients that are registered management investment companies and business development companies (collectively, \"regulated funds\"), subject to certain conditions. The proposal would relatedly amend certain regulated fund registration a",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20466",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-06",
+      "effectiveDate": "2026-10-06",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules",
+      "summary": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 (the \"Advisers Act\") to address how registered investment advisers may custody client crypto funds and securities. We are also proposing to amend the current custody rules to modernize their requirements, to better address current indu",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20321",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Executive Office of the President",
+      "title": "Inaugurating the Era of Super Intelligence",
+      "instrumentType": "Presidential Document",
+      "status": "Consultation",
+      "publicationDate": "2026-10-02",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20143",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Trade Commission",
+      "title": "Rule on Impersonation of Government and Businesses",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-10-01",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/10/01/2026-20143/rule-on-impersonation-of-government-and-businesses",
+      "summary": "The Federal Trade Commission (\"FTC\" or \"Commission\") proposes to commence a rulemaking proceeding to prevent certain unfair or deceptive acts or practices by search engine, social media, and other digital marketplace platforms that further government and business impersonation scams to defraud consumers. The Commission is soliciting written comment, data, and arguments concerning the need for such rulemaking.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-20023",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Technical Information Service",
+      "title": "Request for Information (RFI) Regarding the Digitization and Modernization of the National Technical Reports Library (NTRL) and the Leveraging of Scientific, Technical and Engineering Information (STEI) Stored in the NTRL",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-30",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/30/2026-20023/request-for-information-rfi-regarding-the-digitization-and-modernization-of-the-national-technical",
+      "summary": "The National Technical Information Service (NTIS) is seeking general information, feedback, suggestions, and experiential and technical insights from stakeholders to inform NTIS's goal of fully digitizing, modernizing, and enhancing the utility of the National Technical Reports Library (NTRL). NTIS has historically collected, indexed, abstracted, and stored U.S. Government-sponsored technical reports and made them available to the public through the NTRL. To further unlock the NTRL's intrinsic value, NTIS aims to digitize records that are part of the NTRL but currently exist only in physical formats. Leveraging the information archived within the NTRL may include making the data more accessi",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19964",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Transportation Department, National Highway Traffic Safety Administration",
+      "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-09-30",
+      "effectiveDate": "2026-11-30",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger",
+      "summary": "NHTSA, on behalf of the U.S. Department of Transportation (DOT), is substantially recalibrating the Corporate Average Fuel Economy (CAFE) program to bring the program into compliance with the law and to remove previous regulatory distortions which have induced manufacturers to make design decisions that have neither aligned with market demand and the needs of American families nor have delivered the consistent improvements in the fuel economy performance of manufacturer fleets, as Congress intended. This recalibration finalizes amendments to fuel economy standards for light-duty vehicles for model years 2022- 2026 and MYs 2027-2031. This final rule also finalizes amendments to compliance asp",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19860",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Reserve System",
+      "title": "Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-09-29",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/29/2026-19860/implementing-the-federal-reserve-boards-responsibilities-under-the-genius-act",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) proposes to issue regulations to implement the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) with respect to Board-supervised permitted payment stablecoin issuers (PPSIs) and certain other entities that are subject to the Board's jurisdiction. In addition, the Board proposes to issue regulations to implement the prohibition on tying in section 4(a)(8) of the GENIUS Act, which is applicable generally to all PPSIs.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19835",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Labor Statistics Bureau",
+      "title": "Proposed Revision of Information Collection; National Longitudinal Survey of Youth 1979",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-29",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/29/2026-19835/proposed-revision-of-information-collection-national-longitudinal-survey-of-youth-1979",
+      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Bureau of Labor Statistics (BLS) is soliciting comments concerning the pro",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19535",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-09-24",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/24/2026-19535/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards",
+      "summary": "This request for information (RFI) solicits input from interested parties for purposes of establishing standards for reasonable and relevant pharmacy contract terms and conditions under the Medicare prescription drug benefit. Section 6223(a) of the Consolidated Appropriations Act, 2026 (CAA, 2026) amends section 1860D- 4(b)(1)(A) of the Social Security Act (the Act) to require Part D plan sponsors to permit any pharmacy that meets standard contract terms and conditions under the plan to participate as a network pharmacy of the plan. Section 6223(a) of the CAA, 2026 further requires that, notwithstanding any other provision of law, for plan years beginning January 1, 2029, such standard contr",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19528",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Housing and Urban Development Department",
+      "title": "HUD Evaluation Policy",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-24",
+      "effectiveDate": "2026-09-24",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/24/2026-19528/hud-evaluation-policy",
+      "summary": "This policy articulates the core principles of the Department of Housing and Urban Development's evaluation and research activities. This notice updates the Department's Evaluation Policy and reaffirms HUD's commitment to conducting rigorous, relevant evaluations, adhering to the tenets of Executive Order 14303, \"Restoring Gold Standard Science,\" and using evidence from evaluations to inform policy and practice.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19271",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Disease Control and Prevention",
+      "title": "Data Intermediaries and Approaches To Strengthen Public Health Data Exchange",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-21",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/21/2026-19271/data-intermediaries-and-approaches-to-strengthen-public-health-data-exchange",
+      "summary": "The Centers for Disease Control and Prevention (CDC) seeks broad public input on how data intermediaries can be used to support secure, scalable, standards-based public health data exchange. CDC invites public comment to inform the evaluation and to explore how data intermediaries can advance broader goals to prevent disease, detect emerging threats, drive state-of-the-art solutions that empower communities, and strengthen public health systems for a safer, healthier nation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19147",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Institute of Standards and Technology",
+      "title": "Request for Information (RFI) on Future Needs for Medical Metrology and Standards for Medical Imaging, Devices, Diagnostics and Therapy",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/18/2026-19147/request-for-information-rfi-on-future-needs-for-medical-metrology-and-standards-for-medical-imaging",
+      "summary": "The National Institute of Standards and Technology (NIST) and the National Institute of Biomedical Imaging and Bioengineering (NIBIB), a part of the National Institutes of Health (NIH), are requesting input from stakeholders in order to gain a better understanding of the future needs for medical metrology and standards around medical imaging, devices, and diagnostics. This request for information is coordinated with a NIST/NIBIB Symposium on Medical Metrology and Standards for American Healthcare and Commerce Medical Imaging, Devices, Diagnostics at the joint NIST/University of Maryland Institute (UMD) for Bioscience and Biotechnology Research (IBBR). The input received will inform a joint N",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19139",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/18/2026-19139/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-a-proposed-rule-change-to-permit-the",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19132",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing of a Proposed Rule Change To Permit the Listing of Binary KPI Options",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/18/2026-19132/self-regulatory-organizations-nyse-american-llc-notice-of-filing-of-a-proposed-rule-change-to-permit",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19100",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Justice Department, Antitrust Division",
+      "title": "United States of America, et al. v. RealPage, Inc., et al.; Proposed Final Judgment and Competitive Impact Statement",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/18/2026-19100/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-19071",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Environmental Protection Agency",
+      "title": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-09-17",
+      "effectiveDate": "2026-11-16",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+      "summary": "In this final rule, the U.S. Environmental Protection Agency (EPA) is repealing most provisions of the 2024 Carbon Pollution Standards for greenhouse gas (GHG) emissions from fossil fuel-fired electric generating units (EGUs) based on a reevaluation of the best system of emission reduction for the relevant subcategories. Specifically, the EPA is repealing the emission guidelines for existing fossil fuel-fired steam generating units, the carbon capture and sequestration/storage (CCS)-based standards for coal-fired steam generating units undertaking a large modification, and the CCS-based standards for new base load stationary combustion turbines (i.e., Phase 2 standards). In a separate action",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18304",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, Census Bureau",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Business Trends and Outlook Survey",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-09",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/09/2026-18304/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18303",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Telecommunications and Information Administration",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; NTIA Internet Use Survey",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-09",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/09/2026-18303/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of the collection to OMB.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18293",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 0150 (Application of Rules to Exempted Securities Except Municipal Securities), 2165 (Financial Exploitation of Specified Adults) and 4512 (Customer Account Information) and To Adopt FINRA Rule 2166 (Temporary Delays for Suspected Fraud)",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-09",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18190",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Transfer Agent Rules",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-09-04",
+      "effectiveDate": "2026-09-04",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/04/2026-18190/transfer-agent-rules",
+      "summary": "The U.S. Securities and Exchange Commission (\"SEC\" or \"Commission\") is proposing to adopt new rules, amend existing rules, amend the existing form for registration with the Commission as a transfer agent (Form TA-1) and the existing form for reporting activities of transfer agents (Form TA-2), and rescind an existing rule governing registered transfer agents. The proposals are designed to modernize the rules governing registered transfer agents.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18139",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Energy Department",
+      "title": "Agency Information Collection Revision",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-09-04",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/04/2026-18139/agency-information-collection-revision",
+      "summary": "The Department of Energy (DOE) invites public comment on a proposed revision to an approved information collection that DOE is submitting to the Office of Management and Budget (OMB) for review pursuant to the Paperwork Reduction Act of 1995. The information collection requests a revision of the approval for OMB Control Number 1910-5179, titled Energy and Jobs Survey.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-18061",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Merit Systems Protection Board",
+      "title": "Determining the Appropriate Penalty for Federal Employees Charged With Misconduct",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-09-03",
+      "effectiveDate": "2026-10-05",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/03/2026-18061/determining-the-appropriate-penalty-for-federal-employees-charged-with-misconduct",
+      "summary": "The Merit Systems Protection Board (MSPB or Board) is issuing a final rule amending its regulations governing the Board's review of the reasonableness of an agency's chosen penalty in misconduct-based adverse actions appealed to the Board. Under the final rule, the Board will no longer require consideration of the 12 factors set forth in Douglas v. Veterans Administration, 5 M.S.P.R. 280 (1981), in every case. Instead, the Board will evaluate whether the agency's penalty is within the tolerable limits of reasonableness in light of the totality of the circumstances, determined on a case-by-case basis.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-17926",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Homeland Security Department, U.S. Customs and Border Protection",
+      "title": "Heightened Import Disclosures for Supply Chain Visibility",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-09-02",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/09/02/2026-17926/heightened-import-disclosures-for-supply-chain-visibility",
+      "summary": "U.S. Customs and Border Protection (CBP) is considering amending its regulations to give CBP greater visibility into the supply chains of goods imported into the United States. CBP is seeking comments on new requirements enhancing visibility into the parties involved in the importation of goods; integrating innovative technical solutions for the tracing of supply chains of those goods; and collecting foreign export documentation that foreign exporters are required to submit to the foreign customs authority prior to the exportation of those goods to the United States. With these proposals, CBP seeks to more effectively detect and interdict illicit importations, especially those that are illeg",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-17761",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "Maximizing Efficiencies in Universal Service Administration",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-08-31",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/31/2026-17761/maximizing-efficiencies-in-universal-service-administration",
+      "summary": "In this document, the Federal Communications Commission (Commission) seeks to improve the administration of the Universal Service Fund (USF or Fund) by seeking comment on four areas related to USF administration: current USF administration processes, i.e., the processes used by Universal Service Administrative Company (USAC) to administer the USF and the Commission's oversight of those processes; the structure of USF administration, that is, USAC's role and responsibilities related to USF administration; operating costs associated with USF administration; and the impact of USAC's Board of Directors on USF administration.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-17442",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Personnel Management Office",
+      "title": "Critical Position Pay Authority",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-26",
+      "effectiveDate": "2026-08-26",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/26/2026-17442/critical-position-pay-authority",
+      "summary": "The Office of Personnel Management (OPM) is amending its regulations governing the critical position pay (CPP) authority to establish level I of the Executive Schedule as the default maximum critical pay rate, with higher rates subject to written approval by the Director of OPM. The final rule eliminates non-statutory caps and approval criteria; addresses the use of service agreements; clarifies that reductions or terminations of CPP are not adverse actions or subject to grievance or appeal rights; and clarifies the treatment of critical pay rates as basic pay. This final rule simplifies and better aligns OPM's regulations with governing law and delegated authority.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-17163",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commodity Futures Trading Commission",
+      "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-08-21",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
+      "summary": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding and oversight of derivatives markets in compute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-17001",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Education Department",
+      "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies: Institutional Eligibility Under the Higher Education Act of 1965, as Amended, Student Assistance General Provisions",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-08-20",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
+      "summary": "The Department proposes to revise the existing accrediting agency recognition regulations at 34 CFR part 602 to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16982",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Employment and Training Administration",
+      "title": "Wagner-Peyser Act Employment Service Staffing",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-20",
+      "effectiveDate": "2026-10-19",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
+      "summary": "The U.S. Department of Labor (DOL or the Department) is removing the requirement that States use State merit staff to provide Wagner-Peyser Employment Service (ES) services. This final rule allows States to use the staffing model that provides the required services with the most efficient and cost-effective model for their State.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16981",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Justice Department, Alcohol, Tobacco, Firearms, and Explosives Bureau, ",
+      "title": "Application for Relief From Disabilities Imposed by Federal Laws With Respect to the Acquisition, Receipt, Transfer, Shipment, Transportation, or Possession of Firearms",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-20",
+      "effectiveDate": "2026-09-21",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/20/2026-16981/application-for-relief-from-disabilities-imposed-by-federal-laws-with-respect-to-the-acquisition",
+      "summary": "The Department of Justice (\"the Department\") is implementing criteria to guide determinations for granting relief from disabilities imposed by federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms. The criteria are designed to ensure that the fundamental right of the people to keep and bear arms is not unduly infringed, that those people granted relief are not likely to act in a manner dangerous to public safety, and that granting such relief would not be contrary to the public interest.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16727",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Food and Drug Administration",
+      "title": "Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-17",
+      "effectiveDate": "2026-09-16",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
+      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is issuing a final order reclassifying in situ hybridization (ISH) test systems indicated for use with a corresponding approved oncology therapeutic product (product codes NYQ, MVD, OWE, and PNK), all postamendments class III (premarket approval) devices, into class II (special controls), subject to premarket notification. FDA is also establishing a new device classification regulation, along with the special controls that are necessary to provide a reasonable assurance of safety and effectiveness of this device type.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16615",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-08-14",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026",
+      "summary": "Executive Order 12866, Regulatory Planning and Review (Sep. 30, 1993), requires each agency to publish a regulatory agenda (Agenda) of regulations under development or review during the next year which will be included in the Unified Agenda of Regulatory and Deregulatory Actions (Unified Agenda). 58 FR 51735 (Oct. 4, 1993). The Agenda required by Executive Order 12866 must include all regulations the agency expects to develop or review during the next 12 months, regardless of whether they may have a significant economic impact on a substantial number of small entities. Executive Order 12866 provides that agencies may combine this agenda with the regulatory flexibility agenda required under t",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16603",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Regulatory Information Service Center",
+      "title": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-08-14",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026",
+      "summary": "Publication of the 2026 Unified Agenda of Federal Regulatory and Deregulatory Actions represents a key component of the regulatory planning mechanism prescribed in Executive Order (\"E.O.\") 12866, \"Regulatory Planning and Review,\" (58 FR 51735, as amended) and reaffirmed in E.O. 13563, \"Improving Regulation and Regulatory Review,\" (76 FR 3821) and E.O. 14192, \"Unleashing Prosperity Through Deregulation.\" The Regulatory Flexibility Act requires that agencies publish semiannual regulatory agendas in the Federal Register describing regulatory actions they are developing that may have a significant economic impact on a substantial number of small entities (5 U.S.C. 602). The Unified Agenda of Fed",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16590",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-08-14",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision",
+      "summary": "In this document, the Federal Communications Commission (Commission) seeks comment on measures the Commission can take to better protect children when using E-Rate-funded networks, the Commission's progress in ensuring affordable access to high-speed broadband to and within schools and libraries, and whether the Commission's current interpretation of the Children's Internet Protection Act (CIPA) is the best reading of the statute. The Commission also proposes actions to strengthen E-Rate program integrity and streamline program administration.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16504",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Transportation Department, Federal Aviation Administration",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-13",
+      "effectiveDate": "2026-09-17",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/13/2026-16504/airworthiness-directives-the-boeing-company-airplanes",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2018-11- 14, which applied to certain The Boeing Company Model 767-300 and -300F series airplanes with certain winglets installed. AD 2018-11-14 required high frequency eddy current (HFEC) inspections for cracking of the lower outboard wing skin and repair or modification if necessary. AD 2018-11-14 also required one of three follow-on actions: Repeating the HFEC inspections; modifying certain internal stringers and oversizing and plugging the existing fastener holes of the lower wing; or modifying the external doubler/tripler and doing repetitive post- modification inspections. This AD was prompted by reports of fatigue cracking in the low",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16371",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Institute of Standards and Technology",
+      "title": "Request for Information (RFI) on Modernizing the National Vulnerability Database in the Age of Artificial Intelligence",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-08-12",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of",
+      "summary": "The National Institute of Standards and Technology (NIST) established and operates the National Vulnerability Database (NVD), which provides the U.S. government repository of standards-based vulnerability management data. NIST seeks stakeholder input on opportunities, challenges, and priorities for modernizing the NVD in an evolving cybersecurity landscape increasingly shaped by artificial intelligence (AI) and machine-consumable security data. NIST's goal is to improve the NVD's scalability, automation, interoperability, transparency, and utility.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16400",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Executive Office of the President",
+      "title": "Adjusting Imports of Polysilicon and Its Derivatives Into the United States",
+      "instrumentType": "Presidential Document",
+      "status": "Consultation",
+      "publicationDate": "2026-08-11",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/11/2026-16400/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16315",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, Patent and Trademark Office",
+      "title": "Administrative Updates to the General Requirements Bulletin for Admission to the Examination for Registration To Practice in Patent Cases Before the United States Patent and Trademark Office",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-08-11",
+      "effectiveDate": "2026-08-11",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/11/2026-16315/administrative-updates-to-the-general-requirements-bulletin-for-admission-to-the-examination-for",
+      "summary": "The United States Patent and Trademark Office (USPTO or Office) announces that, after reviewing and evaluating the scientific and technical criteria for admission to practice in all patent matters, it is moving one Category B degree, Biomedical Science, to Category A, thereby expanding the admission criteria of the patent bar. In keeping pace with ever-evolving technology and related teachings that qualify someone to practice before the USPTO, this update will encourage broader participation of prospective patent practitioners. This action is being taken pursuant to the USPTO's periodic review of Category B degrees and the transition of commonly accepted Category B degrees to Category A on a",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-16231",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Homeland Security Department",
+      "title": "9-11 Response and Biometric Entry-Exit Fee for H-1B and L-1 Visas",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-10",
+      "effectiveDate": "2026-09-09",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
+      "summary": "The Department of Homeland Security (DHS) is amending the regulations concerning the 9-11 Response and Biometric Entry-Exit Fee for certain H-1B and L-1 Visas (9-11 Biometric Fee). The regulatory changes correct DHS's interpretation of statutory language to require that covered employers submit the 9-11 Biometric Fee for all extension of status petitions, regardless of whether the related fraud prevention and detection fee applies, which includes extension of status petitions that do not involve a change of employer. The 9-11 Biometric Fee continues to apply unchanged to petitions seeking an initial grant of status. The changes also help DHS comply with its congressional mandate to implement",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15833",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services, ",
+      "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-04",
+      "effectiveDate": "2026-10-01",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+      "summary": "This final rule will revise the Medicare hospital inpatient prospective payment systems (IPPS) for operating and capital-related costs of acute care hospitals; make changes relating to Medicare graduate medical education (GME) for teaching hospitals; update the payment policies and the annual payment rates for the Medicare prospective payment system (PPS) for inpatient hospital services provided by long-term care hospitals (LTCHs); update and make changes to requirements for certain quality programs; and make other policy- related changes. ONC also adopts certain health information technology (health IT) standards and specifications on behalf of HHS.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15686",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-03",
+      "effectiveDate": "2026-10-01",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
+      "summary": "This final rule updates the hospice wage index, payment rates, and aggregate cap amount for fiscal year 2027. This final rule also includes an analysis of Medicare non-hospice spending, including details regarding a hospice service and spending variation index, and finalizes the requirement that hospices provide the hospice election statement addendum to all Medicare beneficiaries at the time of hospice election. Additionally, this rule finalizes conforming changes to discharge from hospice care regulations and changes to the face-to-face encounter regulations. This final rule also includes a summary of comments received on our requests for information regarding community- based palliative c",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15681",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Children and Families Administration",
+      "title": "Reducing Bureaucracy and Burden in Family Violence and Prevention Services",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-08-03",
+      "effectiveDate": "2026-10-02",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/08/03/2026-15681/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services",
+      "summary": "This final rule removes duplicative and unnecessary sections from the Family Violence Prevention and Services Program regulations. These amendments will streamline the Family Violence Prevention and Services regulations and make them more accessible to the public.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15150",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Children and Families Administration",
+      "title": "Notice of Final Issuance on the Adoption of Administration for Native Americans Program Policies and Procedures",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-28",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/28/2026-15150/notice-of-final-issuance-on-the-adoption-of-administration-for-native-americans-program-policies-and",
+      "summary": "ANA is issuing final interpretive rules, general statements of policy, and rules of agency organization, procedure, or practice relating to the following Fiscal Year (FY) 2026 Notices of Funding Opportunity (NOFOs): Economic Advancement Grants for Local Empowerment (EAGLE), AI3 Action Institute--Artificial Intelligence for American Indians (AI3 Action Institute), and the National Center for Native Training and Technical Assistance (NCNTTA).",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15123",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-07-27",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/27/2026-15123/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "summary": "In this document, the Federal Communications Commission (Commission or FCC) adopted a Second Report and Order that promotes the deployment of submarine cables while strengthening national security interests in connection with their modern capabilities. The Second Report and Order establishes a regulatory regime for licensing owners and/or operators of submarine line terminal equipment (SLTE), including granting a blanket license to certain current and future SLTE owners and/or operators that are not currently a licensee. The Second Report and Order adopts certain routine conditions and outlines reporting requirements for SLTE owners and operators. The Second Report and Order also adopts furt",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-15113",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Oceanic and Atmospheric Administration",
+      "title": "Caribbean Fishery Management Council 190th Public Hybrid Meeting",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-27",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/27/2026-15113/caribbean-fishery-management-council-190th-public-hybrid-meeting",
+      "summary": "The Caribbean Fishery Management Council (CFMC) will hold the 190th public hybrid meeting to address the items contained in the tentative agenda included in the SUPPLEMENTARY INFORMATION.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14679",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Electronic Delivery of Information Under the Federal Securities Laws",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-07-21",
+      "effectiveDate": "2026-07-21",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/21/2026-14679/electronic-delivery-of-information-under-the-federal-securities-laws",
+      "summary": "The Securities and Exchange Commission (the \"SEC\" or the \"Commission\") is proposing Regulation E-Delivery. The proposed rule sets forth conditions for covered entities to deliver covered information to covered recipients electronically without first obtaining their affirmative consent. The proposed rule further establishes conditions under which the Commission would consider delivery requirements under the Federal securities laws to be satisfied by electronic delivery. The Commission also is proposing to rescind the rule providing alternative means for registered investment companies to satisfy shareholder report transmission requirements, and to amend rules addressing the dissemination of p",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14585",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Institute of Standards and Technology",
+      "title": "Request for Nominations for Members To Serve on National Institute of Standards and Technology Federal Advisory Committees",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-20",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/20/2026-14585/request-for-nominations-for-members-to-serve-on-national-institute-of-standards-and-technology",
+      "summary": "The National Institute of Standards and Technology (NIST or Institute) invites and requests nomination of individuals for appointment to seven existing Federal Advisory Committees (Committees): Advisory Committee on Earthquake Hazards Reduction; Board of Overseers of the Malcolm Baldrige National Quality Award; Information Security and Privacy Advisory Board; Manufacturing Extension Partnership Advisory Board; National Artificial Intelligence Advisory Committee, including the National Artificial Intelligence Advisory Committee's Subcommittee on Artificial Intelligence and Law Enforcement; National Construction Safety Team Advisory Committee; and Visiting Committee on Advanced Technology. NIS",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14461",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Energy Department",
+      "title": "Implementing Voluntary Agreements Under the Defense Production Act",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-07-17",
+      "effectiveDate": "2026-07-17",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/17/2026-14461/implementing-voluntary-agreements-under-the-defense-production-act",
+      "summary": "The U.S. Department of Energy (\"DOE\") is adopting the interim final rule published on August 25, 2025, as final, without change. This final rule establishes the procedures for developing and carrying out voluntary agreements and plans of action under the Defense Production Act. The Defense Production Act provides a defense from antitrust laws with respect to any action taken to develop or carry out any voluntary agreement or plan of action when certain criteria are met.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14439",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Homeland Security Department",
+      "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-07-17",
+      "effectiveDate": "2026-09-15",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+      "summary": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements. This final rule will provide additional protections and oversight of these nonimmigrant categories and will allow DHS to better evaluate whether these nonimmigrants are maintaining status while temporarily in the United States. This final rule provides amendments to the proposed rule covering this topic that was published in the Federal Register on August 28, 2025.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14358",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Request for Information; Clinical Laboratory Improvement Amendments of 1988 (CLIA) Regulations",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-07-16",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14358/request-for-information-clinical-laboratory-improvement-amendments-of-1988-clia-regulations",
+      "summary": "Clinical laboratory testing technology has advanced significantly since the Clinical Laboratory Improvement Amendments of 1988 (CLIA) regulations were implemented in 1992. This request for information (RFI) seeks input from the public regarding various topics related to the CLIA regulations, including: breath testing; laboratory processes and procedures; emergency preparedness, biosafety and biosecurity, and cybersecurity; and specialty testing areas. Responses to this RFI may be used to help inform CMS and the CDC as to what types of action, if any, should be taken to update the existing CLIA regulations through future notice and comment rulemaking.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14345",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Justice Department, Antitrust Division",
+      "title": "United States of America, et al. v. RealPage, Inc., et al.; Proposed Final Judgment and Competitive Impact Statement",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-16",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14345/united-states-of-america-et-al-v-realpage-inc-et-al-proposed-final-judgment-and-competitive-impact",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14327",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-07-16",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "summary": "This proposed rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; the Ambulatory Specialty Model; updates to drugs and biological products paid under Part B; Medicare Shared Savings Program requirements; updates to the Quality Payment Program; updates to policies for Rural Health Clinics and Federally Qualified Health Centers; update to the Ambulance",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14201",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of a Proposed Rule Change To Amend its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators (“KPIs”) Reported by Certain Issuers of Stock (“Binary KPI Options”)",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-15",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/15/2026-14201/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-a-proposed-rule-change-to-amend",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14146",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, ",
+      "title": "Request for Information, Training and Care Delivery Models for Safe Administration of Potential FDA-Approved Psychedelic Therapies in Ambulatory Clinical Settings",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-14",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/14/2026-14146/request-for-information-training-and-care-delivery-models-for-safe-administration-of-potential",
+      "summary": "On April 18, 2026, President Trump issued Executive Order (E.O.) 14401, \"Accelerating Medical Treatments for Serious Mental Illness\", acknowledging that individuals suffering from serious mental illness may not always respond to existing therapies. This request for information (RFI) solicits stakeholder feedback on training and care delivery models that could be used to ensure safe and effective delivery of potential future Food and Drug Administration (FDA)- approved psychedelic drugs, including drugs administered in ambulatory clinic settings, such as health centers and rural health clinics.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-14132",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, Industry and Security Bureau",
+      "title": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-07-14",
+      "effectiveDate": "2026-07-10",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
+      "summary": "In this final rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) to provide enhanced favorable treatment for the United Arab Emirates (UAE). Specifically, BIS is removing the UAE from Country Groups D:3 and D:4 and adding the UAE to Country Group A:5. More license exceptions will now be available, including Strategic Trade Authorization (STA) for the UAE Government and approved commercial entities in the UAE. STA will authorize the export, reexport, or transfer (in-country) of military items; certain commercial satellites and spacecraft; and dual-use items useful in, inter alia, oil and gas production, desalination, and civil nuclear power gene",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-13928",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Labor Statistics Bureau",
+      "title": "Proposed Information Collection; ATUS Artificial Intelligence (AI) Questions",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-10",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/10/2026-13928/proposed-information-collection-atus-artificial-intelligence-ai-questions",
+      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desired format, reporting burden (time and financial resources) is minimized, collection instruments are clearly understood, and the impact of collection requirements on respondents can be properly assessed. The Bureau of Labor Statistics (BLS) is soliciting comments concerning the pro",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-13656",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; Including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-07-07",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13656/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+      "summary": "This proposed rule would revise the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the ASC payment systems. In addition, this proposed rule would update and refine the requirements for the Hospital Outpatient Quality Reporting Program and the Ambulatory Surgical Center Quality Reporting Program. There are no changes to the Rural Emergency Hospital Quality Reporting Program. We propos",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-13628",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Trade Commission",
+      "title": "Policy Statement Concerning the Suppression of Accuracy in Artificial Intelligence Systems",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-07",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+      "summary": "The Federal Trade Commission (\"Commission\") is proposing a policy statement regarding the application of the prohibition on deceptive acts or practices in section 5 of the Federal Trade Commission Act to companies that market artificial intelligence (\"AI\") systems.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-13451",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Children and Families Administration",
+      "title": "Reducing Bureaucracy and Burden for Children, Youth, and Family Programs",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-07-02",
+      "effectiveDate": "2026-08-31",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/02/2026-13451/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs",
+      "summary": "This final rule removes duplicative and unnecessary sections from the Runaway and Homeless Youth Program regulations. These amendments will streamline the Runaway and Homeless Youth Program regulations to make them more accessible to the public.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-13235",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Postal Regulatory Commission",
+      "title": "Public Inquiry",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-07-01",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/07/01/2026-13235/public-inquiry",
+      "summary": "The Commission is acknowledging its filing of the explanation of its current methodology for estimating the value of the postal monopoly and the mailbox monopoly. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-12811",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Personnel Management Office",
+      "title": "Ensuring Consistent and Rigorous Standards for the Senior Executive Service Candidate Development Programs",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-06-25",
+      "effectiveDate": "2026-07-27",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/25/2026-12811/ensuring-consistent-and-rigorous-standards-for-the-senior-executive-service-candidate-development",
+      "summary": "The Office of Personnel Management (OPM) is issuing a final rule to amend its Senior Executive Service (SES) Candidate Development Program (SESCDP) regulations to implement certain SES training and development requirements. The SES represents the Federal Government's leadership, composed of executive positions above the GS-15 level. SESCDPs serve as a crucial succession management tool for Federal agencies, designed to identify and prepare high-potential employees for future roles within the SES. These programs aim to cultivate leaders equipped with a governmentwide perspective and the competencies necessary to tackle complex challenges.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-12440",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Transportation Department, Federal Highway Administration",
+      "title": "Public Notice: Design Challenge for National Memorial to Fallen Highway Workers in Work Zones",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-22",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/22/2026-12440/public-notice-design-challenge-for-national-memorial-to-fallen-highway-workers-in-work-zones",
+      "summary": "FHWA invites detailed proposals for the design, construction, and installation of a National Fallen Highway Workers Memorial. Proposals should demonstrate both a compelling design vision and a feasible approach to implementation. This memorial will honor the American workers who have lost their lives in highway work zones and serve as a national symbol of the ongoing commitment to work zone safety.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-12404",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Changes To Amend Certain Representations Relating to United States Copper Index Fund",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-22",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/22/2026-12404/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-12205",
+      "jurisdiction": "United States · Federal",
+      "regulator": "General Services Administration",
+      "title": "General Services Acquisition Regulation; Acquisition of Information and Communication Technology; Notice of Listening Sessions and Request for Comments",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-06-17",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/17/2026-12205/general-services-acquisition-regulation-acquisition-of-information-and-communication-technology",
+      "summary": "The General Services Administration (GSA) is seeking public comment on the draft of a new General Services Administration Acquisition Regulation (GSAR) clause regarding basic safeguarding of data within Large Language Model Artificial Intelligence Systems (LLMs). Due to the complexity of the issue, GSA is publishing this notification and draft clause to gather feedback from stakeholders before taking future action (e.g., deviation and/or formal rulemaking).",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-11854",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commodity Futures Trading Commission",
+      "title": "Prediction Markets; Public Interest Determinations",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-06-12",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations",
+      "summary": "The Commodity Futures Trading Commission (Commission or CFTC) is proposing amendments to its rules concerning event contract derivatives. The markets for these event contracts are commonly referred to as \"prediction markets.\" In particular, the Commission is proposing amendments to further specify the types of event contracts that may be subject to a determination that they are contrary to the public interest, such that they may not be listed for trading or accepted for clearing on or through a CFTC-registered entity, as provided in the Commodity Exchange Act (CEA). The proposed amendments set out factors the Commission would apply in that determination and conform the process by which the d",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-11743",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-11",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/11/2026-11743/statement-of-organization-functions-and-delegations-of-authority",
+      "summary": "The Centers for Medicare and Medicaid Services (CMS), Office of Health Technology and Products (OHTP), has been established. This new organizational component will provide enterprise leadership and oversight for CMS healthcare technology modernization, digital products, and transformation of platforms and services supporting Medicare, Medicaid, the Children's Health Insurance Program (CHIP), and other CMS-administered programs, in close coordination with the CMS Chief Information Officer (CIO) and subject to CIO-led enterprise information technology (IT) governance, cybersecurity, enterprise architecture, and capital planning and investment control responsibilities, as well as CIO-led digita",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-11542",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Employment and Training Administration",
+      "title": "Modernizing Federal Workforce Information Tools: Request for Information (RFI) on Online Career Tools and the Occupational Information Network (O*NET) Program",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-09",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/09/2026-11542/modernizing-federal-workforce-information-tools-request-for-information-rfi-on-online-career-tools",
+      "summary": "The U.S. Department of Labor (DOL or the Department), Employment and Training Administration (ETA) seeks public input to inform two related modernization efforts that together aim to strengthen the nation's public workforce information infrastructure. First, ETA is soliciting input to inform the design and implementation of a modernized online career site, currently delivered through CareerOneStop.org--a public-facing workforce information website that helps job seekers explore occupations, locate training programs, identify local services, and connect to job listings. Second, ETA is soliciting input to inform a modernization of the Occupational Information Network (O*NET) Program, which pub",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-11415",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Executive Office of the President",
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
+      "instrumentType": "Presidential Document",
+      "status": "Consultation",
+      "publicationDate": "2026-06-05",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-11353",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-06-05",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/05/2026-11353/reforming-the-high-cost-program-for-an-all-ip-future-connect-america-fund-a-national-broadband-plan",
+      "summary": "In this document, the Federal Communications Commission (FCC or Commission) adopted a Notice of Proposed Rulemaking (NPRM) that kicks off a process to examine how the Commission can make some of its high-cost mechanisms even more efficient and effective into the future. Ensuring a predictable High-Cost Program for years to come--call it High-Cost Modernization--will provide continuing support for our Build America Agenda, supercharge American leadership in Artificial Intelligence (AI) by efficiently supporting the broadband-capable networks upon which AI-enhanced applications and services will be delivered and accessed, and will help accelerate the transition to Internet Protocol (IP) networ",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10815",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Transportation Department, Transportation Statistics Bureau",
+      "title": "Request for Information: Shaping the Future of the Bureau of Transportation Statistics",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-01",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/06/01/2026-10815/request-for-information-shaping-the-future-of-the-bureau-of-transportation-statistics",
+      "summary": "The Bureau of Transportation Statistics (BTS) seeks public input to evaluate the utility of its product portfolio, identify critical data gaps in the national transportation picture, and improve the user experience for all stakeholders. As the transportation landscape evolves with new technologies and supply chain shifts, BTS is committed to ensuring its resources remain relevant and accessible. Feedback received through this Request for Information (RFI) will help guide the strategic alignment of BTS's product portfolio with the technical and analytical requirements of the public.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10779",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, National Institute of Standards and Technology",
+      "title": "NIST Artificial Intelligence Consortium",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-05-29",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/29/2026-10779/nist-artificial-intelligence-consortium",
+      "summary": "The National Institute of Standards and Technology (NIST), an agency of the United States Department of Commerce, previously announced the formation of the Artificial Intelligence Safety Institute Consortium (\"AISIC\") through a publication dated November 2, 2023 (88 FR 75276). AISIC brought together more than 280 organizations to develop science-based and empirically backed guidelines and standards for artificial intelligence (AI) measurement, laying a foundation for global AI metrology. Through this succeeding notice, NIST is announcing the retitling of AISIC as the NIST Artificial Intelligence Consortium (\"Consortium\"), revising the scope of the Consortium's research, and reissuing its inv",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10688",
+      "jurisdiction": "United States · Federal",
+      "regulator": "National Science Foundation",
+      "title": "Proposal Review Panel for Astronomical Sciences; Committee Renewal",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-05-29",
+      "effectiveDate": "2026-06-26",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/29/2026-10688/proposal-review-panel-for-astronomical-sciences-committee-renewal",
+      "summary": "The National Science Foundation (NSF) is renewing the committee for Proposal Review Panel for Astronomical Sciences.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10602",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Food and Drug Administration",
+      "title": "AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information; Extension of Comment Period",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-05-28",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/28/2026-10602/ai-enabled-optimization-of-early-phase-clinical-trials-pilot-program-request-for-information",
+      "summary": "The Food and Drug Administration (FDA or the Agency) is extending the comment period for the notice entitled \"AI-Enabled Optimization of Early-Phase Clinical Trials Pilot Program; Request for Information\" that appeared in the Federal Register of April 29, 2026. In the notice, FDA requested comments to solicit input on a proposed pilot program to assess how artificial intelligence (AI)-enabled technologies can improve efficiency, speed, and quality of decision- making in early phase clinical trials. The Agency is taking this action in response to a request for an extension to allow interested persons additional time to submit comments.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10375",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Reserve System",
+      "title": "Proposed Revisions to the Federal Reserve Policy on Payment System Risk and the Guidelines for Account and Services Requests",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-05-26",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/26/2026-10375/proposed-revisions-to-the-federal-reserve-policy-on-payment-system-risk-and-the-guidelines-for",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) is issuing a notice and request for comment on proposed revisions to the Federal Reserve Policy on Payment System Risk (PSR Policy), including the proposed addition of a new Part IV, to accommodate the provision by Reserve Banks of special-purpose accounts that would clear and settle certain payment activity (Payment Accounts). The Board is also proposing updates to its guidelines for Federal Reserve Banks (Reserve Banks) to utilize in evaluating requests for access to Reserve Bank account and services (Account Access Guidelines or Guidelines) to accommodate requests for access to Payment Accounts. Finally, the Board is encouraging",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10373",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Registered Offering Reform",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-05-26",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/26/2026-10373/registered-offering-reform",
+      "summary": "The Securities and Exchange Commission (\"Commission\") is proposing amendments that are intended to facilitate capital formation in the public securities markets. Specifically, the proposed amendments would make Form S-3 and the ability to conduct shelf offerings available to significantly more issuers, extend certain benefits currently reserved for \"well-known seasoned issuers\" to a broader set of issuers, and modernize Form S-1 by expanding the ability to incorporate information by reference into that form. The proposed amendments also would make conforming changes to the registration, communication, and offering process for certain business development companies and registered closed-end i",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10050",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department, Centers for Medicare & Medicaid Services, ",
+      "title": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-05-20",
+      "effectiveDate": "2026-07-20",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/20/2026-10050/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
+      "summary": "This final rule contains provisions to improve implementation of the Patient Protection and Affordable Care Act, including payment parameters and provisions related to the HHS-operated risk adjustment and risk adjustment data validation (HHS-RADV) programs, as well as 2027 user fee rates for issuers offering qualified health plans (QHPs) through Federally-facilitated Exchanges (FFEs) and State-based Exchanges on the Federal platform (SBE-FPs). This final rule also includes provisions related to civil money penalties (CMPs) for noncompliant issuers and other responsible entities; standards governing agents, brokers, and web-brokers; the expansion and codification of hardship exemption eligibi",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-10013",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Education Department",
+      "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-05-19",
+      "effectiveDate": "2026-07-20",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
+      "summary": "The Secretary of Education (Secretary) amends the regulations governing institutional eligibility, general provisions, and the Federal Pell Grant (Pell Grant) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The final regulations implement statutory changes to the title IV, HEA programs included in the Working Families Tax Cuts Act (WFTCA), signed into law by President Trump on July 4, 2025. In the NPRM, we referenced the WFTCA as the \"One Big Beautiful Bill\"; however, for clarity and consistency in this final rule, we will instead use WFTCA. The WFTCA made numerous changes to the HEA, including changes to student eligibility requirem",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09915",
+      "jurisdiction": "United States · Federal",
+      "regulator": "National Credit Union Administration",
+      "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union Administration",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-05-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/18/2026-09915/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+      "summary": "The NCUA Board (Board) is seeking comment on proposed regulations to implement portions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The GENIUS Act charges the NCUA with licensing, regulating, and supervising Payment Stablecoin issuers that are subsidiaries of federally insured credit unions (FICU subsidiaries). In February 2026, the NCUA issued proposed regulations to govern investments in and licensing of permitted payment stablecoin issuers subject to the NCUA's jurisdiction. This current proposal supplements the previous proposal and would govern the issuance of Payment Stablecoins and certain related activities by entities subject to the NCU",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09895",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Environmental Protection Agency",
+      "title": "Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category-Unmanaged Combustion Residual Leachate",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-05-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/18/2026-09895/effluent-limitations-guidelines-and-standards-for-the-steam-electric-power-generating-point-source",
+      "summary": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing a Clean Water Act (CWA) regulation to revise the technology- based effluent limitations guidelines and standards (ELGs) promulgated in the 2024 \"Supplemental Effluent Limitations Guidelines and Standards for the Steam Electric Power Generating Point Source Category\" (2024 ELG). This proposed regulation for the steam electric power generating point source category applies to unmanaged combustion residual leachate (CRL) at existing sources and is estimated to reduce costs by $446 to $1,090 million dollars annually at a 3 percent discount rate.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09819",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission",
+      "title": "Accessible Emergency Information, and Apparatus Requirements for Emergency Information and Video Description: Implementation of the Twenty-First Century Communications and Video Accessibility Act of 2010",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-05-15",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/15/2026-09819/accessible-emergency-information-and-apparatus-requirements-for-emergency-information-and-video",
+      "summary": "In this document, the Commission proposes to revise the Audible Crawl Rule, which requires video programming providers and distributors to make non-textual visual emergency information provided during non-newscast programming accessible via a secondary audio stream. The revised rule would provide that the accessibility requirement is met if a textual crawl provides emergency information duplicative of or equivalent to non-textual visual emergency information, so long as the textual crawl is also conveyed aurally.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09721",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Defense Department, Defense Department",
+      "title": "Renewal of Department of Defense Federal Advisory Committees-Air University Board of Visitors",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-05-15",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/15/2026-09721/renewal-of-department-of-defense-federal-advisory-committees-air-university-board-of-visitors",
+      "summary": "The Department of War (DoW) is publishing this notice to announce it is renewing the Air University Board of Visitors (AU BoV) as a discretionary Federal advisory committee.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09382",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department",
+      "title": "Restoring Flexibility in the Child Care and Development Fund (CCDF)",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-05-12",
+      "effectiveDate": "2026-07-13",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/12/2026-09382/restoring-flexibility-in-the-child-care-and-development-fund-ccdf",
+      "summary": "This final rule amends the Child Care and Development Fund (CCDF) regulations to reduce costs and burden for States and Territories administering the CCDF program. It rescinds the requirements to limit family co-payments to 7 percent of family income, to provide some direct services through grants or contracts, to pay providers prospectively, and to pay providers based on enrollment. A plain language summary of this final rule is posted at https:// www.regulations.gov/document/ACF-2026-0001-0002.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09266",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Health and Human Services Department",
+      "title": "Extension of Compliance Dates for Nondiscrimination on the Basis of Disability; Accessibility of Web Content and Mobile Applications of Recipients of Departmental Financial Assistance",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-05-11",
+      "effectiveDate": "2026-05-07",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/11/2026-09266/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web",
+      "summary": "By this interim final rule (\"IFR\"), the Department of Health and Human Services (\"Department\") is revising the Department's regulations implementing section 504 of the Rehabilitation Act (\"section 504\") to extend the compliance dates for the requirements for web content and mobile application (\"app\") accessibility that were adopted on May 9, 2024. The compliance date for recipients with fifteen (15) or more employees is extended from May 11, 2026, to May 11, 2027. The compliance date for recipients with fewer than fifteen (15) employees is extended from May 10, 2027, to May 10, 2028.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-09095",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Semiannual Reporting",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-05-07",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/05/07/2026-09095/semiannual-reporting",
+      "summary": "The Securities and Exchange Commission (\"Commission\") is proposing amendments to allow companies to file semiannual reports on new Form 10-S in lieu of quarterly reports on Form 10-Q to meet their interim reporting obligations under the Securities Exchange Act of 1934 (\"Exchange Act\"). The Commission is also proposing changes to the financial statement requirements of Regulation S-X to facilitate semiannual reporting and to simplify rules regarding the age of financial statements.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "JP-AI-PROMOTION-2025",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet Office / Government of Japan",
+      "title": "Act on the Promotion of Research and Development, and Utilization of AI-Related Technologies",
+      "instrumentType": "Act",
+      "status": "Enacted",
+      "publicationDate": "2025-05-28",
+      "effectiveDate": "2025-06-04",
+      "topic": "AI promotion · governance · coordination",
+      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html",
+      "summary": "Japan’s AI promotion legislation establishes government coordination and policy duties. Refer to the official Cabinet Office page for current materials.",
+      "history": [
+        {
+          "date": "2025-05-28",
+          "change": "Act promulgated; general effective date followed in June 2025."
+        }
+      ]
+    },
+    {
       "id": "EU-2024-1689",
       "jurisdiction": "European Union",
       "regulator": "European Commission / EU institutions",
@@ -86,25 +2005,6 @@
       ]
     },
     {
-      "id": "US-NYC-LL144",
-      "jurisdiction": "United States · New York City",
-      "regulator": "NYC Department of Consumer and Worker Protection",
-      "title": "Automated Employment Decision Tools (Local Law 144)",
-      "instrumentType": "Local law / implementing rule",
-      "status": "In force",
-      "publicationDate": "2021-12-11",
-      "effectiveDate": "2023-07-05",
-      "topic": "Employment · bias audit · notice",
-      "sourceUrl": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
-      "summary": "Requires bias audits and notices for covered automated employment decision tools. Official regulator page includes rules and compliance guidance.",
-      "history": [
-        {
-          "date": "2023-07-05",
-          "change": "Enforcement began after implementation delay."
-        }
-      ]
-    },
-    {
       "id": "UK-AI-POLICY-2024",
       "jurisdiction": "United Kingdom",
       "regulator": "Department for Science, Innovation and Technology",
@@ -143,21 +2043,21 @@
       ]
     },
     {
-      "id": "JP-AI-PROMOTION-2025",
-      "jurisdiction": "Japan",
-      "regulator": "Cabinet Office / Government of Japan",
-      "title": "Act on the Promotion of Research and Development, and Utilization of AI-Related Technologies",
-      "instrumentType": "Act",
-      "status": "Enacted",
-      "publicationDate": "2025-05-28",
-      "effectiveDate": "2025-06-04",
-      "topic": "AI promotion · governance · coordination",
-      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html",
-      "summary": "Japan’s AI promotion legislation establishes government coordination and policy duties. Refer to the official Cabinet Office page for current materials.",
+      "id": "US-NYC-LL144",
+      "jurisdiction": "United States · New York City",
+      "regulator": "NYC Department of Consumer and Worker Protection",
+      "title": "Automated Employment Decision Tools (Local Law 144)",
+      "instrumentType": "Local law / implementing rule",
+      "status": "In force",
+      "publicationDate": "2021-12-11",
+      "effectiveDate": "2023-07-05",
+      "topic": "Employment · bias audit · notice",
+      "sourceUrl": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
+      "summary": "Requires bias audits and notices for covered automated employment decision tools. Official regulator page includes rules and compliance guidance.",
       "history": [
         {
-          "date": "2025-05-28",
-          "change": "Act promulgated; general effective date followed in June 2025."
+          "date": "2023-07-05",
+          "change": "Enforcement began after implementation delay."
         }
       ]
     }
