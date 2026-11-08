@@ -540,6 +540,28 @@
       ]
     },
     {
+      "id": "BD-NATIONAL-AI-POLICY-FORMULATION-2026",
+      "jurisdiction": "Bangladesh",
+      "regulator": "Information and Communication Technology Division, Ministry of Posts, Telecommunications and Information Technology",
+      "title": "National AI Policy Formulation Committee and Drafting Process",
+      "instrumentType": "National policy under development",
+      "status": "Proposed",
+      "publicationDate": "2026-11-02",
+      "topic": "AI policy · national governance · drafting process",
+      "sourceUrl": "https://aipolicy.gov.bd/en",
+      "summary": "Bangladesh’s ICT Division formed a 16-member committee on 2 November 2026 to draft a National AI Policy. The official policy portal says the draft is due by 15 December 2026. No adopted policy is represented by this record.",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "change": "The official portal says the ICT Division formed the National AI Policy Formulation Committee by office order."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Drafting status and expected submission date checked against the government’s National AI Policy portal."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-22174",
       "jurisdiction": "United States · Federal",
       "regulator": "Education Department",
@@ -3057,6 +3079,28 @@
       ]
     },
     {
+      "id": "NP-DRAFT-AI-POLICY-2025",
+      "jurisdiction": "Nepal",
+      "regulator": "Ministry of Communication and Information Technology",
+      "title": "National Artificial Intelligent (AI) Policy, 2082",
+      "instrumentType": "National AI policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-11-27",
+      "topic": "AI governance · regulation · risk management",
+      "sourceUrl": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
+      "summary": "Nepal’s Ministry of Communication and Information Technology now lists the National Artificial Intelligent (AI) Policy, 2082, in its official policy register, with a publication date of 11 Mangsir 2082 (27 November 2025). This later ministry listing supersedes an earlier 2025 government review that described the policy as being prepared. The policy is a national policy, not a standalone Act.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Initially listed as proposed because official sources conflicted."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Updated to adopted policy after checking the Ministry of Communication and Information Technology’s policy register listing National Artificial Intelligent (AI) Policy, 2082, published 11 Mangsir 2082."
+        }
+      ]
+    },
+    {
       "id": "KZ-AI-2025-230",
       "jurisdiction": "Kazakhstan",
       "regulator": "Ministry of Artificial Intelligence and Digital Development / Government of Kazakhstan",
@@ -3681,28 +3725,6 @@
         {
           "date": "2026-11-08",
           "change": "Added from the official Government of Serbia strategy listing."
-        }
-      ]
-    },
-    {
-      "id": "NP-DRAFT-AI-POLICY-2025",
-      "jurisdiction": "Nepal",
-      "regulator": "Ministry of Communication and Information Technology",
-      "title": "National Artificial Intelligent (AI) Policy, 2082",
-      "instrumentType": "National AI policy",
-      "status": "Adopted policy",
-      "publicationDate": "2025-11-27",
-      "topic": "AI governance · regulation · risk management",
-      "sourceUrl": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
-      "summary": "Nepal’s Ministry of Communication and Information Technology now lists the National Artificial Intelligent (AI) Policy, 2082, in its official policy register, with a publication date of 11 Mangsir 2082 (27 November 2025). This later ministry listing supersedes an earlier 2025 government review that described the policy as being prepared. The policy is a national policy, not a standalone Act.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Initially listed as proposed because official sources conflicted."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Updated to adopted policy after checking the Ministry of Communication and Information Technology’s policy register listing National Artificial Intelligent (AI) Policy, 2082, published 11 Mangsir 2082."
         }
       ]
     },
@@ -5010,28 +5032,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "BD-NATIONAL-AI-POLICY-FORMULATION-2026",
-      "jurisdiction": "Bangladesh",
-      "regulator": "Information and Communication Technology Division, Ministry of Posts, Telecommunications and Information Technology",
-      "title": "National AI Policy Formulation Committee and Drafting Process",
-      "instrumentType": "National policy under development",
-      "status": "Proposed",
-      "publicationDate": "2026-11-02",
-      "topic": "AI policy · national governance · drafting process",
-      "sourceUrl": "https://aipolicy.gov.bd/en",
-      "summary": "Bangladesh’s ICT Division formed a 16-member committee on 2 November 2026 to draft a National AI Policy. The official policy portal says the draft is due by 15 December 2026. No adopted policy is represented by this record.",
-      "history": [
-        {
-          "date": "2026-11-02",
-          "change": "The official portal says the ICT Division formed the National AI Policy Formulation Committee by office order."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Drafting status and expected submission date checked against the government’s National AI Policy portal."
         }
       ]
     }
