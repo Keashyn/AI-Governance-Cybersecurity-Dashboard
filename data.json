@@ -2244,6 +2244,24 @@
       ]
     },
     {
+      "id": "SL-DRAFT-NATIONAL-AI-STRATEGY-2026",
+      "jurisdiction": "Sierra Leone",
+      "regulator": "Ministry of Communication, Technology and Innovation",
+      "title": "National Artificial Intelligence Strategy (under development)",
+      "instrumentType": "National strategy · development phase",
+      "status": "Proposed",
+      "publicationDate": "2026-05-20",
+      "topic": "AI governance · national strategy · readiness",
+      "sourceUrl": "https://mocti.gov.sl/the-ministry-of-communication-technology-and-innovation-mocti-in-collaboration-with-the-world-bank-group-is-developing-sierra-leones-first-ever-national-ai-strategy/",
+      "summary": "The Ministry says it is developing Sierra Leone’s first National AI Strategy with the World Bank and consulting government, civil society, media and private-sector stakeholders. This is an instrument under development, not an adopted strategy or binding law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official announcement of strategy development and consultations."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-10013",
       "jurisdiction": "United States · Federal",
       "regulator": "Education Department",
@@ -2601,6 +2619,24 @@
       ]
     },
     {
+      "id": "MA-AI-MADE-IN-MOROCCO-EDUCATION-2026",
+      "jurisdiction": "Morocco",
+      "regulator": "Ministry of National Education, Preschool and Sports · Ministry of Digital Transition",
+      "title": "AI Made in Morocco Roadmap for Education",
+      "instrumentType": "Sectoral AI roadmap",
+      "status": "Adopted policy",
+      "publicationDate": "2026-01-12",
+      "topic": "AI adoption · education · skills",
+      "sourceUrl": "https://www.men.gov.ma/fr/actualites/lancement-de-la-feuille-de-route-du-maroc-pour-l%E2%80%99intelligence-artificielle-en-appui-%C3%A0-la-r%C3%A9forme-%C3%A9ducative",
+      "summary": "Morocco announced an AI roadmap linked to education reform. The government says it supports AI use in education, digital learning innovation and educator skills. This is a sectoral policy roadmap, not an AI statute or a comprehensive national AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Ministry of National Education announcement of the roadmap launch."
+        }
+      ]
+    },
+    {
       "id": "SA-NATIONAL-AI-RMF-2026",
       "jurisdiction": "Saudi Arabia",
       "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
@@ -2792,6 +2828,24 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the official gazette; the commencement period has elapsed."
+        }
+      ]
+    },
+    {
+      "id": "BW-DRAFT-NATIONAL-AI-POLICY-2025",
+      "jurisdiction": "Botswana",
+      "regulator": "Government of Botswana · Ministry of Communications and Innovation",
+      "title": "Draft National Artificial Intelligence Policy (reported in finalization)",
+      "instrumentType": "Draft national policy",
+      "status": "Proposed",
+      "publicationDate": "2025-08-13",
+      "topic": "AI governance · ethical use · national policy",
+      "sourceUrl": "https://dailynews.gov.bw/news-detail/88106",
+      "summary": "The government reported that a National AI Policy was in its finalization stage and described goals of harnessing AI while safeguarding against risks. This is a proposal-stage record based on the latest official announcement found; later adoption status has not yet been verified.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official government news service; its latest located report said the policy was being finalized."
         }
       ]
     },
@@ -4246,60 +4300,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "MA-AI-MADE-IN-MOROCCO-EDUCATION-2026",
-      "jurisdiction": "Morocco",
-      "regulator": "Ministry of National Education, Preschool and Sports · Ministry of Digital Transition",
-      "title": "AI Made in Morocco Roadmap for Education",
-      "instrumentType": "Sectoral AI roadmap",
-      "status": "Adopted policy",
-      "publicationDate": "2026-01-12",
-      "topic": "AI adoption · education · skills",
-      "sourceUrl": "https://www.men.gov.ma/fr/actualites/lancement-de-la-feuille-de-route-du-maroc-pour-l%E2%80%99intelligence-artificielle-en-appui-%C3%A0-la-r%C3%A9forme-%C3%A9ducative",
-      "summary": "Morocco announced an AI roadmap linked to education reform. The government says it supports AI use in education, digital learning innovation and educator skills. This is a sectoral policy roadmap, not an AI statute or a comprehensive national AI law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Ministry of National Education announcement of the roadmap launch."
-        }
-      ]
-    },
-    {
-      "id": "BW-DRAFT-NATIONAL-AI-POLICY-2025",
-      "jurisdiction": "Botswana",
-      "regulator": "Government of Botswana · Ministry of Communications and Innovation",
-      "title": "Draft National Artificial Intelligence Policy (reported in finalization)",
-      "instrumentType": "Draft national policy",
-      "status": "Proposed",
-      "publicationDate": "2025-08-13",
-      "topic": "AI governance · ethical use · national policy",
-      "sourceUrl": "https://dailynews.gov.bw/news-detail/88106",
-      "summary": "The government reported that a National AI Policy was in its finalization stage and described goals of harnessing AI while safeguarding against risks. This is a proposal-stage record based on the latest official announcement found; later adoption status has not yet been verified.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official government news service; its latest located report said the policy was being finalized."
-        }
-      ]
-    },
-    {
-      "id": "SL-DRAFT-NATIONAL-AI-STRATEGY-2026",
-      "jurisdiction": "Sierra Leone",
-      "regulator": "Ministry of Communication, Technology and Innovation",
-      "title": "National Artificial Intelligence Strategy (under development)",
-      "instrumentType": "National strategy · development phase",
-      "status": "Proposed",
-      "publicationDate": "2026-05-20",
-      "topic": "AI governance · national strategy · readiness",
-      "sourceUrl": "https://mocti.gov.sl/the-ministry-of-communication-technology-and-innovation-mocti-in-collaboration-with-the-world-bank-group-is-developing-sierra-leones-first-ever-national-ai-strategy/",
-      "summary": "The Ministry says it is developing Sierra Leone’s first National AI Strategy with the World Bank and consulting government, civil society, media and private-sector stakeholders. This is an instrument under development, not an adopted strategy or binding law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Ministry’s official announcement of strategy development and consultations."
         }
       ]
     }
