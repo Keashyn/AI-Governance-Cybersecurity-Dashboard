@@ -230,6 +230,16 @@
       "name": "Nigeria · National Centre for AI and Robotics",
       "url": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
       "status": "Curated official public source; national strategy (non-binding policy)"
+    },
+    {
+      "name": "Thailand · Electronic Transactions Development Agency",
+      "url": "https://www.etda.or.th/th/pr-news/law_ai.aspx",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Türkiye · Investment and Finance Office",
+      "url": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/turkiye-unveils-ai-action-plan-artificial-intelligence-summit.aspx",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -3899,6 +3909,41 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "TH-ETDA-AI-LAW-DRAFT-2025",
+      "jurisdiction": "Thailand",
+      "regulator": "Electronic Transactions Development Agency (ETDA) / Ministry of Digital Economy and Society",
+      "title": "Draft Principles of the Artificial Intelligence Law",
+      "instrumentType": "Draft law · consultation completed",
+      "status": "Proposed",
+      "topic": "AI governance · high-risk systems · rights and safety",
+      "sourceUrl": "https://www.etda.or.th/th/pr-news/law_ai.aspx",
+      "summary": "ETDA described draft principles for a future AI law, including risk-based oversight with attention to high-risk AI, rights, safety and innovation. The public comment period ended on 24 June 2025. The latest status was not established by this review, so check the official source for any later development; this record does not imply the proposal became law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from ETDA’s official announcement describing the draft and its public comment deadline."
+        }
+      ]
+    },
+    {
+      "id": "TR-AI-VISION-ACTION-2026-2030",
+      "jurisdiction": "Türkiye",
+      "regulator": "Presidency of the Republic of Türkiye · Investment and Finance Office",
+      "title": "Türkiye AI Vision and Action Plan 2026–2030",
+      "instrumentType": "National action plan",
+      "status": "Adopted policy",
+      "publicationDate": "2026-06-26",
+      "topic": "AI strategy · national action plan",
+      "sourceUrl": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/turkiye-unveils-ai-action-plan-artificial-intelligence-summit.aspx",
+      "summary": "The government unveiled a national AI action plan organized around discovering, benefiting from, producing and governing AI. Announced measures include AI literacy and skills, wider use in public services and industries, research and investment. This is a policy plan, not a statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Türkiye’s official Investment and Finance Office announcement of the plan."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4769,8 +4814,8 @@
     },
     {
       "country": "Thailand",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official AI draft/action-plan record added; this does not establish that no other binding AI or cross-sector laws apply."
     },
     {
       "country": "Timor-Leste",
@@ -4799,8 +4844,8 @@
     },
     {
       "country": "Türkiye",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official AI draft/action-plan record added; this does not establish that no other binding AI or cross-sector laws apply."
     },
     {
       "country": "Turkmenistan",
