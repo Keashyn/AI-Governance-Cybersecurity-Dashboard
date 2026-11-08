@@ -1128,6 +1128,24 @@
       ]
     },
     {
+      "id": "GE-JUSTICE-AI-WORKING-GROUP-2026",
+      "jurisdiction": "Georgia",
+      "regulator": "Ministry of Justice · Digital Governance Agency",
+      "title": "Interagency AI Working Group for the Justice Ministry system",
+      "instrumentType": "Government governance mechanism",
+      "status": "Guidance",
+      "publicationDate": "2026-09-29",
+      "topic": "Public-sector AI · human rights · data protection · cybersecurity",
+      "sourceUrl": "https://dga.gov.ge/?id=vZxdnullHO&m=articles",
+      "summary": "Georgia’s Digital Governance Agency reports that an interagency working group is coordinating ethical, safe and responsible AI adoption in public services and administrative processes within the justice ministry system. The group is considering legal, human-rights, data-protection and cybersecurity issues. This is a governance mechanism, not a binding AI regulation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Digital Governance Agency report on the group’s first meeting."
+        }
+      ]
+    },
+    {
       "id": "ET-CMR-588-2026-AI-UNIVERSITY",
       "jurisdiction": "Ethiopia",
       "regulator": "Council of Ministers of Ethiopia · Ministry of Justice legal register",
@@ -1313,6 +1331,24 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "GE-MOJ-ORDER-1251-2026-DGA-AI",
+      "jurisdiction": "Georgia",
+      "regulator": "Ministry of Justice · Digital Governance Agency",
+      "title": "Minister of Justice Order No. 1251 (2026) amending the Digital Governance Agency statute to establish AI functions",
+      "instrumentType": "Ministerial order",
+      "status": "In force",
+      "publicationDate": "2026-09-17",
+      "topic": "AI policy · digital regulation · risk evaluation · safe public-sector AI",
+      "sourceUrl": "https://matsne.gov.ge/ka/document/view/7001066",
+      "summary": "This ministerial order amends the Digital Governance Agency’s statute and establishes an Innovation and AI Development Department, including an AI policy and digital regulations unit. Its duties include developing and implementing policy and technical standards for safe, ethical and transparent AI use, evaluating risks and validating prototypes before deployment. The order is an agency-organization instrument; it is not a general AI law applying to all developers.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Georgia’s official legislative gazette; Order No. 1251 is dated September 17, 2026."
         }
       ]
     },
@@ -5450,42 +5486,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "GE-MOJ-ORDER-1251-2026-DGA-AI",
-      "jurisdiction": "Georgia",
-      "regulator": "Ministry of Justice · Digital Governance Agency",
-      "title": "Minister of Justice Order No. 1251 (2026) amending the Digital Governance Agency statute to establish AI functions",
-      "instrumentType": "Ministerial order",
-      "status": "In force",
-      "publicationDate": "2026-09-17",
-      "topic": "AI policy · digital regulation · risk evaluation · safe public-sector AI",
-      "sourceUrl": "https://matsne.gov.ge/ka/document/view/7001066",
-      "summary": "This ministerial order amends the Digital Governance Agency’s statute and establishes an Innovation and AI Development Department, including an AI policy and digital regulations unit. Its duties include developing and implementing policy and technical standards for safe, ethical and transparent AI use, evaluating risks and validating prototypes before deployment. The order is an agency-organization instrument; it is not a general AI law applying to all developers.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from Georgia’s official legislative gazette; Order No. 1251 is dated September 17, 2026."
-        }
-      ]
-    },
-    {
-      "id": "GE-JUSTICE-AI-WORKING-GROUP-2026",
-      "jurisdiction": "Georgia",
-      "regulator": "Ministry of Justice · Digital Governance Agency",
-      "title": "Interagency AI Working Group for the Justice Ministry system",
-      "instrumentType": "Government governance mechanism",
-      "status": "Guidance",
-      "publicationDate": "2026-09-29",
-      "topic": "Public-sector AI · human rights · data protection · cybersecurity",
-      "sourceUrl": "https://dga.gov.ge/?id=vZxdnullHO&m=articles",
-      "summary": "Georgia’s Digital Governance Agency reports that an interagency working group is coordinating ethical, safe and responsible AI adoption in public services and administrative processes within the justice ministry system. The group is considering legal, human-rights, data-protection and cybersecurity issues. This is a governance mechanism, not a binding AI regulation.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Digital Governance Agency report on the group’s first meeting."
         }
       ]
     }
