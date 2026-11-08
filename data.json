@@ -4170,6 +4170,25 @@
       ]
     },
     {
+      "id": "CG-DECREE-2025-279-CARIA",
+      "jurisdiction": "Congo (Republic of the) · National",
+      "regulator": "President of the Republic; Ministry of Posts, Telecommunications and Digital Economy",
+      "title": "Decree No. 2025-279 of 2 July 2025 approving the statutes of CARIA",
+      "instrumentType": "Decree · implementing instrument",
+      "status": "Enacted",
+      "publicationDate": "2025-07-02",
+      "effectiveDate": "2025-07-02",
+      "topic": "AI · research governance · institution statutes",
+      "sourceUrl": "https://www.sgg.cg/JO/2025/congo-jo-2025-35.pdf",
+      "summary": "This decree approves the statutes governing CARIA’s organization, management and operations under Law No. 14-2024. The statutes define its research, training and development mandate. It implements the public research center’s institutional framework and is not a general AI system regulation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Journal of the Republic; statutes approved by presidential decree dated 2 July 2025."
+        }
+      ]
+    },
+    {
       "id": "NO-DRAFT-AI-ACT-2025-2026",
       "jurisdiction": "Norway",
       "regulator": "Ministry of Digitalisation and Public Governance",
@@ -5524,6 +5543,25 @@
       ]
     },
     {
+      "id": "CG-LAW-14-2024-CARIA",
+      "jurisdiction": "Congo (Republic of the) · National",
+      "regulator": "Parliament and Presidency of the Republic of the Congo",
+      "title": "Law No. 14-2024 of 23 May 2024 establishing the African Centre for Artificial Intelligence Research (CARIA)",
+      "instrumentType": "Law",
+      "status": "Enacted",
+      "publicationDate": "2024-06-06",
+      "effectiveDate": "2024-06-06",
+      "topic": "AI · research governance · public institution",
+      "sourceUrl": "https://www.sgg.cg/JO/2024/congo-jo-2024-23.pdf",
+      "summary": "This law creates CARIA as a public scientific and technical institution with legal personality and financial autonomy. Its duties include AI research, training, proposing national AI development strategies and supporting responsible technology development. It establishes an AI research institution; it does not set general obligations for AI developers or deployers.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Journal of the Republic; promulgated 23 May 2024 and published 6 June 2024."
+        }
+      ]
+    },
+    {
       "id": "US-CO-SB24-205",
       "jurisdiction": "United States · Colorado",
       "regulator": "Colorado General Assembly / Attorney General",
@@ -6172,44 +6210,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "CG-LAW-14-2024-CARIA",
-      "jurisdiction": "Congo (Republic of the) · National",
-      "regulator": "Parliament and Presidency of the Republic of the Congo",
-      "title": "Law No. 14-2024 of 23 May 2024 establishing the African Centre for Artificial Intelligence Research (CARIA)",
-      "instrumentType": "Law",
-      "status": "Enacted",
-      "publicationDate": "2024-06-06",
-      "effectiveDate": "2024-06-06",
-      "topic": "AI · research governance · public institution",
-      "sourceUrl": "https://www.sgg.cg/JO/2024/congo-jo-2024-23.pdf",
-      "summary": "This law creates CARIA as a public scientific and technical institution with legal personality and financial autonomy. Its duties include AI research, training, proposing national AI development strategies and supporting responsible technology development. It establishes an AI research institution; it does not set general obligations for AI developers or deployers.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Journal of the Republic; promulgated 23 May 2024 and published 6 June 2024."
-        }
-      ]
-    },
-    {
-      "id": "CG-DECREE-2025-279-CARIA",
-      "jurisdiction": "Congo (Republic of the) · National",
-      "regulator": "President of the Republic; Ministry of Posts, Telecommunications and Digital Economy",
-      "title": "Decree No. 2025-279 of 2 July 2025 approving the statutes of CARIA",
-      "instrumentType": "Decree · implementing instrument",
-      "status": "Enacted",
-      "publicationDate": "2025-07-02",
-      "effectiveDate": "2025-07-02",
-      "topic": "AI · research governance · institution statutes",
-      "sourceUrl": "https://www.sgg.cg/JO/2025/congo-jo-2025-35.pdf",
-      "summary": "This decree approves the statutes governing CARIA’s organization, management and operations under Law No. 14-2024. The statutes define its research, training and development mandate. It implements the public research center’s institutional framework and is not a general AI system regulation.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Journal of the Republic; statutes approved by presidential decree dated 2 July 2025."
         }
       ]
     }
