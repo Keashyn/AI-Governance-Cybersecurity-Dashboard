@@ -210,6 +210,26 @@
       "name": "Uruguay · Agesic",
       "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/",
       "status": "Official digital-government and AI policy publications"
+    },
+    {
+      "name": "Australia · Department of Industry, Science and Resources",
+      "url": "https://www.industry.gov.au/publications/national-ai-plan",
+      "status": "Curated official public source; national strategy (non-binding policy)"
+    },
+    {
+      "name": "Canada · Innovation, Science and Economic Development",
+      "url": "https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all",
+      "status": "Curated official public source; national strategy (non-binding policy)"
+    },
+    {
+      "name": "Ghana · Ministry of Communication, Digital Technology and Innovations",
+      "url": "https://moc.gov.gh/2026/04/24/ghana-launches-national-ai-strategy-to-drive-digital-transformation-and-economic-growth/",
+      "status": "Curated official public source; national strategy (non-binding policy)"
+    },
+    {
+      "name": "Nigeria · National Centre for AI and Robotics",
+      "url": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
+      "status": "Curated official public source; national strategy (non-binding policy)"
     }
   ],
   "items": [
@@ -3803,6 +3823,82 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "AU-NAIP-2025",
+      "jurisdiction": "Australia",
+      "regulator": "Australian Government · Department of Industry, Science and Resources",
+      "title": "National AI Plan",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-12-02",
+      "effectiveDate": "",
+      "topic": "AI · national strategy",
+      "sourceUrl": "https://www.industry.gov.au/publications/national-ai-plan",
+      "summary": "The Australian Government’s plan sets goals to grow domestic AI capability and infrastructure, spread benefits through adoption, training and public services, and keep people safe through legislative and regulatory frameworks. It is a government strategy, not itself a binding AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Australian Government’s official National AI Plan page."
+        }
+      ]
+    },
+    {
+      "id": "CA-NAIS-AIFORALL-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Innovation, Science and Economic Development Canada",
+      "title": "Canada’s National Artificial Intelligence Strategy: AI for All",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-06-08",
+      "effectiveDate": "",
+      "topic": "AI · national strategy",
+      "sourceUrl": "https://ised-isde.canada.ca/site/ised/en/canadas-national-artificial-intelligence-strategy-ai-all",
+      "summary": "Canada’s national strategy sets six pillars organized around trust, opportunity and sovereignty. It directs government work on protecting people and democracy, enabling adoption and shared prosperity, developing Canadian AI capacity, and international partnerships. It is a policy plan, not a standalone AI law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Government of Canada’s official strategy page (modified 2026-06-08)."
+        }
+      ]
+    },
+    {
+      "id": "GH-NAIS-2025-2035",
+      "jurisdiction": "Ghana",
+      "regulator": "Ministry of Communication, Digital Technology and Innovations",
+      "title": "Ghana National Artificial Intelligence Strategy 2025–2035",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-04-24",
+      "effectiveDate": "",
+      "topic": "AI · national strategy",
+      "sourceUrl": "https://moc.gov.gh/2026/04/24/ghana-launches-national-ai-strategy-to-drive-digital-transformation-and-economic-growth/",
+      "summary": "Ghana’s launched strategy is a national plan for responsible, ethical and inclusive AI use. It focuses on data governance, infrastructure, skills, and adoption in areas such as health, education, agriculture, finance and public services. The government describes it as a policy framework, not a binding AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added following official government confirmation of the strategy launch on 2026-04-24."
+        }
+      ]
+    },
+    {
+      "id": "NG-NAIS-2025",
+      "jurisdiction": "Nigeria",
+      "regulator": "Federal Ministry of Communications, Innovation and Digital Economy · National Centre for AI and Robotics",
+      "title": "National Artificial Intelligence Strategy",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-09-19",
+      "effectiveDate": "",
+      "topic": "AI · national strategy",
+      "sourceUrl": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
+      "summary": "Nigeria’s national strategy sets goals for economic growth, social inclusion, and technological leadership. It outlines a roadmap for research and innovation, responsible AI governance, skills, data, infrastructure and AI adoption in public services and sectors such as health, agriculture and education. It is a government strategy, not a binding AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official National Centre for AI and Robotics strategy document."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -3849,7 +3945,7 @@
     {
       "country": "Australia",
       "status": "Record present",
-      "note": ""
+      "note": "Verified official national AI strategy record added; this confirms a policy instrument, not a comprehensive finding that no additional binding AI laws apply."
     },
     {
       "country": "Austria",
@@ -3964,7 +4060,7 @@
     {
       "country": "Canada",
       "status": "Record present",
-      "note": ""
+      "note": "Verified official national AI strategy record added; this confirms a policy instrument, not a comprehensive finding that no additional binding AI laws apply."
     },
     {
       "country": "Central African Republic",
@@ -4133,8 +4229,8 @@
     },
     {
       "country": "Ghana",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI strategy record added; this confirms a policy instrument, not a comprehensive finding that no additional binding AI laws apply."
     },
     {
       "country": "Greece",
@@ -4433,8 +4529,8 @@
     },
     {
       "country": "Nigeria",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI strategy record added; this confirms a policy instrument, not a comprehensive finding that no additional binding AI laws apply."
     },
     {
       "country": "North Korea",
