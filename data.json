@@ -2638,6 +2638,24 @@
       ]
     },
     {
+      "id": "MN-DRAFT-AI-STRATEGY-2025",
+      "jurisdiction": "Mongolia",
+      "regulator": "Cabinet of Mongolia · Ministry of Digital Development, Innovation and Communications",
+      "title": "Draft National Strategy for Big Data and Artificial Intelligence",
+      "instrumentType": "Draft national strategy",
+      "status": "Proposed",
+      "publicationDate": "2025-09-24",
+      "topic": "AI governance · big data · digital development",
+      "sourceUrl": "https://cabinet.gov.mn/en/10843.html",
+      "summary": "Mongolia’s Cabinet says the draft strategy was presented for discussion and directed ministries to integrate its objectives into the draft 2026–2030 development plan. The source describes a draft, so this record does not treat it as an adopted policy or binding law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Cabinet announcement describing the draft as discussed."
+        }
+      ]
+    },
+    {
       "id": "NG-NAIS-2025",
       "jurisdiction": "Nigeria",
       "regulator": "Federal Ministry of Communications, Innovation and Digital Economy · National Centre for AI and Robotics",
@@ -4075,24 +4093,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "MN-DRAFT-AI-STRATEGY-2025",
-      "jurisdiction": "Mongolia",
-      "regulator": "Cabinet of Mongolia · Ministry of Digital Development, Innovation and Communications",
-      "title": "Draft National Strategy for Big Data and Artificial Intelligence",
-      "instrumentType": "Draft national strategy",
-      "status": "Proposed",
-      "publicationDate": "2025-09-24",
-      "topic": "AI governance · big data · digital development",
-      "sourceUrl": "https://cabinet.gov.mn/en/10843.html",
-      "summary": "Mongolia’s Cabinet says the draft strategy was presented for discussion and directed ministries to integrate its objectives into the draft 2026–2030 development plan. The source describes a draft, so this record does not treat it as an adopted policy or binding law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Cabinet announcement describing the draft as discussed."
         }
       ]
     }
