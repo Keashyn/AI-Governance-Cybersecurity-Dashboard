@@ -3972,6 +3972,25 @@
       ]
     },
     {
+      "id": "BF-AI-ACTION-PLAN-DEVELOPMENT-2025",
+      "jurisdiction": "Burkina Faso · National",
+      "regulator": "Ministry of Digital Transition, Posts and Electronic Communications",
+      "title": "National Action Plan on Artificial Intelligence (development workshop)",
+      "instrumentType": "National action plan (in development)",
+      "status": "Proposed",
+      "publicationDate": "2025-08-27",
+      "effectiveDate": "",
+      "topic": "AI · national action plan · policy development",
+      "sourceUrl": "https://www.mdenp.gov.bf/details-agenda?cHash=408b58029c55b94cf5fc492477f3e407&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1024",
+      "summary": "Burkina Faso opened a national situation-analysis workshop to develop the foundations of a national AI action plan. The workshop was intended to support a shared diagnosis and strategic plan. This notice describes a policy-development step, not an adopted plan or binding rules.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Ministry of Digital Transition announcement; recorded as plan development."
+        }
+      ]
+    },
+    {
       "id": "BW-DRAFT-NATIONAL-AI-POLICY-2025",
       "jurisdiction": "Botswana",
       "regulator": "Government of Botswana · Ministry of Communications and Innovation",
@@ -5476,6 +5495,25 @@
       ]
     },
     {
+      "id": "BN-AI-GOV-ETHICS-GUIDE-2024",
+      "jurisdiction": "Brunei · National",
+      "regulator": "Authority for Info-communications Technology Industry (AITI)",
+      "title": "Guide on AI Governance and Ethics for Brunei Darussalam",
+      "instrumentType": "Guideline",
+      "status": "Guidance",
+      "publicationDate": "2024-07-09",
+      "effectiveDate": "",
+      "topic": "AI · ethics · governance · consultation",
+      "sourceUrl": "https://aiti.gov.bn/regulatory/ai-governance-and-ethics/",
+      "summary": "AITI developed a guide on governance and ethics for organizations that design, develop or use AI. A draft was publicly consulted on in July 2024; the regulator’s page links to the final guide and second edition. This is guidance, not binding law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from AITI’s official guide page, which documents consultation and links to final editions."
+        }
+      ]
+    },
+    {
       "id": "US-CO-SB24-205",
       "jurisdiction": "United States · Colorado",
       "regulator": "Colorado General Assembly / Attorney General",
@@ -5737,6 +5775,25 @@
         {
           "date": "2026-11-08",
           "change": "Record checked against the ministry policy directory and policy document."
+        }
+      ]
+    },
+    {
+      "id": "BJ-AI-BIGDATA-STRATEGY-2023",
+      "jurisdiction": "Benin · National",
+      "regulator": "Ministry of Digital Affairs and Digitalization",
+      "title": "National Artificial Intelligence and Big Data Strategy 2023–2027",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2023-02-16",
+      "effectiveDate": "",
+      "topic": "AI · big data · national strategy",
+      "sourceUrl": "https://innovation.gouv.bj/publications/documents/strategie-nationale-d-intelligence-artificielle-et-des-megadonnees-2023-2027",
+      "summary": "Benin adopted a national AI and big data strategy for 2023–2027. The strategy was prepared by the Ministry of Digital Affairs and Digitalization and focuses on practical AI use in areas including education, health, agriculture, tourism and public services. It is an adopted policy, not a statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Benin digital portal; source states the Council of Ministers adopted it on 18 January 2023."
         }
       ]
     },
@@ -6105,63 +6162,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "BJ-AI-BIGDATA-STRATEGY-2023",
-      "jurisdiction": "Benin · National",
-      "regulator": "Ministry of Digital Affairs and Digitalization",
-      "title": "National Artificial Intelligence and Big Data Strategy 2023–2027",
-      "instrumentType": "National AI strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2023-02-16",
-      "effectiveDate": "",
-      "topic": "AI · big data · national strategy",
-      "sourceUrl": "https://innovation.gouv.bj/publications/documents/strategie-nationale-d-intelligence-artificielle-et-des-megadonnees-2023-2027",
-      "summary": "Benin adopted a national AI and big data strategy for 2023–2027. The strategy was prepared by the Ministry of Digital Affairs and Digitalization and focuses on practical AI use in areas including education, health, agriculture, tourism and public services. It is an adopted policy, not a statute.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Benin digital portal; source states the Council of Ministers adopted it on 18 January 2023."
-        }
-      ]
-    },
-    {
-      "id": "BN-AI-GOV-ETHICS-GUIDE-2024",
-      "jurisdiction": "Brunei · National",
-      "regulator": "Authority for Info-communications Technology Industry (AITI)",
-      "title": "Guide on AI Governance and Ethics for Brunei Darussalam",
-      "instrumentType": "Guideline",
-      "status": "Guidance",
-      "publicationDate": "2024-07-09",
-      "effectiveDate": "",
-      "topic": "AI · ethics · governance · consultation",
-      "sourceUrl": "https://aiti.gov.bn/regulatory/ai-governance-and-ethics/",
-      "summary": "AITI developed a guide on governance and ethics for organizations that design, develop or use AI. A draft was publicly consulted on in July 2024; the regulator’s page links to the final guide and second edition. This is guidance, not binding law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from AITI’s official guide page, which documents consultation and links to final editions."
-        }
-      ]
-    },
-    {
-      "id": "BF-AI-ACTION-PLAN-DEVELOPMENT-2025",
-      "jurisdiction": "Burkina Faso · National",
-      "regulator": "Ministry of Digital Transition, Posts and Electronic Communications",
-      "title": "National Action Plan on Artificial Intelligence (development workshop)",
-      "instrumentType": "National action plan (in development)",
-      "status": "Proposed",
-      "publicationDate": "2025-08-27",
-      "effectiveDate": "",
-      "topic": "AI · national action plan · policy development",
-      "sourceUrl": "https://www.mdenp.gov.bf/details-agenda?cHash=408b58029c55b94cf5fc492477f3e407&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1024",
-      "summary": "Burkina Faso opened a national situation-analysis workshop to develop the foundations of a national AI action plan. The workshop was intended to support a shared diagnosis and strategic plan. This notice describes a policy-development step, not an adopted plan or binding rules.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Ministry of Digital Transition announcement; recorded as plan development."
         }
       ]
     }
