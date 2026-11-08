@@ -3387,6 +3387,25 @@
       ]
     },
     {
+      "id": "SR-AI-READINESS-2026",
+      "jurisdiction": "Suriname · National",
+      "regulator": "Ministry of Economic Affairs, Entrepreneurship and Technological Innovation (EZOTI)",
+      "title": "AI Readiness Assessment and development of an integrated national AI strategy",
+      "instrumentType": "National AI strategy (in development)",
+      "status": "Proposed",
+      "publicationDate": "2026-02-01",
+      "effectiveDate": "",
+      "topic": "AI · national policy development · readiness assessment",
+      "sourceUrl": "https://gov.sr/wp-content/uploads/2026/02/Nieuwsbrief-van-de-maand-februari-2026.pdf",
+      "summary": "The ministry reports that Suriname, with UNESCO, is preparing an AI Readiness Assessment intended to inform an integrated national AI strategy. The consultant selection process was completed. This is a policy-development process; the source does not establish that an AI strategy or binding AI rules have been adopted.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from an official ministry newsletter; recorded as policy development, not adopted law or strategy."
+        }
+      ]
+    },
+    {
       "id": "MX-ETHICAL-AI-DECLARATION-2026",
       "jurisdiction": "Mexico",
       "regulator": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación (Secihti) and Agencia de Transformación Digital y Telecomunicaciones (ATDT)",
@@ -3405,6 +3424,25 @@
         {
           "date": "2026-11-08",
           "change": "Scope and non-statutory status checked against the official ATDT release."
+        }
+      ]
+    },
+    {
+      "id": "GY-GOV-AI-ASSISTANT-2026",
+      "jurisdiction": "Guyana · National",
+      "regulator": "Ministry of Public Service, Government Efficiency and Implementation",
+      "title": "AskGov AI assistant for government services (Digital Guyana initiative)",
+      "instrumentType": "Government AI program",
+      "status": "Proposed",
+      "publicationDate": "2026-01-26",
+      "effectiveDate": "",
+      "topic": "AI · public services · digital government",
+      "sourceUrl": "https://dpi.gov.gy/wp-content/uploads/2026/02/Budget_Speech_2026.pdf",
+      "summary": "Guyana’s 2026 budget speech describes AskGov, a planned 24/7 AI assistant to answer questions and guide users through government transactions. This is a government digital-service initiative, not an AI regulation or general-use policy. The budget does not specify model governance safeguards.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Government of Guyana’s 2026 budget speech; classified as a planned program, not legislation."
         }
       ]
     },
@@ -5724,6 +5762,25 @@
       ]
     },
     {
+      "id": "BO-AI-LIFECYCLE-MANUAL-2021",
+      "jurisdiction": "Bolivia · National",
+      "regulator": "Ministry of Productive Development and Plural Economy · SIIP / DGAP",
+      "title": "Technical Manual: Artificial Intelligence Life Cycle (Manual técnico · Ciclo de vida de la inteligencia artificial)",
+      "instrumentType": "Government guidance",
+      "status": "Guidance",
+      "publicationDate": "2021-01-05",
+      "effectiveDate": "",
+      "topic": "AI · machine learning · technical lifecycle guidance",
+      "sourceUrl": "https://siip.produccion.gob.bo/repSIIP2/documento.php?n=2666",
+      "summary": "A technical manual published by a Bolivian government ministry discusses machine-learning methods and the need to understand their performance and positive or negative social effects. It is technical guidance, not a statute or binding AI regulation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official SIIP repository record; publication date shown as 5 January 2021."
+        }
+      ]
+    },
+    {
       "id": "VU-NATIONAL-AI-STRATEGY-PROCUREMENT-2026",
       "jurisdiction": "Vanuatu",
       "regulator": "Prime Minister’s Office · Department of Communications and Digital Transformation",
@@ -5889,63 +5946,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "GY-GOV-AI-ASSISTANT-2026",
-      "jurisdiction": "Guyana · National",
-      "regulator": "Ministry of Public Service, Government Efficiency and Implementation",
-      "title": "AskGov AI assistant for government services (Digital Guyana initiative)",
-      "instrumentType": "Government AI program",
-      "status": "Proposed",
-      "publicationDate": "2026-01-26",
-      "effectiveDate": "",
-      "topic": "AI · public services · digital government",
-      "sourceUrl": "https://dpi.gov.gy/wp-content/uploads/2026/02/Budget_Speech_2026.pdf",
-      "summary": "Guyana’s 2026 budget speech describes AskGov, a planned 24/7 AI assistant to answer questions and guide users through government transactions. This is a government digital-service initiative, not an AI regulation or general-use policy. The budget does not specify model governance safeguards.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Government of Guyana’s 2026 budget speech; classified as a planned program, not legislation."
-        }
-      ]
-    },
-    {
-      "id": "SR-AI-READINESS-2026",
-      "jurisdiction": "Suriname · National",
-      "regulator": "Ministry of Economic Affairs, Entrepreneurship and Technological Innovation (EZOTI)",
-      "title": "AI Readiness Assessment and development of an integrated national AI strategy",
-      "instrumentType": "National AI strategy (in development)",
-      "status": "Proposed",
-      "publicationDate": "2026-02-01",
-      "effectiveDate": "",
-      "topic": "AI · national policy development · readiness assessment",
-      "sourceUrl": "https://gov.sr/wp-content/uploads/2026/02/Nieuwsbrief-van-de-maand-februari-2026.pdf",
-      "summary": "The ministry reports that Suriname, with UNESCO, is preparing an AI Readiness Assessment intended to inform an integrated national AI strategy. The consultant selection process was completed. This is a policy-development process; the source does not establish that an AI strategy or binding AI rules have been adopted.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from an official ministry newsletter; recorded as policy development, not adopted law or strategy."
-        }
-      ]
-    },
-    {
-      "id": "BO-AI-LIFECYCLE-MANUAL-2021",
-      "jurisdiction": "Bolivia · National",
-      "regulator": "Ministry of Productive Development and Plural Economy · SIIP / DGAP",
-      "title": "Technical Manual: Artificial Intelligence Life Cycle (Manual técnico · Ciclo de vida de la inteligencia artificial)",
-      "instrumentType": "Government guidance",
-      "status": "Guidance",
-      "publicationDate": "2021-01-05",
-      "effectiveDate": "",
-      "topic": "AI · machine learning · technical lifecycle guidance",
-      "sourceUrl": "https://siip.produccion.gob.bo/repSIIP2/documento.php?n=2666",
-      "summary": "A technical manual published by a Bolivian government ministry discusses machine-learning methods and the need to understand their performance and positive or negative social effects. It is technical guidance, not a statute or binding AI regulation.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official SIIP repository record; publication date shown as 5 January 2021."
         }
       ]
     }
