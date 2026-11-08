@@ -745,6 +745,16 @@
       "name": "Comoros · Presidency Council of Ministers, 11 March 2026",
       "url": "https://www.beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture%2C-la-s%C3%A9curit%C3%A9%2C-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
       "status": "Official notice of national AI readiness assessment and committee work"
+    },
+    {
+      "name": "Guatemala · ENIA public co-creation process",
+      "url": "https://participacionciudadana.gob.gt/processes/IA",
+      "status": "Official participation portal; national strategy and roadmap still in development"
+    },
+    {
+      "name": "Mexico · Senate AI development bill, Legislative Information System",
+      "url": "https://www.sil.gobernacion.gob.mx/Reportes/Sesion/ResultadoSesiones2.php?Camara=2&CveSesion=5131586&Cve_Leg=66&Fec_fin=31%2F08%2F2027&Fec_ini=29%2F08%2F2024&Origen=BS",
+      "status": "Official legislative initiative record; published 9 September 2026, not adopted"
     }
   ],
   "items": [
@@ -6380,6 +6390,44 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "GT-ENIA-DEVELOPMENT-2025-27",
+      "jurisdiction": "Guatemala · National",
+      "regulator": "Secretariat of Planning and Programming of the Presidency (SEGEPLAN); National Secretariat of Science and Technology (SENACYT)",
+      "title": "National Artificial Intelligence Strategy (ENIA) — co-creation and roadmap development",
+      "instrumentType": "National AI strategy (in development)",
+      "status": "Proposed",
+      "publicationDate": "2025-08-01",
+      "effectiveDate": "",
+      "topic": "AI · national strategy · public consultation · governance",
+      "sourceUrl": "https://participacionciudadana.gob.gt/processes/IA",
+      "summary": "Guatemala is co-creating a national AI strategy through a public process led by SEGEPLAN and SENACYT with UNDP support. The published stages cover an AI landscape assessment, strategy priorities, and a governance framework and implementation roadmap. Public workshops and consultations are scheduled into 2027. This remains strategy development, not an adopted national policy.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official citizen participation portal; strategy process remains in co-creation."
+        }
+      ]
+    },
+    {
+      "id": "MX-GENERAL-AI-DEVELOPMENT-BILL-2026",
+      "jurisdiction": "Mexico · Federal",
+      "regulator": "Senate of the Republic · Senators Gina Gerardina Campuzano González and Ricardo Anaya Cortés",
+      "title": "Initiative to enact the General Law for the Development of Artificial Intelligence and the Promotion of the Digital Future",
+      "instrumentType": "Draft bill",
+      "status": "Proposed",
+      "publicationDate": "2026-09-09",
+      "effectiveDate": "",
+      "topic": "AI · proposed federal framework · risk management · rights",
+      "sourceUrl": "https://www.sil.gobernacion.gob.mx/Reportes/Sesion/ResultadoSesiones2.php?Camara=2&CveSesion=5131586&Cve_Leg=66&Fec_fin=31%2F08%2F2027&Fec_ini=29%2F08%2F2024&Origen=BS",
+      "summary": "A Senate initiative proposes a general law to promote AI development and adoption, coordinate policy and risk management across sectors, strengthen national capacity and infrastructure, and protect people from AI-related risks. The legislative system reports the initiative was published on 9 September 2026 and was not taken up in that session. It is a proposal, not enacted law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Mexico’s official Legislative Information System; Senate initiative published 9 September 2026, not adopted."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -6725,8 +6773,8 @@
     },
     {
       "country": "Guatemala",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Government-led ENIA co-creation process and roadmap; still under development through 2027."
     },
     {
       "country": "Guinea",
@@ -6931,7 +6979,7 @@
     {
       "country": "Mexico",
       "status": "Record present",
-      "note": "Official AI ethics guidance and proposed legislation are recorded. A proposal is not an enacted law; further review of federal and state instruments remains necessary."
+      "note": "Senate AI development bill published September 2026; proposal, not enacted law."
     },
     {
       "country": "Micronesia",
