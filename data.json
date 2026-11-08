@@ -460,6 +460,16 @@
       "name": "Bangladesh · National AI Policy formulation portal",
       "url": "https://aipolicy.gov.bd/en",
       "status": "Official government policy portal"
+    },
+    {
+      "name": "Kyrgyzstan · Digital Code of the Kyrgyz Republic (official State Agency legal registry)",
+      "url": "https://reestr.dpa.gov.kg/ru/npa/59",
+      "status": "Official government legal registry"
+    },
+    {
+      "name": "Kyrgyzstan · Cabinet Resolution No. 770 (Ministry of Justice legal database)",
+      "url": "https://cbd.minjust.gov.kg/7-48024/edition/42741/ru",
+      "status": "Official legal database"
     }
   ],
   "items": [
@@ -5034,6 +5044,54 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "KG-DIGITAL-CODE-178-2025",
+      "jurisdiction": "Kyrgyzstan",
+      "regulator": "Jogorku Kenesh of the Kyrgyz Republic; State Agency for Personal Data Protection",
+      "title": "Digital Code of the Kyrgyz Republic No. 178",
+      "instrumentType": "Code",
+      "status": "In force",
+      "publicationDate": "2025-07-31",
+      "topic": "AI systems · high-risk systems · risk management · digital governance",
+      "sourceUrl": "https://reestr.dpa.gov.kg/ru/npa/59",
+      "summary": "The Digital Code defines AI systems and high-risk AI systems and sets digital-environment rules. Its AI-specific provisions include risk-management and testing requirements for high-risk systems, with certain risk information and test results to be published. The Code was brought into force six months after official publication; this record does not replace review of its Russian-language text or implementing acts.",
+      "history": [
+        {
+          "date": "2025-07-31",
+          "change": "The Digital Code was adopted as Code No. 178; its commencement law provides for entry into force six months after official publication."
+        },
+        {
+          "date": "2026-02-06",
+          "change": "The Code is in force as of this review; the official legal registry includes definitions and requirements relating to AI and high-risk AI systems."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "AI-specific provisions and current status checked against the official State Agency legal registry."
+        }
+      ]
+    },
+    {
+      "id": "KG-CM-RES-770-2025-AI-RISK",
+      "jurisdiction": "Kyrgyzstan",
+      "regulator": "Cabinet of Ministers of the Kyrgyz Republic",
+      "title": "Resolution No. 770 approving AI hazard assessment methodology and requirements for high-risk AI systems",
+      "instrumentType": "Cabinet of Ministers resolution",
+      "status": "In force",
+      "publicationDate": "2025-12-02",
+      "topic": "AI risk assessment · high-risk systems · documentation",
+      "sourceUrl": "https://cbd.minjust.gov.kg/7-48024/edition/42741/ru",
+      "summary": "The Cabinet of Ministers adopted Resolution No. 770 on 2 December 2025. It approves requirements for assessing AI-system hazards and requirements applicable to high-risk AI systems. The official Ministry of Justice database lists the resolution and its implementing requirements; consult the linked Russian text for precise obligations.",
+      "history": [
+        {
+          "date": "2025-12-02",
+          "change": "The Cabinet adopted Resolution No. 770, according to the official Ministry of Justice legal database."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Resolution title and implementing requirements checked against the official legal database."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5489,8 +5547,8 @@
     },
     {
       "country": "Kyrgyzstan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "The Digital Code and Cabinet Resolution No. 770 contain AI-specific definitions and high-risk assessment requirements; further sectoral review may identify additional rules."
     },
     {
       "country": "Laos",
