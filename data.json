@@ -240,6 +240,16 @@
       "name": "Türkiye · Investment and Finance Office",
       "url": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/turkiye-unveils-ai-action-plan-artificial-intelligence-summit.aspx",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Albania · National Agency for Information Society public consultation portal",
+      "url": "https://konsultimipublik.gov.al/Konsultime/Detaje/982",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Serbia · Government of the Republic of Serbia",
+      "url": "https://www.srbija.gov.rs/tekst/en/149169/strategy-for-the-development-of-artificial-intelligence-in-the-republic-of-serbia.php",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -3944,6 +3954,42 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "AL-AI-DRAFT-LAW-2026",
+      "jurisdiction": "Albania",
+      "regulator": "National Agency for Information Society (AKSHI)",
+      "title": "Draft Law on Artificial Intelligence",
+      "instrumentType": "Draft law · consultation completed",
+      "status": "Proposed",
+      "publicationDate": "2026-05-29",
+      "topic": "AI regulation · EU alignment · risk-based oversight",
+      "sourceUrl": "https://konsultimipublik.gov.al/Konsultime/Detaje/982",
+      "summary": "Albania published a draft AI law for public consultation, seeking to align its framework with the EU AI Act. The consultation closed on 26 June 2026. It remains a proposal in this register; check the official consultation portal for later legislative status.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Albania’s official public consultation portal; the portal labels consultation closed."
+        }
+      ]
+    },
+    {
+      "id": "RS-AI-STRATEGY-2025-2030",
+      "jurisdiction": "Serbia",
+      "regulator": "Government of the Republic of Serbia",
+      "title": "Strategy for the Development of Artificial Intelligence in the Republic of Serbia 2025–2030",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-01-03",
+      "topic": "AI strategy · national development",
+      "sourceUrl": "https://www.srbija.gov.rs/tekst/en/149169/strategy-for-the-development-of-artificial-intelligence-in-the-republic-of-serbia.php",
+      "summary": "Serbia’s government lists a national AI development strategy covering 2025–2030. The plan sets national direction for developing AI; it is a policy strategy and does not itself establish that specific obligations in a law are in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Government of Serbia strategy listing."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -3954,8 +4000,8 @@
     },
     {
       "country": "Albania",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official AI proposal/strategy record added; this does not establish that no other binding AI or cross-sector laws apply."
     },
     {
       "country": "Algeria",
@@ -4709,8 +4755,8 @@
     },
     {
       "country": "Serbia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official AI proposal/strategy record added; this does not establish that no other binding AI or cross-sector laws apply."
     },
     {
       "country": "Seychelles",
