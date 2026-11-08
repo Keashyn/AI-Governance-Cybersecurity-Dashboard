@@ -715,6 +715,16 @@
       "name": "Cameroon · MINPOSTEL national AI consultations (CONIA)",
       "url": "https://www.minpostel.gov.cm/index.php/en/actualites/485-conia",
       "status": "Official ministry account of June 2024 consultations and strategy roadmap recommendation"
+    },
+    {
+      "name": "Dominican Republic · Decree 787-26 AI public services ethics code",
+      "url": "https://consultoria.gov.do/noticias/poder-ejecutivo-aprueba-mediante-decreto-codigo-de-etica-para-el-uso-de-inteligencia-artificial-en-los-servicios-publicos-0003",
+      "status": "Official Executive Legal Consultancy announcement of decree; contains scope, safeguards and transition period"
+    },
+    {
+      "name": "Djibouti · Presidency Council of Ministers, 1 September 2026",
+      "url": "https://presidence.dj/conseil-des-ministres/2026-09-01",
+      "status": "Official notice describes preparation of future AI regulatory and ethical framework"
     }
   ],
   "items": [
@@ -6236,6 +6246,44 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "DO-DECREE-787-26-AI-CODE",
+      "jurisdiction": "Dominican Republic · National",
+      "regulator": "President of the Republic; Ministry of Public Administration; Directorate General of Government Ethics and Integrity; OGTIC",
+      "title": "Decree No. 787-26 approving the Code of Ethics for Artificial Intelligence in Public Services",
+      "instrumentType": "Decree",
+      "status": "Enacted",
+      "publicationDate": "2026-11-04",
+      "effectiveDate": "",
+      "topic": "AI · public administration · ethics · transparency · human oversight",
+      "sourceUrl": "https://consultoria.gov.do/noticias/poder-ejecutivo-aprueba-mediante-decreto-codigo-de-etica-para-el-uso-de-inteligencia-artificial-en-los-servicios-publicos-0003",
+      "summary": "Decree 787-26 approves an AI ethics code for public institutions that design, acquire or use AI for public services or administrative decisions. It establishes rights to know when AI supported a decision, receive an understandable explanation and request human review; requires ethical and human-rights impact assessments for high-impact systems; prohibits certain practices; and creates public oversight and transparency arrangements. Institutions have 180 days from publication to adapt their procedures.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Executive Legal Consultancy announcement reporting issuance of Decree 787-26 on 2 November 2026."
+        }
+      ]
+    },
+    {
+      "id": "DJ-AI-REGULATORY-ETHICS-FRAMEWORK-PREP-2026",
+      "jurisdiction": "Djibouti · National",
+      "regulator": "Presidency of the Republic of Djibouti",
+      "title": "Preparation of a regulatory and ethical framework for responsible AI (planned AI Forum)",
+      "instrumentType": "AI governance planning process",
+      "status": "Proposed",
+      "publicationDate": "2026-09-01",
+      "effectiveDate": "",
+      "topic": "AI · regulatory framework development · ethics",
+      "sourceUrl": "https://presidence.dj/conseil-des-ministres/2026-09-01",
+      "summary": "The Presidency says a planned AI Forum should assess national opportunities and prepare the first steps toward a regulatory and ethical framework for responsible AI use. This announcement describes a future policy-development process, not an adopted AI law or framework.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Presidency account of the 1 September 2026 Council of Ministers meeting; proposal-stage only."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -6476,8 +6524,8 @@
     },
     {
       "country": "Djibouti",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Presidency states AI regulatory and ethical framework is to be prepared; not adopted in cited source."
     },
     {
       "country": "Dominica",
@@ -6486,8 +6534,8 @@
     },
     {
       "country": "Dominican Republic",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Decree 787-26 approves an AI ethics code for public services; announced 4 November 2026."
     },
     {
       "country": "Ecuador",
