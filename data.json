@@ -470,6 +470,21 @@
       "name": "Kyrgyzstan · Cabinet Resolution No. 770 (Ministry of Justice legal database)",
       "url": "https://cbd.minjust.gov.kg/7-48024/edition/42741/ru",
       "status": "Official legal database"
+    },
+    {
+      "name": "China State Council · AI ethics guideline release",
+      "url": "https://english.www.gov.cn/news/202604/03/content_WS69cfc212c6d00ca5f9a0a407.html",
+      "status": "Official government release describing trial AI ethics-review guideline"
+    },
+    {
+      "name": "China State Council · AI agent implementation guidelines",
+      "url": "https://english.www.gov.cn/news/202605/08/content_WS69fde8e2c6d00ca5f9a0ad49.html",
+      "status": "Official government release describing AI-agent implementation guidelines"
+    },
+    {
+      "name": "Iraqi National Center for Artificial Intelligence",
+      "url": "https://nc.ai.gov.iq/news/64",
+      "status": "Official strategy update; draft remains subject to refinement before approval"
     }
   ],
   "items": [
@@ -5092,6 +5107,63 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "CN-AI-ETHICS-REVIEW-GUIDELINE-2026",
+      "jurisdiction": "China",
+      "regulator": "Ministry of Industry and Information Technology and nine other government departments",
+      "title": "Trial Guideline on Ethics Review and Service of Artificial Intelligence Technology",
+      "instrumentType": "Guideline",
+      "status": "Guidance",
+      "publicationDate": "2026-04-03",
+      "effectiveDate": null,
+      "topic": "AI ethics · human wellbeing · fairness · controllability · risk review",
+      "sourceUrl": "https://english.www.gov.cn/news/202604/03/content_WS69cfc212c6d00ca5f9a0a407.html",
+      "summary": "A trial government guideline asks AI ethics reviews to consider human wellbeing, fairness, controllability and trustworthiness. It highlights training-data selection, algorithm and system design, bias and discrimination prevention, and risk assessment. This is guidance, not a generally applicable statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from an official State Council of China news release describing the trial guideline."
+        }
+      ]
+    },
+    {
+      "id": "CN-AI-AGENT-GUIDELINES-2026",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China, National Development and Reform Commission, and Ministry of Industry and Information Technology",
+      "title": "Implementation Guidelines for Standardized Application and Innovative Development of AI Agents",
+      "instrumentType": "Guideline",
+      "status": "Guidance",
+      "publicationDate": "2026-05-08",
+      "effectiveDate": null,
+      "topic": "AI agents · safety · security · standardization · applications",
+      "sourceUrl": "https://english.www.gov.cn/news/202605/08/content_WS69fde8e2c6d00ca5f9a0ad49.html",
+      "summary": "These interdepartmental implementation guidelines set principles for the development and use of AI agents, including safety and controllability, standardization, infrastructure, security measures, and application areas. The source describes government implementation guidance; the record does not classify it as a binding law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from an official State Council of China release."
+        }
+      ]
+    },
+    {
+      "id": "IQ-DRAFT-NAI-STRATEGY-2026-2050",
+      "jurisdiction": "Iraq",
+      "regulator": "Prime Minister’s Office · National Center for Artificial Intelligence · Ministry of Planning",
+      "title": "Draft National Strategy for Artificial Intelligence and Smart Robotics 2026–2050",
+      "instrumentType": "National strategy (draft)",
+      "status": "Proposed",
+      "publicationDate": "2026-06-18",
+      "effectiveDate": null,
+      "topic": "National AI strategy · governance · legislation · skills · digital infrastructure",
+      "sourceUrl": "https://nc.ai.gov.iq/news/64",
+      "summary": "Iraq’s National Center for Artificial Intelligence reports that an initial national AI and smart robotics strategy for 2026–2050 has been released for refinement before final approval. It sets long-term policy direction and includes governance and specialized legislation among its pillars. Because the official source says the draft is still being improved before adoption, this is recorded as proposed policy, not as law in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Iraqi National Center for Artificial Intelligence; source states the initial strategy is under refinement before final approval."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5492,8 +5564,8 @@
     },
     {
       "country": "Iraq",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official source records a draft national AI and smart robotics strategy for 2026–2050 under refinement before final approval; this does not establish that no other applicable laws exist."
     },
     {
       "country": "Ireland",
