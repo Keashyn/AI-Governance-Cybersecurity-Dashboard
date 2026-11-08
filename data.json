@@ -3423,6 +3423,25 @@
       ]
     },
     {
+      "id": "KM-AI-READINESS-ASSESSMENT-2026",
+      "jurisdiction": "Comoros · National",
+      "regulator": "Ministry of Posts and Telecommunications; Presidency of the Union of the Comoros",
+      "title": "National AI readiness assessment and interministerial committee work",
+      "instrumentType": "AI governance planning process",
+      "status": "Proposed",
+      "publicationDate": "2026-03-11",
+      "effectiveDate": "",
+      "topic": "AI · readiness assessment · institutional and regulatory planning",
+      "sourceUrl": "https://www.beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture%2C-la-s%C3%A9curit%C3%A9%2C-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
+      "summary": "The Presidency reports that the Minister of Posts and Telecommunications presented an assessment of Comoros’ readiness for AI. The review covers institutional, technical and regulatory capacity; a committee’s work had begun and was expected to take six months, with the Interior Ministry asked to participate. This is an assessment process, not adopted AI rules.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Presidency Council of Ministers report; recorded as policy planning."
+        }
+      ]
+    },
+    {
       "id": "EC-EFIA-2026-2029",
       "jurisdiction": "Ecuador",
       "regulator": "Ministry of Telecommunications and Information Society (MINTEL)",
@@ -4048,6 +4067,25 @@
         {
           "date": "2026-11-08",
           "change": "Official legislative publication checked; item remains classified as a proposal because no enactment is established by this source."
+        }
+      ]
+    },
+    {
+      "id": "TD-DECREE-2203-2025-DGAI",
+      "jurisdiction": "Chad · National",
+      "regulator": "President of the Republic; Ministry of Telecommunications, Digital Economy and Administration Digitalisation",
+      "title": "Decree No. 2203/PR/PM/MTENDA/2025 on organization of the Ministry, establishing the General Directorate of Artificial Intelligence",
+      "instrumentType": "Decree",
+      "status": "Enacted",
+      "publicationDate": "2025-09-10",
+      "effectiveDate": "2025-09-10",
+      "topic": "AI · government governance · national strategy and oversight",
+      "sourceUrl": "https://journalofficiel.gouv.td/storage/v1/object/public/archiva/journaux/2025/11/1764341988840-lxjz5cgawd.pdf",
+      "summary": "This decree reorganizes Chad’s telecommunications and digital-economy ministry and creates a General Directorate of Artificial Intelligence with strategy and governance directorates. Its mandate includes coordinating national AI policy, setting strategy and action plans, assessing impacts, prioritizing public-sector uses and checking applications against state ethical, legal and technical frameworks. It is an institutional governance decree, not a general AI risk classification law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official September 2025 Journal of the Republic; decree signed 10 September 2025."
         }
       ]
     },
@@ -6340,44 +6378,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "TD-DECREE-2203-2025-DGAI",
-      "jurisdiction": "Chad · National",
-      "regulator": "President of the Republic; Ministry of Telecommunications, Digital Economy and Administration Digitalisation",
-      "title": "Decree No. 2203/PR/PM/MTENDA/2025 on organization of the Ministry, establishing the General Directorate of Artificial Intelligence",
-      "instrumentType": "Decree",
-      "status": "Enacted",
-      "publicationDate": "2025-09-10",
-      "effectiveDate": "2025-09-10",
-      "topic": "AI · government governance · national strategy and oversight",
-      "sourceUrl": "https://journalofficiel.gouv.td/storage/v1/object/public/archiva/journaux/2025/11/1764341988840-lxjz5cgawd.pdf",
-      "summary": "This decree reorganizes Chad’s telecommunications and digital-economy ministry and creates a General Directorate of Artificial Intelligence with strategy and governance directorates. Its mandate includes coordinating national AI policy, setting strategy and action plans, assessing impacts, prioritizing public-sector uses and checking applications against state ethical, legal and technical frameworks. It is an institutional governance decree, not a general AI risk classification law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official September 2025 Journal of the Republic; decree signed 10 September 2025."
-        }
-      ]
-    },
-    {
-      "id": "KM-AI-READINESS-ASSESSMENT-2026",
-      "jurisdiction": "Comoros · National",
-      "regulator": "Ministry of Posts and Telecommunications; Presidency of the Union of the Comoros",
-      "title": "National AI readiness assessment and interministerial committee work",
-      "instrumentType": "AI governance planning process",
-      "status": "Proposed",
-      "publicationDate": "2026-03-11",
-      "effectiveDate": "",
-      "topic": "AI · readiness assessment · institutional and regulatory planning",
-      "sourceUrl": "https://www.beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture%2C-la-s%C3%A9curit%C3%A9%2C-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
-      "summary": "The Presidency reports that the Minister of Posts and Telecommunications presented an assessment of Comoros’ readiness for AI. The review covers institutional, technical and regulatory capacity; a committee’s work had begun and was expected to take six months, with the Interior Ministry asked to participate. This is an assessment process, not adopted AI rules.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the official Presidency Council of Ministers report; recorded as policy planning."
         }
       ]
     }
