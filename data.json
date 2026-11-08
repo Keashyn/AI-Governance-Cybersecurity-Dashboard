@@ -200,6 +200,16 @@
       "name": "Qatar · Ministry of Communications and Information Technology",
       "url": "https://www.mcit.gov.qa/",
       "status": "Official AI strategy and policy documents"
+    },
+    {
+      "name": "Uzbekistan · LexUZ Legal Information System",
+      "url": "https://lex.uz/en/",
+      "status": "Official legal acts and current law records"
+    },
+    {
+      "name": "Uruguay · Agesic",
+      "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/",
+      "status": "Official digital-government and AI policy publications"
     }
   ],
   "items": [
@@ -3744,6 +3754,55 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "UZ-RP358-AI-STRATEGY-2024",
+      "jurisdiction": "Uzbekistan",
+      "regulator": "President of the Republic of Uzbekistan / Ministry of Digital Technologies",
+      "title": "Presidential Resolution RP-358 approving the Strategy for the Development of Artificial Intelligence Technologies until 2030",
+      "instrumentType": "Presidential resolution · strategy",
+      "status": "In force",
+      "publicationDate": "2024-10-14",
+      "effectiveDate": "2024-10-17",
+      "topic": "AI strategy · national targets · implementation plan",
+      "sourceUrl": "https://lex.uz/ru/docs/7159258",
+      "summary": "Presidential Resolution RP-358 approves Uzbekistan's AI technologies strategy through 2030 and a 2024–2026 action plan. The official legal information system gives the adoption and effective dates; its English text is identified as an unofficial translation.",
+      "history": [
+        {
+          "date": "2024-10-14",
+          "change": "Presidential Resolution RP-358 adopted and strategy approved."
+        },
+        {
+          "date": "2024-10-17",
+          "change": "Resolution entered into force according to the official legal information system."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record checked against LexUZ official legal record."
+        }
+      ]
+    },
+    {
+      "id": "UY-AI-STRATEGY-2024-2030",
+      "jurisdiction": "Uruguay",
+      "regulator": "Agency for Electronic Government and Information and Knowledge Society (Agesic)",
+      "title": "National Artificial Intelligence Strategy of Uruguay 2024–2030",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2024-11-19",
+      "topic": "AI governance · capabilities · sustainable development",
+      "sourceUrl": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-del-uruguay-2024-2030",
+      "summary": "Uruguay's national strategy sets principles and actions in governance, AI capabilities, and sustainable development. The official Agesic listing classifies it as a framework/publication, not a statute.",
+      "history": [
+        {
+          "date": "2024-11-19",
+          "change": "Published by Agesic as the National AI Strategy 2024–2030."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official government publication page."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4684,13 +4743,13 @@
     },
     {
       "country": "Uruguay",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official AI law or policy record is listed; this does not imply a comprehensive AI statute."
     },
     {
       "country": "Uzbekistan",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official AI law or policy record is listed; this does not imply a comprehensive AI statute."
     },
     {
       "country": "Vanuatu",
