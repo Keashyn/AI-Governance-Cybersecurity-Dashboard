@@ -450,6 +450,16 @@
       "name": "India · AI Governance Guidelines government release",
       "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2228315&lang=2&reg=48",
       "status": "Official government publication"
+    },
+    {
+      "name": "Nepal · Ministry policy register entry for National Artificial Intelligent (AI) Policy 2082",
+      "url": "https://moic.gov.np/category/240/",
+      "status": "Official ministry policy register"
+    },
+    {
+      "name": "Bangladesh · National AI Policy formulation portal",
+      "url": "https://aipolicy.gov.bd/en",
+      "status": "Official government policy portal"
     }
   ],
   "items": [
@@ -3678,17 +3688,21 @@
       "id": "NP-DRAFT-AI-POLICY-2025",
       "jurisdiction": "Nepal",
       "regulator": "Ministry of Communication and Information Technology",
-      "title": "National Artificial Intelligence Policy 2025",
-      "instrumentType": "National AI policy · adoption status unconfirmed",
-      "status": "Proposed",
-      "publicationDate": "2025",
+      "title": "National Artificial Intelligent (AI) Policy, 2082",
+      "instrumentType": "National AI policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-11-27",
       "topic": "AI governance · regulation · risk management",
       "sourceUrl": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
-      "summary": "An official National AI Policy text dated 2025 is publicly available and sets out a proposed AI Regulation Council, National AI Centre and risk-management framework. Nepal’s official 2025 Trade Policy Review described the policy as still being prepared, while another government page later referred to it as adopted. Because the official sources conflict on formal approval, this register conservatively lists it as proposed pending a clear adoption instrument.",
+      "summary": "Nepal’s Ministry of Communication and Information Technology now lists the National Artificial Intelligent (AI) Policy, 2082, in its official policy register, with a publication date of 11 Mangsir 2082 (27 November 2025). This later ministry listing supersedes an earlier 2025 government review that described the policy as being prepared. The policy is a national policy, not a standalone Act.",
       "history": [
         {
           "date": "2026-11-08",
-          "change": "Added with adoption status flagged as unresolved due to conflicting official government references."
+          "change": "Initially listed as proposed because official sources conflicted."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Updated to adopted policy after checking the Ministry of Communication and Information Technology’s policy register listing National Artificial Intelligent (AI) Policy, 2082, published 11 Mangsir 2082."
         }
       ]
     },
@@ -4998,6 +5012,28 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "BD-NATIONAL-AI-POLICY-FORMULATION-2026",
+      "jurisdiction": "Bangladesh",
+      "regulator": "Information and Communication Technology Division, Ministry of Posts, Telecommunications and Information Technology",
+      "title": "National AI Policy Formulation Committee and Drafting Process",
+      "instrumentType": "National policy under development",
+      "status": "Proposed",
+      "publicationDate": "2026-11-02",
+      "topic": "AI policy · national governance · drafting process",
+      "sourceUrl": "https://aipolicy.gov.bd/en",
+      "summary": "Bangladesh’s ICT Division formed a 16-member committee on 2 November 2026 to draft a National AI Policy. The official policy portal says the draft is due by 15 December 2026. No adopted policy is represented by this record.",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "change": "The official portal says the ICT Division formed the National AI Policy Formulation Committee by office order."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Drafting status and expected submission date checked against the government’s National AI Policy portal."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5069,7 +5105,7 @@
     {
       "country": "Bangladesh",
       "status": "Record present",
-      "note": "Verified national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
+      "note": "Official AI policy drafting process is recorded; the national policy is still in development and is not represented as adopted."
     },
     {
       "country": "Barbados",
@@ -5604,7 +5640,7 @@
     {
       "country": "Nepal",
       "status": "Record present",
-      "note": "Official AI policy text and conflicting formal-adoption references recorded; status is conservatively marked proposed pending confirmation."
+      "note": "The Ministry’s official policy register lists the National AI Policy 2082; it is recorded as adopted policy, not a standalone Act."
     },
     {
       "country": "Netherlands",
