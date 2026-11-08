@@ -265,6 +265,21 @@
       "name": "Mongolia · Cabinet of Mongolia",
       "url": "https://cabinet.gov.mn/en/10843.html",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Switzerland · Federal Council / Federal Office of Communications",
+      "url": "https://www.bk.admin.ch/en/artificial-intelligence",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Moldova · Ministry of Economic Development and Digitalization public participation portal",
+      "url": "https://particip.gov.md/ro/document/stages/anunt-privind-inicierea-elaborarii-proiectului-de-lege-privind-inteligenta-artificiala/16726",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Norway · Ministry of Digitalisation and Public Governance",
+      "url": "https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -4095,6 +4110,60 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "CH-FEDCOUNCIL-AI-APPROACH-2025",
+      "jurisdiction": "Switzerland",
+      "regulator": "Swiss Federal Council · Federal Office of Communications / Federal Office of Justice",
+      "title": "Federal Council Decision on a Swiss Regulatory Approach to Artificial Intelligence",
+      "instrumentType": "Federal regulatory approach",
+      "status": "Adopted policy",
+      "publicationDate": "2025-02-12",
+      "topic": "AI regulation · fundamental rights · sector-specific rules",
+      "sourceUrl": "https://www.bk.admin.ch/en/artificial-intelligence",
+      "summary": "The Federal Council chose a regulatory approach based on implementing the Council of Europe AI Convention, using sector-specific legal changes where needed and broad rules in key rights areas such as data protection. As of the official page’s latest update, Switzerland had no overarching AI-specific law and was preparing a bill for consultation. This is an adopted policy direction, not an enacted AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added and checked against current Federal Council information on AI regulation."
+        }
+      ]
+    },
+    {
+      "id": "MD-DRAFT-AI-LAW-INITIATION-2026",
+      "jurisdiction": "Moldova",
+      "regulator": "Ministry of Economic Development and Digitalization",
+      "title": "Initiation of Draft Law on Artificial Intelligence",
+      "instrumentType": "Draft law · drafting initiated",
+      "status": "Proposed",
+      "publicationDate": "2026-05-21",
+      "topic": "AI regulation · fundamental rights · transparency",
+      "sourceUrl": "https://particip.gov.md/ro/document/stages/anunt-privind-inicierea-elaborarii-proiectului-de-lege-privind-inteligenta-artificiala/16726",
+      "summary": "Moldova’s ministry announced the start of work on an AI bill intended to create a national framework for developing, using and supervising AI, including safety, ethics, fundamental rights and EU alignment. The notice’s public input period ran from 21 May to 4 June 2026; this is an initiation notice, not enacted legislation.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official public consultation portal; latest legislative status remains to be checked."
+        }
+      ]
+    },
+    {
+      "id": "NO-DRAFT-AI-ACT-2025-2026",
+      "jurisdiction": "Norway",
+      "regulator": "Ministry of Digitalisation and Public Governance",
+      "title": "Proposed Norwegian Artificial Intelligence Act implementing the EU AI Act",
+      "instrumentType": "Draft law · consultation and revision",
+      "status": "Proposed",
+      "publicationDate": "2025-06-30",
+      "topic": "AI regulation · EEA implementation · risk-based requirements",
+      "sourceUrl": "https://www.regjeringen.no/no/aktuelt/tung-vil-sende-ki-loven-med-endringer-pa-horing/id3169693/",
+      "summary": "Norway’s proposed law would implement the EU AI Act into Norwegian law. The draft went through consultation in 2025; in August 2026 the ministry said it planned a new consultation after EU changes and aimed to submit the bill to Parliament in spring 2027. The government states the AI Act has not yet been implemented in Norway.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added using the latest official ministry status found; proposal remains under preparation, not in force."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4655,8 +4724,8 @@
     },
     {
       "country": "Moldova",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official notice initiating preparation of a national AI bill recorded; its adoption and later status are not yet verified."
     },
     {
       "country": "Monaco",
@@ -4740,8 +4809,8 @@
     },
     {
       "country": "Norway",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official draft AI Act and latest ministry status recorded; the government states the AI-specific act has not yet been implemented."
     },
     {
       "country": "Oman",
@@ -4940,8 +5009,8 @@
     },
     {
       "country": "Switzerland",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official Federal Council AI regulatory approach and current lawmaking status added; no general AI-specific statute is reported on the official page."
     },
     {
       "country": "Syria",
