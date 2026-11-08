@@ -260,6 +260,11 @@
       "name": "Azerbaijan · Ministry of Digital Development and Transport",
       "url": "https://mincom.gov.az/en/media-en/news/measures-to-promote-responsible-and-ethical-artificial-intelligence-continue-under-azerbaijans-artificial-intelligence-strategy",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Mongolia · Cabinet of Mongolia",
+      "url": "https://cabinet.gov.mn/en/10843.html",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -4072,6 +4077,24 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "MN-DRAFT-AI-STRATEGY-2025",
+      "jurisdiction": "Mongolia",
+      "regulator": "Cabinet of Mongolia · Ministry of Digital Development, Innovation and Communications",
+      "title": "Draft National Strategy for Big Data and Artificial Intelligence",
+      "instrumentType": "Draft national strategy",
+      "status": "Proposed",
+      "publicationDate": "2025-09-24",
+      "topic": "AI governance · big data · digital development",
+      "sourceUrl": "https://cabinet.gov.mn/en/10843.html",
+      "summary": "Mongolia’s Cabinet says the draft strategy was presented for discussion and directed ministries to integrate its objectives into the draft 2026–2030 development plan. The source describes a draft, so this record does not treat it as an adopted policy or binding law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Cabinet announcement describing the draft as discussed."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4642,8 +4665,8 @@
     },
     {
       "country": "Mongolia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official draft national AI strategy recorded; adoption status remains to be checked."
     },
     {
       "country": "Montenegro",
