@@ -1,0 +1,165 @@
+{
+  "lastChecked": null,
+  "sources": [
+    {
+      "name": "United States · Federal Register API",
+      "url": "https://www.federalregister.gov/developers/documentation/api/v1",
+      "status": "Automated daily search; AI-related notices, proposed rules and final rules"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/",
+      "status": "Curated official legislation and register links"
+    },
+    {
+      "name": "United Kingdom · legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/",
+      "status": "Curated legislation link"
+    },
+    {
+      "name": "Canada · Justice Laws / Gazette",
+      "url": "https://gazette.gc.ca/",
+      "status": "Curated federal legal sources"
+    },
+    {
+      "name": "China · Cyberspace Administration of China",
+      "url": "https://www.cac.gov.cn/",
+      "status": "Curated official rules and measures"
+    },
+    {
+      "name": "Japan · e-Gov / Cabinet Office",
+      "url": "https://www8.cao.go.jp/cstp/ai/",
+      "status": "Curated official law and policy links"
+    },
+    {
+      "name": "Colorado · General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb24-205",
+      "status": "Curated enacted state law"
+    },
+    {
+      "name": "New York City · Local Law 144",
+      "url": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
+      "status": "Curated regulator implementation page"
+    }
+  ],
+  "items": [
+    {
+      "id": "EU-2024-1689",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission / EU institutions",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689)",
+      "instrumentType": "Regulation",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "Risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "Horizontal, risk-based AI framework with staged application dates. Verify current consolidated text and subsequent amendments at EUR-Lex.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Published in the Official Journal; entered into force 20 days later."
+        },
+        {
+          "date": "2025-02-02",
+          "change": "First prohibitions and AI literacy provisions began to apply."
+        }
+      ]
+    },
+    {
+      "id": "US-CO-SB24-205",
+      "jurisdiction": "United States · Colorado",
+      "regulator": "Colorado General Assembly / Attorney General",
+      "title": "Consumer Protections for Artificial Intelligence (SB 24-205)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2024-05-17",
+      "effectiveDate": "2026-06-30",
+      "topic": "High-impact systems · discrimination · transparency",
+      "sourceUrl": "https://leg.colorado.gov/bills/sb24-205",
+      "summary": "Colorado statute establishing duties for developers and deployers of high-risk AI systems; consult official bill page for amendments and current dates.",
+      "history": [
+        {
+          "date": "2024-05-17",
+          "change": "Signed into law."
+        }
+      ]
+    },
+    {
+      "id": "US-NYC-LL144",
+      "jurisdiction": "United States · New York City",
+      "regulator": "NYC Department of Consumer and Worker Protection",
+      "title": "Automated Employment Decision Tools (Local Law 144)",
+      "instrumentType": "Local law / implementing rule",
+      "status": "In force",
+      "publicationDate": "2021-12-11",
+      "effectiveDate": "2023-07-05",
+      "topic": "Employment · bias audit · notice",
+      "sourceUrl": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
+      "summary": "Requires bias audits and notices for covered automated employment decision tools. Official regulator page includes rules and compliance guidance.",
+      "history": [
+        {
+          "date": "2023-07-05",
+          "change": "Enforcement began after implementation delay."
+        }
+      ]
+    },
+    {
+      "id": "UK-AI-POLICY-2024",
+      "jurisdiction": "United Kingdom",
+      "regulator": "Department for Science, Innovation and Technology",
+      "title": "A pro-innovation approach to AI regulation: government response",
+      "instrumentType": "Policy / guidance",
+      "status": "Guidance",
+      "publicationDate": "2024-02-06",
+      "effectiveDate": "—",
+      "topic": "Cross-sector governance · regulator principles",
+      "sourceUrl": "https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach-government-response",
+      "summary": "Government policy describing a context-specific, regulator-led framework; it is not a single AI statute.",
+      "history": [
+        {
+          "date": "2024-02-06",
+          "change": "Government published its response and implementation plan."
+        }
+      ]
+    },
+    {
+      "id": "CN-GENAI-2023",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China and other departments",
+      "title": "Interim Measures for the Management of Generative AI Services",
+      "instrumentType": "Administrative measure",
+      "status": "In force",
+      "publicationDate": "2023-07-13",
+      "effectiveDate": "2023-08-15",
+      "topic": "Generative AI · providers · content governance",
+      "sourceUrl": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+      "summary": "Interim measures governing public-facing generative AI services in China; source is the issuing authority.",
+      "history": [
+        {
+          "date": "2023-07-13",
+          "change": "Measures published by the CAC and partner agencies."
+        }
+      ]
+    },
+    {
+      "id": "JP-AI-PROMOTION-2025",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet Office / Government of Japan",
+      "title": "Act on the Promotion of Research and Development, and Utilization of AI-Related Technologies",
+      "instrumentType": "Act",
+      "status": "Enacted",
+      "publicationDate": "2025-05-28",
+      "effectiveDate": "2025-06-04",
+      "topic": "AI promotion · governance · coordination",
+      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html",
+      "summary": "Japan’s AI promotion legislation establishes government coordination and policy duties. Refer to the official Cabinet Office page for current materials.",
+      "history": [
+        {
+          "date": "2025-05-28",
+          "change": "Act promulgated; general effective date followed in June 2025."
+        }
+      ]
+    }
+  ]
+}
