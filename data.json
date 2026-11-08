@@ -2080,6 +2080,106 @@
       ]
     },
     {
+      "id": "SG-MGF-AGENTIC-2026",
+      "jurisdiction": "Singapore",
+      "regulator": "Infocomm Media Development Authority / Ministry of Digital Development and Information",
+      "title": "Model AI Governance Framework for Agentic AI",
+      "instrumentType": "Framework",
+      "status": "Guidance",
+      "publicationDate": "2026-01-22",
+      "effectiveDate": "—",
+      "topic": "Agentic AI · voluntary governance guidance",
+      "sourceUrl": "https://www.mddi.gov.sg/newsroom/singapore-launches-new-model-ai-governance-framework-for-agentic-ai--/",
+      "summary": "Official, non-binding guidance for organisations deploying agentic AI, addressing responsible deployment and risk mitigation. It is recorded as guidance, not legislation.",
+      "history": [
+        {
+          "date": "2026-01-22",
+          "change": "Framework launched by IMDA and announced by the Ministry of Digital Development and Information."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official ministry announcement."
+        }
+      ]
+    },
+    {
+      "id": "TW-AI-BASIC-2026",
+      "jurisdiction": "Taiwan",
+      "regulator": "National Science and Technology Council",
+      "title": "Artificial Intelligence Basic Act",
+      "instrumentType": "Act",
+      "status": "In force",
+      "publicationDate": "2026-01-14",
+      "effectiveDate": "2026-01-14",
+      "topic": "AI framework · principles · public-sector governance",
+      "sourceUrl": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093",
+      "summary": "Taiwan's Artificial Intelligence Basic Act sets national principles and governance duties for AI development and use. The official national laws database states that the Act takes effect on promulgation.",
+      "history": [
+        {
+          "date": "2026-01-14",
+          "change": "Promulgated; Article 20 provides that the Act takes effect from promulgation."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official national laws database."
+        }
+      ]
+    },
+    {
+      "id": "VN-AI-2025-134",
+      "jurisdiction": "Vietnam",
+      "regulator": "National Assembly of Vietnam",
+      "title": "Law on Artificial Intelligence (Law No. 134/2025/QH15)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "2025-12-10",
+      "effectiveDate": "2026-03-01",
+      "topic": "AI framework · risk governance · accountability",
+      "sourceUrl": "https://vanban.chinhphu.vn/?classid=1&docid=216334&pageid=27160&typegr=",
+      "summary": "Vietnam's national AI law, adopted by the National Assembly. The Government's official legal document portal lists the instrument number, issuing authority, promulgation date, and effective date.",
+      "history": [
+        {
+          "date": "2025-12-10",
+          "change": "Law No. 134/2025/QH15 promulgated."
+        },
+        {
+          "date": "2026-03-01",
+          "change": "Entered into force according to the Government legal-document portal."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official Government legal-document portal."
+        }
+      ]
+    },
+    {
+      "id": "KZ-AI-2025-230",
+      "jurisdiction": "Kazakhstan",
+      "regulator": "Ministry of Artificial Intelligence and Digital Development / Government of Kazakhstan",
+      "title": "Law of the Republic of Kazakhstan On Artificial Intelligence (No. 230-VIII)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "2025-11-17",
+      "effectiveDate": "2026-01-18",
+      "topic": "AI framework · risk management · synthetic content",
+      "sourceUrl": "https://adilet.zan.kz/eng/docs/Z2500000230",
+      "summary": "Kazakhstan's national AI law establishes requirements for AI systems, including risk management, transparency, and restrictions on specified uses. The official Adilet legal information system provides the statutory text and commencement rule.",
+      "history": [
+        {
+          "date": "2025-11-17",
+          "change": "Law No. 230-VIII dated November 17, 2025."
+        },
+        {
+          "date": "2026-01-18",
+          "change": "Entered into force 60 calendar days after first official publication."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official Adilet legal information system."
+        }
+      ]
+    },
+    {
       "id": "US-CA-SB53-2025",
       "jurisdiction": "United States · California",
       "regulator": "California Legislature / Governor / Attorney General",
@@ -2152,6 +2252,60 @@
         {
           "date": "2025-05-28",
           "change": "Act promulgated; general effective date followed in June 2025."
+        }
+      ]
+    },
+    {
+      "id": "CN-AI-LABEL-2025",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security; National Radio and Television Administration",
+      "title": "Measures for Labeling AI-Generated and AI-Synthesized Content",
+      "instrumentType": "Departmental measures",
+      "status": "In force",
+      "publicationDate": "2025-03-14",
+      "effectiveDate": "2025-09-01",
+      "topic": "Generative AI · content labeling · transparency",
+      "sourceUrl": "https://www.cac.gov.cn/2025-03/14/c_1743654685899683.htm",
+      "summary": "Binding measures requiring explicit and/or implicit labeling of AI-generated and AI-synthesized content, paired with a mandatory national standard. The CAC announcement confirms publication and the September 1, 2025 commencement date.",
+      "history": [
+        {
+          "date": "2025-03-14",
+          "change": "Issued jointly by four authorities; mandatory accompanying national standard also published."
+        },
+        {
+          "date": "2025-09-01",
+          "change": "Measures and accompanying standard entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the CAC official announcement."
+        }
+      ]
+    },
+    {
+      "id": "KR-AI-BASIC-2025",
+      "jurisdiction": "South Korea",
+      "regulator": "Ministry of Science and ICT / Ministry of Government Legislation",
+      "title": "Framework Act on the Development of Artificial Intelligence and the Creation of a Foundation for Trust",
+      "instrumentType": "Act",
+      "status": "In force",
+      "publicationDate": "2025-01-21",
+      "effectiveDate": "2026-01-22",
+      "topic": "AI framework · high-impact AI · transparency",
+      "sourceUrl": "https://www.law.go.kr/lsInfoP.do?efYd=20260122&lsId=014820&lsiSeq=268543&urlMode=engLsInfoR&viewCls=engLsInfoR",
+      "summary": "South Korea's national AI framework law establishes governance, trust, and obligations for AI systems, including high-impact AI. Official English statutory text and effective date are provided by the national law information center.",
+      "history": [
+        {
+          "date": "2025-01-21",
+          "change": "Promulgated as Act No. 20676; official English version records the one-year commencement period."
+        },
+        {
+          "date": "2026-01-22",
+          "change": "Entered into force."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official English law database."
         }
       ]
     },
@@ -2255,148 +2409,29 @@
       ]
     },
     {
-      "id": "US-NYC-LL144",
-      "jurisdiction": "United States · New York City",
-      "regulator": "NYC Department of Consumer and Worker Protection",
-      "title": "Automated Employment Decision Tools (Local Law 144)",
-      "instrumentType": "Local law / implementing rule",
+      "id": "CN-DEEP-SYNTH-2023",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security",
+      "title": "Provisions on the Administration of Deep Synthesis in Internet Information Services (Order No. 12)",
+      "instrumentType": "Departmental rules",
       "status": "In force",
-      "publicationDate": "2021-12-11",
-      "effectiveDate": "2023-07-05",
-      "topic": "Employment · bias audit · notice",
-      "sourceUrl": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
-      "summary": "Requires bias audits and notices for covered automated employment decision tools. Official regulator page includes rules and compliance guidance.",
+      "publicationDate": "2022-11-25",
+      "effectiveDate": "2023-01-10",
+      "topic": "Deep synthesis · synthetic media · service-provider duties",
+      "sourceUrl": "https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm",
+      "summary": "Binding provisions governing internet information services that use deep-synthesis technologies, including service-provider responsibilities and content controls. Official text identifies the issuing authorities and effective date.",
       "history": [
         {
-          "date": "2023-07-05",
-          "change": "Enforcement began after implementation delay."
-        }
-      ]
-    },
-    {
-      "id": "KR-AI-BASIC-2025",
-      "jurisdiction": "South Korea",
-      "regulator": "Ministry of Science and ICT / Ministry of Government Legislation",
-      "title": "Framework Act on the Development of Artificial Intelligence and the Creation of a Foundation for Trust",
-      "instrumentType": "Act",
-      "status": "In force",
-      "publicationDate": "2025-01-21",
-      "effectiveDate": "2026-01-22",
-      "topic": "AI framework · high-impact AI · transparency",
-      "sourceUrl": "https://www.law.go.kr/lsInfoP.do?efYd=20260122&lsId=014820&lsiSeq=268543&urlMode=engLsInfoR&viewCls=engLsInfoR",
-      "summary": "South Korea's national AI framework law establishes governance, trust, and obligations for AI systems, including high-impact AI. Official English statutory text and effective date are provided by the national law information center.",
-      "history": [
-        {
-          "date": "2025-01-21",
-          "change": "Promulgated as Act No. 20676; official English version records the one-year commencement period."
+          "date": "2022-11-25",
+          "change": "Jointly issued as Order No. 12."
         },
         {
-          "date": "2026-01-22",
+          "date": "2023-01-10",
           "change": "Entered into force."
         },
         {
           "date": "2026-11-08",
-          "change": "Record verified against the official English law database."
-        }
-      ]
-    },
-    {
-      "id": "VN-AI-2025-134",
-      "jurisdiction": "Vietnam",
-      "regulator": "National Assembly of Vietnam",
-      "title": "Law on Artificial Intelligence (Law No. 134/2025/QH15)",
-      "instrumentType": "Law",
-      "status": "In force",
-      "publicationDate": "2025-12-10",
-      "effectiveDate": "2026-03-01",
-      "topic": "AI framework · risk governance · accountability",
-      "sourceUrl": "https://vanban.chinhphu.vn/?classid=1&docid=216334&pageid=27160&typegr=",
-      "summary": "Vietnam's national AI law, adopted by the National Assembly. The Government's official legal document portal lists the instrument number, issuing authority, promulgation date, and effective date.",
-      "history": [
-        {
-          "date": "2025-12-10",
-          "change": "Law No. 134/2025/QH15 promulgated."
-        },
-        {
-          "date": "2026-03-01",
-          "change": "Entered into force according to the Government legal-document portal."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the official Government legal-document portal."
-        }
-      ]
-    },
-    {
-      "id": "TW-AI-BASIC-2026",
-      "jurisdiction": "Taiwan",
-      "regulator": "National Science and Technology Council",
-      "title": "Artificial Intelligence Basic Act",
-      "instrumentType": "Act",
-      "status": "In force",
-      "publicationDate": "2026-01-14",
-      "effectiveDate": "2026-01-14",
-      "topic": "AI framework · principles · public-sector governance",
-      "sourceUrl": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093",
-      "summary": "Taiwan's Artificial Intelligence Basic Act sets national principles and governance duties for AI development and use. The official national laws database states that the Act takes effect on promulgation.",
-      "history": [
-        {
-          "date": "2026-01-14",
-          "change": "Promulgated; Article 20 provides that the Act takes effect from promulgation."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the official national laws database."
-        }
-      ]
-    },
-    {
-      "id": "KZ-AI-2025-230",
-      "jurisdiction": "Kazakhstan",
-      "regulator": "Ministry of Artificial Intelligence and Digital Development / Government of Kazakhstan",
-      "title": "Law of the Republic of Kazakhstan On Artificial Intelligence (No. 230-VIII)",
-      "instrumentType": "Law",
-      "status": "In force",
-      "publicationDate": "2025-11-17",
-      "effectiveDate": "2026-01-18",
-      "topic": "AI framework · risk management · synthetic content",
-      "sourceUrl": "https://adilet.zan.kz/eng/docs/Z2500000230",
-      "summary": "Kazakhstan's national AI law establishes requirements for AI systems, including risk management, transparency, and restrictions on specified uses. The official Adilet legal information system provides the statutory text and commencement rule.",
-      "history": [
-        {
-          "date": "2025-11-17",
-          "change": "Law No. 230-VIII dated November 17, 2025."
-        },
-        {
-          "date": "2026-01-18",
-          "change": "Entered into force 60 calendar days after first official publication."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the official Adilet legal information system."
-        }
-      ]
-    },
-    {
-      "id": "SG-MGF-AGENTIC-2026",
-      "jurisdiction": "Singapore",
-      "regulator": "Infocomm Media Development Authority / Ministry of Digital Development and Information",
-      "title": "Model AI Governance Framework for Agentic AI",
-      "instrumentType": "Framework",
-      "status": "Guidance",
-      "publicationDate": "2026-01-22",
-      "effectiveDate": "—",
-      "topic": "Agentic AI · voluntary governance guidance",
-      "sourceUrl": "https://www.mddi.gov.sg/newsroom/singapore-launches-new-model-ai-governance-framework-for-agentic-ai--/",
-      "summary": "Official, non-binding guidance for organisations deploying agentic AI, addressing responsible deployment and risk mitigation. It is recorded as guidance, not legislation.",
-      "history": [
-        {
-          "date": "2026-01-22",
-          "change": "Framework launched by IMDA and announced by the Ministry of Digital Development and Information."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the official ministry announcement."
+          "change": "Record verified against the CAC official text."
         }
       ]
     },
@@ -2428,56 +2463,21 @@
       ]
     },
     {
-      "id": "CN-DEEP-SYNTH-2023",
-      "jurisdiction": "China",
-      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security",
-      "title": "Provisions on the Administration of Deep Synthesis in Internet Information Services (Order No. 12)",
-      "instrumentType": "Departmental rules",
+      "id": "US-NYC-LL144",
+      "jurisdiction": "United States · New York City",
+      "regulator": "NYC Department of Consumer and Worker Protection",
+      "title": "Automated Employment Decision Tools (Local Law 144)",
+      "instrumentType": "Local law / implementing rule",
       "status": "In force",
-      "publicationDate": "2022-11-25",
-      "effectiveDate": "2023-01-10",
-      "topic": "Deep synthesis · synthetic media · service-provider duties",
-      "sourceUrl": "https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm",
-      "summary": "Binding provisions governing internet information services that use deep-synthesis technologies, including service-provider responsibilities and content controls. Official text identifies the issuing authorities and effective date.",
+      "publicationDate": "2021-12-11",
+      "effectiveDate": "2023-07-05",
+      "topic": "Employment · bias audit · notice",
+      "sourceUrl": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
+      "summary": "Requires bias audits and notices for covered automated employment decision tools. Official regulator page includes rules and compliance guidance.",
       "history": [
         {
-          "date": "2022-11-25",
-          "change": "Jointly issued as Order No. 12."
-        },
-        {
-          "date": "2023-01-10",
-          "change": "Entered into force."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the CAC official text."
-        }
-      ]
-    },
-    {
-      "id": "CN-AI-LABEL-2025",
-      "jurisdiction": "China",
-      "regulator": "Cyberspace Administration of China; Ministry of Industry and Information Technology; Ministry of Public Security; National Radio and Television Administration",
-      "title": "Measures for Labeling AI-Generated and AI-Synthesized Content",
-      "instrumentType": "Departmental measures",
-      "status": "In force",
-      "publicationDate": "2025-03-14",
-      "effectiveDate": "2025-09-01",
-      "topic": "Generative AI · content labeling · transparency",
-      "sourceUrl": "https://www.cac.gov.cn/2025-03/14/c_1743654685899683.htm",
-      "summary": "Binding measures requiring explicit and/or implicit labeling of AI-generated and AI-synthesized content, paired with a mandatory national standard. The CAC announcement confirms publication and the September 1, 2025 commencement date.",
-      "history": [
-        {
-          "date": "2025-03-14",
-          "change": "Issued jointly by four authorities; mandatory accompanying national standard also published."
-        },
-        {
-          "date": "2025-09-01",
-          "change": "Measures and accompanying standard entered into force."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Record verified against the CAC official announcement."
+          "date": "2023-07-05",
+          "change": "Enforcement began after implementation delay."
         }
       ]
     }
