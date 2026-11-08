@@ -320,6 +320,31 @@
       "name": "Namibia · Ministry of Information and Communication Technology",
       "url": "https://mwt.gov.na/documents/869282/6500577/NDS4%2B040825.pdf/aeb1c2a6-63a9-f04e-7f78-3e15549eefcf?t=1754320341496",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Nepal · official National AI Policy document",
+      "url": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Nepal · official 2025 Trade Policy Review",
+      "url": "https://giwmscdntwo.gov.np/media/pdf_upload/TPR%20Report_2025_jw22l99.pdf",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Cambodia · AI Cambodia / Ministry of Post and Telecommunications",
+      "url": "https://ai.gov.kh/%E1%9E%AF%E1%9E%80%E1%9E%A7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%98%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%9B%E1%9F%81%E1%9E%81%E1%9E%B6%E1%9E%92%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A-%E1%9E%80%E1%9F%82/",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Cambodia · Ministry of Post and Telecommunications work-plan",
+      "url": "https://asset.cambodia.gov.kh/mptc/2025/04/20250424-PR-Key-AI-Work-Final.pdf",
+      "status": "Curated official public source"
+    },
+    {
+      "name": "Zimbabwe · Ministry of ICT National ICT Policy",
+      "url": "https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf",
+      "status": "Curated official public source"
     }
   ],
   "items": [
@@ -4348,6 +4373,78 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "NP-DRAFT-AI-POLICY-2025",
+      "jurisdiction": "Nepal",
+      "regulator": "Ministry of Communication and Information Technology",
+      "title": "National Artificial Intelligence Policy 2025",
+      "instrumentType": "National AI policy · adoption status unconfirmed",
+      "status": "Proposed",
+      "publicationDate": "2025",
+      "topic": "AI governance · regulation · risk management",
+      "sourceUrl": "https://giwmscdnone.gov.np/media/pdf_upload/National%20AI%20Policy-Final_uxc94vg.pdf",
+      "summary": "An official National AI Policy text dated 2025 is publicly available and sets out a proposed AI Regulation Council, National AI Centre and risk-management framework. Nepal’s official 2025 Trade Policy Review described the policy as still being prepared, while another government page later referred to it as adopted. Because the official sources conflict on formal approval, this register conservatively lists it as proposed pending a clear adoption instrument.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added with adoption status flagged as unresolved due to conflicting official government references."
+        }
+      ]
+    },
+    {
+      "id": "KH-DRAFT-NAIS-2025-2030",
+      "jurisdiction": "Cambodia",
+      "regulator": "Ministry of Post and Telecommunications · National AI Strategy Working Group",
+      "title": "Draft National Artificial Intelligence Strategy 2025–2030",
+      "instrumentType": "Draft national strategy",
+      "status": "Proposed",
+      "publicationDate": "2025-05-13",
+      "topic": "AI governance · national strategy · responsible AI",
+      "sourceUrl": "https://ai.gov.kh/%E1%9E%AF%E1%9E%80%E1%9E%A7%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%98%E1%9E%9A%E1%9E%8A%E1%9F%92%E1%9E%9B%E1%9F%81%E1%9E%81%E1%9E%B6%E1%9E%92%E1%9E%B7%E1%9E%80%E1%9E%B6%E1%9E%9A-%E1%9E%80%E1%9F%82/",
+      "summary": "Cambodia’s Ministry of Post and Telecommunications held inter-ministry consultations on a draft national AI strategy, with participants asked to submit input for revisions. Government planning materials described review and approval steps after the draft. Its eventual adoption status was not confirmed in the official sources reviewed, so it remains listed as proposed.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official AI Cambodia announcement about consultations on the draft strategy."
+        }
+      ]
+    },
+    {
+      "id": "KH-DRAFT-AI-GOVERNANCE-FRAMEWORK-2025",
+      "jurisdiction": "Cambodia",
+      "regulator": "Ministry of Post and Telecommunications",
+      "title": "Draft National Artificial Intelligence Governance Framework",
+      "instrumentType": "Draft governance framework",
+      "status": "Proposed",
+      "publicationDate": "2025-04-24",
+      "topic": "AI governance · ethics · responsible use",
+      "sourceUrl": "https://asset.cambodia.gov.kh/mptc/2025/04/20250424-PR-Key-AI-Work-Final.pdf",
+      "summary": "The Ministry reported that it was preparing a national AI governance framework draft to balance regulation and innovation. This record reflects work in progress; it is not an adopted framework or binding law. No later adoption status was confirmed in the official sources reviewed.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official AI work-plan document."
+        }
+      ]
+    },
+    {
+      "id": "ZW-NATIONAL-ICT-POLICY-AI-2022-2027",
+      "jurisdiction": "Zimbabwe",
+      "regulator": "Ministry of Information Communication Technology, Postal and Courier Services",
+      "title": "National ICT Policy 2022–2027 · Artificial Intelligence provisions",
+      "instrumentType": "National ICT policy",
+      "status": "Adopted policy",
+      "publicationDate": "2022",
+      "topic": "AI governance · responsible use · emerging technology",
+      "sourceUrl": "https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf",
+      "summary": "Zimbabwe’s ICT policy identifies AI as an emerging technology and says government will support responsible and ethical use, develop AI-related policy and legal frameworks, and address data protection and ethical issues. This is an ICT policy, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official National ICT Policy document."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -4498,8 +4595,8 @@
     },
     {
       "country": "Cambodia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official draft national AI strategy and draft governance framework recorded; adoption status has not been confirmed."
     },
     {
       "country": "Cameroon",
@@ -4953,8 +5050,8 @@
     },
     {
       "country": "Nepal",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official AI policy text and conflicting formal-adoption references recorded; status is conservatively marked proposed pending confirmation."
     },
     {
       "country": "Netherlands",
@@ -5328,8 +5425,8 @@
     },
     {
       "country": "Zimbabwe",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official national ICT policy with AI-specific provisions recorded; no standalone AI statute is represented."
     }
   ]
 }
