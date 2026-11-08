@@ -2796,6 +2796,28 @@
       ]
     },
     {
+      "id": "IN-AI-GOVERNANCE-GUIDELINES-2026",
+      "jurisdiction": "India",
+      "regulator": "Ministry of Electronics and Information Technology (MeitY); Government of India",
+      "title": "India AI Governance Guidelines: Enabling Safe and Trusted AI Innovation",
+      "instrumentType": "National AI governance guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-02-15",
+      "topic": "AI governance · risk management · institutions · innovation",
+      "sourceUrl": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2228315&lang=2&reg=48",
+      "summary": "India published national AI governance guidelines in February 2026. They set out a principle-based approach and recommend coordinated institutions and risk mitigation across existing legal and sectoral frameworks. They are guidance and recommendations, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2026-02-15",
+          "change": "The Government of India published its AI Governance Guidelines through the Press Information Bureau."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Publication date and guidance status checked against the official release."
+        }
+      ]
+    },
+    {
       "id": "IN-IT-RULES-AMENDMENT-2026-GSR120E",
       "jurisdiction": "India",
       "regulator": "Ministry of Electronics and Information Technology",
@@ -4601,6 +4623,32 @@
       ]
     },
     {
+      "id": "IL-AI-POLICY-REGULATION-ETHICS-2023",
+      "jurisdiction": "Israel",
+      "regulator": "Ministry of Innovation, Science and Technology; Ministry of Justice",
+      "title": "Israel’s Policy on Artificial Intelligence Regulation and Ethics",
+      "instrumentType": "Government policy paper",
+      "status": "Guidance",
+      "publicationDate": "2023-12-17",
+      "topic": "AI governance · ethics · sectoral regulation",
+      "sourceUrl": "https://www.gov.il/he/pages/ai_23",
+      "summary": "The policy paper sets principles for responsible AI and proposes a sector-by-sector regulatory approach rather than one overarching AI law. Israel’s State Comptroller reported in 2024 that the government had not approved the policy principles. This record therefore treats it as non-binding guidance and does not imply that it is a binding national regulation.",
+      "history": [
+        {
+          "date": "2023-12-17",
+          "change": "The Innovation Ministry and Justice Ministry published the AI regulation and ethics policy paper."
+        },
+        {
+          "date": "2024-11-01",
+          "change": "The State Comptroller reported that the government had not approved the policy principles and Israel had no specific AI legislation as of its report."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Guidance classification and approval caveat checked against official ministry and State Comptroller publications."
+        }
+      ]
+    },
+    {
       "id": "CN-GENAI-2023",
       "jurisdiction": "China",
       "regulator": "Cyberspace Administration of China and other departments",
@@ -4948,54 +4996,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "IL-AI-POLICY-REGULATION-ETHICS-2023",
-      "jurisdiction": "Israel",
-      "regulator": "Ministry of Innovation, Science and Technology; Ministry of Justice",
-      "title": "Israel’s Policy on Artificial Intelligence Regulation and Ethics",
-      "instrumentType": "Government policy paper",
-      "status": "Guidance",
-      "publicationDate": "2023-12-17",
-      "topic": "AI governance · ethics · sectoral regulation",
-      "sourceUrl": "https://www.gov.il/he/pages/ai_23",
-      "summary": "The policy paper sets principles for responsible AI and proposes a sector-by-sector regulatory approach rather than one overarching AI law. Israel’s State Comptroller reported in 2024 that the government had not approved the policy principles. This record therefore treats it as non-binding guidance and does not imply that it is a binding national regulation.",
-      "history": [
-        {
-          "date": "2023-12-17",
-          "change": "The Innovation Ministry and Justice Ministry published the AI regulation and ethics policy paper."
-        },
-        {
-          "date": "2024-11-01",
-          "change": "The State Comptroller reported that the government had not approved the policy principles and Israel had no specific AI legislation as of its report."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Guidance classification and approval caveat checked against official ministry and State Comptroller publications."
-        }
-      ]
-    },
-    {
-      "id": "IN-AI-GOVERNANCE-GUIDELINES-2026",
-      "jurisdiction": "India",
-      "regulator": "Ministry of Electronics and Information Technology (MeitY); Government of India",
-      "title": "India AI Governance Guidelines: Enabling Safe and Trusted AI Innovation",
-      "instrumentType": "National AI governance guidelines",
-      "status": "Guidance",
-      "publicationDate": "2026-02-15",
-      "topic": "AI governance · risk management · institutions · innovation",
-      "sourceUrl": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2228315&lang=2&reg=48",
-      "summary": "India published national AI governance guidelines in February 2026. They set out a principle-based approach and recommend coordinated institutions and risk mitigation across existing legal and sectoral frameworks. They are guidance and recommendations, not a standalone AI statute.",
-      "history": [
-        {
-          "date": "2026-02-15",
-          "change": "The Government of India published its AI Governance Guidelines through the Press Information Bureau."
-        },
-        {
-          "date": "2026-11-08",
-          "change": "Publication date and guidance status checked against the official release."
         }
       ]
     }
