@@ -100,6 +100,86 @@
       "name": "Singapore · IMDA / MDDI",
       "url": "https://www.imda.gov.sg/",
       "status": "Official AI governance frameworks and guidance"
+    },
+    {
+      "name": "Australia · National AI Centre / AI.gov.au",
+      "url": "https://www.ai.gov.au/",
+      "status": "Official national AI adoption guidance and policy material"
+    },
+    {
+      "name": "Brazil · Chamber of Deputies",
+      "url": "https://www.camara.leg.br/",
+      "status": "Official bill text and legislative status"
+    },
+    {
+      "name": "Canada · Parliament of Canada LEGISinfo",
+      "url": "https://www.parl.ca/legisinfo/en/",
+      "status": "Official federal bill text and parliamentary status"
+    },
+    {
+      "name": "India · MeitY / Gazette notifications",
+      "url": "https://www.meity.gov.in/",
+      "status": "Official rules, notifications, and consultation documents"
+    },
+    {
+      "name": "Peru · El Peruano Official Gazette",
+      "url": "https://busquedas.elperuano.pe/",
+      "status": "Official statutes, decrees, and regulations"
+    },
+    {
+      "name": "Chile · Senate",
+      "url": "https://www.senado.cl/",
+      "status": "Official legislative project and status updates"
+    },
+    {
+      "name": "Indonesia · Ministry Legal Documentation and Information Network",
+      "url": "https://jdih.komdigi.go.id/",
+      "status": "Official ministerial instruments and circulars"
+    },
+    {
+      "name": "South Africa · Government News Service",
+      "url": "https://www.sanews.gov.za/",
+      "status": "Official government announcements on policy status"
+    },
+    {
+      "name": "Argentina · National Legal Information System",
+      "url": "https://www.argentina.gob.ar/normativa",
+      "status": "Official legal instruments and government recommendations"
+    },
+    {
+      "name": "Malaysia · Government Portal / MOSTI",
+      "url": "https://www.malaysia.gov.my/",
+      "status": "Official national AI governance and ethics guidelines"
+    },
+    {
+      "name": "Saudi Arabia · SDAIA",
+      "url": "https://sdaia.gov.sa/",
+      "status": "Official AI ethics principles, frameworks, and guidance"
+    },
+    {
+      "name": "Colombia · Ministry of Science / National Planning Department",
+      "url": "https://inteligenciaartificial.minciencias.gov.co/",
+      "status": "Official national AI policy documents and updates"
+    },
+    {
+      "name": "Kenya · Ministry of Information, Communications and the Digital Economy",
+      "url": "https://ict.go.ke/",
+      "status": "Official national AI strategy and implementation roadmap"
+    },
+    {
+      "name": "Rwanda · Ministry of ICT and Innovation",
+      "url": "https://www.minict.gov.rw/",
+      "status": "Official AI policy and government policy directory"
+    },
+    {
+      "name": "United Arab Emirates · Official Government Portal",
+      "url": "https://u.ae/",
+      "status": "Official AI charter, policy, and strategy materials"
+    },
+    {
+      "name": "Egypt · Ministry of Communications and Information Technology",
+      "url": "https://mcit.gov.eg/en/Artificial_Intelligence",
+      "status": "Official national AI strategy and policy materials"
     }
   ],
   "items": [
@@ -2480,6 +2560,1058 @@
           "change": "Enforcement began after implementation delay."
         }
       ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-AUSTRIA",
+      "jurisdiction": "Austria",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Austria",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Austria. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-BELGIUM",
+      "jurisdiction": "Belgium",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Belgium",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Belgium. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-BULGARIA",
+      "jurisdiction": "Bulgaria",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Bulgaria",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Bulgaria. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-CROATIA",
+      "jurisdiction": "Croatia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Croatia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Croatia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-CYPRUS",
+      "jurisdiction": "Cyprus",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Cyprus",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Cyprus. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-CZECHIA",
+      "jurisdiction": "Czechia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Czechia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Czechia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-DENMARK",
+      "jurisdiction": "Denmark",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Denmark",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Denmark. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-ESTONIA",
+      "jurisdiction": "Estonia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Estonia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Estonia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-FINLAND",
+      "jurisdiction": "Finland",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Finland",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Finland. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-FRANCE",
+      "jurisdiction": "France",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in France",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including France. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-GERMANY",
+      "jurisdiction": "Germany",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Germany",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Germany. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-GREECE",
+      "jurisdiction": "Greece",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Greece",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Greece. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-HUNGARY",
+      "jurisdiction": "Hungary",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Hungary",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Hungary. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-IRELAND",
+      "jurisdiction": "Ireland",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Ireland",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Ireland. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-ITALY",
+      "jurisdiction": "Italy",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Italy",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Italy. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-LATVIA",
+      "jurisdiction": "Latvia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Latvia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Latvia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-LITHUANIA",
+      "jurisdiction": "Lithuania",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Lithuania",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Lithuania. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-LUXEMBOURG",
+      "jurisdiction": "Luxembourg",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Luxembourg",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Luxembourg. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-MALTA",
+      "jurisdiction": "Malta",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Malta",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Malta. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-NETHERLANDS",
+      "jurisdiction": "Netherlands",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Netherlands",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Netherlands. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-POLAND",
+      "jurisdiction": "Poland",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Poland",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Poland. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-PORTUGAL",
+      "jurisdiction": "Portugal",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Portugal",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Portugal. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-ROMANIA",
+      "jurisdiction": "Romania",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Romania",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Romania. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-SLOVAKIA",
+      "jurisdiction": "Slovakia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Slovakia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Slovakia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-SLOVENIA",
+      "jurisdiction": "Slovenia",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Slovenia",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Slovenia. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-SPAIN",
+      "jurisdiction": "Spain",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Spain",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Spain. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIA-2024-1689-SWEDEN",
+      "jurisdiction": "Sweden",
+      "regulator": "European Union institutions; national implementation and enforcement authorities",
+      "title": "Artificial Intelligence Act (Regulation (EU) 2024/1689) — applies in Sweden",
+      "instrumentType": "EU Regulation · applicability record",
+      "status": "In force",
+      "publicationDate": "2024-07-12",
+      "effectiveDate": "2024-08-01",
+      "topic": "EU AI Act · risk classification · GPAI · transparency",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "summary": "The EU AI Act is an EU-level regulation and applies directly in EU Member States, including Sweden. This country entry records territorial applicability of the EU instrument; it is not a separate national AI law. National competent-authority and enforcement arrangements should be reviewed separately.",
+      "history": [
+        {
+          "date": "2024-07-12",
+          "change": "Regulation (EU) 2024/1689 published in the Official Journal; this country entry records its EU-wide applicability."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Applicability mapping checked against the official EUR-Lex regulation; national implementation details remain separately reviewable."
+        }
+      ]
+    },
+    {
+      "id": "AU-AI-ADOPTION-GUIDANCE-2025",
+      "jurisdiction": "Australia",
+      "regulator": "National Artificial Intelligence Centre / Department of Industry, Science and Resources",
+      "title": "Guidance for AI Adoption: Implementation Guidance",
+      "instrumentType": "Guidance",
+      "status": "Guidance",
+      "publicationDate": "2025-10-21",
+      "topic": "AI adoption · risk management · accountability",
+      "sourceUrl": "https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance",
+      "summary": "Australian Government guidance setting out six essential practices for organisations using AI, including governance, risk management, accountability, testing, monitoring, and transparency. The guidance is non-binding. The government says it will not proceed at this time with the earlier proposal for mandatory high-risk AI guardrails.",
+      "history": [
+        {
+          "date": "2025-10-21",
+          "change": "Guidance for AI Adoption published; it evolves and simplifies the earlier Voluntary AI Safety Standard."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Official guidance page checked. The Government's mandatory-guardrails proposals page states it will not proceed with those proposals at this time."
+        }
+      ]
+    },
+    {
+      "id": "BR-PL2338-2023",
+      "jurisdiction": "Brazil",
+      "regulator": "Chamber of Deputies / National Congress",
+      "title": "Bill No. 2,338/2023 — AI development, promotion, and responsible use",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-03-17",
+      "topic": "AI framework · risk-based duties · rights",
+      "sourceUrl": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+      "summary": "Brazil's proposed horizontal AI framework. The Chamber of Deputies' official tracking page lists the bill as awaiting the rapporteur's report in the Special Committee on Artificial Intelligence; it has not been enacted.",
+      "history": [
+        {
+          "date": "2025-03-17",
+          "change": "Senate bill received by the Chamber of Deputies for review."
+        },
+        {
+          "date": "2025-04-29",
+          "change": "Referred to the Special Committee on Artificial Intelligence."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Official Chamber tracking page checked; status remains proposed and awaiting committee report."
+        }
+      ]
+    },
+    {
+      "id": "CA-AIDA-C27-2022",
+      "jurisdiction": "Canada",
+      "regulator": "Parliament of Canada",
+      "title": "Artificial Intelligence and Data Act (Part 3 of Bill C-27, Digital Charter Implementation Act, 2022)",
+      "instrumentType": "Bill",
+      "status": "Lapsed",
+      "publicationDate": "2022-06-16",
+      "topic": "Proposed AI framework · high-impact systems · accountability",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/44-1/c-27",
+      "summary": "A proposed federal AI statute included in Bill C-27. The bill did not receive Royal Assent and lapsed with the end of the 44th Parliament's first session on January 6, 2025; it is not in force.",
+      "history": [
+        {
+          "date": "2022-06-16",
+          "change": "Bill C-27 introduced for first reading in the House of Commons."
+        },
+        {
+          "date": "2023-04-24",
+          "change": "Passed second reading and was referred to committee."
+        },
+        {
+          "date": "2025-01-06",
+          "change": "Lapsed at the end of the 44th Parliament's first session without enactment."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Status checked against Parliament of Canada's bill and session records."
+        }
+      ]
+    },
+    {
+      "id": "IN-IT-RULES-AMENDMENT-2026-GSR120E",
+      "jurisdiction": "India",
+      "regulator": "Ministry of Electronics and Information Technology",
+      "title": "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026 (G.S.R. 120(E))",
+      "instrumentType": "Amending rules",
+      "status": "In force",
+      "publicationDate": "2026-02-10",
+      "effectiveDate": "2026-02-20",
+      "topic": "Synthetically generated information · intermediaries · labeling",
+      "sourceUrl": "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf",
+      "summary": "Amendments to India's IT Rules define synthetically generated information and establish intermediary duties, including restrictions on unlawful synthetic information and labeling/provenance requirements. The official Gazette notification states these rules took effect on February 20, 2026.",
+      "history": [
+        {
+          "date": "2026-02-10",
+          "change": "Notified as G.S.R. 120(E) by the Ministry of Electronics and Information Technology."
+        },
+        {
+          "date": "2026-02-20",
+          "change": "Entered into force under the Gazette notification."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official MeitY-hosted Gazette text."
+        }
+      ]
+    },
+    {
+      "id": "PE-LAW-31814-2023",
+      "jurisdiction": "Peru",
+      "regulator": "Congress of the Republic / Presidency of the Council of Ministers",
+      "title": "Law No. 31814 Promoting the Use of Artificial Intelligence for the Country’s Economic and Social Development",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "2023-07-05",
+      "topic": "AI promotion · risk-based principles · digital transformation",
+      "sourceUrl": "https://busquedas.elperuano.pe/dispositivo/NL/2192926-1",
+      "summary": "Peru's national AI law promotes AI use under a risk-based and human-rights-respecting approach and assigns a central coordination role to the Presidency of the Council of Ministers. Official gazette record.",
+      "history": [
+        {
+          "date": "2023-07-05",
+          "change": "Published as Law No. 31814 in the official gazette."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against El Peruano."
+        }
+      ]
+    },
+    {
+      "id": "PE-DS-115-2025-PCM",
+      "jurisdiction": "Peru",
+      "regulator": "Presidency of the Council of Ministers",
+      "title": "Supreme Decree No. 115-2025-PCM approving the Regulation of Law No. 31814",
+      "instrumentType": "Supreme Decree · implementing regulation",
+      "status": "In force",
+      "publicationDate": "2025-09-09",
+      "topic": "AI risk governance · public-sector controls · supervision",
+      "sourceUrl": "https://busquedas.elperuano.pe/dispositivo/NL/2436426-1",
+      "summary": "Implementing regulation for Peru's Law No. 31814. It establishes national AI governance, high-risk categories, public-sector governance and security duties, and related oversight. The decree specifies a 90-business-day general commencement period after publication; several provisions took effect earlier. It is in force as of the last check.",
+      "history": [
+        {
+          "date": "2025-09-09",
+          "change": "Published as Supreme Decree No. 115-2025-PCM; general commencement set for 90 business days after publication, with listed exceptions."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the official gazette; the commencement period has elapsed."
+        }
+      ]
+    },
+    {
+      "id": "PE-LAW-32314-2025",
+      "jurisdiction": "Peru",
+      "regulator": "Congress of the Republic",
+      "title": "Law No. 32314 amending criminal and cybercrime laws to address AI use in offenses",
+      "instrumentType": "Law · criminal law amendment",
+      "status": "In force",
+      "publicationDate": "2025-04-29",
+      "topic": "AI misuse · deepfakes · criminal offenses",
+      "sourceUrl": "https://busquedas.elperuano.pe/dispositivo/NL/2394851-2",
+      "summary": "Amends Peru's Criminal Code and Cybercrime Law to address use of AI in committing specified offenses, including deepfake-related provisions and aggravating circumstances. Official gazette record.",
+      "history": [
+        {
+          "date": "2025-04-29",
+          "change": "Published as Law No. 32314."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against El Peruano."
+        }
+      ]
+    },
+    {
+      "id": "CL-AI-BILL-16821-19",
+      "jurisdiction": "Chile",
+      "regulator": "Ministry of Science, Technology, Knowledge and Innovation / National Congress",
+      "title": "Bill regulating artificial intelligence systems (Bulletin No. 16,821-19; consolidated with Bulletin 15,869-19)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2024-05-07",
+      "topic": "AI framework · risk classification · rights and safeguards",
+      "sourceUrl": "https://www.camara.cl/legislacion/ProyectosDeLey/urgencias.aspx?prmBOLETIN=16821-19&prmID=17429",
+      "summary": "Chile's proposed AI systems framework. The Senate reported in April 2026 that the bill was in its second constitutional stage in the Senate. It is a proposal, not enacted law.",
+      "history": [
+        {
+          "date": "2024-05-07",
+          "change": "Executive message introducing Bulletin No. 16,821-19 entered the Chamber of Deputies."
+        },
+        {
+          "date": "2025-10-24",
+          "change": "Project entered its second constitutional stage in the Senate, as reported by the Senate."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Official Chamber project page checked; remains in the Senate stage and proposed."
+        }
+      ]
+    },
+    {
+      "id": "ID-SE-9-2023-AI-ETHICS",
+      "jurisdiction": "Indonesia",
+      "regulator": "Ministry of Communication and Digital Affairs (formerly Ministry of Communication and Informatics)",
+      "title": "Ministerial Circular No. 9 of 2023 on Artificial Intelligence Ethics",
+      "instrumentType": "Ministerial circular · guidance",
+      "status": "Guidance",
+      "publicationDate": "2023-12-19",
+      "topic": "AI ethics · inclusion · transparency · human rights",
+      "sourceUrl": "https://jdih.komdigi.go.id/produk_hukum/view/id/883/t/surat%2Bedaran%2Bmenteri%2Bkomunikasi%2Bdan%2Binformatika%2Bnomor%2B9%2Btahun%2B2023",
+      "summary": "Official ministerial ethical guidance for businesses and public and private electronic-system operators. Indonesia's ministry has described the circular as soft regulation; it is not classified here as a statute or binding AI act.",
+      "history": [
+        {
+          "date": "2023-12-19",
+          "change": "Issued as Ministerial Circular No. 9 of 2023."
+        },
+        {
+          "date": "2024-01-03",
+          "change": "Ministry publicly described the circular as soft regulation."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the ministry's legal-document repository."
+        }
+      ]
+    },
+    {
+      "id": "ZA-DRAFT-AI-POLICY-2026",
+      "jurisdiction": "South Africa",
+      "regulator": "Department of Communications and Digital Technologies / Cabinet",
+      "title": "Draft National Artificial Intelligence Policy",
+      "instrumentType": "Draft policy",
+      "status": "Withdrawn",
+      "publicationDate": "2026-04-10",
+      "topic": "AI policy · national governance · ethics",
+      "sourceUrl": "https://www.sanews.gov.za/south-africa/minister-announces-withdrawal-draft-ai-policy",
+      "summary": "South Africa's draft national AI policy was published for public comment in 2026 and then withdrawn after the government found fictitious sources in its references. Cabinet approved withdrawal in June 2026; this is a historical proposal, not an active policy or law.",
+      "history": [
+        {
+          "date": "2026-03-25",
+          "change": "Cabinet approved the draft policy for public comment (per subsequent official government reporting)."
+        },
+        {
+          "date": "2026-04-26",
+          "change": "Minister announced withdrawal after an internal review identified fictitious references."
+        },
+        {
+          "date": "2026-06-05",
+          "change": "Cabinet approved withdrawal of the draft policy and directed rework."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Status checked against official government news service."
+        }
+      ]
+    },
+    {
+      "id": "AR-DISP-2-2023-AI",
+      "jurisdiction": "Argentina",
+      "regulator": "Undersecretariat of Information Technologies / Chief of Cabinet of Ministers",
+      "title": "Disposition No. 2/2023 approving Recommendations for Trustworthy Artificial Intelligence",
+      "instrumentType": "Disposition · recommendations",
+      "status": "Guidance",
+      "publicationDate": "2023-06-02",
+      "topic": "Trustworthy AI · responsible development · public policy",
+      "sourceUrl": "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-2-2023-384656",
+      "summary": "The official disposition approves Recommendations for Trustworthy AI. It is a government policy guidance instrument, not a comprehensive binding AI law.",
+      "history": [
+        {
+          "date": "2023-06-01",
+          "change": "Disposition signed, according to the official legal record."
+        },
+        {
+          "date": "2023-06-02",
+          "change": "Published in the Official Gazette, No. 35,182."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against Argentina's official legal database."
+        }
+      ]
+    },
+    {
+      "id": "MY-AIGE-2024",
+      "jurisdiction": "Malaysia",
+      "regulator": "Ministry of Science, Technology and Innovation (MOSTI)",
+      "title": "National Guidelines on Artificial Intelligence Governance and Ethics (AIGE)",
+      "instrumentType": "National guidelines",
+      "status": "Guidance",
+      "publicationDate": "2024-09-20",
+      "topic": "AI governance · ethics · cybersecurity · risk assessment",
+      "sourceUrl": "https://www.malaysia.gov.my/en/my-initiative/perkhidmatan-digital-keseluruhan-kerajaan/tadbir-urus/national-guidelines-on-artificial-intelligence-governance-and-ethics-aige",
+      "summary": "Malaysia's national AI governance and ethics guidelines are explicitly voluntary. They provide guidance on safe, ethical, and responsible AI development and use and are not a binding AI statute.",
+      "history": [
+        {
+          "date": "2024-09-20",
+          "change": "MOSTI launched the National Guidelines on AI Governance and Ethics."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Voluntary status and summary checked against Malaysia's official government portal."
+        }
+      ]
+    },
+    {
+      "id": "SA-SDAIA-AI-ETHICS-2023",
+      "jurisdiction": "Saudi Arabia",
+      "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+      "title": "AI Ethics Principles",
+      "instrumentType": "National principles · guidance",
+      "status": "Guidance",
+      "topic": "AI ethics · fairness · privacy · safety · transparency",
+      "sourceUrl": "https://sdaia.gov.sa/en/SDAIA/about/Documents/ai-principles.pdf",
+      "summary": "SDAIA's AI Ethics Principles provide a national reference for responsible AI and include lifecycle guidance and assessment materials. Recorded as official guidance, not as a statute or regulation.",
+      "history": [
+        {
+          "date": "2023-01-01",
+          "change": "SDAIA issued the AI Ethics Principles during 2023; exact publication day not stated on the current official document."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Principles verified against the official SDAIA document and publications pages."
+        }
+      ]
+    },
+    {
+      "id": "CO-CONPES-4144-2025",
+      "jurisdiction": "Colombia",
+      "regulator": "National Council for Economic and Social Policy / National Planning Department",
+      "title": "CONPES Document 4144: National Artificial Intelligence Policy",
+      "instrumentType": "National policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-02-14",
+      "topic": "National AI strategy · governance · ethical adoption",
+      "sourceUrl": "https://inteligenciaartificial.minciencias.gov.co/wp-content/uploads/2025/09/CONPES-4144.pdf",
+      "summary": "Colombia's approved national AI policy sets a cross-government roadmap, actions, and investment priorities. It is an adopted public policy document, not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2025-02-14",
+          "change": "CONPES 4144 approved, according to the official document."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Approval and scope checked against the official policy document and DNP publication."
+        }
+      ]
+    },
+    {
+      "id": "KE-AI-STRATEGY-2025-2030",
+      "jurisdiction": "Kenya",
+      "regulator": "Ministry of Information, Communications and the Digital Economy",
+      "title": "Kenya National Artificial Intelligence Strategy 2025–2030",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-03-27",
+      "topic": "AI governance · infrastructure · research and innovation",
+      "sourceUrl": "https://ict.go.ke/kenyas-artificial-intelligence-ai-strategy-2025-2030-launched-kicc-nairobi",
+      "summary": "Kenya's national strategy sets priorities for AI infrastructure, data and AI governance, and research, innovation, and commercialization. It is a policy roadmap, not a statute.",
+      "history": [
+        {
+          "date": "2025-03-27",
+          "change": "Launched by the Ministry of Information, Communications and the Digital Economy."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record checked against the ministry's published launch report and strategy listing."
+        }
+      ]
+    },
+    {
+      "id": "RW-AI-POLICY-2023",
+      "jurisdiction": "Rwanda",
+      "regulator": "Ministry of ICT and Innovation / Rwanda Utilities Regulatory Authority",
+      "title": "National Artificial Intelligence Policy",
+      "instrumentType": "National policy",
+      "status": "Adopted policy",
+      "publicationDate": "2023-04-27",
+      "topic": "AI policy · inclusive growth · responsible adoption",
+      "sourceUrl": "https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Policies/Artificial_Intelligence_Policy.pdf",
+      "summary": "Rwanda's national AI policy provides a roadmap for inclusive and responsible AI development and adoption. The ministry's policy directory lists it as an approved policy; it is not a standalone AI statute.",
+      "history": [
+        {
+          "date": "2023-04-27",
+          "change": "Listed by the Ministry of ICT and Innovation as the Artificial Intelligence Policy."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record checked against the ministry policy directory and policy document."
+        }
+      ]
+    },
+    {
+      "id": "AE-AI-CHARTER-2026",
+      "jurisdiction": "United Arab Emirates",
+      "regulator": "UAE Artificial Intelligence Office / Federal Government",
+      "title": "UAE Charter for the Development and Use of Artificial Intelligence",
+      "instrumentType": "National charter · policy guidance",
+      "status": "Guidance",
+      "topic": "AI ethics · safety · accountability · human oversight",
+      "sourceUrl": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence",
+      "summary": "Federal government charter describing responsible AI principles and policy objectives. The official UAE portal presents it as a charter aligned with national AI strategy; it is guidance, not a binding AI law.",
+      "history": [
+        {
+          "date": "2026-07-03",
+          "change": "Official UAE portal page last updated; charter guidance reviewed."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record verified against the UAE Government portal."
+        }
+      ]
+    },
+    {
+      "id": "EG-NATIONAL-AI-STRATEGY-2025-2030",
+      "jurisdiction": "Egypt",
+      "regulator": "National Council for Artificial Intelligence / Ministry of Communications and Information Technology",
+      "title": "National Artificial Intelligence Strategy — Second Edition (2025–2030)",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-01-22",
+      "topic": "National AI strategy · governance · data · infrastructure",
+      "sourceUrl": "https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/68186",
+      "summary": "Egypt's second national AI strategy sets a 2025–2030 roadmap across governance, technology, data, infrastructure, ecosystem, and talent. It is an adopted policy strategy, not a statute.",
+      "history": [
+        {
+          "date": "2025-01-22",
+          "change": "Second edition of Egypt's National AI Strategy unveiled by the National Council for AI."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Record checked against the official Ministry of Communications and Information Technology release."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -2515,8 +3647,8 @@
     },
     {
       "country": "Argentina",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official national AI guidance is listed; this does not imply a comprehensive binding AI law."
     },
     {
       "country": "Armenia",
@@ -2525,13 +3657,13 @@
     },
     {
       "country": "Australia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": ""
     },
     {
       "country": "Austria",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Azerbaijan",
@@ -2565,8 +3697,8 @@
     },
     {
       "country": "Belgium",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Belize",
@@ -2600,8 +3732,8 @@
     },
     {
       "country": "Brazil",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": ""
     },
     {
       "country": "Brunei",
@@ -2610,8 +3742,8 @@
     },
     {
       "country": "Bulgaria",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Burkina Faso",
@@ -2640,8 +3772,8 @@
     },
     {
       "country": "Canada",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": ""
     },
     {
       "country": "Central African Republic",
@@ -2655,8 +3787,8 @@
     },
     {
       "country": "Chile",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official instrument records are listed; the register does not claim the country has a comprehensive AI statute."
     },
     {
       "country": "China",
@@ -2665,8 +3797,8 @@
     },
     {
       "country": "Colombia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Comoros",
@@ -2690,8 +3822,8 @@
     },
     {
       "country": "Croatia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Cuba",
@@ -2700,13 +3832,13 @@
     },
     {
       "country": "Cyprus",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Czechia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Democratic Republic of the Congo",
@@ -2715,8 +3847,8 @@
     },
     {
       "country": "Denmark",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Djibouti",
@@ -2740,8 +3872,8 @@
     },
     {
       "country": "Egypt",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "El Salvador",
@@ -2760,8 +3892,8 @@
     },
     {
       "country": "Estonia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Eswatini",
@@ -2780,13 +3912,13 @@
     },
     {
       "country": "Finland",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "France",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Gabon",
@@ -2805,8 +3937,8 @@
     },
     {
       "country": "Germany",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Ghana",
@@ -2815,8 +3947,8 @@
     },
     {
       "country": "Greece",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Grenada",
@@ -2855,8 +3987,8 @@
     },
     {
       "country": "Hungary",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Iceland",
@@ -2865,13 +3997,13 @@
     },
     {
       "country": "India",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": ""
     },
     {
       "country": "Indonesia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official instrument records are listed; the register does not claim the country has a comprehensive AI statute."
     },
     {
       "country": "Iran",
@@ -2885,8 +4017,8 @@
     },
     {
       "country": "Ireland",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Israel",
@@ -2895,8 +4027,8 @@
     },
     {
       "country": "Italy",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Jamaica",
@@ -2920,8 +4052,8 @@
     },
     {
       "country": "Kenya",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Kiribati",
@@ -2945,8 +4077,8 @@
     },
     {
       "country": "Latvia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Lebanon",
@@ -2975,13 +4107,13 @@
     },
     {
       "country": "Lithuania",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Luxembourg",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Madagascar",
@@ -2995,8 +4127,8 @@
     },
     {
       "country": "Malaysia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official national AI guidance is listed; this does not imply a comprehensive binding AI law."
     },
     {
       "country": "Maldives",
@@ -3010,8 +4142,8 @@
     },
     {
       "country": "Malta",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Marshall Islands",
@@ -3090,8 +4222,8 @@
     },
     {
       "country": "Netherlands",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "New Zealand",
@@ -3165,8 +4297,8 @@
     },
     {
       "country": "Peru",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official instrument records are listed; the register does not claim the country has a comprehensive AI statute."
     },
     {
       "country": "Philippines",
@@ -3175,13 +4307,13 @@
     },
     {
       "country": "Poland",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Portugal",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Qatar",
@@ -3190,8 +4322,8 @@
     },
     {
       "country": "Romania",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Russia",
@@ -3200,8 +4332,8 @@
     },
     {
       "country": "Rwanda",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "Saint Kitts and Nevis",
@@ -3235,8 +4367,8 @@
     },
     {
       "country": "Saudi Arabia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official national AI guidance is listed; this does not imply a comprehensive binding AI law."
     },
     {
       "country": "Senegal",
@@ -3265,13 +4397,13 @@
     },
     {
       "country": "Slovakia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Slovenia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Solomon Islands",
@@ -3285,8 +4417,8 @@
     },
     {
       "country": "South Africa",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official instrument records are listed; the register does not claim the country has a comprehensive AI statute."
     },
     {
       "country": "South Korea",
@@ -3300,8 +4432,8 @@
     },
     {
       "country": "Spain",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Sri Lanka",
@@ -3320,8 +4452,8 @@
     },
     {
       "country": "Sweden",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "EU Regulation 2024/1689 applies directly in this Member State. National implementation and enforcement details are not mapped in this entry."
     },
     {
       "country": "Switzerland",
@@ -3405,8 +4537,8 @@
     },
     {
       "country": "United Arab Emirates",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Verified official national AI policy/strategy record is listed; this is not a claim of a comprehensive binding AI statute."
     },
     {
       "country": "United Kingdom",
