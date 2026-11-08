@@ -485,6 +485,16 @@
       "name": "Iraqi National Center for Artificial Intelligence",
       "url": "https://nc.ai.gov.iq/news/64",
       "status": "Official strategy update; draft remains subject to refinement before approval"
+    },
+    {
+      "name": "Argentina · National legislation database · Resolution 469/2026",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/norma-430396/texto",
+      "status": "Official text; Ministry of Justice AI-in-justice coordination resolution"
+    },
+    {
+      "name": "Argentina · SIGEN AI controls guide",
+      "url": "https://www.argentina.gob.ar/noticias/la-sigen-desarrollo-una-guia-para-fortalecer-el-control-de-la-inteligencia-artificial-ia-en",
+      "status": "Official government description of Resolution SIGEN 197/2026"
     }
   ],
   "items": [
@@ -5162,6 +5172,44 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
+        }
+      ]
+    },
+    {
+      "id": "AR-RES-469-2026-JUSTICE-AI",
+      "jurisdiction": "Argentina",
+      "regulator": "Ministry of Justice",
+      "title": "Resolution 469/2026 creating the Strategic Table on Artificial Intelligence in Justice (MEIAJ)",
+      "instrumentType": "Ministerial resolution",
+      "status": "In force",
+      "publicationDate": "2026-09-23",
+      "effectiveDate": null,
+      "topic": "AI in justice · governance · oversight · human supervision",
+      "sourceUrl": "https://www.argentina.gob.ar/normativa/nacional/norma-430396/texto",
+      "summary": "This resolution creates a Ministry of Justice working group to coordinate AI initiatives in the justice system and prepare a justice-sector AI strategy. It calls for responsible adoption, human oversight, traceability and risk evaluation. The resolution says this strategy is not a general AI regulatory regime.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official national legislation database; Resolution 469/2026 was published in the Official Gazette on September 23, 2026."
+        }
+      ]
+    },
+    {
+      "id": "AR-SIGEN-RES-197-2026-AI-CONTROLS",
+      "jurisdiction": "Argentina",
+      "regulator": "Sindicatura General de la Nación (SIGEN)",
+      "title": "Resolution SIGEN 197/2026 · AI Controls Guide for the National Public Sector",
+      "instrumentType": "Resolution and internal control guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-06-24",
+      "effectiveDate": null,
+      "topic": "Public sector AI · internal controls · risk management · accountability",
+      "sourceUrl": "https://www.argentina.gob.ar/noticias/la-sigen-desarrollo-una-guia-para-fortalecer-el-control-de-la-inteligencia-artificial-ia-en",
+      "summary": "SIGEN published a risk-based guide for internal controls when national public-sector bodies implement AI. It is intended to align AI initiatives with institutional goals, current legal requirements, integrity, transparency and accountability. The government describes it as a control reference for public entities, not a general law for all AI uses.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Argentine government release; it identifies Resolution SIGEN 197/2026 and publication in the Official Gazette."
         }
       ]
     }
