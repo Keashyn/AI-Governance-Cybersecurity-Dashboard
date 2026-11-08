@@ -345,6 +345,16 @@
       "name": "Zimbabwe · Ministry of ICT National ICT Policy",
       "url": "https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf",
       "status": "Curated official public source"
+    },
+    {
+      "name": "Malaysia · Unified Public Consultation on proposed AI Governance Bill",
+      "url": "https://upc.mpc.gov.my/view-consultation/264%E2%81%A0",
+      "status": "Official government consultation platform"
+    },
+    {
+      "name": "Philippines · Presidential Communications Office National AI Strategy approval",
+      "url": "https://pco.gov.ph/news_releases/pbbm-make-best-use-of-ai-for-national-devt/",
+      "status": "Official government release"
     }
   ],
   "items": [
@@ -4445,6 +4455,50 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "MY-DRAFT-AI-GOVERNANCE-BILL-2026",
+      "jurisdiction": "Malaysia",
+      "regulator": "National AI Office Malaysia / Ministry of Digital",
+      "title": "Proposed Artificial Intelligence (AI) Governance Bill",
+      "instrumentType": "Proposed bill · public consultation",
+      "status": "Consultation",
+      "publicationDate": "2026-07-10",
+      "topic": "AI governance · risk management · accountability",
+      "sourceUrl": "https://upc.mpc.gov.my/view-consultation/264%E2%81%A0",
+      "summary": "Malaysia published a consultation paper for a proposed national AI Governance Bill on 10 July 2026. It describes a planned national governance framework; the public consultation closed on 31 July 2026. The proposal is not an enacted law, and this record does not imply the Bill has since been introduced or passed.",
+      "history": [
+        {
+          "date": "2026-07-10",
+          "change": "Official consultation platform listed the public consultation paper for the proposed AI Governance Bill."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Checked the official consultation page; submission window closed 31 July 2026. No enactment is claimed."
+        }
+      ]
+    },
+    {
+      "id": "PH-NAIS-PH-2025",
+      "jurisdiction": "Philippines",
+      "regulator": "Department of Science and Technology (DOST); Office of the President",
+      "title": "National AI Strategy for the Philippines (NAIS-PH)",
+      "instrumentType": "National strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-05-21",
+      "topic": "AI strategy · infrastructure · workforce · innovation · governance",
+      "sourceUrl": "https://pco.gov.ph/news_releases/pbbm-make-best-use-of-ai-for-national-devt/",
+      "summary": "The President approved the National AI Strategy for the Philippines in May 2025. The strategy sets a national program framework covering infrastructure, workforce, innovation, data governance and policy, and AI deployment. It is government policy, not a standalone statute.",
+      "history": [
+        {
+          "date": "2025-05-21",
+          "change": "The Presidential Communications Office reported presidential approval of the National AI Strategy for the Philippines."
+        },
+        {
+          "date": "2026-11-08",
+          "change": "Summary and adopted-policy classification checked against the official Presidential Communications Office release."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5135,8 +5189,8 @@
     },
     {
       "country": "Philippines",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Officially approved national AI strategy recorded; this does not establish that no additional binding AI or cross-sector laws apply."
     },
     {
       "country": "Poland",
