@@ -735,6 +735,16 @@
       "name": "Eswatini · Ministry of ICT Annual Report 2025",
       "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
       "status": "Official report to Parliament; describes planned AI and Data Analysis Unit"
+    },
+    {
+      "name": "Chad · Journal officiel, Decree 2203/PR/PM/MTENDA/2025",
+      "url": "https://journalofficiel.gouv.td/storage/v1/object/public/archiva/journaux/2025/11/1764341988840-lxjz5cgawd.pdf",
+      "status": "Official Journal; creates General Directorate of AI and defines its responsibilities"
+    },
+    {
+      "name": "Comoros · Presidency Council of Ministers, 11 March 2026",
+      "url": "https://www.beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture%2C-la-s%C3%A9curit%C3%A9%2C-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
+      "status": "Official notice of national AI readiness assessment and committee work"
     }
   ],
   "items": [
@@ -6332,6 +6342,44 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "TD-DECREE-2203-2025-DGAI",
+      "jurisdiction": "Chad · National",
+      "regulator": "President of the Republic; Ministry of Telecommunications, Digital Economy and Administration Digitalisation",
+      "title": "Decree No. 2203/PR/PM/MTENDA/2025 on organization of the Ministry, establishing the General Directorate of Artificial Intelligence",
+      "instrumentType": "Decree",
+      "status": "Enacted",
+      "publicationDate": "2025-09-10",
+      "effectiveDate": "2025-09-10",
+      "topic": "AI · government governance · national strategy and oversight",
+      "sourceUrl": "https://journalofficiel.gouv.td/storage/v1/object/public/archiva/journaux/2025/11/1764341988840-lxjz5cgawd.pdf",
+      "summary": "This decree reorganizes Chad’s telecommunications and digital-economy ministry and creates a General Directorate of Artificial Intelligence with strategy and governance directorates. Its mandate includes coordinating national AI policy, setting strategy and action plans, assessing impacts, prioritizing public-sector uses and checking applications against state ethical, legal and technical frameworks. It is an institutional governance decree, not a general AI risk classification law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official September 2025 Journal of the Republic; decree signed 10 September 2025."
+        }
+      ]
+    },
+    {
+      "id": "KM-AI-READINESS-ASSESSMENT-2026",
+      "jurisdiction": "Comoros · National",
+      "regulator": "Ministry of Posts and Telecommunications; Presidency of the Union of the Comoros",
+      "title": "National AI readiness assessment and interministerial committee work",
+      "instrumentType": "AI governance planning process",
+      "status": "Proposed",
+      "publicationDate": "2026-03-11",
+      "effectiveDate": "",
+      "topic": "AI · readiness assessment · institutional and regulatory planning",
+      "sourceUrl": "https://www.beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture%2C-la-s%C3%A9curit%C3%A9%2C-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
+      "summary": "The Presidency reports that the Minister of Posts and Telecommunications presented an assessment of Comoros’ readiness for AI. The review covers institutional, technical and regulatory capacity; a committee’s work had begun and was expected to take six months, with the Interior Ministry asked to participate. This is an assessment process, not adopted AI rules.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the official Presidency Council of Ministers report; recorded as policy planning."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -6502,8 +6550,8 @@
     },
     {
       "country": "Chad",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Decree 2203/2025 establishes a General Directorate of AI and its national-policy governance duties."
     },
     {
       "country": "Chile",
@@ -6522,8 +6570,8 @@
     },
     {
       "country": "Comoros",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Presidency reports a national AI readiness assessment underway; no adopted AI law established by this source."
     },
     {
       "country": "Congo (Republic of the)",
