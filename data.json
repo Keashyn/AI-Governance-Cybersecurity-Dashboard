@@ -1688,6 +1688,24 @@
       ]
     },
     {
+      "id": "TR-AI-VISION-ACTION-2026-2030",
+      "jurisdiction": "Türkiye",
+      "regulator": "Presidency of the Republic of Türkiye · Investment and Finance Office",
+      "title": "Türkiye AI Vision and Action Plan 2026–2030",
+      "instrumentType": "National action plan",
+      "status": "Adopted policy",
+      "publicationDate": "2026-06-26",
+      "topic": "AI strategy · national action plan",
+      "sourceUrl": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/turkiye-unveils-ai-action-plan-artificial-intelligence-summit.aspx",
+      "summary": "The government unveiled a national AI action plan organized around discovering, benefiting from, producing and governing AI. Announced measures include AI literacy and skills, wider use in public services and industries, research and investment. This is a policy plan, not a statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from Türkiye’s official Investment and Finance Office announcement of the plan."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-12811",
       "jurisdiction": "United States · Federal",
       "regulator": "Personnel Management Office",
@@ -3827,6 +3845,23 @@
       ]
     },
     {
+      "id": "TH-ETDA-AI-LAW-DRAFT-2025",
+      "jurisdiction": "Thailand",
+      "regulator": "Electronic Transactions Development Agency (ETDA) / Ministry of Digital Economy and Society",
+      "title": "Draft Principles of the Artificial Intelligence Law",
+      "instrumentType": "Draft law · consultation completed",
+      "status": "Proposed",
+      "topic": "AI governance · high-risk systems · rights and safety",
+      "sourceUrl": "https://www.etda.or.th/th/pr-news/law_ai.aspx",
+      "summary": "ETDA described draft principles for a future AI law, including risk-based oversight with attention to high-risk AI, rights, safety and innovation. The public comment period ended on 24 June 2025. The latest status was not established by this review, so check the official source for any later development; this record does not imply the proposal became law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from ETDA’s official announcement describing the draft and its public comment deadline."
+        }
+      ]
+    },
+    {
       "id": "SA-SDAIA-AI-ETHICS-2023",
       "jurisdiction": "Saudi Arabia",
       "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
@@ -3907,41 +3942,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "TH-ETDA-AI-LAW-DRAFT-2025",
-      "jurisdiction": "Thailand",
-      "regulator": "Electronic Transactions Development Agency (ETDA) / Ministry of Digital Economy and Society",
-      "title": "Draft Principles of the Artificial Intelligence Law",
-      "instrumentType": "Draft law · consultation completed",
-      "status": "Proposed",
-      "topic": "AI governance · high-risk systems · rights and safety",
-      "sourceUrl": "https://www.etda.or.th/th/pr-news/law_ai.aspx",
-      "summary": "ETDA described draft principles for a future AI law, including risk-based oversight with attention to high-risk AI, rights, safety and innovation. The public comment period ended on 24 June 2025. The latest status was not established by this review, so check the official source for any later development; this record does not imply the proposal became law.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from ETDA’s official announcement describing the draft and its public comment deadline."
-        }
-      ]
-    },
-    {
-      "id": "TR-AI-VISION-ACTION-2026-2030",
-      "jurisdiction": "Türkiye",
-      "regulator": "Presidency of the Republic of Türkiye · Investment and Finance Office",
-      "title": "Türkiye AI Vision and Action Plan 2026–2030",
-      "instrumentType": "National action plan",
-      "status": "Adopted policy",
-      "publicationDate": "2026-06-26",
-      "topic": "AI strategy · national action plan",
-      "sourceUrl": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/turkiye-unveils-ai-action-plan-artificial-intelligence-summit.aspx",
-      "summary": "The government unveiled a national AI action plan organized around discovering, benefiting from, producing and governing AI. Announced measures include AI literacy and skills, wider use in public services and industries, research and investment. This is a policy plan, not a statute.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from Türkiye’s official Investment and Finance Office announcement of the plan."
         }
       ]
     }
