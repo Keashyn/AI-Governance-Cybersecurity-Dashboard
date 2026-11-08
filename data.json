@@ -40,6 +40,41 @@
       "name": "New York City · Local Law 144",
       "url": "https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page",
       "status": "Curated regulator implementation page"
+    },
+    {
+      "name": "California · Governor",
+      "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/",
+      "status": "Official SB 53 signing announcement and summary"
+    },
+    {
+      "name": "Colorado · General Assembly",
+      "url": "https://leg.colorado.gov/bills/sb26-189",
+      "status": "Official bill status, enacted text, and dates for SB 26-189"
+    },
+    {
+      "name": "Colorado · General Assembly",
+      "url": "https://leg.colorado.gov/bills/hb26-1195",
+      "status": "Official bill status, enacted text, and dates for HB 26-1195"
+    },
+    {
+      "name": "Maine · Legislature",
+      "url": "https://legislature.maine.gov/legis/bills/display_ps.asp?ld=2082&snum=132",
+      "status": "Official bill status, enactment, and governor action"
+    },
+    {
+      "name": "New York · Senate",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S8828",
+      "status": "Official bill status, text, and chapter amendment details"
+    },
+    {
+      "name": "Texas · Legislature",
+      "url": "https://capitol.texas.gov/",
+      "status": "Official bill summaries, enrolled text, and action histories for HB 149 and SB 1964"
+    },
+    {
+      "name": "Utah · Legislature",
+      "url": "https://le.utah.gov/Session/2024/bills/static/SB0149.html",
+      "status": "Official bill text and status for SB 149"
     }
   ],
   "items": [
@@ -2058,6 +2093,158 @@
         {
           "date": "2023-07-05",
           "change": "Enforcement began after implementation delay."
+        }
+      ]
+    },
+    {
+      "id": "US-CA-SB53-2025",
+      "jurisdiction": "United States · California",
+      "regulator": "California Legislature / Governor / Attorney General",
+      "title": "Transparency in Frontier Artificial Intelligence Act (SB 53)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2025-09-29",
+      "effectiveDate": "2026-01-01",
+      "topic": "Frontier AI · safety frameworks · incident reporting · whistleblower protections",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB53",
+      "summary": "Requires covered frontier AI developers to publish safety and security frameworks, establishes reporting mechanisms for critical safety incidents, protects certain whistleblowers, and authorizes civil penalties. The Governor's official signing announcement confirms enactment.",
+      "history": [
+        {
+          "date": "2025-09-29",
+          "change": "Signed into law; added as an individual state statute record from official state sources."
+        }
+      ]
+    },
+    {
+      "id": "US-CO-SB26-189-2026",
+      "jurisdiction": "United States · Colorado",
+      "regulator": "Colorado General Assembly / Attorney General",
+      "title": "Automated Decision-Making Technology (SB 26-189)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-05-14",
+      "effectiveDate": "2026-05-14",
+      "topic": "Consequential decisions · consumer notice · human review · records",
+      "sourceUrl": "https://leg.colorado.gov/bills/sb26-189",
+      "summary": "Repeals and reenacts Colorado's AI consumer-protection framework with requirements for automated decision-making technology used in consequential decisions, including technical documentation, notice, data correction, human review, and record retention. Many covered obligations begin January 1, 2027. This is separate from SB 24-205.",
+      "history": [
+        {
+          "date": "2026-05-14",
+          "change": "Signed into law; recorded separately from SB 24-205 because this law reenacts and revises the framework."
+        }
+      ]
+    },
+    {
+      "id": "US-CO-HB26-1195-2026",
+      "jurisdiction": "United States · Colorado",
+      "regulator": "Colorado General Assembly / Department of Regulatory Agencies / Attorney General",
+      "title": "Psychotherapy Artificial Intelligence Restrictions (HB 26-1195)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-06-03",
+      "effectiveDate": "2026-08-12",
+      "topic": "Mental health · psychotherapy · disclosure · consent",
+      "sourceUrl": "https://leg.colorado.gov/bills/hb26-1195",
+      "summary": "Restricts use of AI in psychotherapy services, including AI therapeutic communication without synchronous professional involvement and recommendations or treatment plans without professional review. Includes client notice and consent provisions, licensing-board discipline, and consumer-protection restrictions on misleading AI representations.",
+      "history": [
+        {
+          "date": "2026-06-03",
+          "change": "Signed into law; Colorado session-law record lists August 12, 2026 as the effective date."
+        }
+      ]
+    },
+    {
+      "id": "US-ME-LD2082-2026",
+      "jurisdiction": "United States · Maine",
+      "regulator": "Maine Legislature / Governor",
+      "title": "An Act to Regulate the Use of Artificial Intelligence in Providing Certain Mental Health Services (LD 2082)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-04-13",
+      "effectiveDate": "2026-07-29",
+      "topic": "Mental health · psychotherapy · AI services",
+      "sourceUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?ld=2082&snum=132",
+      "summary": "Regulates use of AI in providing certain mental health services. The legislature's bill page records enactment and the governor's signature on April 13, 2026; Maine's official general effective date for non-emergency laws from this session is July 29, 2026.",
+      "history": [
+        {
+          "date": "2026-04-13",
+          "change": "Signed into law; added as an individual Maine statute record."
+        }
+      ]
+    },
+    {
+      "id": "US-NY-S8828-2026",
+      "jurisdiction": "United States · New York",
+      "regulator": "New York State Legislature / Governor",
+      "title": "Responsible AI Safety and Education (RAISE) Act (S 8828, Chapter 96)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-03-27",
+      "effectiveDate": "—",
+      "topic": "Frontier AI · transparency · safety reporting · oversight",
+      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S8828",
+      "summary": "Establishes transparency and safety requirements for developers of covered frontier AI models, including publication of safety frameworks and model transparency reports and reporting of critical safety incidents. Signed by the governor as Chapter 96. The bill page ties its effective date to the underlying 2025 chapter; date is not normalized here.",
+      "history": [
+        {
+          "date": "2026-03-27",
+          "change": "Signed by the governor as Chapter 96; added as an individual statute record."
+        }
+      ]
+    },
+    {
+      "id": "US-TX-HB149-2025",
+      "jurisdiction": "United States · Texas",
+      "regulator": "Texas Legislature / Attorney General / Department of Information Resources",
+      "title": "Texas Responsible Artificial Intelligence Governance Act (HB 149)",
+      "instrumentType": "State statute",
+      "status": "In force",
+      "publicationDate": "2025-06-22",
+      "effectiveDate": "2026-01-01",
+      "topic": "AI governance · consumer protection · civil rights · public sector",
+      "sourceUrl": "https://capitol.texas.gov/billlookup/BillSummary.aspx?Bill=HB149&LegSess=89R",
+      "summary": "Establishes a statewide framework for AI systems, including certain disclosure duties, prohibited uses, enforcement by the Attorney General, a regulatory sandbox, and a Texas Artificial Intelligence Council. The enrolled summary lists January 1, 2026 as the effective date.",
+      "history": [
+        {
+          "date": "2025-06-22",
+          "change": "Signed into law; added as an individual Texas statute record."
+        }
+      ]
+    },
+    {
+      "id": "US-TX-SB1964-2025",
+      "jurisdiction": "United States · Texas",
+      "regulator": "Texas Legislature / Department of Information Resources / Attorney General",
+      "title": "Governmental Use of Artificial Intelligence and Data Management (SB 1964)",
+      "instrumentType": "State statute",
+      "status": "In force",
+      "publicationDate": "2025-06-20",
+      "effectiveDate": "2025-09-01",
+      "topic": "Public sector AI · governance standards · impact assessments · notice",
+      "sourceUrl": "https://capitol.texas.gov/billlookup/BillSummary.aspx?Bill=SB1964&LegSess=89R",
+      "summary": "Requires statewide AI ethics and risk-management standards, public-facing AI disclosure, confidential impact assessments for applicable agencies, public-sector advisory support, training, and a regulatory sandbox. Texas Legislature lists September 1, 2025 as the effective date.",
+      "history": [
+        {
+          "date": "2025-06-20",
+          "change": "Signed into law; added as an individual Texas statute record."
+        }
+      ]
+    },
+    {
+      "id": "US-UT-SB149-2024",
+      "jurisdiction": "United States · Utah",
+      "regulator": "Utah Legislature / Department of Commerce, Office of Artificial Intelligence Policy",
+      "title": "Artificial Intelligence Policy Act (SB 149)",
+      "instrumentType": "State statute",
+      "status": "In force",
+      "publicationDate": "2024-03-13",
+      "effectiveDate": "2024-05-01",
+      "topic": "Consumer protection · AI disclosure · regulatory sandbox · governance",
+      "sourceUrl": "https://le.utah.gov/Session/2024/bills/static/SB0149.html",
+      "summary": "Creates the Artificial Intelligence Policy Act and Office of Artificial Intelligence Policy; establishes an AI regulatory analysis program and learning laboratory, provides for regulatory mitigation during pilots, and addresses disclosure and liability related to AI use in regulated occupations and consumer transactions.",
+      "history": [
+        {
+          "date": "2024-03-13",
+          "change": "Signed by the governor; added as an individual Utah statute record."
         }
       ]
     }
