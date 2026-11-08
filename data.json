@@ -2973,6 +2973,24 @@
       ]
     },
     {
+      "id": "JM-DRAFT-NAI-POLICY-AND-LEGISLATIVE-FRAMEWORK-2026",
+      "jurisdiction": "Jamaica",
+      "regulator": "Office of the Prime Minister · National AI Task Force",
+      "title": "National AI Policy and Legislative Framework under development",
+      "instrumentType": "Policy and legislative development (proposed)",
+      "status": "Proposed",
+      "publicationDate": "2026-03-03",
+      "topic": "National AI policy · legal review · proposed legislation · rights and public trust",
+      "sourceUrl": "https://opm.gov.jm/minister-wheatley-convenes-first-meeting-of-reconstituted-national-ai-task-force-sets-policy-and-legislative-deliverables/",
+      "summary": "Jamaica’s reconstituted National AI Task Force has been directed to prepare a draft national AI policy and review existing laws to recommend new legislation or amendments. The government announced target delivery periods of 6–9 months for the policy draft and 12 months for the legislative framework. These are planned outputs, not rules already in force.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Office of the Prime Minister; source sets policy and legislative deliverables but does not report a completed bill."
+        }
+      ]
+    },
+    {
       "id": "IN-AI-GOVERNANCE-GUIDELINES-2026",
       "jurisdiction": "India",
       "regulator": "Ministry of Electronics and Information Technology (MeitY); Government of India",
@@ -3085,6 +3103,24 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the official ministry announcement."
+        }
+      ]
+    },
+    {
+      "id": "TT-AI-POLICY-DEVELOPMENT-2026",
+      "jurisdiction": "Trinidad and Tobago",
+      "regulator": "Ministry of Public Administration and Artificial Intelligence",
+      "title": "National AI Policy Development and Readiness Assessment (in progress)",
+      "instrumentType": "Policy development / consultation process",
+      "status": "Proposed",
+      "publicationDate": "2026-01-16",
+      "topic": "National AI policy · rights · ethics · legal readiness · public consultation",
+      "sourceUrl": "https://mpaai.gov.tt/sites/default/files/2026-01/media-release---t%26t-takes-the-next-step-in-ai-policy-development_final.pdf",
+      "summary": "The government is assessing national readiness for AI and gathering input to shape future AI policy and strategic recommendations. The process includes legal and regulatory readiness, stakeholder surveys and consultations. This is policy development activity; it does not itself impose AI obligations.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from an official Ministry of Public Administration and Artificial Intelligence release; policy development and consultation were ongoing."
         }
       ]
     },
@@ -3811,6 +3847,24 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the CAC official announcement."
+        }
+      ]
+    },
+    {
+      "id": "SV-DECREE-234-2025-AI-PROMOTION",
+      "jurisdiction": "El Salvador",
+      "regulator": "Legislative Assembly of El Salvador",
+      "title": "Decree No. 234 · Law for the Promotion of Artificial Intelligence and Technologies",
+      "instrumentType": "Law (Decree No. 234)",
+      "status": "Enacted",
+      "publicationDate": "2025-03-03",
+      "topic": "AI development · research · application · safeguards · risk framework",
+      "sourceUrl": "https://www.asamblea.gob.sv/leyes-y-decretos/view/6137",
+      "summary": "This law aims to promote the development, research and use of artificial intelligence and similar technologies. Its stated purpose includes creating a regulatory framework to manage associated risks and establish safeguards. The official Assembly page confirms issuance on February 26, 2025 and publication in the Official Gazette on March 3, 2025; it does not state the specific effective date on this summary page.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Legislative Assembly’s official law record; effective date left unspecified because the source summary does not provide one."
         }
       ]
     },
@@ -5225,60 +5279,6 @@
         {
           "date": "2026-11-08",
           "change": "Record verified against the UAE Government portal."
-        }
-      ]
-    },
-    {
-      "id": "SV-DECREE-234-2025-AI-PROMOTION",
-      "jurisdiction": "El Salvador",
-      "regulator": "Legislative Assembly of El Salvador",
-      "title": "Decree No. 234 · Law for the Promotion of Artificial Intelligence and Technologies",
-      "instrumentType": "Law (Decree No. 234)",
-      "status": "Enacted",
-      "publicationDate": "2025-03-03",
-      "topic": "AI development · research · application · safeguards · risk framework",
-      "sourceUrl": "https://www.asamblea.gob.sv/leyes-y-decretos/view/6137",
-      "summary": "This law aims to promote the development, research and use of artificial intelligence and similar technologies. Its stated purpose includes creating a regulatory framework to manage associated risks and establish safeguards. The official Assembly page confirms issuance on February 26, 2025 and publication in the Official Gazette on March 3, 2025; it does not state the specific effective date on this summary page.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Legislative Assembly’s official law record; effective date left unspecified because the source summary does not provide one."
-        }
-      ]
-    },
-    {
-      "id": "JM-DRAFT-NAI-POLICY-AND-LEGISLATIVE-FRAMEWORK-2026",
-      "jurisdiction": "Jamaica",
-      "regulator": "Office of the Prime Minister · National AI Task Force",
-      "title": "National AI Policy and Legislative Framework under development",
-      "instrumentType": "Policy and legislative development (proposed)",
-      "status": "Proposed",
-      "publicationDate": "2026-03-03",
-      "topic": "National AI policy · legal review · proposed legislation · rights and public trust",
-      "sourceUrl": "https://opm.gov.jm/minister-wheatley-convenes-first-meeting-of-reconstituted-national-ai-task-force-sets-policy-and-legislative-deliverables/",
-      "summary": "Jamaica’s reconstituted National AI Task Force has been directed to prepare a draft national AI policy and review existing laws to recommend new legislation or amendments. The government announced target delivery periods of 6–9 months for the policy draft and 12 months for the legislative framework. These are planned outputs, not rules already in force.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Office of the Prime Minister; source sets policy and legislative deliverables but does not report a completed bill."
-        }
-      ]
-    },
-    {
-      "id": "TT-AI-POLICY-DEVELOPMENT-2026",
-      "jurisdiction": "Trinidad and Tobago",
-      "regulator": "Ministry of Public Administration and Artificial Intelligence",
-      "title": "National AI Policy Development and Readiness Assessment (in progress)",
-      "instrumentType": "Policy development / consultation process",
-      "status": "Proposed",
-      "publicationDate": "2026-01-16",
-      "topic": "National AI policy · rights · ethics · legal readiness · public consultation",
-      "sourceUrl": "https://mpaai.gov.tt/sites/default/files/2026-01/media-release---t%26t-takes-the-next-step-in-ai-policy-development_final.pdf",
-      "summary": "The government is assessing national readiness for AI and gathering input to shape future AI policy and strategic recommendations. The process includes legal and regulatory readiness, stakeholder surveys and consultations. This is policy development activity; it does not itself impose AI obligations.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from an official Ministry of Public Administration and Artificial Intelligence release; policy development and consultation were ongoing."
         }
       ]
     }
