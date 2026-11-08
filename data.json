@@ -555,6 +555,21 @@
       "name": "Georgia Digital Governance Agency · justice-sector AI working group",
       "url": "https://dga.gov.ge/?id=vZxdnullHO&m=articles",
       "status": "Official report on AI governance in justice-sector public services"
+    },
+    {
+      "name": "Armenia Ministry of High-Tech Industry and Artificial Intelligence · Virtual Institute",
+      "url": "https://hightech.gov.am/en/artificial-intelligence-virtual-institute",
+      "status": "Official state-supported AI compute pilot"
+    },
+    {
+      "name": "Federation of Bosnia and Herzegovina · Development Strategy",
+      "url": "https://fzzpr.gov.ba/en/development-strategy-of-the-fbih/offensive-measures/innovations-and-digitalisation",
+      "status": "Official entity-level development strategy including an AI development measure"
+    },
+    {
+      "name": "North Macedonia Ministry of Digital Transformation · Vezilka project",
+      "url": "https://mdt.gov.mk/en-GB/odnosi-so-javnost/soopstenija/andonovski-makedonija-dobiva-nacionalen-centar-za-vestacka-inteligencija-zapocnuva-proektot-vezilka",
+      "status": "Official National Centre for AI project announcement"
     }
   ],
   "items": [
@@ -5488,6 +5503,58 @@
           "change": "Record verified against the UAE Government portal."
         }
       ]
+    },
+    {
+      "id": "AM-AI-VIRTUAL-INSTITUTE-PILOT-2026",
+      "jurisdiction": "Armenia",
+      "regulator": "Ministry of High-Tech Industry and Artificial Intelligence",
+      "title": "Artificial Intelligence Virtual Institute · state-supported compute access pilot",
+      "instrumentType": "Government program",
+      "status": "Adopted policy",
+      "topic": "AI development · research compute · innovation support",
+      "sourceUrl": "https://hightech.gov.am/en/artificial-intelligence-virtual-institute",
+      "summary": "Armenia’s Ministry describes a 2026 pilot providing high-performance computing resources for AI research, education and technology projects. Eligible Armenian residents, organizations and sole proprietors can apply. This is a government support program, not an AI regulatory law.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry’s official program page; it describes a state-supported 2026 pilot."
+        }
+      ]
+    },
+    {
+      "id": "BA-FBIH-DEVELOPMENT-STRATEGY-AI-2021-2027",
+      "jurisdiction": "Bosnia and Herzegovina · Federation of Bosnia and Herzegovina",
+      "regulator": "Federal Institute for Development Programming · Government of the Federation of Bosnia and Herzegovina",
+      "title": "Federation of Bosnia and Herzegovina Development Strategy 2021–2027 · AI development measure",
+      "instrumentType": "Entity development strategy",
+      "status": "Adopted policy",
+      "topic": "AI development · innovation · digital public administration",
+      "sourceUrl": "https://fzzpr.gov.ba/en/development-strategy-of-the-fbih/offensive-measures/innovations-and-digitalisation",
+      "summary": "The Federation of Bosnia and Herzegovina’s development strategy includes measures to develop AI and its applications, alongside public-sector digital transformation and research support. The official strategy page says the AI measure envisages an AI institute and platform. This is an entity-level development policy, not a countrywide AI statute.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Federation Institute for Development Programming’s official strategy page; jurisdiction is limited to the Federation entity."
+        }
+      ]
+    },
+    {
+      "id": "MK-VEZILKA-NATIONAL-AI-CENTRE-2025",
+      "jurisdiction": "North Macedonia",
+      "regulator": "Ministry of Digital Transformation",
+      "title": "Vezilka · National Centre for Artificial Intelligence project",
+      "instrumentType": "Government AI program",
+      "status": "Adopted policy",
+      "publicationDate": "2025-10-14",
+      "topic": "AI infrastructure · responsible AI · public administration · health · language technology",
+      "sourceUrl": "https://mdt.gov.mk/en-GB/odnosi-so-javnost/soopstenija/andonovski-makedonija-dobiva-nacionalen-centar-za-vestacka-inteligencija-zapocnuva-proektot-vezilka",
+      "summary": "The Ministry announced the Vezilka project to establish a national AI centre with university and industry partners. It aims to support AI infrastructure and responsible applications in language technology, healthcare, energy, public administration and agriculture. This is a government project, not an AI regulation imposing general duties.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Ministry of Digital Transformation’s official announcement dated October 14, 2025."
+        }
+      ]
     }
   ],
   "countryCoverage": [
@@ -5528,8 +5595,8 @@
     },
     {
       "country": "Armenia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official 2026 AI compute-support pilot recorded; this is a government program, not a binding AI law."
     },
     {
       "country": "Australia",
@@ -5598,8 +5665,8 @@
     },
     {
       "country": "Bosnia and Herzegovina",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Federation-level development strategy AI measure recorded; coverage is limited to the Federation entity and does not claim a full state-level legal review."
     },
     {
       "country": "Botswana",
@@ -6128,8 +6195,8 @@
     },
     {
       "country": "North Macedonia",
-      "status": "Not yet reviewed",
-      "note": "No complete official-source review is recorded yet; this is not a finding that no applicable law exists."
+      "status": "Record present",
+      "note": "Official Vezilka National AI Centre project recorded; this is a program rather than a generally applicable AI regulation."
     },
     {
       "country": "Norway",
