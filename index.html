@@ -33,7 +33,7 @@ const categories=[
 {name:'Standards / frameworks',color:'#8996a3',test:x=>['Published standard','In development','Withdrawn standard'].includes(x.status)},
 {name:'Reviewed / inactive / other',color:'#d5dde2',test:x=>true}
 ];
-let assigned=0;categories.forEach(c=>{c.count=items.filter(c.test).length-assigned;assigned+=c.count});
+categories.forEach((c,i)=>{c.count=i<4?items.filter(c.test).length:0});
 const active=items.filter(x=>['Enacted','In force','Proposed','Consultation','Adopted policy','Guidance','Published standard','In development','Withdrawn standard'].includes(x.status));
 categories[4].count=items.length-categories.slice(0,4).reduce((n,c)=>n+c.count,0);
 const total=items.length||1;
