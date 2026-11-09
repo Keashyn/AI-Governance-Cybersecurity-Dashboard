@@ -8,11 +8,9 @@ The site is a static page (`index.html`) with records in `data.json`. `.github/w
 
 The public dashboard is hosted on GitHub Pages at https://keashyn.github.io/AI-Governance-Dashboard/.
 
-## Weekly Claude curation
+## Weekly curation
 
-`.github/workflows/weekly-curation-agents.yml` runs every Monday at 15:30 UTC and can be started manually from GitHub Actions. It uses Anthropic's Claude Code Action to research and verify candidate updates, then opens a pull request from a new branch; it never deploys or merges those changes. The research and verification rules are in `agents/PROMPTS.md`, and each run writes a report under `reports/weekly/` for review.
-
-Before the workflow can run, add an Anthropic API key in the repository's **Settings → Secrets and variables → Actions** as a repository secret named `ANTHROPIC_API_KEY`. The key is not stored in this repository. Claude Code Action is installed through the workflow; no separate Claude GitHub App installation is needed for this setup.
+The Codex automation **Weekly curation agents** runs each Monday at 15:30 UTC. It follows `agents/PROMPTS.md`, verifies candidate updates against public official sources, and opens a reviewable pull request from a new branch. It never pushes to `master`, merges a pull request, or deploys. Each run includes a dated report under `reports/weekly/`. The automation runs through the connected Codex environment and needs access to this public repository and GitHub to create its pull request.
 
 ## Sources and coverage
 
