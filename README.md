@@ -6,7 +6,7 @@ A public source tracker for AI governance laws, proposals, consultations, and of
 
 The site is a static page (`index.html`) with records in `data.json`. `.github/workflows/daily.yml` runs daily at 13:17 UTC and can also be started manually. It checks the U.S. Federal Register API and the Cybersecurity Database open catalog, deduplicates records, records material changes, then publishes the site through GitHub Pages. Legal imports are limited to laws, decrees, regulations, directives, and circulars; country-specific strategy and guidance documents are not imported by that job. The same daily job also imports the catalog's standards, frameworks, and technical specifications as reference records, shown in country-filtered searches without implying local adoption or legal force.
 
-The public dashboard is hosted on GitHub Pages at https://keashyn.github.io/AI-Governance-Dashboard/.
+The public dashboard is hosted on GitHub Pages at https://keashyn.github.io/AI-Governance-Cybersecurity-Dashboard/.
 
 ## Weekly curation
 
