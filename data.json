@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-08",
+  "lastChecked": "2026-11-09",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -4364,7 +4364,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "af8ead0d-f340-42c8-91c2-3d0626e4484e",
       "catalogSlug": "om-cybercrime-combat-law-2026",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "US-FR-2026-10779",
@@ -5311,7 +5311,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f952a6b1-051f-5ca1-96c4-42f43e928b9e",
       "catalogSlug": "bd-cyber-security-act-2026",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "KI-CYBERSECURITY-ACT-2026",
@@ -6632,7 +6632,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "3abb254f-faf0-5898-8488-319fe5403ce2",
       "catalogSlug": "vn-luat-an-ninh-mang-2025",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-HU-2025-CXXXV-KIBERREZILIENCIA",
@@ -7450,7 +7450,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c809b2ea-743e-5032-8529-9b4648f7c1fd",
       "catalogSlug": "it-legge-132-2025-intelligenza-artificiale",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "NG-NAIS-2025",
@@ -7968,7 +7968,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "12a87ca0-1e00-4e68-be46-a289eefbe74e",
       "catalogSlug": "dj-code-numerique-2025",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CZ-ZAKON-266-2025-KRITICKA-INFRASTRUKTURA",
@@ -8837,7 +8837,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ce56c6ed-329c-4143-824e-eeb5a3f34016",
       "catalogSlug": "zm-cyber-crimes-act-2025",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MT-SL-460-41-NIS2-ORDER-2025",
@@ -9164,7 +9164,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "15c03a54-3dd5-53d5-ad42-2889cd7b6c6f",
       "catalogSlug": "tr-siber-guvenlik-kanunu-7545-2025",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CH-CYBERSICHERHEITSVERORDNUNG-CSV-2025",
@@ -11717,7 +11717,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ab14633d-5654-5341-b3fb-634b0abdbd2f",
       "catalogSlug": "it-legge-90-2024",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MY-CYBER-SECURITY-ACT-2024",
@@ -13207,7 +13207,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4c2f32ad-16f9-5e88-8446-1bd9a6bcf0df",
       "catalogSlug": "ga-loi-027-2023-cybersecurite-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-GA-LOI-025-2023-DONNEES-PERSONNELLES",
@@ -13710,7 +13710,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "3bba836c-4a2a-553e-8c57-288d18dcdb98",
       "catalogSlug": "cd-code-du-numerique-2023",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-TN-DECRET-LOI-CYBERSECURITE-2023",
@@ -14475,7 +14475,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f8be7755-1274-518b-9bd0-ab0367bc7ab8",
       "catalogSlug": "ly-law-5-combating-cybercrime-2022",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERSTANDARD-ENISA-ECSF",
@@ -14604,7 +14604,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "110cde2f-0336-4ee9-a75b-172d908d16f7",
       "catalogSlug": "cl-ley-21459-delitos-informaticos-2022",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "UG-ETHICAL-AI-FRAMEWORK-ROADMAP-2022",
@@ -14854,7 +14854,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9aef19bf-e691-5a4d-88e4-4ac6359d648f",
       "catalogSlug": "bi-loi-cybercriminalite-2022",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-US-CIRCIA-2022",
@@ -15214,7 +15214,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "93c9967f-faf0-46ad-b0ec-3212a969803f",
       "catalogSlug": "sc-cybercrimes-related-crimes-act-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "US-NYC-LL144",
@@ -15283,7 +15283,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7173cf13-1a84-5b8a-916c-0afb074a3d9d",
       "catalogSlug": "zw-cyber-data-protection-act-2021",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-BZ-DATA-PROTECTION-ACT-2021",
@@ -15333,7 +15333,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4a235d30-4115-5b44-b15d-723d0308fd46",
       "catalogSlug": "mu-cybersecurity-cybercrime-act-2021",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-GB-TELECOMMUNICATIONS-SECURITY-ACT-2021",
@@ -15383,7 +15383,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "649eb562-2167-4e77-8acf-3b2d7d888fd2",
       "catalogSlug": "sl-cyber-security-crime-act-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-US-BOD-22-01-KNOWN-EXPLOITED-VULNERABILITIES-2021",
@@ -15698,7 +15698,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "98227d7f-ccaa-4ab7-8a7c-aee5399a8d4d",
       "catalogSlug": "ki-cybercrime-act-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-VU-CYBERCRIME-ACT-2021",
@@ -15723,7 +15723,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9b283428-5b7e-4bcb-8165-f81202ed3a36",
       "catalogSlug": "vu-cybercrime-act-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-US-ED-21-04-WINDOWS-PRINT-SPOOLER-2021",
@@ -15798,7 +15798,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "92c91fcd-f8f6-51af-a688-86e71dab2fab",
       "catalogSlug": "za-cybercrimes-act-2020",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-EU-ECCC-REGULATION-2021-887",
@@ -16158,7 +16158,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "560051d5-43bf-4c3f-bb42-4ba90cd8af29",
       "catalogSlug": "mm-electronic-transactions-law-amendment-2021",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-FJ-CYBERCRIME-ACT-2021",
@@ -16183,7 +16183,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "47818361-e5df-4252-8e6e-6de0ba92934f",
       "catalogSlug": "fj-cybercrime-act-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CV-DECRETO-LEI-9-2021-CIBERSEGURANCA",
@@ -16331,7 +16331,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4769a4ad-234c-5b72-9bdf-7e8b66b466e5",
       "catalogSlug": "gh-cybersecurity-act-2020",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERSTANDARD-ISO-IEC-TS-27100-2020",
@@ -16826,7 +16826,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e4f9871f-1310-5979-bcfb-00fc01a03f64",
       "catalogSlug": "cg-loi-26-2020-cybersecurite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-SD-CYBERCRIME-AMENDMENT-ACT-2020",
@@ -17006,7 +17006,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f57750d5-9d09-5ee2-bbdc-fa0f050ad9a4",
       "catalogSlug": "ml-loi-2019-056-cybercriminalite",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERSTANDARD-IEC-62645-2019",
@@ -17315,7 +17315,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "37d7f7f9-8f1f-5b6e-9c9a-3f2426c9a90f",
       "catalogSlug": "ne-loi-2019-33-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-UZ-QONUN-SHAXSGA-DOIR-MALUMOTLAR-2019",
@@ -17725,7 +17725,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "20922386-1f4c-5508-a2d1-d475bc1f9be2",
       "catalogSlug": "tg-loi-2018-026-cybersecurite-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-FI-TIETOSUOJALAKI-1050-2018",
@@ -18035,7 +18035,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "627b8f98-5e1b-5c5a-99e6-9302a4488864",
       "catalogSlug": "rw-law-60-2018-cyber-crimes",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-EG-LAW-175-ANTI-CYBER-IT-CRIMES-2018",
@@ -18060,7 +18060,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c022f952-5412-455d-be6b-efb43b8bcc17",
       "catalogSlug": "eg-law-175-anti-cyber-it-crimes-2018",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-BR-LGPD-LEI-13709-2018",
@@ -18160,7 +18160,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "eacf7d7b-d337-5b1d-8c95-4ff51e5f0e1d",
       "catalogSlug": "gy-cybercrime-act-2018",
-      "catalogUpdatedAt": "2026-10-27"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERSTANDARD-BS-10012-2017",
@@ -18315,7 +18315,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "40e20738-f97e-5290-b44e-1a6b5d642e97",
       "catalogSlug": "bw-cybercrime-computer-related-crimes-act-2018",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-US-CCPA-2018",
@@ -18875,7 +18875,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "cfcdadb4-b2e0-4d94-b74c-447b03cf6655",
       "catalogSlug": "bj-loi-2017-20-code-du-numerique-2018",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-SE-DATASKYDDSLAG-2018-218",
@@ -19175,7 +19175,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e6c9b186-996c-529d-b0e1-70ad808cbab8",
       "catalogSlug": "st-lei-15-2017-cibercrime",
-      "catalogUpdatedAt": "2026-10-28"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-RU-FEDERALNYY-ZAKON-187-FZ-KII-2017",
@@ -19300,7 +19300,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "94985ae7-1a1d-58b2-98a8-788cb7d8f55f",
       "catalogSlug": "ie-criminal-justice-information-systems-act-2017",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-TM-LAW-PERSONAL-INFORMATION-PROTECTION-2017",
@@ -19350,7 +19350,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "8699cf4c-8247-4b73-80e5-9099b4db21cc",
       "catalogSlug": "cv-lei-8-ix-2017-cibercrime",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MC-LOI-1435-CRIMINALITE-TECHNOLOGIQUE-2016",
@@ -19375,7 +19375,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4d554acd-91ae-473e-8462-e9b0577f1df2",
       "catalogSlug": "mc-loi-1435-criminalite-technologique-2016",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-QA-PERSONAL-DATA-PRIVACY-PROTECTION-LAW-2016",
@@ -19505,7 +19505,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ae8c95d8-ff3f-59ad-ba2f-f5c27d4668a9",
       "catalogSlug": "sm-legge-114-reati-informatici-2016",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-VC-CYBERCRIME-ACT-2016",
@@ -19530,7 +19530,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "608aaf7c-54c2-4e34-9ecf-62f5c87de081",
       "catalogSlug": "vc-cybercrime-act-2016",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-PK-PREVENTION-ELECTRONIC-CRIMES-ACT-2016",
@@ -19580,7 +19580,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9a498778-e6a8-4636-9696-3e170526609e",
       "catalogSlug": "gn-loi-l-2016-037-cybersecurite-donnees-personnelles",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-EU-NIS-DIRECTIVE-2016-1148",
@@ -19710,7 +19710,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "07832183-5768-52af-a867-548404d75dd7",
       "catalogSlug": "sv-ley-especial-delitos-informaticos-2016",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MR-LOI-2016-007-CYBERCRIMINALITE",
@@ -19735,7 +19735,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "fb780361-9606-4034-81e8-2190b81fb716",
       "catalogSlug": "mr-loi-2016-007-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MW-ELECTRONIC-TRANSACTIONS-CYBER-SECURITY-ACT-2016",
@@ -19760,7 +19760,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4e578968-f1b1-4526-9993-c7f88a52de6d",
       "catalogSlug": "mw-electronic-transactions-cyber-security-act-2016",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-US-CYBERSECURITY-INFORMATION-SHARING-ACT-2015",
@@ -19810,7 +19810,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b6015ad3-f9eb-5f68-b804-45fde735dd6c",
       "catalogSlug": "jm-cybercrimes-act-2015",
-      "catalogUpdatedAt": "2026-10-27"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-LA-LAW-PREVENTION-COMBATING-CYBER-CRIME-2015",
@@ -19835,7 +19835,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4c88a029-2fbe-5d2e-b3de-41e875fe5e91",
       "catalogSlug": "la-law-prevention-combating-cyber-crime-2015",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-KW-QANUN-63-2015-MUKAFAHAT-JARAIM-TAQNIAT-ALMAALUMAT",
@@ -19860,7 +19860,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7371b72e-7e87-4e13-84d3-036a35b29198",
       "catalogSlug": "kw-qanun-63-2015-mukafahat-jaraim-taqniat-almaalumat",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERSTANDARD-ISO-IEC-27037-27041-27042-27043",
@@ -19915,7 +19915,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "3ff1924d-18ab-529a-a6ae-863c1f547a1b",
       "catalogSlug": "ng-cybercrimes-act-2015",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-NR-CYBERCRIME-ACT-2015",
@@ -19965,7 +19965,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "33715a21-50f7-4fee-a1cf-221eac1a7dbb",
       "catalogSlug": "tz-cybercrimes-act-2015",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-TD-LOI-009-PR-2015-CYBERSECURITE-CYBERCRIMINALITE",
@@ -19990,7 +19990,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5785efc5-a13f-5240-a8f7-4e088bb6504b",
       "catalogSlug": "td-loi-009-pr-2015-cybersecurite-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-TD-LOI-007-PR-2015-PROTECTION-DONNEES-PERSONNELLES",
@@ -20120,7 +20120,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "96066889-d112-46d8-b394-e54919c65bb1",
       "catalogSlug": "bh-qanun-60-2014-jaraim-taqniat-almaalumat",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MG-LOI-2014-006-CYBERCRIMINALITE",
@@ -20145,7 +20145,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "782632ca-0c35-547e-bea9-8420480901e7",
       "catalogSlug": "mg-loi-2014-006-cybercriminalite",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-KM-LOI-PROTECTION-DONNEES-PERSONNELLES-2014",
@@ -20270,7 +20270,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "35ebcdf2-e1e3-5755-be71-b7efacfe32d6",
       "catalogSlug": "ag-electronic-crimes-act-2013",
-      "catalogUpdatedAt": "2026-10-27"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-PE-LEY-30096-DELITOS-INFORMATICOS-2013",
@@ -20295,7 +20295,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "d28e84bd-3219-51b5-922d-c886483b16bb",
       "catalogSlug": "pe-ley-30096-delitos-informaticos-2013",
-      "catalogUpdatedAt": "2026-10-28"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-GD-ELECTRONIC-CRIMES-ACT-2013",
@@ -20320,7 +20320,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "37929125-2caa-5468-a0bb-700ddac44387",
       "catalogSlug": "gd-electronic-crimes-act-2013",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-AG-DATA-PROTECTION-ACT-2013",
@@ -20370,7 +20370,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "983860c2-be6f-5747-aa58-5878e99a1fe7",
       "catalogSlug": "eu-directive-attacks-information-systems-2013-40",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CI-LOI-2013-451-CYBERCRIMINALITE-2013",
@@ -20395,7 +20395,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5d2a4713-a2b7-4083-84a5-5e771f0d629e",
       "catalogSlug": "ci-loi-2013-451-cybercriminalite-2013",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CI-LOI-2013-450-DONNEES-PERSONNELLES-2013",
@@ -20625,7 +20625,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "cb626f19-5c40-4664-bbbd-2660e83582e9",
       "catalogSlug": "py-ley-4439-delitos-informaticos-2011",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-HU-INFOTV-2011-112",
@@ -20775,7 +20775,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f271441c-7834-4f67-85e1-6e23a5d001b5",
       "catalogSlug": "ug-computer-misuse-act-2011",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-LC-DATA-PROTECTION-ACT-2011",
@@ -20825,7 +20825,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "709a25bf-322e-506a-8a0c-c6d25fdf0e67",
       "catalogSlug": "lc-computer-misuse-act-2011",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CM-LOI-2010-012-CYBERSECURITE-CYBERCRIMINALITE",
@@ -20850,7 +20850,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "83ffd058-b200-5e06-9f96-f862f516d3d2",
       "catalogSlug": "cm-loi-2010-012-cybersecurite-cybercriminalite",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MY-PERSONAL-DATA-PROTECTION-ACT-2010",
@@ -20950,7 +20950,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "43859e73-1ba8-4300-b1c5-348b386b4cdf",
       "catalogSlug": "pt-lei-109-2009-cibercrime",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-GM-INFORMATION-COMMUNICATIONS-ACT-2009",
@@ -20975,7 +20975,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e562eddb-bf0c-4606-ad41-18a727056a1a",
       "catalogSlug": "gm-information-communications-act-2009",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-MA-LOI-09-08-PROTECTION-DONNEES-2009",
@@ -21025,7 +21025,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c1bec132-d04e-5ab8-93de-3006a4154585",
       "catalogSlug": "kn-electronic-crimes-act-2009",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-UY-LEY-18331-PROTECCION-DATOS-2008",
@@ -21125,7 +21125,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1b48ade4-2686-4521-bd7b-7b9db1653fcd",
       "catalogSlug": "do-ley-53-07-crimenes-delitos-alta-tecnologia-2007",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-RU-FEDERALNYY-ZAKON-152-FZ-PERSONALNYE-DANNYE-2006",
@@ -21175,7 +21175,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "80f33c7d-96a0-5803-9068-35740782493d",
       "catalogSlug": "bb-computer-misuse-act-2005",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-TN-LOI-ORGANIQUE-2004-63-DONNEES-PERSONNELLES",
@@ -21300,7 +21300,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "a56c3c25-374e-5621-9f7e-7b88f48320b9",
       "catalogSlug": "to-computer-crimes-act-2003",
-      "catalogUpdatedAt": "2026-10-27"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-VE-LEY-ESPECIAL-DELITOS-INFORMATICOS-2001",
@@ -21325,7 +21325,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "dc772d07-0446-52ef-820a-22c27fe5b3ed",
       "catalogSlug": "ve-ley-especial-delitos-informaticos-2001",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-CV-LEI-133-V-2001-PROTECAO-DADOS",
@@ -21475,7 +21475,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "42cfd0f0-8e7a-4781-9d7b-629d93455de1",
       "catalogSlug": "bn-computer-misuse-act-cap-194-2000",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-SG-COMPUTER-MISUSE-ACT-1993",
@@ -21500,7 +21500,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "91af03dc-023d-42ce-a530-3af8f5fc9d48",
       "catalogSlug": "sg-computer-misuse-act-1993",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-GB-COMPUTER-MISUSE-ACT-1990",
@@ -21525,7 +21525,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "adafb0c4-341e-5a69-902b-f4ade3951327",
       "catalogSlug": "gb-computer-misuse-act-1990",
-      "catalogUpdatedAt": "2026-10-26"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-AU-PRIVACY-ACT-1988",
@@ -21575,7 +21575,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0020917f-2463-428d-a2bd-1040d1f47bde",
       "catalogSlug": "us-computer-fraud-and-abuse-act-1986",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-FR-LOI-INFORMATIQUE-ET-LIBERTES-1978",
@@ -22480,7 +22480,7 @@
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
     "catalogUpdatedAt": "2026-11-08",
-    "lastChecked": "2026-11-08",
+    "lastChecked": "2026-11-09",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 95,
     "standardsUpdatedAt": "2026-11-08"
