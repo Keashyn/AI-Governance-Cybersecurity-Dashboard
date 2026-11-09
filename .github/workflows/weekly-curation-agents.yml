@@ -23,6 +23,7 @@ jobs:
       - uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          show_full_output: ${{ github.event_name == 'workflow_dispatch' }}
           prompt: |
             Read agents/PROMPTS.md and run the weekly pipeline it describes
             (research, verification, update). Work on a new branch from master.
