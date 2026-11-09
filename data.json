@@ -3416,12 +3416,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "a7df19a0-5865-52d8-a887-d9559919de32",
       "catalogSlug": "us-fascsa-order-dhs-deepseek-2026",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-02",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERSTANDARD-IEC-62351",
@@ -4533,12 +4538,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9caecd4a-bb1a-56d5-b223-c0b393a7b2b5",
       "catalogSlug": "us-eo-14409-ai-innovation-security-2026",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-EE-KRIISIOLUKORRA-JA-RIIGIKAITSE-SEADUS-2026",
@@ -5670,12 +5680,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b1478168-1f3d-4c16-a1d9-3a5c9b669ecf",
       "catalogSlug": "bd-personal-data-protection-act-2026",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-04",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-BD-CYBER-SECURITY-ACT-2026",
@@ -8158,12 +8173,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "875a69c6-691c-5c33-bd4a-195feb6f7258",
       "catalogSlug": "cn-cybersecurity-incident-reporting-measures-2025",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "TD-DECREE-2203-2025-DGAI",
@@ -8556,12 +8576,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "20a34d88-261f-556c-b839-3a89d21fe91d",
       "catalogSlug": "us-fascsa-order-odni-acronis-2025",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-02",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-CZ-NUKIB-VAROVANI-DEEPSEEK-2025",
@@ -9582,12 +9607,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "28321b24-868d-51cd-9309-a9d4dd1ed075",
       "catalogSlug": "cy-nomos-60-i-2025-nis2",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "KH-DRAFT-AI-GOVERNANCE-FRAMEWORK-2025",
@@ -11819,6 +11849,32 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "b76ad58d-d5e8-58eb-ba57-1242eb6b4c93",
       "catalogSlug": "etsi-en-303-645",
+      "catalogUpdatedAt": "2026-10-29"
+    },
+    {
+      "id": "CYBERLAW-CN-NETWORK-DATA-SECURITY-MANAGEMENT-REGULATIONS-2024",
+      "jurisdiction": "China",
+      "regulator": "State Council of the People's Republic of China",
+      "title": "网络数据安全管理条例",
+      "officialTitle": "网络数据安全管理条例",
+      "titleTranslationSource": "",
+      "instrumentType": "Regulation",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2024-08-30",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · data protection · incident reporting · governance",
+      "sourceUrl": "https://www.gov.cn/zhengce/content/202409/content_6977766.htm",
+      "summary": "The 64-article regulation in 9 chapters implements the Cybersecurity Law, the Data Security Law and the Personal Information Protection Law for all data processing carried out over networks. It requires processors to adopt security measures, keep incident response plans with reporting to the competent authorities, and follow rules on notices, consent and data subject requests. Processors of important data, or of personal data of more than 10 million people, must appoint a data security officer and unit, and processors of important data must send an annual risk assessment to the authorities. It sets the conditions for transferring personal data abroad (security assessment, certification, standard contract or cases of necessity) and important data, and requires large platforms to publish an annual personal information protection report.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "ce01837d-8f05-588f-a15c-b64f59ab43ec",
+      "catalogSlug": "cn-network-data-security-management-regulations-2024",
       "catalogUpdatedAt": "2026-10-29"
     },
     {
@@ -14746,12 +14802,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "8ee9e175-a9ce-52bf-9c71-8fae894d587f",
       "catalogSlug": "cn-micron-cybersecurity-review-2023",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-02",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-AT-TIKTOK-OEFFENTLICHE-VERWALTUNG-2023",
@@ -16626,12 +16687,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7e4c4d56-207d-4984-8cfe-35e0c00f2754",
       "catalogSlug": "mn-personal-data-protection-law-2021",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-04",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-MN-KIBER-AYULGUI-BAIDLYN-TUKHAI-KHUULI-2021",
@@ -16875,12 +16941,17 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c387853f-dccc-5852-ac3c-3ac5ba5b1b42",
       "catalogSlug": "gb-telecommunications-security-act-2021",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-SL-CYBER-SECURITY-CRIME-ACT-2021",
@@ -17170,12 +17241,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1c421aff-3f3b-4c6a-902b-09f1121e6070",
       "catalogSlug": "sa-personal-data-protection-law-2021",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-07",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERSTANDARD-ISO-SAE-21434-2021",
@@ -17225,12 +17301,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0251d829-ff4f-55da-a8f3-04b766db4593",
       "catalogSlug": "cn-personal-information-protection-law-2021",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERSTANDARD-API-STD-1164-2021",
@@ -17280,12 +17361,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ea72a64b-2a15-5e43-9b46-859d4d1d8047",
       "catalogSlug": "cn-critical-information-infrastructure-regulations-2021",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-US-NSM-5-CRITICAL-INFRASTRUCTURE-CONTROL-SYSTEMS-2021",
@@ -17450,12 +17536,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ef6d5995-7446-5026-80ab-ce0910b1ee59",
       "catalogSlug": "cn-data-security-law-2021",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-ZA-CYBERCRIMES-ACT-2020",
@@ -18608,12 +18699,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1ea5d027-0752-5b82-a5c5-be71388ae65d",
       "catalogSlug": "us-fcc-zte-designation-2020",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-02",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-US-FCC-HUAWEI-DESIGNATION-2020",
@@ -18663,12 +18759,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "8d5e8bdb-7424-57b3-b316-2512405f5393",
       "catalogSlug": "in-blocking-59-mobile-apps-2020",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-02",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-OM-ROYAL-DECREE-64-2020-CYBER-DEFENCE-CENTRE",
@@ -18778,12 +18879,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9fe0f717-fcfd-467a-9eab-f84a31870384",
       "catalogSlug": "mk-zakon-zastita-licni-podatoci-2020",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-07",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-DZ-DECRET-20-05-DISPOSITIF-NATIONAL-SECURITE-SYSTEMES-INFORMATION",
@@ -18893,12 +18999,17 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "31af2957-bf86-4325-8948-8b4f7e4eb060",
       "catalogSlug": "nz-privacy-act-2020",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-07",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-JM-DATA-PROTECTION-ACT-2020",
@@ -19382,12 +19493,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f2e3f6ee-8e63-4cd8-aecf-c90d5e377500",
       "catalogSlug": "th-personal-data-protection-act-2019",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-07",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-TH-CYBERSECURITY-ACT-2019",
@@ -21652,12 +21768,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9eac4b72-0e6b-48a7-bb13-16a2ba4e115a",
       "catalogSlug": "la-law-electronic-data-protection-2017",
-      "catalogUpdatedAt": "2026-11-07"
+      "catalogUpdatedAt": "2026-11-07",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-TM-LAW-PERSONAL-INFORMATION-PROTECTION-2017",
@@ -22340,6 +22461,32 @@
       "catalogUpdatedAt": "2026-11-02"
     },
     {
+      "id": "CYBERLAW-AM-ORENK-ANDZNAKAN-TVYALNERI-PASHTPANUTYAN-2015",
+      "jurisdiction": "Armenia",
+      "regulator": "Ազգային ժողով",
+      "title": "«Անձնական տվյալների պաշտպանության մասին» Հայաստանի Հանրապետության օրենք",
+      "officialTitle": "«Անձնական տվյալների պաշտպանության մասին» Հայաստանի Հանրապետության օրենք",
+      "titleTranslationSource": "",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2015-05-18",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · data protection · incident reporting",
+      "sourceUrl": "https://www.arlis.am/hy/acts/229131",
+      "summary": "Armenia's general personal data protection law, covering processing by public bodies, local self-government bodies, legal entities and individuals. It sets the principles of lawfulness, proportionality, accuracy and minimum involvement of subjects, the grounds for processing (consent first of all), special rules for special-category and biometric data and for transfers to third parties and abroad. Data subjects can obtain information on their data, access it and request its correction, blocking or destruction, challenge automated decisions and appeal against the controller. Controllers must take security measures, notify the authority in advance before processing biometric or special-category data and, if personal data leak from electronic systems, immediately publish a statement and at the same time report the leak to the police and the data protection authority. The authority, which acts independently within the Ministry of Justice, supervises processing, orders unlawful processing to be blocked or stopped and applies the administrative sanctions set by the Code on Administrative Offences.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "1ccbb73c-e439-49c0-84db-fad7391a0137",
+      "catalogSlug": "am-orenk-andznakan-tvyalneri-pashtpanutyan-2015",
+      "catalogUpdatedAt": "2026-11-04"
+    },
+    {
       "id": "CYBERLAW-NG-CYBERCRIMES-ACT-2015",
       "jurisdiction": "Nigeria",
       "regulator": "National Assembly of the Federal Republic of Nigeria",
@@ -22592,12 +22739,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "160e3edc-5260-5045-9342-f9249407ecd0",
       "catalogSlug": "jp-cybersecurity-basic-act-2014",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-BH-QANUN-60-2014-JARAIM-TAQNIAT-ALMAALUMAT",
@@ -22932,12 +23084,17 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "983860c2-be6f-5747-aa58-5878e99a1fe7",
       "catalogSlug": "eu-directive-attacks-information-systems-2013-40",
-      "catalogUpdatedAt": "2026-11-08"
+      "catalogUpdatedAt": "2026-11-08",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-CI-LOI-2013-451-CYBERCRIMINALITE-2013",
@@ -23847,12 +24004,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ae7d166a-6841-4a53-8c80-327fef0722b6",
       "catalogSlug": "th-computer-related-crime-act-2007",
-      "catalogUpdatedAt": "2026-11-08"
+      "catalogUpdatedAt": "2026-11-08",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-DO-LEY-53-07-CRIMENES-DELITOS-ALTA-TECNOLOGIA-2007",
@@ -23883,6 +24045,32 @@
       "catalogSlug": "do-ley-53-07-crimenes-delitos-alta-tecnologia-2007",
       "catalogUpdatedAt": "2026-11-08",
       "titleTranslationSource": "Cybersecurity Database English short title"
+    },
+    {
+      "id": "CYBERLAW-NP-ELECTRONIC-TRANSACTIONS-ACT-2063-2006",
+      "jurisdiction": "Nepal",
+      "regulator": "House of Representatives of Nepal",
+      "title": "विद्युतीय (इलेक्ट्रोनिक) कारोबार ऐन, २०६३",
+      "officialTitle": "विद्युतीय (इलेक्ट्रोनिक) कारोबार ऐन, २०६३",
+      "titleTranslationSource": "",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2006-12-08",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · digital identity",
+      "sourceUrl": "https://lawcommission.gov.np/content/13397/electronic--electronic--traded-international-act--2063/",
+      "summary": "The Act gives legal effect to electronic records and digital signatures and regulates certifying authorities, supervised by a Controller appointed by the Government. Chapter 9 is the criminal core of Nepal's cyber law: it punishes theft or alteration of source code, unauthorised access to computer material, damage to computers and information systems, publication of illegal content in electronic form, breaches of confidentiality, computer fraud and abetment, including when committed from abroad. Chapter 10 sets up an Information Technology Tribunal with jurisdiction over these offences and an appellate body. The Act also regulates network service providers and the use of electronic records by government.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "a56c194e-35ed-4585-bdc5-35c800c2d323",
+      "catalogSlug": "np-electronic-transactions-act-2063-2006",
+      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-RU-FEDERALNYY-ZAKON-152-FZ-PERSONALNYE-DANNYE-2006",
@@ -24047,12 +24235,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "27d1fce5-9e99-4ab3-9735-91afe09712e0",
       "catalogSlug": "jp-act-protection-personal-information-2003",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-04",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-US-HIPAA-SECURITY-RULE-2003",
@@ -24157,12 +24350,17 @@
         {
           "date": "2026-11-09",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "edceb3b0-f4a1-5529-9762-f8bb055a7aae",
       "catalogSlug": "kr-information-communications-network-act-2001",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-10-29",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-CV-LEI-133-V-2001-PROTECAO-DADOS",
@@ -24357,12 +24555,17 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "91af03dc-023d-42ce-a530-3af8f5fc9d48",
       "catalogSlug": "sg-computer-misuse-act-1993",
-      "catalogUpdatedAt": "2026-11-08"
+      "catalogUpdatedAt": "2026-11-08",
+      "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
       "id": "CYBERLAW-GB-COMPUTER-MISUSE-ACT-1990",
