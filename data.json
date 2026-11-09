@@ -1165,6 +1165,26 @@
       "name": "Ministry of Information (official government)",
       "url": "https://shabait.com/",
       "status": "Official public source; item summary defines the scope and verification limits."
+    },
+    {
+      "name": "United States · NIST",
+      "url": "https://www.nist.gov/",
+      "status": "Official guidance publications (added after verification of one record)"
+    },
+    {
+      "name": "United States · New York Governor",
+      "url": "https://www.governor.ny.gov/",
+      "status": "Official press releases on signed legislation"
+    },
+    {
+      "name": "Vietnam · Official Gazette",
+      "url": "https://congbao.chinhphu.vn/",
+      "status": "Official gazette; legal documents and metadata"
+    },
+    {
+      "name": "European Union · Digital Strategy (European Commission)",
+      "url": "https://digital-strategy.ec.europa.eu/",
+      "status": "Official Commission policy and guidance pages"
     }
   ],
   "items": [
@@ -1343,6 +1363,29 @@
       ]
     },
     {
+      "id": "US-NY-S9051-2026",
+      "jurisdiction": "United States · New York",
+      "regulator": "New York State Legislature / Governor / Attorney General",
+      "title": "AI companion chatbot protections for minors (S.9051B / A.10379C)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-10-28",
+      "effectiveDate": "—",
+      "topic": "Chatbots · minors · age assurance · unsafe features",
+      "sourceUrl": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
+      "summary": "Signed by the Governor on October 28, 2026 per the governor's press release. Bars companies offering AI chatbot features from offering certain features to users under 18, or to any user not first confirmed to be an adult: presenting as a real person, claiming personal or romantic relationships with a child, promoting suicide, self-harm, eating disorders or substance use, and sexually explicit content. Requires age verification with more than one option and deletion of age data after use. The Attorney General may seek civil penalties of up to $25,000 per violation. The press release gives no exact effective date for this law (only 'in the coming months'); news coverage says January 1 but that is not confirmed from an official source, so the date is left blank. Chapter number appears only in secondary sources and is not recorded. The source is the Governor's press release, not the text of the act, and the title above is descriptive rather than an official bill caption.",
+      "history": [
+        {
+          "date": "2026-10-28",
+          "change": "Signed by the Governor (per governor.ny.gov press release); added as an individual state statute record."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (New York Governor's press release)."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-21948",
       "jurisdiction": "United States · Federal",
       "regulator": "National Credit Union Administration",
@@ -1483,6 +1526,133 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-NIST-SI-INCIDENT-PRACTICES-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "NIST Center for Advancing Innovation and Standards for Super Intelligence (CAISSI), with NSA Super Intelligence Security Center and CISA",
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "instrumentType": "Guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-10-16",
+      "effectiveDate": "—",
+      "topic": "AI · incident response",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/key-practices-incident-readiness-and-response-super-intelligence-training",
+      "summary": "Voluntary, non-binding guidance setting out ten key practices across five lifecycle stages (preparation, detection, response, recovery, reporting) for handling incidents during super intelligence training and evaluation, especially where AI agents take significant uninstructed actions that undermine operator controls or human oversight. Grounded in NIST SP 800-61r3. The page does not say whether it is a draft or final version and states no comment deadline.",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "change": "Published by NIST with NSA and CISA."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (nist.gov page)."
+        }
+      ]
+    },
+    {
+      "id": "CA-C36-PRIVACY-CONSUMER-DATA-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Parliament of Canada (Minister of Artificial Intelligence and Digital Innovation)",
+      "title": "Bill C-36, An Act to enact the Protecting Privacy and Consumer Data Act, to amend the Personal Information Protection and Electronic Documents Act and to make amendments to other Acts",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-06-15",
+      "effectiveDate": "—",
+      "topic": "Privacy · automated decision systems",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
+      "summary": "Government bill (45th Parl., 1st Sess.) introduced and read a first time in the House of Commons on 15 June 2026. In the first-reading text, organizations would have to publish a general account of automated decision system use where decisions could have a legal or similarly significant effect, and on request explain an ADS-based prediction, recommendation or decision and allow written representations. Coming into force is by order in council. LEGISinfo shows no second-reading activity. Not law. The AI relevance is limited to the automated decision system transparency provisions. The exact wording of the full long title has not been confirmed against the source and should be checked.",
+      "history": [
+        {
+          "date": "2026-06-15",
+          "change": "Introduced and first reading in the House of Commons."
+        },
+        {
+          "date": "2026-08-19",
+          "change": "Charter Statement tabled (per LEGISinfo)."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (Parliament of Canada LEGISinfo page)."
+        }
+      ]
+    },
+    {
+      "id": "EU-COP-AI-CONTENT-MARKING-2026",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission",
+      "title": "Code of Practice on marking and labelling of AI-generated content",
+      "instrumentType": "Code of practice",
+      "status": "Guidance",
+      "publicationDate": "2026-06-10",
+      "effectiveDate": "—",
+      "topic": "AI · transparency · Article 50 AI Act",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content",
+      "summary": "Final voluntary code published by the Commission to help providers and deployers of generative AI meet AI Act Article 50 transparency obligations, which apply from 2 August 2026. Not binding law. The source is a Commission news page about the code, not the text of the code itself, and the title is based on the news headline.",
+      "history": [
+        {
+          "date": "2026-06-10",
+          "change": "Final code published by the European Commission (page last updated 12 June 2026)."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (European Commission page)."
+        }
+      ]
+    },
+    {
+      "id": "VN-AI-DECREE-142-2026",
+      "jurisdiction": "Vietnam",
+      "regulator": "Government of Vietnam (Chính phủ)",
+      "title": "Nghị định số 142/2026/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Trí tuệ nhân tạo",
+      "instrumentType": "Decree",
+      "status": "In force",
+      "publicationDate": "2026-04-30",
+      "effectiveDate": "2026-05-01",
+      "topic": "AI · implementing regulation",
+      "sourceUrl": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-142-2026-nd-cp-469480.htm",
+      "summary": "Government decree detailing certain articles of the Law on Artificial Intelligence and implementing measures. The official gazette page gave only the title and metadata, so provisions are not summarised here.",
+      "history": [
+        {
+          "date": "2026-04-30",
+          "change": "Issued by the Government."
+        },
+        {
+          "date": "2026-05-01",
+          "change": "Took effect per the official gazette."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (Vietnam official gazette page (congbao.chinhphu.vn))."
+        }
+      ]
+    },
+    {
+      "id": "CN-AI-ANTHROPOMORPHIC-2026",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China, National Development and Reform Commission, Ministry of Industry and Information Technology, Ministry of Public Security, State Administration for Market Regulation",
+      "title": "人工智能拟人化互动服务管理暂行办法 (Interim Measures for the Administration of Anthropomorphic AI Interactive Services)",
+      "instrumentType": "Administrative measures (Order No. 21)",
+      "status": "In force",
+      "publicationDate": "2026-04-10",
+      "effectiveDate": "2026-07-15",
+      "topic": "AI · anthropomorphic and companion AI services",
+      "sourceUrl": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+      "summary": "Binding interim measures issued jointly by five Chinese authorities as Order No. 21. They cover AI services that simulate human personality or communication to give ongoing emotional companionship. Providers must tell users they are dealing with AI, bar virtual intimate relationships for minors, obtain parental consent for children under 14, protect interaction data, run safety and crisis-response measures and offer complaint channels. App distribution platforms must check compliance before listing such apps.",
+      "history": [
+        {
+          "date": "2026-04-10",
+          "change": "Promulgated as Order No. 21 of the five issuing authorities."
+        },
+        {
+          "date": "2026-07-15",
+          "change": "Took effect, per the official CAC text."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the official source (Cyberspace Administration of China page)."
         }
       ]
     },
