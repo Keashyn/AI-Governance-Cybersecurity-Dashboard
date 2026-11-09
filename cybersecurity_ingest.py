@@ -80,13 +80,15 @@ def effective_date(doc):
 def make_item(doc, jurisdiction, catalog_date, today):
     summary = doc.get("summary", {})
     topics = doc.get("topics", [])
-    title = doc.get("title_original") or doc.get("short_title", {}).get("en") or doc["slug"]
+    english_title = doc.get("short_title", {}).get("en")
+    title = english_title or doc.get("title_original") or doc["slug"]
     return {
         "id": "CYBERLAW-" + re.sub(r"[^A-Za-z0-9_-]", "-", doc["slug"]).upper(),
         "jurisdiction": jurisdiction,
         "regulator": norm(doc.get("issuing_body")) or "Issuing authority",
         "title": norm(title),
         "officialTitle": norm(doc.get("title_original")),
+        "titleTranslationSource": ("Cybersecurity Database English short title" if english_title else ""),
         "instrumentType": doc.get("document_type", "law").replace("_", " ").title(),
         "status": STATUS.get(doc.get("status"), "Reviewed"),
         "publicationDate": "",
@@ -143,7 +145,7 @@ def make_standard(record, today):
 
 def materially_update(old, fresh, today):
     fields = (
-        "jurisdiction", "regulator", "title", "officialTitle", "instrumentType",
+        "jurisdiction", "regulator", "title", "officialTitle", "titleTranslationSource", "instrumentType",
         "status", "adoptedDate", "effectiveDate", "topic", "sourceUrl", "summary",
         "publicationDate", "catalogEntryUrl", "access", "standardEdition",
         "showInCountryFilters", "scopeNote",
@@ -209,6 +211,11 @@ def main():
         ident = fresh["id"]
         old = by_id.get(ident)
         if old:
+            # Preserve reviewed English display titles across future catalog refreshes.
+            if (old.get("titleTranslationSource") or "").startswith("Manual English translation"):
+                fresh["title"] = old.get("title", fresh["title"])
+                fresh["officialTitle"] = old.get("officialTitle") or fresh.get("officialTitle")
+                fresh["titleTranslationSource"] = old["titleTranslationSource"]
             if materially_update(old, fresh, today):
                 updated += 1
             continue
