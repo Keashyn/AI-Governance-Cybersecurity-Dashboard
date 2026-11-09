@@ -18675,7 +18675,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7839c67f-b36e-5ae3-b55f-73eab092acb7",
       "catalogSlug": "ke-computer-misuse-cybercrimes-act-2018",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "CYBERLAW-NL-KASPERSKY-VOORZORGSMAATREGEL-2018",
@@ -19555,7 +19555,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0ea0384c-f0bd-48f5-bd18-daf3437c5da2",
       "catalogSlug": "pk-prevention-electronic-crimes-act-2016",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "CYBERLAW-GN-LOI-L-2016-037-CYBERSECURITE-DONNEES-PERSONNELLES",
@@ -19940,7 +19940,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e205a75d-7405-5aff-86b9-38aa53fa1aa5",
       "catalogSlug": "nr-cybercrime-act-2015",
-      "catalogUpdatedAt": "2026-10-27"
+      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "CYBERLAW-TZ-CYBERCRIMES-ACT-2015",
@@ -22479,10 +22479,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-08",
+    "catalogUpdatedAt": "2026-11-09",
     "lastChecked": "2026-11-09",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 95,
-    "standardsUpdatedAt": "2026-11-08"
+    "standardsUpdatedAt": "2026-11-09"
   }
 }
