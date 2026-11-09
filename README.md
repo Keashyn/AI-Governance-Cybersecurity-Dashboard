@@ -1,6 +1,6 @@
 # AI Governance Cybersecurity Watch
 
-A public source tracker for AI governance laws, proposals, consultations, and official guidance. The dashboard includes search and filters, dates, official source links, and a history field for recorded material changes.
+A public source tracker for AI and Cybersecurity governance laws, proposals, consultations, and official guidance. The dashboard includes search and filters, dates, official source links, and a history field for recorded material changes.
 
 ## Hosting and daily updates
 
