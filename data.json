@@ -2240,6 +2240,31 @@
       ]
     },
     {
+      "id": "CYBERLAW-NR-NAOERO-CYBERSECURITY-ACT-2026",
+      "jurisdiction": "Nauru",
+      "regulator": "Parliament of Nauru",
+      "title": "Naoero Cybersecurity Act 2026 (No. 38 of 2026)",
+      "officialTitle": "Naoero Cybersecurity Act 2026 (No. 38 of 2026)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2026-09-17",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · governance · critical infrastructure · incident reporting · incident response · data protection",
+      "sourceUrl": "https://ronlaw.gov.nr/pdfviewer/docs%252Facts%252F2026%252FNaoero%2520Cybersecurity%2520Act%25202026_serv6.pdf",
+      "summary": "The Act sets up Nauru's cybersecurity framework to protect systems, data and critical infrastructure and to prevent, manage and respond to threats and incidents. It establishes the Naoero Cybersecurity Authority, whose powers are exercised by a Chief Cybersecurity Officer appointed by Cabinet, a Cybersecurity Advisory Council and the national CERT (Naoero CERT). Operators of designated critical information infrastructure must take proportionate technical and organisational measures, keep a documented risk management programme, assess their ICT suppliers and have contingency and exit plans, follow the Authority's standards and guidelines, carry out periodic audits and report incidents to the Authority within 72 hours, or immediately if serious. Public bodies, operators and other prescribed entities must protect personal data and notify the Authority without undue delay of breaches that may cause harm. The Authority can inspect, order audits and issue compliance notices and impose fines of up to $10,000; false statements and obstruction are offences.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "a696c0eb-a481-5801-98ba-6e3bad9b040e",
+      "catalogSlug": "nr-naoero-cybersecurity-act-2026",
+      "catalogUpdatedAt": "2026-11-09"
+    },
+    {
       "id": "TL-AI-PILOT-ANUNNAI-2026",
       "jurisdiction": "Timor-Leste",
       "regulator": "Council of Ministers / National ASEAN Organising Council",
@@ -5614,6 +5639,36 @@
           "change": "Added from official government or regulator source."
         }
       ]
+    },
+    {
+      "id": "CYBERSTANDARD-CCB-CYFUN-2025",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "CCB",
+      "title": "CyberFundamentals Framework 2025",
+      "officialTitle": "CyFun® 2025",
+      "instrumentType": "Framework",
+      "status": "Published standard",
+      "publicationDate": "2026-03",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · governance · critical infrastructure",
+      "sourceUrl": "https://cyfun.eu/en/cyberfundamentals-framework-2025",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/ccb-cyfun-2025/",
+      "summary": "CyberFundamentals (CyFun®) is the cybersecurity measures framework of the Centre for Cybersecurity Belgium (CCB). The 2025 version is aligned with NIST CSF 2.0 and the NIS 2 Directive and is organised in three increasing assurance levels, Basic, Important and Essential, each with its own self-assessment tool; a separate document lists the key measures. In Belgium it is one of the two references, together with ISO/IEC 27001, for the periodic conformity assessment of NIS 2 essential entities by an accredited body, as an alternative to an inspection by the CCB; for important entities the assessment is voluntary. The CCB also publishes the mapping to the NIS 2 Directive and the Belgian law and clarifications on the conformity assessment scheme.",
+      "access": "gratuito",
+      "standardEdition": "2025",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "4607cd29-9c6e-5878-904d-f847702008eb",
+      "catalogSlug": "ccb-cyfun-2025",
+      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "GA-SOCIAL-MEDIA-AI-CONTENT-ORDER-DRAFT-2026",
@@ -16804,6 +16859,31 @@
       "catalogUpdatedAt": "2026-11-02"
     },
     {
+      "id": "CYBERLAW-OM-ROYAL-DECREE-64-2020-CYBER-DEFENCE-CENTRE",
+      "jurisdiction": "Oman",
+      "regulator": "Sultan of Oman",
+      "title": "مرسوم سلطاني رقم 64/2020 بإنشاء مركز الدفاع الإلكتروني وإصدار نظامه",
+      "officialTitle": "مرسوم سلطاني رقم 64/2020 بإنشاء مركز الدفاع الإلكتروني وإصدار نظامه",
+      "instrumentType": "Decree",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2020-06-10",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · governance · cyber defence · critical infrastructure · incident reporting · incident response",
+      "sourceUrl": "https://mjla.gov.om/laws/ar/1/show/174",
+      "summary": "The decree establishes the Cyber Defence Centre, attached to the Internal Security Service, and issues its statute. The Centre is the competent authority for cyber defence and the national reference for cybersecurity; its strategy and governance framework are approved by the National Security Council. Its tasks include strategy and the regulatory framework, the national risk plan, the classification of critical infrastructure and sectors, technical specifications and the approval of equipment, direct intervention in incidents, monitoring the networks of the entities concerned and isolating them in case of non-compliance, support to investigations, security inspections and audits, and international cooperation. Civil, military and security public bodies and the private institutions concerned must allow the Centre to perform its tasks, notify it immediately of any risk, threat or breach, apply the systems, standards and controls it issues and obtain its consent before storing or processing sensitive data outside the Sultanate.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "548252b0-fe71-52a6-bfbd-83c01987b33e",
+      "catalogSlug": "om-royal-decree-64-2020-cyber-defence-centre",
+      "catalogUpdatedAt": "2026-11-09"
+    },
+    {
       "id": "CYBERLAW-CG-LOI-26-2020-CYBERSECURITE",
       "jurisdiction": "Congo (Republic of the)",
       "regulator": "Parlement de la République du Congo",
@@ -20123,6 +20203,31 @@
       "catalogUpdatedAt": "2026-11-08"
     },
     {
+      "id": "CYBERLAW-QA-LAW-14-2014-CYBERCRIME",
+      "jurisdiction": "Qatar",
+      "regulator": "Amir of the State of Qatar",
+      "title": "قانون رقم (14) لسنة 2014 بإصدار قانون مكافحة الجرائم الإلكترونية",
+      "officialTitle": "قانون رقم (14) لسنة 2014 بإصدار قانون مكافحة الجرائم الإلكترونية",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2014-09-15",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · international cooperation",
+      "sourceUrl": "https://almeezan.qa/legislations/71b9f8f2-61dc-44b9-825d-b16c490ed583",
+      "summary": "The Law punishes illegal access to systems, networks and websites, with heavier penalties for the systems of state bodies and where access leads to obtaining, deleting or disclosing data or damaging the system, as well as illegal interception of data and traffic data. It also punishes offences committed through online content: websites of terrorist organisations, false news endangering state security, child sexual abuse material, attacks on social values and private life, insult and defamation, threats and extortion. It goes on to computer forgery, fraud and impersonation, misuse of payment cards and intellectual property infringements. The Public Prosecution may order searches of computer systems and seizures, production orders and the real-time collection of data, traffic data and content; service providers must keep subscriber information for one year and, on request, preserve data expeditiously for 90 days, renewable. State bodies must take security measures and report any offence or attempt to the competent authority immediately; a large part of the Law governs mutual legal assistance and extradition.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "1620761e-2f28-5f81-af82-a9bd4a7c98d1",
+      "catalogSlug": "qa-law-14-2014-cybercrime",
+      "catalogUpdatedAt": "2026-11-09"
+    },
+    {
       "id": "CYBERLAW-MG-LOI-2014-006-CYBERCRIMINALITE",
       "jurisdiction": "Madagascar",
       "regulator": "Assemblée nationale",
@@ -20476,6 +20581,31 @@
       "catalogRecordId": "bc8a7440-0525-423b-a0b7-f55d2a001d0e",
       "catalogSlug": "ml-loi-2013-015-protection-donnees",
       "catalogUpdatedAt": "2026-11-07"
+    },
+    {
+      "id": "CYBERLAW-KZ-LAW-94-V-PERSONAL-DATA-2013",
+      "jurisdiction": "Kazakhstan",
+      "regulator": "Парламент Республики Казахстан",
+      "title": "Закон Республики Казахстан «О персональных данных и их защите»",
+      "officialTitle": "Закон Республики Казахстан «О персональных данных и их защите»",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2013-05-21",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · data protection · incident reporting",
+      "sourceUrl": "https://adilet.zan.kz/rus/docs/Z1300000094",
+      "summary": "The Law governs the collection, processing and protection of personal data in Kazakhstan. Data must be stored in databases located in the territory of the Republic (Article 12) and may be transferred abroad to States that ensure their protection, and to others only with the data subject's consent or in the cases provided by law, such as ratified treaties (Article 16). The owner or operator must notify the authorised body when processing starts and ends, except for small and medium-sized enterprises (Article 10-1), take protection measures (Article 22) and report any personal data security breach to the authorised body within one working day of discovering it (Article 25). The authorised body for personal data protection exercises state control (Articles 27-1 to 27-3) and keeps a register of breaches, also fed by cybersecurity operations centres, the National Cybersecurity Coordination Centre and the national CERT.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "ea11aacb-9b56-5682-b85e-5aa4c2c2fe03",
+      "catalogSlug": "kz-law-94-v-personal-data-2013",
+      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "CYBERLAW-CO-LEY-1581-PROTECCION-DATOS-PERSONALES-2012",
@@ -22482,7 +22612,7 @@
     "catalogUpdatedAt": "2026-11-09",
     "lastChecked": "2026-11-09",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
-    "standardsCount": 95,
+    "standardsCount": 96,
     "standardsUpdatedAt": "2026-11-09"
   }
 }
