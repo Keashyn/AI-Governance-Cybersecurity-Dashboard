@@ -776,6 +776,14 @@
     return "";
   }
 
+
+  function markExternal(link) {
+    const cue = element("span", "ext");
+    cue.append("↗");
+    cue.append(element("span", "sr-only", " (opens in a new tab)"));
+    link.append(cue);
+  }
+
   function renderRecord(record) {
     const item = element("article", "ask-item");
     const title = element("div");
@@ -786,6 +794,7 @@
       titleNode.href = href;
       titleNode.target = "_blank";
       titleNode.rel = "noopener";
+      markExternal(titleNode);
     }
     title.append(titleNode);
     item.append(title);
@@ -811,6 +820,7 @@
       link.target = "_blank";
       link.rel = "noopener";
       link.textContent = record.sourceUrl;
+      markExternal(link);
       const line = element("div", "ask-meta");
       line.append("Official source: ", link);
       item.append(line);
@@ -820,6 +830,7 @@
       link.target = "_blank";
       link.rel = "noopener";
       link.textContent = record.catalogEntryUrl;
+      markExternal(link);
       const line = element("div", "ask-meta");
       line.append("No official source URL is recorded. Catalog entry only: ", link);
       item.append(line);
