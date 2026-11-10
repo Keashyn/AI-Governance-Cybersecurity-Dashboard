@@ -1923,44 +1923,6 @@
       ]
     },
     {
-      "id": "CA-ISED-AI-TRANSPARENCY-CONSULTATION-2026",
-      "jurisdiction": "Canada",
-      "regulator": "Innovation, Science and Economic Development Canada (Minister of Artificial Intelligence and Digital Innovation)",
-      "title": "Have your say on advancing AI transparency in Canada",
-      "instrumentType": "Public consultation",
-      "status": "Consultation",
-      "publicationDate": "2026-07-23",
-      "effectiveDate": "—",
-      "topic": "AI · transparency · incident tracking · AI agents",
-      "sourceUrl": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
-      "summary": "ISED consulted from 23 July to 23 September 2026 on making AI systems and AI-generated outputs more transparent, as part of Canada's National AI Strategy 'AI for All'. The discussion paper, 'Enhancing trust in artificial intelligence through increased transparency', covered five areas: detecting and identifying AI-generated content, telling people when they are interacting with an AI system, giving consistent information about AI systems, tracking serious AI incidents, and tracking the activity of AI agents. The consultation is closed, and ISED says a 'What We Heard' report will follow. It proposes no binding rules.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Innovation, Science and Economic Development Canada, ised-isde.canada.ca)."
-        }
-      ]
-    },
-    {
-      "id": "JP-DS920-GENAI-GOV-GUIDELINE-2026",
-      "jurisdiction": "Japan",
-      "regulator": "Digital Agency · Executive Committee of the Digital Society Promotion Council (デジタル社会推進会議幹事会)",
-      "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）(DS-920) (The Guideline for Japanese Government's Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration, Ver. 2.0)",
-      "instrumentType": "Government AI procurement and use guideline",
-      "status": "Adopted policy",
-      "publicationDate": "2026-06-12",
-      "effectiveDate": "2026-09-01",
-      "topic": "AI · public sector governance · procurement",
-      "sourceUrl": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
-      "summary": "Version 2.0 of Japan's government-wide guideline on procurement and use of generative AI by ministries, decided on 12 June 2026 by the Executive Committee of the Digital Society Promotion Council. It revises the first edition of 27 May 2025. Each ministry must appoint a Chief AI Officer (CAIO) and set staff usage rules from a template. Projects judged high-risk go to an advisory board for advice, and risk cases must be reported. Procurement and contract checklists cover matters such as security, personal data, harmful or false outputs and incident handling. The document labels itself 'Normative', meaning rules that ministries must follow for government information systems. It applies inside government and is not a law binding businesses. Version 2.0 applies from 1 September 2026, with the CAIO measures due by 30 June 2026 and the AI governance framework scope applying from 1 July 2026.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
-        }
-      ]
-    },
-    {
       "id": "CYBERLAW-IT-ACN-DETERMINAZIONE-314287-2026-PIATTAFORMA-NIS",
       "jurisdiction": "Italy",
       "regulator": "National Cybersecurity Agency (ACN) – Director General",
@@ -4175,6 +4137,25 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CA-ISED-AI-TRANSPARENCY-CONSULTATION-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Innovation, Science and Economic Development Canada (Minister of Artificial Intelligence and Digital Innovation)",
+      "title": "Have your say on advancing AI transparency in Canada",
+      "instrumentType": "Public consultation",
+      "status": "Consultation",
+      "publicationDate": "2026-07-23",
+      "effectiveDate": "—",
+      "topic": "AI · transparency · incident tracking · AI agents",
+      "sourceUrl": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
+      "summary": "ISED consulted from 23 July to 23 September 2026 on making AI systems and AI-generated outputs more transparent, as part of Canada's National AI Strategy 'AI for All'. The discussion paper, 'Enhancing trust in artificial intelligence through increased transparency', covered five areas: detecting and identifying AI-generated content, telling people when they are interacting with an AI system, giving consistent information about AI systems, tracking serious AI incidents, and tracking the activity of AI agents. The consultation is closed, and ISED says a 'What We Heard' report will follow. It proposes no binding rules.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Innovation, Science and Economic Development Canada, ised-isde.canada.ca)."
+        }
+      ]
+    },
+    {
       "id": "CYBERSTANDARD-IEC-62351",
       "jurisdiction": "Cross-country standards reference",
       "showInCountryFilters": true,
@@ -5142,6 +5123,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "JP-DS920-GENAI-GOV-GUIDELINE-2026",
+      "jurisdiction": "Japan",
+      "regulator": "Digital Agency · Executive Committee of the Digital Society Promotion Council (デジタル社会推進会議幹事会)",
+      "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）(DS-920) (The Guideline for Japanese Government's Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration, Ver. 2.0)",
+      "instrumentType": "Government AI procurement and use guideline",
+      "status": "Adopted policy",
+      "publicationDate": "2026-06-12",
+      "effectiveDate": "2026-09-01",
+      "topic": "AI · public sector governance · procurement",
+      "sourceUrl": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "summary": "Version 2.0 of Japan's government-wide guideline on procurement and use of generative AI by ministries, decided on 12 June 2026 by the Executive Committee of the Digital Society Promotion Council. It revises the first edition of 27 May 2025. Each ministry must appoint a Chief AI Officer (CAIO) and set staff usage rules from a template. Projects judged high-risk go to an advisory board for advice, and risk cases must be reported. Procurement and contract checklists cover matters such as security, personal data, harmful or false outputs and incident handling. The document labels itself 'Normative', meaning rules that ministries must follow for government information systems. It applies inside government and is not a law binding businesses. Version 2.0 applies from 1 September 2026, with the CAIO measures due by 30 June 2026 and the AI governance framework scope applying from 1 July 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
         }
       ]
     },
