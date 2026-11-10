@@ -78,3 +78,22 @@ None.
 - Verification covered only the 13 candidates in this research pass and the existing records they could duplicate. It is not a full sweep; the gaps listed in earlier reports (EU OJ 11 Nov, French AI-and-children charter, U.S. states, India gazettes, China CAC, DIFC, Jordan) stand.
 - data.json item order on master is not globally sorted by (publicationDate, id). New records were inserted at their sorted position without reordering existing records, so the diff contains only additions.
 - A failed or bounded search is not evidence that no instrument exists.
+
+
+## Revision 2 (10 Nov 2026, after the PR #22 Approver review)
+
+**State of master:** PR #22 (head 7dbb575, 7 records) was merged to master at 2026-11-10 16:20:52 UTC (10:20 AM CT). The Approver's hold comment (6772786590) was posted at 16:22:50 UTC, after the merge. A bot commit then followed (8a513cf3 'Update official AI policy register', which reorders data.json, +114/−114). Master is now 8a513cf3 with 999 items and 282 sources, not 41f2a313. All 7 run-4 records are live in master exactly as submitted.
+
+Because the records are already in master, the requested 6-record add patch (992 → 998) cannot be applied. Removing EU-AIO-GPAI-GUIDELINES-2025 would be a deletion, which the curation rules forbid. This revision therefore ships the three corrections as dated history updates to existing records, and leaves the GPAI record unchanged pending Keashyn's decision.
+
+### Reviewer-requested corrections (materially changed records)
+
+- **JP-CYBERSECURITY-STRATEGY-2025**: Reviewer-requested correction (PR #22 review): sourceUrl changed from the strategy PDF to the National Cybersecurity Office key-documents page, which lists 'サイバーセキュリティ戦略（閣議決定）' dated 2025年12月23日 and links the PDF. Verified against the National Cybersecurity Office (www.cyber.go.jp). Fields changed: sourceUrl.
+- **IN-CERTIN-AI-SECURITY-AUDIT-GUIDELINES-2026**: Reviewer-requested correction (PR #22 review): the reference 'CISG-2026-04' was removed from the title, because it does not appear on the source page or the PDF. It is now stated in the summary, verified against CERT-In's official guidelines listing (www.cert-in.org.in, pageid=GUIDLNVIEW01), which shows 'CERT-In Security Guidelines CISG-2026-04 (November 04, 2026) Artificial Intelligence(AI) Security Auditing Guidelines'. Fields changed: title, summary.
+- **KR-PIPC-SAFETY-MEASURES-STANDARD-2026**: Reviewer-requested correction (PR #22 review): 'Article 15(5)' corrected to 'Article 15, item 5 (제15조제5호)', verified against the notice text and supplementary provision on the National Law Information Center (www.law.go.kr: '다만, 제15조제5호 및 제18조는 2027년 1월 1일부터 시행한다'). Fields changed: summary.
+
+New official sources added: NCO key-documents page; CERT-In guidelines listing (sources 282 → 284). Item count unchanged (999).
+
+### Moved to NEEDS_REVIEW (no data change)
+
+- **EU-AIO-GPAI-GUIDELINES-2025**: moved at the reviewer's request. Same date-convention question as the three sibling EU AI Office records: page 'Publication 18 July 2025' is the approval of draft content C(2025) 5045; the linked guidelines are the formal Communication C(2025) 7719 final of 19.11.2025 ('Commission Guidelines on the scope of the obligations for providers of general-purpose AI models established by Regulation (EU) 2024/1689 (AI Act)'). The record is already in master and is not deleted. Once Keashyn sets the convention, apply it to all four EU records as a dated history update.

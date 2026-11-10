@@ -1410,6 +1410,16 @@
       "name": "European Union · European Commission",
       "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
       "status": "Official source for Guidelines on the scope of obligations for providers of general-purpose AI models under the AI Act"
+    },
+    {
+      "name": "Japan · National Cybersecurity Office (Cabinet Secretariat)",
+      "url": "https://www.cyber.go.jp/policy/jyuyo-bunsho/index.html",
+      "status": "Official key-documents list: Cybersecurity Strategy (Cabinet decision, 23 December 2025) and its English translation"
+    },
+    {
+      "name": "India · CERT-In, Ministry of Electronics and Information Technology",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW01",
+      "status": "Official CERT-In guidelines listing (CISG references, incl. CISG-2026-04)"
     }
   ],
   "items": [
@@ -1642,18 +1652,22 @@
       "id": "IN-CERTIN-AI-SECURITY-AUDIT-GUIDELINES-2026",
       "jurisdiction": "India",
       "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
-      "title": "Artificial Intelligence (AI) Security Auditing Guidelines v1.0 (CERT-In Security Guidelines CISG-2026-04)",
+      "title": "Artificial Intelligence (AI) Security Auditing Guidelines v1.0",
       "instrumentType": "Regulator guidelines",
       "status": "Guidance",
       "publicationDate": "2026-11-04",
       "effectiveDate": "—",
       "topic": "AI · security auditing · cybersecurity · agentic AI",
       "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-04",
-      "summary": "CERT-In's framework for security and governance audits of AI systems developed, procured, deployed or operated in India, or processing Indian data or serving Indian users. AI systems are sorted into four risk tiers (Low, Moderate, High, Critical), and the tier sets how deep, frequent and independent the audit must be. Audits cover nine domains: governance and accountability; data lifecycle, quality and privacy; model risk; ethics, bias and fairness; explainability and transparency; security, adversarial resilience and incident reporting; continuous monitoring and drift; human oversight; and third-party and AI supply-chain assurance. Additional requirements apply to generative, retrieval-augmented (RAG), agentic, multimodal, multi-agent and autonomous AI. The guidelines say AI incidents meeting CERT-In's reportable criteria should be reported within 6 hours, with 180-day log retention. They are aligned with the India AI Governance Guidelines, ISO/IEC 42001, the NIST AI RMF and MITRE ATLAS. They are intended for government bodies, critical-infrastructure operators, regulated entities, companies and auditors.",
+      "summary": "CERT-In's framework for security and governance audits of AI systems developed, procured, deployed or operated in India, or processing Indian data or serving Indian users. AI systems are sorted into four risk tiers (Low, Moderate, High, Critical), and the tier sets how deep, frequent and independent the audit must be. Audits cover nine domains: governance and accountability; data lifecycle, quality and privacy; model risk; ethics, bias and fairness; explainability and transparency; security, adversarial resilience and incident reporting; continuous monitoring and drift; human oversight; and third-party and AI supply-chain assurance. Additional requirements apply to generative, retrieval-augmented (RAG), agentic, multimodal, multi-agent and autonomous AI. The guidelines say AI incidents meeting CERT-In's reportable criteria should be reported within 6 hours, with 180-day log retention. They are aligned with the India AI Governance Guidelines, ISO/IEC 42001, the NIST AI RMF and MITRE ATLAS. They are intended for government bodies, critical-infrastructure operators, regulated entities, companies and auditors. CERT-In's official guidelines listing identifies the document as CERT-In Security Guidelines CISG-2026-04 (November 04, 2026).",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (CERT-In, Ministry of Electronics and Information Technology, www.cert-in.org.in)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Reviewer-requested correction (PR #22 review): the reference 'CISG-2026-04' was removed from the title, because it does not appear on the source page or the PDF. It is now stated in the summary, verified against CERT-In's official guidelines listing (www.cert-in.org.in, pageid=GUIDLNVIEW01), which shows 'CERT-In Security Guidelines CISG-2026-04 (November 04, 2026) Artificial Intelligence(AI) Security Auditing Guidelines'."
         }
       ]
     },
@@ -4777,11 +4791,15 @@
       "effectiveDate": "2026-07-01",
       "topic": "Privacy · security safeguards · vulnerability testing",
       "sourceUrl": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000281400",
-      "summary": "PIPC's binding notice setting the minimum technical, managerial and physical safeguards that personal information handlers must apply under Article 29 of the Personal Information Protection Act and its Enforcement Decree. Examples are internal management plans, access rights and controls, encryption, access logs, malware prevention and destruction. The partial amendment of 1 July 2026 (Notice No. 2026-9) responds to hacking-driven leaks in the public sector. It requires public-system operating institutions to run vulnerability checks and penetration tests by external specialists at least once a year for each public system, fix findings without delay, and include this in their internal management plans. Article 15(5) and Article 18 apply from 1 January 2027; the rest took effect on 1 July 2026.",
+      "summary": "PIPC's binding notice setting the minimum technical, managerial and physical safeguards that personal information handlers must apply under Article 29 of the Personal Information Protection Act and its Enforcement Decree. Examples are internal management plans, access rights and controls, encryption, access logs, malware prevention and destruction. The partial amendment of 1 July 2026 (Notice No. 2026-9) responds to hacking-driven leaks in the public sector. It requires public-system operating institutions to run vulnerability checks and penetration tests by external specialists at least once a year for each public system, fix findings without delay, and include this in their internal management plans. Article 15, item 5 (제15조제5호) and Article 18 apply from 1 January 2027; the rest took effect on 1 July 2026.",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Personal Information Protection Commission via the National Law Information Center, www.law.go.kr)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Reviewer-requested correction (PR #22 review): 'Article 15(5)' corrected to 'Article 15, item 5 (제15조제5호)', verified against the notice text and supplementary provision on the National Law Information Center (www.law.go.kr: '다만, 제15조제5호 및 제18조는 2027년 1월 1일부터 시행한다')."
         }
       ]
     },
@@ -8078,12 +8096,16 @@
       "publicationDate": "2025-12-23",
       "effectiveDate": "—",
       "topic": "Cybersecurity · national strategy · active cyber defense",
-      "sourceUrl": "https://www.cyber.go.jp/pdf/policy/kihon-s/cs_strategy2025.pdf",
+      "sourceUrl": "https://www.cyber.go.jp/policy/jyuyo-bunsho/index.html",
       "summary": "Japan's national Cybersecurity Strategy under the Basic Act on Cybersecurity, adopted by Cabinet decision on 23 December 2025 and reported to the Diet. It sets goals and implementation policies for about the next five years along three axes. The first is defence and deterrence against intensifying cyber threats, with the state playing a pivotal role, including active cyber defence under the 2025 Cyber Response Capability Enhancement Act and public–private and international cooperation. The second is stronger cybersecurity and resilience across society, covering government agencies, critical infrastructure, local governments, supply chains and SMEs. The third is an ecosystem for cyber talent and technology. It also addresses risks from AI and quantum technology. It is the first strategy since the 2025 reorganisation of the Cybersecurity Strategic Headquarters and the creation of the National Cybersecurity Office.",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (National Cybersecurity Office, Cabinet Secretariat, www.cyber.go.jp)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Reviewer-requested correction (PR #22 review): sourceUrl changed from the strategy PDF to the National Cybersecurity Office key-documents page, which lists 'サイバーセキュリティ戦略（閣議決定）' dated 2025年12月23日 and links the PDF. Verified against the National Cybersecurity Office (www.cyber.go.jp)."
         }
       ]
     },
