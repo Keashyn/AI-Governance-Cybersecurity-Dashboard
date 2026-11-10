@@ -1330,6 +1330,31 @@
       "name": "United States · California · California Legislature / Governor / Labor Commissioner",
       "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB947",
       "status": "Official source for Employment: automated decision systems (No Robo Bosses Act) (SB 947, Chapter 859, Statutes of 2026)"
+    },
+    {
+      "name": "United Kingdom · UK Parliament · Department for Science, Innovation and Technology",
+      "url": "https://bills.parliament.uk/bills/4035",
+      "status": "Official source for Cyber Security and Resilience (Network and Information Systems) Bill"
+    },
+    {
+      "name": "United Kingdom · Department for Science, Innovation and Technology",
+      "url": "https://www.gov.uk/government/publications/cyber-security-and-resilience-network-and-information-systems-bill-factsheets/agentic-ai-resilience-measures",
+      "status": "Official factsheet: Agentic AI resilience measures (Cyber Security and Resilience Bill), updated 3 November 2026"
+    },
+    {
+      "name": "Canada · Parliament of Canada LEGISinfo",
+      "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-34",
+      "status": "Official source for Bill C-34 (Safe Social Media Act)"
+    },
+    {
+      "name": "Canada · Innovation, Science and Economic Development Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html",
+      "status": "Official news release (23 July 2026) describing Bill C-34 and the AI transparency consultation"
+    },
+    {
+      "name": "Singapore · Cyber Security Agency of Singapore (CSA), Government Technology Agency of Singapore (GovTech) and Infocomm Media Development Authority (IMDA)",
+      "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/",
+      "status": "Official source for Using Personal AI Agents Safely and Securely: What Consumers Should Know (Joint Advisory AD-2026-015)"
     }
   ],
   "items": [
@@ -1479,6 +1504,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "SG-AI-AGENTS-CONSUMER-ADVISORY-2026",
+      "jurisdiction": "Singapore",
+      "regulator": "Cyber Security Agency of Singapore (CSA), Government Technology Agency of Singapore (GovTech) and Infocomm Media Development Authority (IMDA)",
+      "title": "Using Personal AI Agents Safely and Securely: What Consumers Should Know (Joint Advisory AD-2026-015)",
+      "instrumentType": "Joint advisory",
+      "status": "Guidance",
+      "publicationDate": "2026-11-06",
+      "effectiveDate": "—",
+      "topic": "AI · agentic AI · consumer security · privacy",
+      "sourceUrl": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/",
+      "summary": "Joint advisory for consumers on the privacy and security risks of personal AI agents that can connect to apps and accounts, browse, send messages and make bookings. It recommends granting narrowly scoped permissions, not giving agents passwords, OTPs or card details, keeping control of consequential actions, and knowing how to revoke access. It notes that users stay responsible for actions their agents take and may be liable under applicable laws. This is non-binding guidance.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Cyber Security Agency of Singapore (CSA), GovTech and IMDA, www.csa.gov.sg)."
         }
       ]
     },
@@ -1787,6 +1831,44 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "CA-C34-SAFE-SOCIAL-MEDIA-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Parliament of Canada · Minister of Canadian Identity and Culture (sponsor: Hon. Marc Miller)",
+      "title": "Bill C-34, An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts (Safe Social Media Act)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-06-10",
+      "effectiveDate": "—",
+      "topic": "Online safety · chatbots · platform accountability",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-34",
+      "summary": "A government bill that would enact a Digital Safety Act and create a Digital Safety Commission of Canada. According to ISED's 23 July 2026 news release, it proposes obligations for operators of social media services and some chatbots to protect children, increase platform accountability and address harmful content online. It had first reading on 10 June 2026 and second reading on 29 October 2026, and is now in committee in the House of Commons. It is a proposal and is not yet law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Parliament of Canada, www.parl.ca)."
+        }
+      ]
+    },
+    {
+      "id": "UK-CYBER-SECURITY-RESILIENCE-BILL-2025",
+      "jurisdiction": "United Kingdom",
+      "regulator": "UK Parliament · Department for Science, Innovation and Technology (sponsors: Liz Kendall MP; Baroness Lloyd of Effra)",
+      "title": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-11-12",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · critical infrastructure · incident reporting",
+      "sourceUrl": "https://bills.parliament.uk/bills/4035",
+      "summary": "A government bill to amend the Network and Information Systems Regulations 2018 and make further provision for the security and resilience of network and information systems used for essential activities. It was introduced in the Commons on 12 November 2025, carried over and reintroduced on 14 May 2026, passed the Commons on 16 June 2026 and had its Lords third reading on 2 November 2026. It now awaits Commons consideration of Lords amendments. A DSIT factsheet (updated 3 November 2026) says the government will consult on using the bill's delegated powers to add requirements on 'agentic loss of control' incidents, covering security measures, notice to affected parties, evidence preservation and post-incident reviews. Any such measures would need secondary legislation under the affirmative procedure after Royal Assent. The bill is not yet law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (UK Parliament · Department for Science, Innovation and Technology, bills.parliament.uk)."
         }
       ]
     },
