@@ -1729,6 +1729,36 @@
       ]
     },
     {
+      "id": "CYBERSTANDARD-MITRE-ATLAS",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "MITRE",
+      "title": "MITRE ATLAS: Adversarial Threat Landscape for AI Systems",
+      "officialTitle": "MITRE ATLAS v2026.10",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2026-10-28",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · artificial intelligence · incident response",
+      "sourceUrl": "https://atlas.mitre.org/",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-atlas/",
+      "summary": "ATLAS is MITRE’s public knowledge base of the techniques attackers use to target artificial intelligence systems (predictive models, generative AI and AI agents) or to attack with the help of AI. It is built like ATT&CK, from which it takes its structure and many entries: a matrix of tactics, that is the attacker’s goals, each with its techniques and sub-techniques. There are 16 tactics: 14 are those known from ATT&CK (from reconnaissance and initial access to persistence, exfiltration and impact), and two are specific to AI: access to the model (for example through its query interface or the product that uses it) and adaptation of the attack to the target (for example crafting deceptive inputs or a copy of the model). Techniques include poisoning of training data, prompt injection, extraction or theft of the model, compromise of the AI supply chain and abuse of agent tools. Each technique shows the platforms concerned and how proven it is (feasible, demonstrated or already seen in real attacks) and is linked to mitigations and documented case studies. It is used for threat analysis and risk assessment of AI systems, for red teaming and to choose defences.",
+      "access": "gratuito",
+      "standardEdition": "2026.10",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "42181329-95f2-531a-b46a-4234024ac1b8",
+      "catalogSlug": "mitre-atlas",
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
       "id": "US-FR-2026-21884",
       "jurisdiction": "United States · Federal",
       "regulator": "Energy Department",
@@ -1831,44 +1861,6 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
-        }
-      ]
-    },
-    {
-      "id": "CA-C34-SAFE-SOCIAL-MEDIA-2026",
-      "jurisdiction": "Canada",
-      "regulator": "Parliament of Canada · Minister of Canadian Identity and Culture (sponsor: Hon. Marc Miller)",
-      "title": "Bill C-34, An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts (Safe Social Media Act)",
-      "instrumentType": "Bill",
-      "status": "Proposed",
-      "publicationDate": "2026-06-10",
-      "effectiveDate": "—",
-      "topic": "Online safety · chatbots · platform accountability",
-      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-34",
-      "summary": "A government bill that would enact a Digital Safety Act and create a Digital Safety Commission of Canada. According to ISED's 23 July 2026 news release, it proposes obligations for operators of social media services and some chatbots to protect children, increase platform accountability and address harmful content online. It had first reading on 10 June 2026 and second reading on 29 October 2026, and is now in committee in the House of Commons. It is a proposal and is not yet law.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Parliament of Canada, www.parl.ca)."
-        }
-      ]
-    },
-    {
-      "id": "UK-CYBER-SECURITY-RESILIENCE-BILL-2025",
-      "jurisdiction": "United Kingdom",
-      "regulator": "UK Parliament · Department for Science, Innovation and Technology (sponsors: Liz Kendall MP; Baroness Lloyd of Effra)",
-      "title": "Cyber Security and Resilience (Network and Information Systems) Bill",
-      "instrumentType": "Bill",
-      "status": "Proposed",
-      "publicationDate": "2025-11-12",
-      "effectiveDate": "—",
-      "topic": "Cybersecurity · critical infrastructure · incident reporting",
-      "sourceUrl": "https://bills.parliament.uk/bills/4035",
-      "summary": "A government bill to amend the Network and Information Systems Regulations 2018 and make further provision for the security and resilience of network and information systems used for essential activities. It was introduced in the Commons on 12 November 2025, carried over and reintroduced on 14 May 2026, passed the Commons on 16 June 2026 and had its Lords third reading on 2 November 2026. It now awaits Commons consideration of Lords amendments. A DSIT factsheet (updated 3 November 2026) says the government will consult on using the bill's delegated powers to add requirements on 'agentic loss of control' incidents, covering security measures, notice to affected parties, evidence preservation and post-incident reviews. Any such measures would need secondary legislation under the affirmative procedure after Royal Assent. The bill is not yet law.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (UK Parliament · Department for Science, Innovation and Technology, bills.parliament.uk)."
         }
       ]
     },
@@ -2141,6 +2133,36 @@
       ]
     },
     {
+      "id": "CYBERSTANDARD-MITRE-ATTACK-ICS",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "MITRE",
+      "title": "MITRE ATT&CK for ICS: Adversarial Tactics, Techniques, and Common Knowledge for Industrial Control Systems",
+      "officialTitle": "MITRE ATT&CK for ICS v20",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2026-10-13",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · ot cps · incident response · energy · water · manufacturing",
+      "sourceUrl": "https://attack.mitre.org/matrices/ics/",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-attack-ics/",
+      "summary": "This is the MITRE ATT&CK matrix for industrial control systems (ICS): it describes how attackers act against plants, automation networks and field devices, based on real-world attacks. It has 12 tactics: besides those shared with IT (initial access, execution, persistence, privilege escalation, evasion, discovery, lateral movement, collection, command and control), three are specific to OT: inhibit response function (for example disabling alarms or safety systems), impair process control (for example changing parameters or commands) and the physical impact on the process, such as damage, loss of control or loss of production. Each technique is linked to the assets it targets (PLCs, HMIs, RTUs, safety controllers, historians, engineering workstations…), to mitigations and to detection strategies. It is used for threat analysis of industrial plants, risk assessment alongside IEC 62443, the design of OT monitoring and exercise scenarios.",
+      "access": "gratuito",
+      "standardEdition": "20.1",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "bfd5f1c5-73e0-5bc7-9f16-bbd9ec11db7c",
+      "catalogSlug": "mitre-attack-ics",
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
       "id": "CYBERSTANDARD-MITRE-ATTACK",
       "jurisdiction": "Cross-country standards reference",
       "showInCountryFilters": true,
@@ -2148,7 +2170,7 @@
       "regulator": "MITRE",
       "title": "MITRE ATT&CK: Adversarial Tactics, Techniques, and Common Knowledge",
       "officialTitle": "MITRE ATT&CK v20",
-      "instrumentType": "Framework",
+      "instrumentType": "Methodology",
       "status": "Published standard",
       "publicationDate": "2026-10-13",
       "adoptedDate": "",
@@ -2158,17 +2180,21 @@
       "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-attack/",
       "summary": "ATT&CK is a public knowledge base, maintained by the US not-for-profit organisation MITRE, of behaviours observed in real-world attacks. It describes attackers’ goals (tactics, such as initial access, persistence, lateral movement or exfiltration) and the ways to achieve them (techniques and sub-techniques), with examples drawn from documented groups, campaigns and malicious software, together with mitigations and detection strategies. It is organised into three matrices: Enterprise (Windows, macOS, Linux, cloud, networks, containers, identity), Mobile and ICS for industrial control systems. It is the common language used by security operations centres, threat intelligence analysts, red teams and vendors to describe attacks, measure defensive coverage and design exercises.",
       "access": "gratuito",
-      "standardEdition": "20.0",
+      "standardEdition": "20.1",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Catalog update: instrumentType, standardEdition. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "daa4e465-b10e-53e0-8094-52c0988092a7",
       "catalogSlug": "mitre-attack",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CV-DL-45-2026-AI-PUBLIC-SERVICE",
@@ -3290,6 +3316,36 @@
           "change": "Added from the Federal Register’s public API."
         }
       ]
+    },
+    {
+      "id": "CYBERSTANDARD-MITRE-D3FEND",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "MITRE",
+      "title": "MITRE D3FEND: A Knowledge Graph of Cybersecurity Countermeasures",
+      "officialTitle": "MITRE D3FEND v1.6.0",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2026-08-31",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · incident response · ot cps",
+      "sourceUrl": "https://d3fend.mitre.org/",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-d3fend/",
+      "summary": "D3FEND is MITRE’s knowledge base of defensive techniques: it complements ATT&CK, which describes how attackers act, by explaining which technical countermeasures can stop them and how they work. Defensive techniques are arranged in a matrix of 7 tactics: model (knowing your own systems, with inventories and maps of networks, data and dependencies), harden (for example multi-factor authentication, encryption, updates, memory protection), detect (analysis of files, network traffic, processes and user behaviour), isolate (segmentation, filtering, sandboxes), deceive (decoys and trap environments), evict (ending sessions, removing malicious files, locking credentials) and restore (backups and recovery of systems and data). It is built as an ontology, that is a formal vocabulary: each technique is precisely defined, with its sources (papers, patents, technical documentation) and the “digital artifacts” it acts on (files, processes, accounts, network traffic…); through these artifacts it is linked to ATT&CK attack techniques and CWE weaknesses, so you can see which defences cover an attack. It is used to design security architectures, compare products and defensive capabilities, check coverage against threats and prepare incident detection and response.",
+      "access": "gratuito",
+      "standardEdition": "1.6.0",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "628df0b9-2a9c-5249-b21e-eb403534f477",
+      "catalogSlug": "mitre-d3fend",
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "AU-PRIVACY-PDP-BILL-ED-2026",
@@ -5066,6 +5122,25 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CA-C34-SAFE-SOCIAL-MEDIA-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Parliament of Canada · Minister of Canadian Identity and Culture (sponsor: Hon. Marc Miller)",
+      "title": "Bill C-34, An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts (Safe Social Media Act)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-06-10",
+      "effectiveDate": "—",
+      "topic": "Online safety · chatbots · platform accountability",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-34",
+      "summary": "A government bill that would enact a Digital Safety Act and create a Digital Safety Commission of Canada. According to ISED's 23 July 2026 news release, it proposes obligations for operators of social media services and some chatbots to protect children, increase platform accountability and address harmful content online. It had first reading on 10 June 2026 and second reading on 29 October 2026, and is now in committee in the House of Commons. It is a proposal and is not yet law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Parliament of Canada, www.parl.ca)."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-11542",
       "jurisdiction": "United States · Federal",
       "regulator": "Labor Department, Employment and Training Administration",
@@ -5360,6 +5435,36 @@
           "change": "Added from official government or regulator source."
         }
       ]
+    },
+    {
+      "id": "CYBERSTANDARD-MITRE-EMB3D",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "MITRE",
+      "title": "MITRE EMB3D: A Knowledge Base of Cyber Threats and Associated Mitigations for Embedded Devices",
+      "officialTitle": "MITRE EMB3D v2.0.2",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2026-06-01",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · iot · ot cps · automotive · health · manufacturing",
+      "sourceUrl": "https://emb3d.mitre.org/",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-emb3d/",
+      "summary": "EMB3D is MITRE’s threat model for embedded devices, that is electronics with their own firmware and software found in industrial controllers, IoT products, vehicles, medical devices and machinery. It starts from the device’s features rather than from the attacker: properties (for example “has a debug port”, “has a bootloader”, “accepts firmware updates”, “uses web applications”) are linked to the threats they make possible, and each threat to the mitigations that counter it. Threats and properties fall into four categories: hardware, system software, application software and networking. Mitigations are on three levels, foundational, intermediate and leading, and are mapped to the requirements of IEC 62443-4-2. Each threat shows how proven it is (from proof of concept to observed in attacks), with documented examples, the related weakness (CWE), any known vulnerabilities (CVE) and, where one exists, the matching ATT&CK for ICS technique. The Properties Mapper tool lets users select a device’s properties and get the list of threats that apply to it. It helps manufacturers design and secure devices, buyers and operators set requirements and assess devices, and test labs and researchers.",
+      "access": "gratuito",
+      "standardEdition": "2.0.2",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "5d39c82d-798d-584b-b7f5-e49f9f98c441",
+      "catalogSlug": "mitre-emb3d",
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-OM-CYBERCRIME-COMBAT-LAW-2026",
@@ -8638,6 +8743,25 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "UK-CYBER-SECURITY-RESILIENCE-BILL-2025",
+      "jurisdiction": "United Kingdom",
+      "regulator": "UK Parliament · Department for Science, Innovation and Technology (sponsors: Liz Kendall MP; Baroness Lloyd of Effra)",
+      "title": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-11-12",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · critical infrastructure · incident reporting",
+      "sourceUrl": "https://bills.parliament.uk/bills/4035",
+      "summary": "A government bill to amend the Network and Information Systems Regulations 2018 and make further provision for the security and resilience of network and information systems used for essential activities. It was introduced in the Commons on 12 November 2025, carried over and reintroduced on 14 May 2026, passed the Commons on 16 June 2026 and had its Lords third reading on 2 November 2026. It now awaits Commons consideration of Lords amendments. A DSIT factsheet (updated 3 November 2026) says the government will consult on using the bill's delegated powers to add requirements on 'agentic loss of control' incidents, covering security measures, notice to affected parties, evidence preservation and post-incident reviews. Any such measures would need secondary legislation under the affirmative procedure after Royal Assent. The bill is not yet law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (UK Parliament · Department for Science, Innovation and Technology, bills.parliament.uk)."
+        }
+      ]
+    },
+    {
       "id": "CYBERLAW-PT-DL-125-2025-CIBERSEGURANCA",
       "jurisdiction": "Portugal",
       "regulator": "Governo da República Portuguesa (Conselho de Ministros) (Government of Portugal (Council of Ministers))",
@@ -11527,6 +11651,36 @@
       ]
     },
     {
+      "id": "CYBERSTANDARD-ECB-TIBER-EU",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "ECB",
+      "title": "TIBER-EU Framework: How to implement the European framework for Threat Intelligence-Based Ethical Red teaming",
+      "officialTitle": "TIBER-EU (2025)",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2025-01",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · financial sector · incident response",
+      "sourceUrl": "https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/ecb-tiber-eu/",
+      "summary": "TIBER-EU is the European method, developed by the ECB with the national central banks, for testing an organisation’s defences with a simulated but realistic attack carried out by ethical hackers (the “red team”) on the live production systems that support its critical or important functions. The attack scenario comes from bespoke threat intelligence that identifies who might target the organisation and with which tactics, techniques and procedures. The test has three phases: preparation (initiation, scoping of the functions to target, procurement of threat intelligence and red team providers), testing (targeted threat intelligence report, scenarios, then the actual attack) and closure (red team and defenders’ reports, a joint replay of the attack, a purple teaming exercise, the remediation plan and a final attestation). Five teams take part: the defenders (the “blue team”, unaware of the test), the threat intelligence provider, the red team, a small internal control team that runs the test in secret and the authority’s team that oversees it. The outcome is not a pass or fail but a picture of the weaknesses to fix.",
+      "access": "gratuito",
+      "standardEdition": "",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "fcf3c25f-92a0-562a-8906-3921e97ddf43",
+      "catalogSlug": "ecb-tiber-eu",
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
       "id": "CYBERSTANDARD-OWASP-TOP-10-2025",
       "jurisdiction": "Cross-country standards reference",
       "showInCountryFilters": true,
@@ -12825,6 +12979,36 @@
       "catalogRecordId": "b76ad58d-d5e8-58eb-ba57-1242eb6b4c93",
       "catalogSlug": "etsi-en-303-645",
       "catalogUpdatedAt": "2026-10-29"
+    },
+    {
+      "id": "CYBERSTANDARD-ANSSI-EBIOS-RM",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "ANSSI",
+      "title": "La méthode EBIOS Risk Manager: le guide",
+      "officialTitle": "EBIOS Risk Manager v1.5",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2024-09",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · governance · public administration",
+      "sourceUrl": "https://messervices.cyber.gouv.fr/guides/la-methode-ebios-risk-manager-le-guide",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/anssi-ebios-rm/",
+      "summary": "EBIOS Risk Manager is the method of ANSSI, the French cybersecurity agency, for assessing and treating the digital risks of an organisation, a project or a product. It combines two approaches, compliance with a baseline of essential security measures and the study of realistic attack scenarios, and involves both executives and technical staff. It runs in five workshops: 1) scope and security baseline (missions, business assets and the supporting assets behind them, feared events and their severity, compliance with the security rules already in place); 2) risk origins (who might attack and with what aim, keeping the most relevant pairs); 3) strategic scenarios (high-level attack paths, including through suppliers and partners, with the threat level of each stakeholder); 4) operational scenarios (the attack techniques against critical supporting assets, with their likelihood); 5) risk treatment (strategy, treatment plan, residual risks and their monitoring). The analysis is repeated in a strategic cycle and in a shorter operational cycle. It is used to manage cyber risk, for the security accreditation of information systems and to set the security level of products and services ahead of certification.",
+      "access": "gratuito",
+      "standardEdition": "1.5",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "16e8188d-79df-5a67-a685-15c7c462ea08",
+      "catalogSlug": "anssi-ebios-rm",
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-CN-NETWORK-DATA-SECURITY-MANAGEMENT-REGULATIONS-2024",
@@ -15196,6 +15380,36 @@
       "catalogUpdatedAt": "2026-11-02"
     },
     {
+      "id": "CYBERSTANDARD-FIRST-CVSS-4-0",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "FIRST",
+      "title": "Common Vulnerability Scoring System version 4.0: Specification Document",
+      "officialTitle": "CVSS v4.0",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2023-11-01",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · incident response · software security",
+      "sourceUrl": "https://www.first.org/cvss/v4.0/specification-document",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/first-cvss-4-0/",
+      "summary": "CVSS is the open method, maintained by FIRST, for measuring how severe a software, hardware or firmware vulnerability is and communicating it with a score from 0 to 10 and a string (the “vector”) that summarises the values chosen. Version 4.0 arranges the metrics in four groups: base (the vulnerability’s own characteristics, that is how easy it is to exploit and what impact it has on the confidentiality, integrity and availability of the vulnerable system and of connected systems), threat (for example whether exploit code exists or the vulnerability is already being exploited), environmental (how important the system is and which defences the assessing organisation has in place) and supplemental (extra information such as physical safety or whether the attack can be automated, which does not change the score). The score maps to a qualitative scale: none, low, medium, high, critical. Vendors and vulnerability databases use it to publish the severity of each vulnerability, and organisations use it to decide which ones to fix first.",
+      "access": "gratuito",
+      "standardEdition": "4.0",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "f34214bd-d86b-525a-9c70-42c1c17a79a7",
+      "catalogSlug": "first-cvss-4-0",
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
       "id": "CYBERLAW-US-NYDFS-CYBERSECURITY-REGULATION-23-NYCRR-500-2023",
       "jurisdiction": "United States · Federal",
       "regulator": "New York State Department of Financial Services (DFS)",
@@ -15293,7 +15507,7 @@
       "regulator": "ASD",
       "title": "Essential Eight Maturity Model",
       "officialTitle": "ASD Essential Eight Maturity Model (November 2023)",
-      "instrumentType": "Framework",
+      "instrumentType": "Methodology",
       "status": "Published standard",
       "publicationDate": "2023-11",
       "adoptedDate": "",
@@ -15308,12 +15522,16 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Catalog update: instrumentType. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "e100bc15-ebb1-54d2-b1c9-fbfb4b51f5a4",
       "catalogSlug": "asd-essential-eight-maturity-model",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-CA-WECHAT-KASPERSKY-BAN-GOVERNMENT-MOBILE-DEVICES-2023",
@@ -15876,7 +16094,7 @@
       "regulator": "CISA",
       "title": "Zero Trust Maturity Model, Version 2.0",
       "officialTitle": "CISA Zero Trust Maturity Model 2.0",
-      "instrumentType": "Framework",
+      "instrumentType": "Methodology",
       "status": "Published standard",
       "publicationDate": "2023-04-11",
       "adoptedDate": "",
@@ -15891,12 +16109,16 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Catalog update: instrumentType. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "afd69b9e-828a-574b-9e2c-49d99ba5f7b2",
       "catalogSlug": "cisa-zero-trust-maturity-model-2-0",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-AU-PSPF-DIRECTION-TIKTOK-2023",
@@ -16394,7 +16616,7 @@
       "regulator": "NIST",
       "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
       "officialTitle": "NIST AI RMF 1.0",
-      "instrumentType": "Framework",
+      "instrumentType": "Methodology",
       "status": "Published standard",
       "publicationDate": "2023-01-26",
       "adoptedDate": "",
@@ -16409,12 +16631,46 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Catalog update: instrumentType. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "5a1ee87f-b389-538c-a40f-a071eaacaeef",
       "catalogSlug": "nist-ai-rmf-1-0",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
+      "id": "CYBERSTANDARD-MITRE-CAPEC",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "MITRE",
+      "title": "CAPEC: Common Attack Pattern Enumeration and Classification",
+      "officialTitle": "MITRE CAPEC v3.9",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2023-01-24",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · software security · incident response",
+      "sourceUrl": "https://capec.mitre.org/data/index.html",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/mitre-capec/",
+      "summary": "CAPEC is MITRE’s public catalogue of attack patterns: for each pattern it describes how an attacker exploits a weakness in software, hardware, communications or people, with prerequisites, typical steps, severity, the weaknesses exploited (linked to the CWE catalogue) and countermeasures. The patterns are arranged in two main views: by mechanism (for example abusing existing functionality, injecting unexpected items, manipulating timing and state, deceptive interactions) and by domain (software, hardware, communications, supply chain, social engineering, physical security). It is used in secure design, threat analysis, security testing and to link vulnerabilities to ATT&CK techniques.",
+      "access": "gratuito",
+      "standardEdition": "3.9",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "96e53a57-6162-5d03-99e4-deeadd6a0d28",
+      "catalogSlug": "mitre-capec",
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-JO-PERSONAL-DATA-PROTECTION-LAW-24-2023",
@@ -20995,7 +21251,7 @@
       "regulator": "NIST",
       "title": "Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy",
       "officialTitle": "NIST SP 800-37 Rev. 2 (RMF)",
-      "instrumentType": "Framework",
+      "instrumentType": "Methodology",
       "status": "Published standard",
       "publicationDate": "2018-12",
       "adoptedDate": "",
@@ -21010,12 +21266,16 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Catalog update: instrumentType. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "9096a9e5-028d-5cb5-9601-7215eecb846e",
       "catalogSlug": "nist-rmf-sp-800-37r2",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-US-CISA-ACT-2018",
@@ -22576,6 +22836,36 @@
       "catalogSlug": "us-bod-17-01-kaspersky-2017",
       "catalogUpdatedAt": "2026-11-02",
       "titleTranslationSource": "Cybersecurity Database English short title"
+    },
+    {
+      "id": "CYBERSTANDARD-MICROSOFT-STRIDE",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "Microsoft",
+      "title": "STRIDE: threat categories of the Microsoft Threat Modeling Tool",
+      "officialTitle": "STRIDE",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2017-08-17",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · software security",
+      "sourceUrl": "https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/microsoft-stride/",
+      "summary": "STRIDE is Microsoft’s threat modelling model, a way of spotting at design time what could go wrong with the security of a piece of software or a system. The name is the acronym of the six threat categories it proposes: Spoofing (pretending to be another user or system, for example with stolen credentials), Tampering (unauthorised changes to data, stored or in transit), Repudiation (denying having performed an action when the system cannot prove it), Information disclosure (exposing information to people who should not see it), Denial of service (making a service unavailable to legitimate users) and Elevation of privilege (gaining privileges one should not have). In practice the system is drawn as a diagram (components, data flows, data stores, trust boundaries) and for each element the question is which of the six categories of threat apply, before choosing countermeasures. Each category matches a security property to protect: authentication, integrity, non-repudiation, confidentiality, availability and authorisation.",
+      "access": "gratuito",
+      "standardEdition": "",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "4ce7fdbb-ec8e-5ce7-b5f0-293e66928100",
+      "catalogSlug": "microsoft-stride",
+      "catalogUpdatedAt": "2026-11-10"
     },
     {
       "id": "CYBERLAW-ST-LEI-15-2017-CIBERCRIME",
@@ -24609,6 +24899,36 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERSTANDARD-LOCKHEED-MARTIN-CYBER-KILL-CHAIN",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "Lockheed Martin",
+      "title": "Cyber Kill Chain: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains",
+      "officialTitle": "Cyber Kill Chain",
+      "instrumentType": "Methodology",
+      "status": "Published standard",
+      "publicationDate": "2011",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · incident response · cyber defence",
+      "sourceUrl": "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/lockheed-martin-cyber-kill-chain/",
+      "summary": "The Cyber Kill Chain is Lockheed Martin’s model that breaks a targeted computer intrusion down into seven phases the attacker must go through in order: 1) reconnaissance (choosing the target and gathering information, such as email addresses); 2) weaponisation (coupling a remote access tool and an exploit into a file to send, such as a PDF or an Office document); 3) delivery (sending it to the target, usually by email, website or USB stick); 4) exploitation (the code is triggered through a vulnerability or through the user); 5) installation (a backdoor that keeps the attacker inside the system); 6) command and control (the channel through which the attacker steers the compromised system); 7) actions on objectives (theft, alteration or destruction of data, or moving on to other systems). The idea is that breaking a single phase stops the attack: for each phase the model offers a matrix of defensive actions (detect, deny, disrupt, degrade, deceive, destroy) and encourages the use of indicators gathered in past intrusions to recognise and anticipate campaigns by the same adversary. It is used in incident analysis, in threat intelligence and to check whether defences cover every phase.",
+      "access": "gratuito",
+      "standardEdition": "",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "ea5e7c73-a9f6-5b13-9766-8f398861e5b3",
+      "catalogSlug": "lockheed-martin-cyber-kill-chain",
+      "catalogUpdatedAt": "2026-11-10"
+    },
+    {
       "id": "CYBERLAW-LC-DATA-PROTECTION-ACT-2011",
       "jurisdiction": "Saint Lucia",
       "regulator": "Parliament of Saint Lucia",
@@ -26565,7 +26885,7 @@
     "catalogUpdatedAt": "2026-11-09",
     "lastChecked": "2026-11-10",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
-    "standardsCount": 96,
+    "standardsCount": 106,
     "standardsUpdatedAt": "2026-11-09"
   }
 }
