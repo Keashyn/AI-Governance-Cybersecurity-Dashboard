@@ -1195,9 +1195,213 @@
       "name": "United Kingdom · Digital Regulation Cooperation Forum",
       "url": "https://www.drcf.org.uk/",
       "status": "Official joint regulator publications"
+    },
+    {
+      "name": "Australia · Department of the Prime Minister and Cabinet (with National Cyber Security Coordinator, Office of AI, ASD, Australian AI Safety Institute, Services Australia)",
+      "url": "https://www.pmc.gov.au/resources/rapid-review-australian-government-arrangements-ai-driven-cyber-incident/rapid-review-australian-government-arrangements-ai-driven-cyber-incident-recommendations",
+      "status": "Official source for Rapid Review into Australian Government arrangements for an AI-driven cyber incident recommendations"
+    },
+    {
+      "name": "Australia · Australian Government · Prime Minister; Minister for Industry and Innovation; Minister for Home Affairs and Cyber Security; Minister for Defence",
+      "url": "https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+      "status": "Official source for New Australian AI safety and security protections"
+    },
+    {
+      "name": "Australia · Department of the Prime Minister and Cabinet · Office of AI",
+      "url": "https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia",
+      "status": "Official source for Getting it right: Building AI infrastructure that works for Australia: Consultation paper - September 2026"
+    },
+    {
+      "name": "Australia · Department of Industry, Science and Resources",
+      "url": "https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers",
+      "status": "Official source for Expectations of data centres and AI infrastructure developers"
+    },
+    {
+      "name": "Australia · Australian Government · Attorney-General; Ministers for Communications, Employment and Workplace Relations, Industry and Innovation; Assistant Ministers (Treasury; Science, Technology and Digital Economy)",
+      "url": "https://ministers.ag.gov.au/media-centre/ai-consumer-safety-priorities-20-07-2026",
+      "status": "Official source for AI Consumer safety priorities"
+    },
+    {
+      "name": "Australia · Office of the Australian Information Commissioner (OAIC)",
+      "url": "https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making",
+      "status": "Official source for New resources on transparency for use of AI and automated decision-making"
+    },
+    {
+      "name": "Australia · Parliament of Australia · Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts / eSafety Commissioner",
+      "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r7553",
+      "status": "Official source for Online Safety Amendment (Digital Duty of Care) Bill 2026"
+    },
+    {
+      "name": "Australia · Attorney-General's Department",
+      "url": "https://consultations.ag.gov.au/rights-and-protections/privacy-reform/",
+      "status": "Official source for Exposure Draft Privacy Amendment (Personal Data Protection) Bill 2026"
+    },
+    {
+      "name": "Australia · Department of Industry, Science and Resources · Australia's AI Safety Institute",
+      "url": "https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety",
+      "status": "Official source for Australia to establish new institute to strengthen AI safety"
+    },
+    {
+      "name": "Australia · Attorney-General's Department",
+      "url": "https://ministers.ag.gov.au/media-centre/albanese-government-ensure-australia-prepared-future-copyright-challenges-emerging-ai-26-10-2025",
+      "status": "Official source for Albanese Government to ensure Australia is prepared for future copyright challenges emerging from AI"
+    },
+    {
+      "name": "United States · Federal · National Institute of Standards and Technology (NIST), Information Technology Laboratory / Computer Security Resource Center",
+      "url": "https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd",
+      "status": "Official source for Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST SP 2400-102e2026, Initial Public Draft)"
+    },
+    {
+      "name": "South Korea · Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
+      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12628",
+      "status": "Official source for 개인정보위, 스마트 글래스 이용 시 유의사항 당부 (PIPC advisory on precautions when using smart glasses)"
+    },
+    {
+      "name": "United States · Illinois · Illinois General Assembly / Illinois Department of Human Rights / Human Rights Commission",
+      "url": "https://ilga.gov/ftp/legislation/103/BillStatus/HTML/10300HB3773.html",
+      "status": "Official source for Illinois Human Rights Act amendment on employer use of artificial intelligence (HB 3773, Public Act 103-0804)"
+    },
+    {
+      "name": "United States · Colorado · Colorado General Assembly / Division of Insurance",
+      "url": "https://leg.colorado.gov/bills/hb26-1139",
+      "status": "Official source for Use of Artificial Intelligence in Health Care (HB 26-1139, Session Laws ch. 325)"
+    },
+    {
+      "name": "United States · Colorado · Colorado Department of Law (Attorney General)",
+      "url": "https://coag.gov/ai/",
+      "status": "Official source for Automated Decision-Making Technology & Conversational Artificial Intelligence Service rules (proposed)"
+    },
+    {
+      "name": "United States · New York · New York State Legislature",
+      "url": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06578&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "status": "Official source for Artificial intelligence training data transparency act (A 6578-B / S 6955-A)"
+    },
+    {
+      "name": "United States · New York · New York State Legislature / Department of Labor",
+      "url": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A09581&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "status": "Official source for Annual reporting on artificial intelligence impact on hiring (A 9581-B / S 8706-B)"
+    },
+    {
+      "name": "United States · Washington · Washington State Legislature / Attorney General",
+      "url": "https://app.leg.wa.gov/billsummary?BillNumber=2225&Year=2026",
+      "status": "Official source for Regulating artificial intelligence companion chatbots (ESHB 2225, Chapter 168, 2026 Laws)"
+    },
+    {
+      "name": "United States · Oregon · Oregon Legislative Assembly",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+      "status": "Official source for Relating to artificial intelligence companions (SB 1546, Chapter 85, 2026 Laws)"
+    },
+    {
+      "name": "United States · Georgia · Georgia General Assembly / Attorney General",
+      "url": "https://www.legis.ga.gov/legislation/73452",
+      "status": "Official source for Online Internet Safety; certain disclosures related to conversational AI services (SB 540, Act 518)"
+    },
+    {
+      "name": "United States · Georgia · Georgia General Assembly / Department of Insurance",
+      "url": "https://www.legis.ga.gov/legislation/72666",
+      "status": "Official source for Private Review Agents; insurance coverage decisions for healthcare services not based solely on artificial intelligence (SB 444, Act 411)"
+    },
+    {
+      "name": "United States · Iowa · Iowa General Assembly / Attorney General",
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF%202417&ga=91",
+      "status": "Official source for Conversational AI services requirements (Senate File 2417, Acts chapter 1068)"
+    },
+    {
+      "name": "United States · Idaho · Idaho Legislature",
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1297/",
+      "status": "Official source for Conversational AI Safety Act (S 1297, Session Law Chapter 249)"
+    },
+    {
+      "name": "United States · Idaho · Idaho Legislature / State Board of Education",
+      "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/",
+      "status": "Official source for Generative artificial intelligence in public education (S 1227, Session Law Chapter 71)"
+    },
+    {
+      "name": "United States · Rhode Island · Rhode Island General Assembly",
+      "url": "https://webserver.rilegislature.gov/PublicLaws/law26/law26375.htm",
+      "status": "Official source for Artificial Intelligence Companion Models (H 7350 Sub A, P.L. 2026 ch. 375; S 2195 Sub A, ch. 376)"
+    },
+    {
+      "name": "United States · New York · New York State Legislature / Governor",
+      "url": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S08828&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "status": "Official source for Responsible AI Safety and Education (RAISE) Act (S 8828, Chapter 96)"
+    },
+    {
+      "name": "United States · California · California Legislature / Governor / Labor Commissioner",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB947",
+      "status": "Official source for Employment: automated decision systems (No Robo Bosses Act) (SB 947, Chapter 859, Statutes of 2026)"
     }
   ],
   "items": [
+    {
+      "id": "AU-RAPID-REVIEW-AI-CYBER-INCIDENT-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Department of the Prime Minister and Cabinet (with National Cyber Security Coordinator, Office of AI, ASD, Australian AI Safety Institute, Services Australia)",
+      "title": "Rapid Review into Australian Government arrangements for an AI-driven cyber incident recommendations",
+      "instrumentType": "Government review response",
+      "status": "Adopted policy",
+      "publicationDate": "2026-11-10",
+      "effectiveDate": "—",
+      "topic": "AI · incident reporting · cyber incident response",
+      "sourceUrl": "https://www.pmc.gov.au/resources/rapid-review-australian-government-arrangements-ai-driven-cyber-incident/rapid-review-australian-government-arrangements-ai-driven-cyber-incident-recommendations",
+      "summary": "Eighteen recommendations from a PM&C-led rapid review of the OpenAI agent incident affecting the Services Australia Medicare Statistics Reporting Service Portal. On 10 November 2026 the Government said it accepts the recommendations and has begun implementing them. Most recommendations ask the Government or named agencies to consider or explore measures: mandatory, time-bound AI safety reporting (including misaligned behaviour and agentic cyber incidents), protections for reporting AI incidents and near misses, criminal-law options such as penalties for egregious regulatory non-compliance or a 'failure to prevent' offence, the future role of the AI Safety Institute, and PSPF guidance on unvalidated vulnerabilities. Others direct Commonwealth agencies on incident escalation, information sharing, AI literacy and cyber hygiene, including a request that agencies report on national crisis plans by the end of 2026. This is accepted government policy, not binding law, and creates no new legal duties for AI companies. Only the recommendations were published; the review report itself was not. The PM&C page shows no date; the 10 November 2026 date is from the joint media release at pm.gov.au/media/strengthening-australia-against-ai-driven-cyber-incidents.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Recommendations released; Government stated it accepts them and has commenced implementation (joint media release, Prime Minister and ministers)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Department of the Prime Minister and Cabinet (with National Cyber Security Coordinator, Office of AI, ASD, Australian AI Safety Institute, Services Australia), www.pmc.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "AU-FRONTIER-AI-SAFETY-PROTECTIONS-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Australian Government · Prime Minister; Minister for Industry and Innovation; Minister for Home Affairs and Cyber Security; Minister for Defence",
+      "title": "New Australian AI safety and security protections",
+      "instrumentType": "Policy announcement",
+      "status": "Adopted policy",
+      "publicationDate": "2026-11-10",
+      "effectiveDate": "—",
+      "topic": "AI · frontier AI safety · incident notification",
+      "sourceUrl": "https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections",
+      "summary": "Joint media release announcing that the Government will legislate mandatory safety and security protections for frontier AI companies through its planned Australian AI Standards legislation, and will propose a new targeted AI safety regulator working with the Australian AI Safety Institute. Under the announced design, companies would have to keep security controls across development and deployment, identify and manage serious model risks, allow independent evaluation of models, notify incidents to the Government rapidly, keep and publish safety and security frameworks, and respond to updated standards. The Government says the regulator would be able to impose significant penalties. This is a policy commitment only: no bill has been introduced, and the release says details will follow after further work and consultation. It creates no legal obligations yet.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Announced by joint media release."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Australian Government · Prime Minister; Minister for Industry and Innovation; Minister for Home Affairs and Cyber Security; Minister for Defence, www.pm.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-NIST-SP2400-102-AML-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "National Institute of Standards and Technology (NIST), Information Technology Laboratory / Computer Security Resource Center",
+      "title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations (NIST SP 2400-102e2026, Initial Public Draft)",
+      "instrumentType": "Guidance",
+      "status": "Consultation",
+      "publicationDate": "2026-11-09",
+      "effectiveDate": "—",
+      "topic": "AI · security · adversarial machine learning",
+      "sourceUrl": "https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd",
+      "summary": "Initial public draft of a NIST Special Publication. It sets out a taxonomy and shared terminology for attacks on machine-learning and super intelligence (SI) systems, and the mitigations for them. This edition focuses on attacks on agentic SI systems and adds an Agentic SI Attacks Taxonomy index. It builds on the earlier NIST AI 100-2 series. This is a voluntary technical publication released for public comment, with comments due 18 December 2026. It is not binding law and imposes no legal obligations. It is a NIST publication, not a Federal Register document or an ISO/IEC standard.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Initial public draft published by NIST for comment, per the CSRC publication page (comments due 2026-12-18)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (National Institute of Standards and Technology (NIST), Information Technology Laboratory / Computer Security Resource Center, csrc.nist.gov)."
+        }
+      ]
+    },
     {
       "id": "US-FR-2026-22743",
       "jurisdiction": "United States · Federal",
@@ -1214,6 +1418,29 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "KR-PIPC-SMART-GLASSES-ADVISORY-2026",
+      "jurisdiction": "South Korea",
+      "regulator": "Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
+      "title": "개인정보위, 스마트 글래스 이용 시 유의사항 당부 (PIPC advisory on precautions when using smart glasses)",
+      "instrumentType": "Guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-11-09",
+      "effectiveDate": "—",
+      "topic": "Privacy · AI-enabled wearables / smart glasses",
+      "sourceUrl": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12628",
+      "summary": "Non-binding PIPC advisory, released with an in-depth analysis report on smart glasses (November 2026) prepared with the Korea Personal Information Protection Association. It describes the privacy risks of camera- and microphone-equipped glasses linked to generative AI. These include covert recording of bystanders, complex data flows to phones, AI models, the cloud and third parties, and use of footage for AI training. It advises users to review the data practices of each device and app and to disable features they do not need. It tells users to avoid using the glasses where filming is banned, citing Article 25-2(2) of the Personal Information Protection Act, and in courts and exam halls. It also tells users to signal when they are recording. Providers should disclose processing purposes and obtain consent before using data for AI training, and manufacturers should apply privacy by design. The PIPC says it will issue smart-glasses privacy guidelines for manufacturers and service providers within the year. This advisory is not binding law.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "PIPC press release and analysis report published (작성일 2026-11-09). Formal guidelines were announced as forthcoming within the year."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Personal Information Protection Commission (PIPC), New Technology Personal Information Division, www.pipc.go.kr)."
         }
       ]
     },
@@ -1396,14 +1623,14 @@
       "id": "US-NY-S9051-2026",
       "jurisdiction": "United States · New York",
       "regulator": "New York State Legislature / Governor / Attorney General",
-      "title": "AI companion chatbot protections for minors (S.9051B / A.10379C)",
+      "title": "AI companion chatbot protections for minors (S.9051-B / A.10379-C, Chapter 368 of 2026)",
       "instrumentType": "State statute",
       "status": "Enacted",
       "publicationDate": "2026-10-28",
-      "effectiveDate": "—",
+      "effectiveDate": "2027-01-01",
       "topic": "Chatbots · minors · age assurance · unsafe features",
       "sourceUrl": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
-      "summary": "Signed by the Governor on October 28, 2026 per the governor's press release. Bars companies offering AI chatbot features from offering certain features to users under 18, or to any user not first confirmed to be an adult: presenting as a real person, claiming personal or romantic relationships with a child, promoting suicide, self-harm, eating disorders or substance use, and sexually explicit content. Requires age verification with more than one option and deletion of age data after use. The Attorney General may seek civil penalties of up to $25,000 per violation. The press release gives no exact effective date for this law (only 'in the coming months'); news coverage says January 1 but that is not confirmed from an official source, so the date is left blank. Chapter number appears only in secondary sources and is not recorded. The source is the Governor's press release, not the text of the act, and the title above is descriptive rather than an official bill caption.",
+      "summary": "Signed by the Governor on October 28, 2026 per the governor's press release. Bars companies offering AI chatbot features from offering certain features to users under 18, or to any user not first confirmed to be an adult: presenting as a real person, claiming personal or romantic relationships with a child, promoting suicide, self-harm, eating disorders or substance use, and sexually explicit content. Requires age verification with more than one option and deletion of age data after use. The Attorney General may seek civil penalties of up to $25,000 per violation. On nyassembly.gov the bill shows 'SIGNED CHAP.368' on 10/28/2026, with approval memo 6. The bill text as passed adds General Business Law Article 48 (§§ 1800-1805) and says the act 'shall take effect January 1, 2027'. The approval memo suggests an agreed chapter amendment, which could change details. Enacted state statute, not yet in force.",
       "history": [
         {
           "date": "2026-10-28",
@@ -1412,6 +1639,10 @@
         {
           "date": "2026-11-09",
           "change": "Added after verification against the official source (New York Governor's press release)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Verified against the nyassembly.gov bill page (SIGNED CHAP.368, 10/28/2026; approval memo 6) and bill text: takes effect 1 January 2027. Chapter number added to the title; effective date and summary updated."
         }
       ]
     },
@@ -1556,6 +1787,544 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "AU-DIGITAL-DUTY-OF-CARE-BILL-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Parliament of Australia · Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts / eSafety Commissioner",
+      "title": "Online Safety Amendment (Digital Duty of Care) Bill 2026",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-10-15",
+      "effectiveDate": "—",
+      "topic": "Online safety · AI chatbots · digital duty of care",
+      "sourceUrl": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r7553",
+      "summary": "Government bill amending the Online Safety Act 2021. It would replace the industry code framework and Basic Online Safety Expectations with a digital duty of care requiring online service providers to take measures for a safe online environment, and would expand the eSafety Commissioner's powers. The department says covered services include AI chatbots and that penalties could reach $109.2 million. The bill passed the House of Representatives on 28 October 2026 with amendments, but it is not law. It was referred to the Senate Environment and Communications Legislation Committee, which is due to report on 20 November 2026. The ParlInfo bill page still shows 'Before Reps' even though it records the third reading as agreed on 28/10/26.",
+      "history": [
+        {
+          "date": "2026-09-08",
+          "change": "Exposure draft published for feedback (closed 12pm 22 September 2026) (infrastructure.gov.au)."
+        },
+        {
+          "date": "2026-10-15",
+          "change": "Introduced and read a first time in the House of Representatives; referred to Senate Environment and Communications Legislation Committee (report due 20/11/2026)."
+        },
+        {
+          "date": "2026-10-28",
+          "change": "Third reading agreed to in the House of Representatives, with Government and crossbench amendments."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Parliament of Australia · Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts / eSafety Commissioner, parlinfo.aph.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-CA-SB947-2026",
+      "jurisdiction": "United States · California",
+      "regulator": "California Legislature / Governor / Labor Commissioner",
+      "title": "Employment: automated decision systems (No Robo Bosses Act) (SB 947, Chapter 859, Statutes of 2026)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-09-30",
+      "effectiveDate": "2027-07-01",
+      "topic": "Employment · automated decision systems · human oversight",
+      "sourceUrl": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB947",
+      "summary": "Enacted California statute, approved 30 September 2026. It adds Labor Code Part 5.5.5 (from § 1520), which becomes operative 1 July 2027 (§ 1526.7). Employers may not rely solely on an automated decision system for discipline or termination decisions. A human must review and verify ADS-assisted decisions, employees can request the data used, and employers must send a written post-use notice. Enforcement is by the Labor Commissioner, the Attorney General, and local prosecutors. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-09-30",
+          "change": "Approved by the Governor; chaptered by Secretary of State as Chapter 859, Statutes of 2026."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (California Legislature / Governor / Labor Commissioner, leginfo.legislature.ca.gov)."
+        }
+      ]
+    },
+    {
+      "id": "AU-OAIC-ADM-TRANSPARENCY-GUIDANCE-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Office of the Australian Information Commissioner (OAIC)",
+      "title": "New resources on transparency for use of AI and automated decision-making",
+      "instrumentType": "Regulator guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-09-30",
+      "effectiveDate": "—",
+      "topic": "Privacy · automated decision-making transparency",
+      "sourceUrl": "https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making",
+      "summary": "OAIC resources (an APP 1.7-1.9 fact sheet, a supplementary fact sheet for agencies, a flowchart and updated APP 1 Guidelines) to help APP entities comply with the automated decision-making transparency obligation. The obligation itself was added to APP 1 by the Privacy and Other Legislation Amendment Act 2024. From 10 December 2026, privacy policies must describe the kinds of personal information used, and the kinds of decisions made or substantially and directly informed, by computer programs where a decision could significantly affect an individual's rights or interests. The legal obligation comes from the Act; the OAIC resources are non-binding guidance. Overlaps with the ADM sentence in CYBERLAW-AU-PRIVACY-ACT-1988, which is out of scope for this research.",
+      "history": [
+        {
+          "date": "2026-09-30",
+          "change": "Resources and updated APP 1 Guidelines published by the OAIC after consultation (90 submissions)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Office of the Australian Information Commissioner (OAIC), www.oaic.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "AU-AI-INFRA-STANDARDS-CONSULTATION-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Department of the Prime Minister and Cabinet · Office of AI",
+      "title": "Getting it right: Building AI infrastructure that works for Australia: Consultation paper - September 2026",
+      "instrumentType": "Consultation paper",
+      "status": "Consultation",
+      "publicationDate": "2026-09-17",
+      "effectiveDate": "—",
+      "topic": "AI · data centres · frontier AI training conditions",
+      "sourceUrl": "https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia",
+      "summary": "Public consultation on the design of national AI standards. It proposes mandatory minimum requirements for large data centres covering energy, water, costs, community engagement, location and skills, with a tiered threshold model: no obligations below 30MW, baseline obligations from 30 to 100MW, and heavier obligations above 100MW or a 150MW portfolio. It also proposes conditions for frontier AI training in Australia, including disclosure of defined reportable AI incidents by authorised frontier labs. These are proposals only, not binding law. Submissions closed at 5 pm AEDT on 9 October 2026 (the PM&C news page says it opened 6 am AEST on 18 September 2026).",
+      "history": [
+        {
+          "date": "2026-09-17",
+          "change": "Consultation paper released (PM&C release date)."
+        },
+        {
+          "date": "2026-10-09",
+          "change": "Submissions closed."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Department of the Prime Minister and Cabinet · Office of AI, www.pmc.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "AU-PRIVACY-PDP-BILL-ED-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Attorney-General's Department",
+      "title": "Exposure Draft Privacy Amendment (Personal Data Protection) Bill 2026",
+      "instrumentType": "Exposure draft bill",
+      "status": "Consultation",
+      "publicationDate": "2026-08-31",
+      "effectiveDate": "—",
+      "topic": "Privacy · AI and emerging technology · personal data protection",
+      "sourceUrl": "https://consultations.ag.gov.au/rights-and-protections/privacy-reform/",
+      "summary": "Exposure draft bill and consultation paper for the second tranche of Privacy Act reform. The Attorney-General says it is aimed partly at emerging risks from AI and wearables. Measures include a fair and reasonable test for handling personal information, a right to erasure against large digital platforms, stronger consent standards and limits on trading personal information. It is a consultation draft only and not binding law; the department says the Bill remains subject to further consideration by government. The consultation opened on 31 August 2026 and closed on 18 September 2026.",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "change": "Exposure draft and consultation paper released (ministers.ag.gov.au media release; consultation hub)."
+        },
+        {
+          "date": "2026-09-18",
+          "change": "Consultation closed."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Attorney-General's Department, consultations.ag.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-CO-AG-ADMT-CHATBOT-RULES-2026",
+      "jurisdiction": "United States · Colorado",
+      "regulator": "Colorado Department of Law (Attorney General)",
+      "title": "Automated Decision-Making Technology & Conversational Artificial Intelligence Service rules (proposed)",
+      "instrumentType": "Proposed regulation",
+      "status": "Consultation",
+      "publicationDate": "2026-08-11",
+      "effectiveDate": "—",
+      "topic": "Automated decisions · chatbots · rulemaking",
+      "sourceUrl": "https://coag.gov/ai/",
+      "summary": "Proposed rules, not binding. The Colorado Department of Law filed draft ADMT and Chatbot Safety rules with the Secretary of State on 11 August 2026 to implement SB 26-189 and HB 26-1263. It released an interim draft on 6 October 2026 and a regulatory analysis on 21 October 2026, held the formal hearing on 26 October 2026, and accepted written comments until 11:59 p.m. MST that day. SB 26-189 requires the rules before 1 January 2027. Final adoption has not been announced.",
+      "history": [
+        {
+          "date": "2026-08-11",
+          "change": "Proposed rules filed with the Secretary of State."
+        },
+        {
+          "date": "2026-10-06",
+          "change": "Interim draft released."
+        },
+        {
+          "date": "2026-10-26",
+          "change": "Public rulemaking hearing; written comment period closed."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Colorado Department of Law (Attorney General), coag.gov)."
+        }
+      ]
+    },
+    {
+      "id": "AU-AI-CONSUMER-SAFETY-PRIORITIES-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Australian Government · Attorney-General; Ministers for Communications, Employment and Workplace Relations, Industry and Innovation; Assistant Ministers (Treasury; Science, Technology and Digital Economy)",
+      "title": "AI Consumer safety priorities",
+      "instrumentType": "Policy announcement",
+      "status": "Adopted policy",
+      "publicationDate": "2026-07-20",
+      "effectiveDate": "—",
+      "topic": "AI safety · consumer protection · automated decision-making",
+      "sourceUrl": "https://ministers.ag.gov.au/media-centre/ai-consumer-safety-priorities-20-07-2026",
+      "summary": "Joint ministerial statement setting whole-of-government AI safety priorities. They are to legislate a Digital Duty of Care for online and AI services; consult on a second tranche of privacy reform; pursue AI safety in the workplace through the AI Workplace and Employment Forum; examine Australian Consumer Law options on retail surveillance pricing and agentic commerce; and develop a framework to regulate automated decision-making in federal agencies, led by the Attorney-General. This sets a policy agenda and is not binding law in itself.",
+      "history": [
+        {
+          "date": "2026-07-20",
+          "change": "Joint media release issued."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Australian Government · Attorney-General; Ministers for Communications, Employment and Workplace Relations, Industry and Innovation; Assistant Ministers (Treasury; Science, Technology and Digital Economy), ministers.ag.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-RI-H7350-2026",
+      "jurisdiction": "United States · Rhode Island",
+      "regulator": "Rhode Island General Assembly",
+      "title": "Artificial Intelligence Companion Models (H 7350 Sub A, P.L. 2026 ch. 375; S 2195 Sub A, ch. 376)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-06-22",
+      "effectiveDate": "2027-01-01",
+      "topic": "Chatbots · AI companions · self-harm protocols",
+      "sourceUrl": "https://webserver.rilegislature.gov/PublicLaws/law26/law26375.htm",
+      "summary": "Enacted Rhode Island statute; identical House and Senate bills both became law on 22 June 2026 (Public Laws 2026, chapters 375 and 376), effective 1 January 2027. It creates a Title 6 chapter on AI companion models, requiring operators to keep safety protocols for user expressions of suicidal ideation, self-harm, or possible physical harm to others, and to make related disclosures. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-06-22",
+          "change": "Enacted; P.L. 2026 ch. 375 (H 7350) and ch. 376 (S 2195)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Rhode Island General Assembly, webserver.rilegislature.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-NY-A9581-2026",
+      "jurisdiction": "United States · New York",
+      "regulator": "New York State Legislature / Department of Labor",
+      "title": "Annual reporting on artificial intelligence impact on hiring (A 9581-B / S 8706-B)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-06-04",
+      "effectiveDate": "—",
+      "topic": "Employment · AI workforce impact · reporting",
+      "sourceUrl": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A09581&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "summary": "Bill passed by the Assembly on 3 June 2026 and the Senate on 4 June 2026. The nyassembly.gov history shows no delivery to the Governor yet. Not law. It would add Labor Law § 201-j, requiring covered businesses to report yearly to the Department of Labor on AI's impact on hiring and how they use AI, with penalties for not filing, and requiring the Department to publish an annual statewide report. The text says it would take effect immediately on becoming law.",
+      "history": [
+        {
+          "date": "2026-06-04",
+          "change": "Passed Senate (Assembly passed 2026-06-03); not yet delivered to the Governor per nyassembly.gov."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (New York State Legislature / Department of Labor, nyassembly.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-NY-A6578-2026",
+      "jurisdiction": "United States · New York",
+      "regulator": "New York State Legislature",
+      "title": "Artificial intelligence training data transparency act (A 6578-B / S 6955-A)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-06-04",
+      "effectiveDate": "—",
+      "topic": "Generative AI · training data · transparency",
+      "sourceUrl": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06578&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "summary": "Bill passed by the Assembly on 5 May 2026 and the Senate on 4 June 2026. The nyassembly.gov history shows no delivery to the Governor yet. Not law. It would add General Business Law Article 44-C (§§ 1430-1432), requiring developers of generative AI models or services to post information about their training data, including a high-level summary of datasets. The text says it would take effect immediately on becoming law.",
+      "history": [
+        {
+          "date": "2026-06-04",
+          "change": "Passed Senate (Assembly passed 2026-05-05); not yet delivered to the Governor per nyassembly.gov."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (New York State Legislature, nyassembly.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-CO-HB26-1139-2026",
+      "jurisdiction": "United States · Colorado",
+      "regulator": "Colorado General Assembly / Division of Insurance",
+      "title": "Use of Artificial Intelligence in Health Care (HB 26-1139, Session Laws ch. 325)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-06-02",
+      "effectiveDate": "2027-01-01",
+      "topic": "Health care · utilization review · human clinical judgment",
+      "sourceUrl": "https://leg.colorado.gov/bills/hb26-1139",
+      "summary": "Enacted Colorado statute, signed by the Governor on 2 June 2026. From 1 January 2027, carriers, pharmacy benefit managers, utilization review organizations, and similar entities that use AI systems in utilization review of health-care services must follow conditions under which AI may assist, but not replace, human clinical judgment in coverage decisions. The session-law effective date is 01/01/2027. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-06-02",
+          "change": "Governor signed (session law ch. 325)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Colorado General Assembly / Division of Insurance, leg.colorado.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-GA-SB540-2026",
+      "jurisdiction": "United States · Georgia",
+      "regulator": "Georgia General Assembly / Attorney General",
+      "title": "Online Internet Safety; certain disclosures related to conversational AI services (SB 540, Act 518)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-05-11",
+      "effectiveDate": "2027-07-01",
+      "topic": "Chatbots · minors · age verification · self-harm protocols",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/73452",
+      "summary": "Enacted Georgia statute, signed by the Governor on 11 May 2026 (Act 518), effective 1 July 2027. It amends O.C.G.A. Title 39, Chapter 5. Operators must disclose AI identity, limit certain interactions with minors including through age verification, provide privacy tools, and keep suicide and self-harm response protocols. The Attorney General enforces it. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-05-11",
+          "change": "Signed by Governor; Act 518."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Georgia General Assembly / Attorney General, www.legis.ga.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-GA-SB444-2026",
+      "jurisdiction": "United States · Georgia",
+      "regulator": "Georgia General Assembly / Department of Insurance",
+      "title": "Private Review Agents; insurance coverage decisions for healthcare services not based solely on artificial intelligence (SB 444, Act 411)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-05-05",
+      "effectiveDate": "2027-01-01",
+      "topic": "Health insurance · utilization review · human review",
+      "sourceUrl": "https://www.legis.ga.gov/legislation/72666",
+      "summary": "Enacted Georgia statute, signed 5 May 2026 (Act 411), effective 1 January 2027. It amends O.C.G.A. Title 33, Chapter 46 so that certain coverage decisions for healthcare services may not be based solely on AI systems or other software tools. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-05-05",
+          "change": "Signed by Governor; Act 411."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Georgia General Assembly / Department of Insurance, www.legis.ga.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-IA-SF2417-2026",
+      "jurisdiction": "United States · Iowa",
+      "regulator": "Iowa General Assembly / Attorney General",
+      "title": "Conversational AI services requirements (Senate File 2417, Acts chapter 1068)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-05-02",
+      "effectiveDate": "2026-07-01",
+      "topic": "Chatbots · minors · self-harm protocols · civil penalties",
+      "sourceUrl": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF%202417&ga=91",
+      "summary": "Enacted Iowa statute, signed by the Governor on 2 May 2026 (Acts chapter 1068). The Act took legal effect on 1 July 2026, but Section 7 says it applies from 1 July 2027, so no obligations bind yet. It creates Iowa Code chapter 554J, setting requirements for publicly available conversational AI services, including protections for minors and self-harm protocols, with civil penalties.",
+      "history": [
+        {
+          "date": "2026-05-02",
+          "change": "Signed by Governor (S.J. 1013); Acts chapter 1068."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Iowa General Assembly / Attorney General, www.legis.iowa.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-OR-SB1546-2026",
+      "jurisdiction": "United States · Oregon",
+      "regulator": "Oregon Legislative Assembly",
+      "title": "Relating to artificial intelligence companions (SB 1546, Chapter 85, 2026 Laws)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-03-31",
+      "effectiveDate": "2027-01-01",
+      "topic": "Chatbots · disclosure · self-harm protocols · private right of action",
+      "sourceUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+      "summary": "Enacted Oregon statute, signed 31 March 2026 (Chapter 85, 2026 Laws), effective 1 January 2027. Operators of AI companions and companion platforms must tell users they are interacting with AI where a reasonable person could think they were talking to a human, and must keep protocols to prevent outputs promoting suicidal ideation, suicide, or self-harm. Users who suffer ascertainable harm may sue for damages and injunctive relief. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-03-31",
+          "change": "Governor signed."
+        },
+        {
+          "date": "2026-04-06",
+          "change": "Chapter 85, 2026 Laws assigned; effective date 1 January 2027."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Oregon Legislative Assembly, olis.oregonlegislature.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-ID-S1297-2026",
+      "jurisdiction": "United States · Idaho",
+      "regulator": "Idaho Legislature",
+      "title": "Conversational AI Safety Act (S 1297, Session Law Chapter 249)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-03-31",
+      "effectiveDate": "2027-07-01",
+      "topic": "Chatbots · transparency · minors",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1297/",
+      "summary": "Enacted Idaho statute establishing the Conversational AI Safety Act. The Governor signed it on 31 March 2026 (Session Law Chapter 249), and it takes effect 1 July 2027. It sets requirements for public conversational AI services, including transparency and protections for minors. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-03-31",
+          "change": "Signed by Governor; Session Law Chapter 249."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Idaho Legislature, legislature.idaho.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-WA-HB2225-2026",
+      "jurisdiction": "United States · Washington",
+      "regulator": "Washington State Legislature / Attorney General",
+      "title": "Regulating artificial intelligence companion chatbots (ESHB 2225, Chapter 168, 2026 Laws)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-03-24",
+      "effectiveDate": "2027-01-01",
+      "topic": "Chatbots · minors · disclosure · crisis protocols",
+      "sourceUrl": "https://app.leg.wa.gov/billsummary?BillNumber=2225&Year=2026",
+      "summary": "Enacted Washington statute, signed by the Governor on 24 March 2026 (Chapter 168, 2026 Laws), effective 1 January 2027. It regulates AI companion chatbots, including disclosure, crisis-response protocols, and protections for minors. Not yet in force.",
+      "history": [
+        {
+          "date": "2026-03-24",
+          "change": "Governor signed; Chapter 168, 2026 Laws."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Washington State Legislature / Attorney General, app.leg.wa.gov)."
+        }
+      ]
+    },
+    {
+      "id": "AU-DATA-CENTRE-AI-EXPECTATIONS-2026",
+      "jurisdiction": "Australia",
+      "regulator": "Department of Industry, Science and Resources",
+      "title": "Expectations of data centres and AI infrastructure developers",
+      "instrumentType": "Policy statement",
+      "status": "Adopted policy",
+      "publicationDate": "2026-03-23",
+      "effectiveDate": "—",
+      "topic": "AI infrastructure · data centres · national interest",
+      "sourceUrl": "https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers",
+      "summary": "Five national expectations for new or expanded data centres and AI infrastructure: national interest and data sovereignty, support for the energy transition, sustainable water use, investment in Australian skills, and contribution to research and local capability. The Government says energy-intensive proposals that are not closely aligned with the expectations will not be prioritised in Commonwealth regulatory assessments. The expectations are not legally binding and do not change existing legal obligations. They are the stated foundation for the planned legislated AI standards.",
+      "history": [
+        {
+          "date": "2026-03-23",
+          "change": "Published by DISR."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Department of Industry, Science and Resources, www.industry.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-ID-S1227-2026",
+      "jurisdiction": "United States · Idaho",
+      "regulator": "Idaho Legislature / State Board of Education",
+      "title": "Generative artificial intelligence in public education (S 1227, Session Law Chapter 71)",
+      "instrumentType": "State statute",
+      "status": "In force",
+      "publicationDate": "2026-03-19",
+      "effectiveDate": "2026-07-01",
+      "topic": "Education · generative AI · K-12",
+      "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/",
+      "summary": "Binding Idaho statute in force since 1 July 2026, signed 19 March 2026 (Session Law Chapter 71). It adds provisions on the use of generative AI in Idaho public education.",
+      "history": [
+        {
+          "date": "2026-03-19",
+          "change": "Signed by Governor; Session Law Chapter 71."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Idaho Legislature / State Board of Education, legislature.idaho.gov)."
+        }
+      ]
+    },
+    {
+      "id": "AU-AI-SAFETY-INSTITUTE-2025",
+      "jurisdiction": "Australia",
+      "regulator": "Department of Industry, Science and Resources · Australia's AI Safety Institute",
+      "title": "Australia to establish new institute to strengthen AI safety",
+      "instrumentType": "Institutional announcement",
+      "status": "Adopted policy",
+      "publicationDate": "2025-11-25",
+      "effectiveDate": "—",
+      "topic": "AI safety · institutions · model evaluation",
+      "sourceUrl": "https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety",
+      "summary": "Government announcement establishing an Australian AI Safety Institute within DISR to monitor, test and share information on emerging AI capabilities, risks and harms, support regulators and represent Australia in international safety networks. When announced it was expected to become operational in early 2026. DISR's institute page describes it as active in frontier-model research and joint testing, but no official page opened gives an operational start date, so the effective date is blank. It is an administrative body with no statutory regulatory or enforcement powers stated.",
+      "history": [
+        {
+          "date": "2025-11-25",
+          "change": "Establishment announced by DISR."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Department of Industry, Science and Resources · Australia's AI Safety Institute, www.industry.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "AU-COPYRIGHT-AI-NO-TDM-2025",
+      "jurisdiction": "Australia",
+      "regulator": "Attorney-General's Department",
+      "title": "Albanese Government to ensure Australia is prepared for future copyright challenges emerging from AI",
+      "instrumentType": "Policy announcement",
+      "status": "Adopted policy",
+      "publicationDate": "2025-10-26",
+      "effectiveDate": "—",
+      "topic": "AI · copyright · training data",
+      "sourceUrl": "https://ministers.ag.gov.au/media-centre/albanese-government-ensure-australia-prepared-future-copyright-challenges-emerging-ai-26-10-2025",
+      "summary": "Attorney-General's statement ruling out a text and data mining exception in Australian copyright law. It also sets out three priority areas for consultation through the Copyright and AI Reference Group: whether to create a paid collective licensing framework for AI under the Copyright Act or keep voluntary licensing; clarifying copyright in AI-generated material; and lower-cost enforcement, such as a small claims forum. This is a government policy position, not a change to the law. The AGD's CAIRG page says a CAIRG meeting was held on 28 October 2025 and a consultation paper would go to CAIRG participants.",
+      "history": [
+        {
+          "date": "2025-10-26",
+          "change": "Media release issued by the Attorney-General."
+        },
+        {
+          "date": "2025-10-28",
+          "change": "CAIRG meeting on the three priority areas (ag.gov.au CAIRG page)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Attorney-General's Department, ministers.ag.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "US-IL-HB3773-2024",
+      "jurisdiction": "United States · Illinois",
+      "regulator": "Illinois General Assembly / Illinois Department of Human Rights / Human Rights Commission",
+      "title": "Illinois Human Rights Act amendment on employer use of artificial intelligence (HB 3773, Public Act 103-0804)",
+      "instrumentType": "State statute",
+      "status": "In force",
+      "publicationDate": "2024-08-09",
+      "effectiveDate": "2026-01-01",
+      "topic": "Employment · AI discrimination · notice",
+      "sourceUrl": "https://ilga.gov/ftp/legislation/103/BillStatus/HTML/10300HB3773.html",
+      "summary": "Binding Illinois statute in force since 1 January 2026. It amends the employment article of the Illinois Human Rights Act. It is a civil rights violation for an employer to use AI that has the effect of discriminating on the basis of protected classes in recruitment, hiring, promotion, discipline, discharge, or other terms of employment, or to use zip codes as a proxy for protected classes. Employers must also notify employees when they use AI for these purposes. Approved by the Governor on 9 August 2024.",
+      "history": [
+        {
+          "date": "2024-08-09",
+          "change": "Governor approved; Public Act 103-0804, effective 1 January 2026."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Illinois General Assembly / Illinois Department of Human Rights / Human Rights Commission, ilga.gov)."
         }
       ]
     },
@@ -5244,18 +6013,22 @@
       "id": "US-CO-SB26-189-2026",
       "jurisdiction": "United States · Colorado",
       "regulator": "Colorado General Assembly / Attorney General",
-      "title": "Automated Decision-Making Technology (SB 26-189)",
+      "title": "Automated Decision-Making Technology (SB 26-189, Session Laws ch. 131)",
       "instrumentType": "State statute",
       "status": "Enacted",
       "publicationDate": "2026-05-14",
-      "effectiveDate": "2026-05-14",
+      "effectiveDate": "2027-01-01",
       "topic": "Consequential decisions · consumer notice · human review · records",
       "sourceUrl": "https://leg.colorado.gov/bills/sb26-189",
-      "summary": "Repeals and reenacts Colorado's AI consumer-protection framework with requirements for automated decision-making technology used in consequential decisions, including technical documentation, notice, data correction, human review, and record retention. Many covered obligations begin January 1, 2027. This is separate from SB 24-205.",
+      "summary": "Colorado statute signed 14 May 2026 (session law chapter 131). It repeals and reenacts part 17 of article 1 of title 6 C.R.S., replacing the SB 24-205 AI framework with rules on automated decision-making technology (ADMT) used in consequential decisions. Developers must give deployers technical documentation. Deployers must give consumers point-of-interaction notice and, after an adverse outcome, an explanation within 30 days. Consumers get rights to access and correct their data and to meaningful human review. Records must be kept for 3 years. Violations count as deceptive trade practices enforced by the Attorney General, with a 60-day cure period before 2030 and no new private right of action. Under Section 5, the act takes effect 1 January 2027 and applies to decisions made on or after that date. Only the Attorney General rulemaking provisions, an insurance-commissioner rule power, and the appropriation took effect on passage. The leg.colorado.gov session-law table lists 05/14/2026 as the effective date because of those early sections. Enacted law; the main obligations are not yet in force.",
       "history": [
         {
           "date": "2026-05-14",
           "change": "Signed into law; recorded separately from SB 24-205 because this law reenacts and revises the framework."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Verified against Colorado Session Laws ch. 131 (SB 26-189), Section 5: the act takes effect 1 January 2027 except the rulemaking, insurance-rule, and appropriation provisions, which took effect on passage (14 May 2026). Effective date, title, and summary updated."
         }
       ]
     },
@@ -6018,14 +6791,18 @@
       "instrumentType": "State statute",
       "status": "Enacted",
       "publicationDate": "2026-03-27",
-      "effectiveDate": "—",
+      "effectiveDate": "2027-01-01",
       "topic": "Frontier AI · transparency · safety reporting · oversight",
-      "sourceUrl": "https://www.nysenate.gov/legislation/bills/2025/S8828",
-      "summary": "Establishes transparency and safety requirements for developers of covered frontier AI models, including publication of safety frameworks and model transparency reports and reporting of critical safety incidents. Signed by the governor as Chapter 96. The bill page ties its effective date to the underlying 2025 chapter; date is not normalized here.",
+      "sourceUrl": "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S08828&term=2025&Summary=Y&Actions=Y&Text=Y",
+      "summary": "Chapter amendment (S 8828 / A 9449, Chapter 96 of 2026, signed 27 March 2026) to the 2025 RAISE Act (S 6953-B / A 6453-B, signed 19 December 2025 as Chapter 699). It repeals and re-adds General Business Law Article 44-B (§§ 1420-1429). The rewritten article sets transparency and safety requirements for developers of frontier AI models, including published safety frameworks and transparency reports and the reporting of critical safety incidents, and creates an office to oversee AI model developer transparency. In the bill text on nyassembly.gov, S 8828 changes the 2025 chapter's effective-date clause from 'the ninetieth day after it shall have become a law' to 'January 1, 2027'. Enacted state statute, not yet in force.",
       "history": [
         {
           "date": "2026-03-27",
           "change": "Signed by the governor as Chapter 96; added as an individual statute record."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Verified against the nyassembly.gov bill page and text for S 8828 (signed Chapter 96, 27 March 2026): Section 3 sets the 2025 RAISE Act chapter (Ch. 699 of 2025) to take effect 1 January 2027. Effective date and summary updated; source URL changed to the Assembly bill page."
         }
       ]
     },
