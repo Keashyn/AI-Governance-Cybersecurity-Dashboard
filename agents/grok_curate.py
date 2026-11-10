@@ -445,7 +445,6 @@ def main() -> int:
     chat = client.chat.create(
         model=os.environ.get("GROK_MODEL", "grok-4.7"),
         tools=[web_search()],
-        include=["no_inline_citations"],
     )
     chat.append(system(rules))
     chat.append(user(prompt))
