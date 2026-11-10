@@ -1996,25 +1996,6 @@
       ]
     },
     {
-      "id": "CA-C22-LAWFUL-ACCESS-2026",
-      "jurisdiction": "Canada",
-      "regulator": "Parliament of Canada · Public Safety Canada (sponsor: Gary Anandasangaree, Minister of Public Safety)",
-      "title": "Bill C-22, An Act respecting lawful access (Lawful Access Act, 2026)",
-      "instrumentType": "Bill",
-      "status": "Proposed",
-      "publicationDate": "2026-03-12",
-      "effectiveDate": "—",
-      "topic": "Lawful access · data and subscriber information · electronic service providers",
-      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-22",
-      "summary": "A government bill in the 45th Parliament, 1st session, introduced in the House of Commons on 12 March 2026 by the Minister of Public Safety. Part 1 amends the Criminal Code, the CSIS Act, the Mutual Legal Assistance in Criminal Matters Act and other Acts. Among other changes, it adds confirmation-of-service demands to telecommunications providers, production orders for subscriber information, exigent-circumstances access, authorities to examine computer data, and requests to foreign service providers for transmission data or subscriber information. Part 2 enacts the Supporting Authorized Access to Information Act, a framework to ensure electronic service providers can facilitate authorized access, with related amendments to the Intelligence Commissioner Act. Part 3 provides for parliamentary review. The bill passed the House on 18 June 2026, had Senate second reading on 22 October 2026, and is at consideration in committee in the Senate. It is not law.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Parliament of Canada LEGISinfo, www.parl.ca)."
-        }
-      ]
-    },
-    {
       "id": "CYBERLAW-IT-ACN-DETERMINAZIONE-314287-2026-PIATTAFORMA-NIS",
       "jurisdiction": "Italy",
       "regulator": "National Cybersecurity Agency (ACN) – Director General",
@@ -7147,6 +7128,25 @@
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Idaho Legislature / State Board of Education, legislature.idaho.gov)."
+        }
+      ]
+    },
+    {
+      "id": "CA-C22-LAWFUL-ACCESS-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Parliament of Canada · Public Safety Canada (sponsor: Gary Anandasangaree, Minister of Public Safety)",
+      "title": "Bill C-22, An Act respecting lawful access (Lawful Access Act, 2026)",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-03-12",
+      "effectiveDate": "—",
+      "topic": "Lawful access · data and subscriber information · electronic service providers",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bill/45-1/c-22",
+      "summary": "A government bill in the 45th Parliament, 1st session, introduced in the House of Commons on 12 March 2026 by the Minister of Public Safety. Part 1 amends the Criminal Code, the CSIS Act, the Mutual Legal Assistance in Criminal Matters Act and other Acts. Among other changes, it adds confirmation-of-service demands to telecommunications providers, production orders for subscriber information, exigent-circumstances access, authorities to examine computer data, and requests to foreign service providers for transmission data or subscriber information. Part 2 enacts the Supporting Authorized Access to Information Act, a framework to ensure electronic service providers can facilitate authorized access, with related amendments to the Intelligence Commissioner Act. Part 3 provides for parliamentary review. The bill passed the House on 18 June 2026, had Senate second reading on 22 October 2026, and is at consideration in committee in the Senate. It is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Parliament of Canada LEGISinfo, www.parl.ca)."
         }
       ]
     },
