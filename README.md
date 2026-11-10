@@ -10,7 +10,7 @@ The public dashboard is hosted on GitHub Pages at https://keashyn.github.io/AI-G
 
 ## Weekly curation
 
-The Codex automation **Weekly curation agents** runs each Monday at 15:30 UTC. It follows `agents/PROMPTS.md`, verifies candidate updates against public official sources, and opens a reviewable pull request from a new branch. It never pushes to `master`, merges a pull request, or deploys. Each run includes a dated report under `reports/weekly/`. The automation runs through the connected Codex environment and needs access to this public repository and GitHub to create its pull request.
+The **Grok weekly curation** GitHub Actions workflow runs each Monday at 15:30 UTC and can be started manually. It uses `agents/grok_curate.py` and `agents/PROMPTS.md` to research public sources, check candidates against the official-source citations returned by Grok, and prepare changes for review. GitHub Actions opens or updates a pull request from `grok/weekly-curation`; it does not merge or deploy. Each run writes a dated report and `reports/weekly/latest.md`. Configure the repository Actions secret `XAI_API_KEY` before running it. All proposed records and summaries still require human review against the linked issuer source.
 
 ## Sources and coverage
 

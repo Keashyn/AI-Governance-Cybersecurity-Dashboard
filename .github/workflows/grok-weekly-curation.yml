@@ -1,0 +1,42 @@
+name: Grok weekly curation
+on:
+  schedule:
+    - cron: "30 15 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: grok-weekly-curation
+  cancel-in-progress: false
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Grok SDK
+        run: pip install xai-sdk
+      - name: Research, verify, and prepare the register update
+        run: python agents/grok_curate.py
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GROK_MODEL: grok-4.7
+      - name: Open or update the curation pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ github.token }}
+          base: master
+          branch: grok/weekly-curation
+          add-paths: |
+            data.json
+            reports/weekly/curation-*.md
+            reports/weekly/latest.md
+          commit-message: "Weekly Grok curation report"
+          title: "Grok weekly curation"
+          body-path: reports/weekly/latest.md
