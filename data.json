@@ -1185,6 +1185,16 @@
       "name": "European Union · Digital Strategy (European Commission)",
       "url": "https://digital-strategy.ec.europa.eu/",
       "status": "Official Commission policy and guidance pages"
+    },
+    {
+      "name": "United Kingdom · GOV.UK / MHRA",
+      "url": "https://www.gov.uk/",
+      "status": "Official policy papers and guidance on AI-enabled medical devices and healthcare regulation"
+    },
+    {
+      "name": "United Kingdom · Digital Regulation Cooperation Forum",
+      "url": "https://www.drcf.org.uk/",
+      "status": "Official joint regulator publications"
     }
   ],
   "items": [
@@ -1340,6 +1350,26 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "UK-DRCF-AGENTIC-STATEMENT-2026",
+      "jurisdiction": "United Kingdom",
+      "regulator": "Digital Regulation Cooperation Forum (CMA, FCA, ICO and Ofcom)",
+      "title": "Protecting people and businesses in an agentic economy: DRCF joint statement",
+      "instrumentType": "Joint regulator statement",
+      "status": "Guidance",
+      "publicationDate": "2026-10-30",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "AI · agentic AI · consumer protection · competition · privacy · cybersecurity",
+      "sourceUrl": "https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-joint-statement-protecting-people-and-businesses-in-and-agentic-economy3.pdf?v=427454",
+      "summary": "The four DRCF member regulators describe how existing competition, consumer, data-protection, online-safety, financial-services, payments, cybersecurity and product-safety rules apply to personal AI agents. They describe ongoing coordination, engagement with firms, and potential use of their existing powers where legal breaches are suspected.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added after verifying the joint statement and date in the DRCF publication."
         }
       ]
     },
@@ -1651,6 +1681,54 @@
       ]
     },
     {
+      "id": "EU-STD-EN18286-2026",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "European harmonised standard surfaced as a reference; this entry does not establish national adoption or independent legal force. Presumption of conformity applies only to the requirements covered by the standard under EU law.",
+      "regulator": "European Committee for Standardization (CEN) and European Committee for Electrotechnical Standardization (CENELEC)",
+      "title": "EN 18286:2026 — Artificial intelligence — Quality management system for EU AI Act regulatory purposes",
+      "officialTitle": "EN 18286:2026 Artificial intelligence – Quality management system for EU AI Act regulatory purposes",
+      "instrumentType": "Harmonised standard",
+      "status": "Published standard",
+      "publicationDate": "2026-10-14",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "AI · quality management · harmonised standard",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "catalogEntryUrl": "https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj/eng",
+      "summary": "A CEN/CENELEC quality-management standard for providers of high-risk AI systems. The European Commission states that use of this standard provides a presumption of conformity with the AI Act Article 17 requirements it covers. It is reference material, not itself legislation.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added as a standards reference after confirmation in the Commission announcement and EUR-Lex implementing decision."
+        }
+      ],
+      "catalogSource": "European Commission harmonised standards",
+      "catalogRecordId": "Commission Implementing Decision (EU) 2026/2274",
+      "catalogUpdatedAt": "2026-11-09"
+    },
+    {
+      "id": "EU-DECISION-2026-2274",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission",
+      "title": "Commission Implementing Decision (EU) 2026/2274 on harmonised standards for high-risk AI systems",
+      "instrumentType": "Commission Implementing Decision",
+      "status": "In force",
+      "publicationDate": "2026-10-14",
+      "adoptedDate": "2026-10-12",
+      "effectiveDate": "2026-10-14",
+      "topic": "AI · harmonised standards · conformity assessment",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj/eng",
+      "summary": "Publishes the reference to harmonised standard EN 18286:2026 for high-risk AI systems under the EU AI Act. Conformity with the published standard gives a presumption of conformity only for the AI Act requirements covered by that standard. The decision entered into force on publication.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added after verifying the decision, Official Journal date, standard reference, and entry-into-force provision in EUR-Lex."
+        }
+      ],
+      "officialTitle": "Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 on the harmonised standards for high-risk AI systems drafted in support of Regulation (EU) 2024/1689"
+    },
+    {
       "id": "CYBERSTANDARD-ISO-IEC-27090-2026",
       "jurisdiction": "Cross-country standards reference",
       "showInCountryFilters": true,
@@ -1875,6 +1953,26 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "UK-MHRA-AI-HEALTHCARE-RESPONSE-2026",
+      "jurisdiction": "United Kingdom",
+      "regulator": "Medicines and Healthcare products Regulatory Agency / UK Government",
+      "title": "Government Response to the National Commission's Recommendations on the Regulation of AI in Healthcare",
+      "instrumentType": "Government policy paper",
+      "status": "Adopted policy",
+      "publicationDate": "2026-10-06",
+      "adoptedDate": "2026-10-06",
+      "effectiveDate": "",
+      "topic": "AI · healthcare · medical devices · cybersecurity",
+      "sourceUrl": "https://www.gov.uk/government/publications/government-response-to-the-national-commissions-recommendations-on-the-regulation-of-ai-in-healthcare/government-response-to-the-national-commissions-recommendations-on-the-regulation-of-ai-in-healthcare",
+      "summary": "The Government accepts all 44 recommendations and sets out priorities for a proportionate, lifecycle-based approach to AI in healthcare. The response describes planned work on post-market oversight, medical-device regulation and MHRA cybersecurity guidance for software and AI-enabled devices. It is an adopted policy response; the listed plans do not by themselves amend legislation.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added after verifying the published government response and recommendations in the official GOV.UK policy paper."
         }
       ]
     },
@@ -3399,6 +3497,27 @@
       "catalogUpdatedAt": "2026-10-29"
     },
     {
+      "id": "EU-REG-2026-1744",
+      "jurisdiction": "European Union",
+      "regulator": "European Parliament and Council of the European Union",
+      "title": "Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)",
+      "instrumentType": "Regulation",
+      "status": "In force",
+      "publicationDate": "2026-07-24",
+      "adoptedDate": "2026-07-08",
+      "effectiveDate": "2026-07-27",
+      "topic": "AI · prohibited practices · high-risk systems · implementation timetable",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng",
+      "summary": "Amends the EU AI Act. New Article 5 points prohibit specified uses of AI systems generating or manipulating realistic intimate material without consent and material defined in the child sexual abuse directive; those provisions apply from 2 December 2026. The regulation also moves application of specified high-risk AI requirements to 2 December 2027 for Annex III systems and 2 August 2028 for Annex I systems. Certain providers of synthetic-content systems already on the market before 2 August 2026 have until 2 December 2026 to take steps for Article 50(2) compliance.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added after verifying the amending regulation and commencement dates in EUR-Lex."
+        }
+      ],
+      "officialTitle": "Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI)"
+    },
+    {
       "id": "CYBERLAW-US-FASCSA-ORDER-DHS-DEEPSEEK-2026",
       "jurisdiction": "United States · Federal",
       "regulator": "Department of Homeland Security",
@@ -4517,6 +4636,26 @@
         {
           "date": "2026-06-03",
           "change": "Signed into law; Colorado session-law record lists August 12, 2026 as the effective date."
+        }
+      ]
+    },
+    {
+      "id": "EU-CADA-COM-2026-502",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission",
+      "title": "Proposal for a Regulation on the Cloud and AI Development Act (COM(2026) 502)",
+      "instrumentType": "Proposed Regulation",
+      "status": "Proposed",
+      "publicationDate": "2026-06-03",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "AI · cloud and data centres · digital infrastructure · sovereignty",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-cloud-and-ai-development-act-cada",
+      "summary": "Commission proposal to strengthen the EU cloud and AI ecosystem. It covers research and innovation, conditions for expanding data-centre capacity, and a public-sector cloud and AI sovereignty assessment and adoption framework. This is a legislative proposal, not an adopted regulation.",
+      "history": [
+        {
+          "date": "2026-11-09",
+          "change": "Added after verification against the European Commission proposal page (COM(2026) 502)."
         }
       ]
     },
@@ -12677,7 +12816,7 @@
       "effectiveDate": "2024-08-01",
       "topic": "Risk classification · GPAI · transparency",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
-      "summary": "Horizontal, risk-based AI framework with staged application dates. Verify current consolidated text and subsequent amendments at EUR-Lex.",
+      "summary": "Horizontal, risk-based AI framework with staged application dates. Regulation (EU) 2026/1744 amended the Act, including Article 5 and the timetable for specified high-risk AI requirements: 2 December 2027 for Annex III systems and 2 August 2028 for Annex I systems. The amendment is listed separately in this register; consult EUR-Lex for the authoritative texts.",
       "history": [
         {
           "date": "2024-07-12",
@@ -12686,6 +12825,10 @@
         {
           "date": "2025-02-02",
           "change": "First prohibitions and AI literacy provisions began to apply."
+        },
+        {
+          "date": "2026-11-09",
+          "change": "Updated to reflect Regulation (EU) 2026/1744, including amended Article 5 and verified high-risk application dates from the amending text."
         }
       ]
     },
