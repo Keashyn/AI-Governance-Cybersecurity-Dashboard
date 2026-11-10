@@ -19,7 +19,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 from xai_sdk import Client
-from xai_sdk.chat import user
+from xai_sdk.chat import system, user
 from xai_sdk.tools import web_search
 
 
@@ -261,18 +261,13 @@ def official_sources(data: dict, records: list[dict]) -> None:
             known.add(host)
 
 
-def build_prompt(data: dict, prompt_rules: str, last_date: str, today: str) -> str:
+def build_prompt(data: dict, last_date: str, today: str) -> str:
     jurisdictions = sorted({x.get("jurisdiction", "") for x in data.get("items", []) if x.get("jurisdiction")})
     existing = [
         {"id": x.get("id"), "jurisdiction": x.get("jurisdiction"), "title": x.get("title"), "sourceUrl": x.get("sourceUrl")}
         for x in data.get("items", [])
     ]
-    return f"""You are conducting the weekly public-law curation research described in these repository rules:
-<curation_rules>
-{prompt_rules}
-</curation_rules>
-
-Research period: after {last_date} through {today} (UTC). Use web search to review official government, legislature, gazette, regulator, and standards-body sources. Cover AI governance and cybersecurity, cybercrime, privacy/data protection, and related digital or sector-specific rules. Work systematically across the register's jurisdictions and the five broad regions; use only public pages. Treat catalog or press coverage as a lead and verify each candidate at the issuing authority. Do not treat a failed search as proof of absence.
+    return f"""Research period: after {last_date} through {today} (UTC). Use web search to review official government, legislature, gazette, regulator, and standards-body sources. Cover AI governance and cybersecurity, cybercrime, privacy/data protection, and related digital or sector-specific rules. Work systematically across the register's jurisdictions and the five broad regions; use only public pages. Treat catalog or press coverage as a lead and verify each candidate at the issuing authority. Do not treat a failed search as proof of absence.
 
 Existing register index (to prevent duplicates):
 {json.dumps(existing, ensure_ascii=False, separators=(',', ':'))}
@@ -283,7 +278,7 @@ Jurisdictions in the register:
 Return exactly one JSON object, without markdown fences, with this schema:
 {{
   "checked": [{{"jurisdiction_or_feed":"...","result":"checked|blocked|not_checked","note":"brief, factual coverage note"}}],
-  "items": [{{
+  "changes": [{{
     "action":"add|update",
     "existing_id":"required for update; otherwise empty",
     "changed_fields":["..."],
@@ -291,7 +286,8 @@ Return exactly one JSON object, without markdown fences, with this schema:
     "sourceEvidence":"one short exact quotation, at most 25 words, from that official source page",
     "verificationNote":"what official source attributes were checked"
   }}],
-  "coverage_limits": ["specific unchecked jurisdictions, feeds, or limitations"]
+  "coverage_limits": ["specific unchecked jurisdictions, feeds, or limitations"],
+  "report": "brief markdown run summary; the workflow independently builds the published report from validated changes"
 }}
 
 Rules:
@@ -317,9 +313,9 @@ def apply_research(data: dict, research: dict, citations: list[str], today: str)
     known_hosts = source_host_index(data)
     added, updated, held = [], [], []
 
-    candidates = research.get("items", [])
+    candidates = research.get("changes", research.get("items", []))
     if not isinstance(candidates, list):
-        raise ValueError("Grok response 'items' must be a list")
+        raise ValueError("Grok response 'changes' must be a list")
     for candidate in candidates[:40]:
         try:
             record, action = validate_record(candidate, citations, known_hosts)
@@ -443,7 +439,7 @@ def main() -> int:
     rules = PROMPTS_PATH.read_text(encoding="utf-8")
     today = datetime.now(timezone.utc).date().isoformat()
     last_date = prior_report_date()
-    prompt = build_prompt(data, rules, last_date, today)
+    prompt = build_prompt(data, last_date, today)
 
     client = Client(api_key=os.environ["XAI_API_KEY"])
     chat = client.chat.create(
@@ -451,6 +447,7 @@ def main() -> int:
         tools=[web_search()],
         include=["no_inline_citations"],
     )
+    chat.append(system(rules))
     chat.append(user(prompt))
     response = chat.sample()
     citations = citations_of(response)
