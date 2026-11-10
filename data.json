@@ -1977,120 +1977,6 @@
       ]
     },
     {
-      "id": "JP-AI-BASIC-PLAN-2026",
-      "jurisdiction": "Japan",
-      "regulator": "Cabinet (閣議決定) · Cabinet Office, Artificial Intelligence Strategic Headquarters",
-      "title": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ (Japan's Second Artificial Intelligence Basic Plan — Japan AI Transformation; A Stronger Nation. Greater Prosperity. —)",
-      "instrumentType": "National AI strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2026-07-14",
-      "effectiveDate": "—",
-      "topic": "AI · national strategy · agentic AI · AI governance",
-      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-      "summary": "Japan's Second AI Basic Plan, adopted by Cabinet decision on 14 July 2026 and now the current plan under the AI Promotion Act; it revises the first plan of 23 December 2025. It responds to the rapid spread of agentic AI. It sets four principles: promoting innovation while mitigating risks; trial, learning and iteration; agile response; and integrated domestic and international policies. It sets four strategic pillars: accelerate AI deployment, strengthen AI development capabilities, lead AI governance, and build an AI-powered society. Under 'responsible agile governance' it relies on the AI Safety Institute for technical evaluation of AI models and calls for collecting and sharing AI vulnerability and incident information. It is government policy and creates no new legal obligations for businesses; the plan is to be reviewed as needed, in principle annually.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Cabinet Office, www8.cao.go.jp)."
-        }
-      ]
-    },
-    {
-      "id": "KR-PIPC-SAFETY-MEASURES-STANDARD-2026",
-      "jurisdiction": "South Korea",
-      "regulator": "Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
-      "title": "개인정보의 안전성 확보조치 기준 (개인정보보호위원회고시 제2026-9호, 2026. 7. 1., 일부개정) (Standards for Measures to Ensure the Safety of Personal Information, PIPC Notice No. 2026-9)",
-      "instrumentType": "Regulatory notice (고시)",
-      "status": "In force",
-      "publicationDate": "2026-07-01",
-      "effectiveDate": "2026-07-01",
-      "topic": "Privacy · security safeguards · vulnerability testing",
-      "sourceUrl": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000281400",
-      "summary": "PIPC's binding notice setting the minimum technical, managerial and physical safeguards that personal information handlers must apply under Article 29 of the Personal Information Protection Act and its Enforcement Decree. Examples are internal management plans, access rights and controls, encryption, access logs, malware prevention and destruction. The partial amendment of 1 July 2026 (Notice No. 2026-9) responds to hacking-driven leaks in the public sector. It requires public-system operating institutions to run vulnerability checks and penetration tests by external specialists at least once a year for each public system, fix findings without delay, and include this in their internal management plans. Article 15(5) and Article 18 apply from 1 January 2027; the rest took effect on 1 July 2026.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Personal Information Protection Commission via the National Law Information Center, www.law.go.kr)."
-        }
-      ]
-    },
-    {
-      "id": "JP-CYBERSECURITY-STRATEGY-2025",
-      "jurisdiction": "Japan",
-      "regulator": "Cabinet (閣議決定) · Cabinet Secretariat, National Cybersecurity Office (国家サイバー統括室, NCO)",
-      "title": "サイバーセキュリティ戦略 (Cybersecurity Strategy), Cabinet decision of 23 December 2025",
-      "instrumentType": "National cybersecurity strategy",
-      "status": "Adopted policy",
-      "publicationDate": "2025-12-23",
-      "effectiveDate": "—",
-      "topic": "Cybersecurity · national strategy · active cyber defense",
-      "sourceUrl": "https://www.cyber.go.jp/pdf/policy/kihon-s/cs_strategy2025.pdf",
-      "summary": "Japan's national Cybersecurity Strategy under the Basic Act on Cybersecurity, adopted by Cabinet decision on 23 December 2025 and reported to the Diet. It sets goals and implementation policies for about the next five years along three axes. The first is defence and deterrence against intensifying cyber threats, with the state playing a pivotal role, including active cyber defence under the 2025 Cyber Response Capability Enhancement Act and public–private and international cooperation. The second is stronger cybersecurity and resilience across society, covering government agencies, critical infrastructure, local governments, supply chains and SMEs. The third is an ecosystem for cyber talent and technology. It also addresses risks from AI and quantum technology. It is the first strategy since the 2025 reorganisation of the Cybersecurity Strategic Headquarters and the creation of the National Cybersecurity Office.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (National Cybersecurity Office, Cabinet Secretariat, www.cyber.go.jp)."
-        }
-      ]
-    },
-    {
-      "id": "JP-AI-BASIC-PLAN-2025",
-      "jurisdiction": "Japan",
-      "regulator": "Cabinet (閣議決定) · Cabinet Office, Artificial Intelligence Strategic Headquarters",
-      "title": "人工知能基本計画 ～「信頼できるＡＩ」による「日本再起」～ (Artificial Intelligence Basic Plan — “Japan Rebooted” through “Trustworthy AI” —)",
-      "instrumentType": "National AI strategy",
-      "status": "Superseded",
-      "publicationDate": "2025-12-23",
-      "effectiveDate": "—",
-      "topic": "AI · national strategy · AI governance",
-      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20251223.pdf",
-      "summary": "Japan's first AI Basic Plan, adopted by Cabinet decision on 23 December 2025 under Article 18(1) of the AI Promotion Act (Act No. 53 of 2025). It sets three principles: promoting innovation while mitigating risks, an agile methodology, and integrated domestic and international policies. It also sets four basic policies: accelerating AI deployment ('Adopt AI'), strategically strengthening AI development capabilities ('Create AI'), leading AI governance ('Enhance AI Trustworthiness'), and sustainable transformation toward an AI society ('Collaborate with AI'). The plan was to be reviewed as needed, in principle annually. The Cabinet Office now lists it under past plans, replaced by the Second AI Basic Plan of 14 July 2026.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Cabinet Office, www8.cao.go.jp)."
-        }
-      ]
-    },
-    {
-      "id": "JP-ACD-BASIC-POLICY-2025",
-      "jurisdiction": "Japan",
-      "regulator": "Cabinet (閣議決定) · Cabinet Office (Minister of State for Cyber Security)",
-      "title": "重要電子計算機に対する特定不正行為による被害の防止のための基本的な方針 (Basic Policy for the Prevention of Damage from Specified Unauthorized Acts against Important Computers)",
-      "instrumentType": "Statutory basic policy",
-      "status": "Adopted policy",
-      "publicationDate": "2025-12-23",
-      "effectiveDate": "—",
-      "topic": "Cybersecurity · active cyber defense · critical infrastructure · incident reporting",
-      "sourceUrl": "https://www.cao.go.jp/cybersecurity/pdf/kihonhoushin.pdf",
-      "summary": "The Cabinet-approved basic policy required by Article 3(1) of Japan's Act on the Prevention of Damage from Unauthorized Acts against Important Computers (Act No. 42 of 2025, the 'active cyber defense' law). It sets the basic approach to running the law. Topics include agreements with operators to obtain communications information; the government's handling of that information, with respect for the secrecy of communications and oversight by the Cyber Communications Information Supervisory Commission; and notification of specified important computers and reporting of specified incidents by special social infrastructure operators. It also covers analysis and sharing of threat and vulnerability information with government bodies, foreign governments, operators and vendors, the new public–private council, and links with access and neutralisation measures. The policy is to be reviewed flexibly as the system is reviewed.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (Cabinet Office, www.cao.go.jp)."
-        }
-      ]
-    },
-    {
-      "id": "EU-AIO-GPAI-GUIDELINES-2025",
-      "jurisdiction": "European Union",
-      "regulator": "European Commission (AI Office)",
-      "title": "Guidelines on the scope of obligations for providers of general-purpose AI models under the AI Act",
-      "instrumentType": "Commission guidelines",
-      "status": "Guidance",
-      "publicationDate": "2025-07-18",
-      "effectiveDate": "—",
-      "topic": "AI Act · general-purpose AI · GPAI obligations",
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
-      "summary": "Commission guidelines on the scope of the AI Act's obligations for providers of general-purpose AI models, issued before those obligations started to apply on 2 August 2025. They are available in all 24 EU official languages, together with the Commission Communication approving their content. Commission guidelines under the AI Act are non-binding interpretation.",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
-        }
-      ]
-    },
-    {
       "id": "CYBERLAW-IT-ACN-DETERMINAZIONE-314287-2026-PIATTAFORMA-NIS",
       "jurisdiction": "Italy",
       "regulator": "National Cybersecurity Agency (ACN) – Director General",
@@ -4597,6 +4483,25 @@
       ]
     },
     {
+      "id": "JP-AI-BASIC-PLAN-2026",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet (閣議決定) · Cabinet Office, Artificial Intelligence Strategic Headquarters",
+      "title": "人工知能基本計画 ～日本ＡＸ、より強く、より豊かに～ (Japan's Second Artificial Intelligence Basic Plan — Japan AI Transformation; A Stronger Nation. Greater Prosperity. —)",
+      "instrumentType": "National AI strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2026-07-14",
+      "effectiveDate": "—",
+      "topic": "AI · national strategy · agentic AI · AI governance",
+      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
+      "summary": "Japan's Second AI Basic Plan, adopted by Cabinet decision on 14 July 2026 and now the current plan under the AI Promotion Act; it revises the first plan of 23 December 2025. It responds to the rapid spread of agentic AI. It sets four principles: promoting innovation while mitigating risks; trial, learning and iteration; agile response; and integrated domestic and international policies. It sets four strategic pillars: accelerate AI deployment, strengthen AI development capabilities, lead AI governance, and build an AI-powered society. Under 'responsible agile governance' it relies on the AI Safety Institute for technical evaluation of AI models and calls for collecting and sharing AI vulnerability and incident information. It is government policy and creates no new legal obligations for businesses; the plan is to be reviewed as needed, in principle annually.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Cabinet Office, www8.cao.go.jp)."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-13928",
       "jurisdiction": "United States · Federal",
       "regulator": "Labor Department, Labor Statistics Bureau",
@@ -4858,6 +4763,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "KR-PIPC-SAFETY-MEASURES-STANDARD-2026",
+      "jurisdiction": "South Korea",
+      "regulator": "Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
+      "title": "개인정보의 안전성 확보조치 기준 (개인정보보호위원회고시 제2026-9호, 2026. 7. 1., 일부개정) (Standards for Measures to Ensure the Safety of Personal Information, PIPC Notice No. 2026-9)",
+      "instrumentType": "Regulatory notice (고시)",
+      "status": "In force",
+      "publicationDate": "2026-07-01",
+      "effectiveDate": "2026-07-01",
+      "topic": "Privacy · security safeguards · vulnerability testing",
+      "sourceUrl": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000281400",
+      "summary": "PIPC's binding notice setting the minimum technical, managerial and physical safeguards that personal information handlers must apply under Article 29 of the Personal Information Protection Act and its Enforcement Decree. Examples are internal management plans, access rights and controls, encryption, access logs, malware prevention and destruction. The partial amendment of 1 July 2026 (Notice No. 2026-9) responds to hacking-driven leaks in the public sector. It requires public-system operating institutions to run vulnerability checks and penetration tests by external specialists at least once a year for each public system, fix findings without delay, and include this in their internal management plans. Article 15(5) and Article 18 apply from 1 January 2027; the rest took effect on 1 July 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Personal Information Protection Commission via the National Law Information Center, www.law.go.kr)."
         }
       ]
     },
@@ -8145,6 +8069,63 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "JP-CYBERSECURITY-STRATEGY-2025",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet (閣議決定) · Cabinet Secretariat, National Cybersecurity Office (国家サイバー統括室, NCO)",
+      "title": "サイバーセキュリティ戦略 (Cybersecurity Strategy), Cabinet decision of 23 December 2025",
+      "instrumentType": "National cybersecurity strategy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-12-23",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · national strategy · active cyber defense",
+      "sourceUrl": "https://www.cyber.go.jp/pdf/policy/kihon-s/cs_strategy2025.pdf",
+      "summary": "Japan's national Cybersecurity Strategy under the Basic Act on Cybersecurity, adopted by Cabinet decision on 23 December 2025 and reported to the Diet. It sets goals and implementation policies for about the next five years along three axes. The first is defence and deterrence against intensifying cyber threats, with the state playing a pivotal role, including active cyber defence under the 2025 Cyber Response Capability Enhancement Act and public–private and international cooperation. The second is stronger cybersecurity and resilience across society, covering government agencies, critical infrastructure, local governments, supply chains and SMEs. The third is an ecosystem for cyber talent and technology. It also addresses risks from AI and quantum technology. It is the first strategy since the 2025 reorganisation of the Cybersecurity Strategic Headquarters and the creation of the National Cybersecurity Office.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (National Cybersecurity Office, Cabinet Secretariat, www.cyber.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "JP-AI-BASIC-PLAN-2025",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet (閣議決定) · Cabinet Office, Artificial Intelligence Strategic Headquarters",
+      "title": "人工知能基本計画 ～「信頼できるＡＩ」による「日本再起」～ (Artificial Intelligence Basic Plan — “Japan Rebooted” through “Trustworthy AI” —)",
+      "instrumentType": "National AI strategy",
+      "status": "Superseded",
+      "publicationDate": "2025-12-23",
+      "effectiveDate": "—",
+      "topic": "AI · national strategy · AI governance",
+      "sourceUrl": "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20251223.pdf",
+      "summary": "Japan's first AI Basic Plan, adopted by Cabinet decision on 23 December 2025 under Article 18(1) of the AI Promotion Act (Act No. 53 of 2025). It sets three principles: promoting innovation while mitigating risks, an agile methodology, and integrated domestic and international policies. It also sets four basic policies: accelerating AI deployment ('Adopt AI'), strategically strengthening AI development capabilities ('Create AI'), leading AI governance ('Enhance AI Trustworthiness'), and sustainable transformation toward an AI society ('Collaborate with AI'). The plan was to be reviewed as needed, in principle annually. The Cabinet Office now lists it under past plans, replaced by the Second AI Basic Plan of 14 July 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Cabinet Office, www8.cao.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "JP-ACD-BASIC-POLICY-2025",
+      "jurisdiction": "Japan",
+      "regulator": "Cabinet (閣議決定) · Cabinet Office (Minister of State for Cyber Security)",
+      "title": "重要電子計算機に対する特定不正行為による被害の防止のための基本的な方針 (Basic Policy for the Prevention of Damage from Specified Unauthorized Acts against Important Computers)",
+      "instrumentType": "Statutory basic policy",
+      "status": "Adopted policy",
+      "publicationDate": "2025-12-23",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · active cyber defense · critical infrastructure · incident reporting",
+      "sourceUrl": "https://www.cao.go.jp/cybersecurity/pdf/kihonhoushin.pdf",
+      "summary": "The Cabinet-approved basic policy required by Article 3(1) of Japan's Act on the Prevention of Damage from Unauthorized Acts against Important Computers (Act No. 42 of 2025, the 'active cyber defense' law). It sets the basic approach to running the law. Topics include agreements with operators to obtain communications information; the government's handling of that information, with respect for the secrecy of communications and oversight by the Cyber Communications Information Supervisory Commission; and notification of specified important computers and reporting of specified incidents by special social infrastructure operators. It also covers analysis and sharing of threat and vulnerability information with government bodies, foreign governments, operators and vendors, the new public–private council, and links with access and neutralisation measures. The policy is to be reviewed flexibly as the system is reviewed.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Cabinet Office, www.cao.go.jp)."
+        }
+      ]
+    },
+    {
       "id": "CYBERSTANDARD-IEC-62443",
       "jurisdiction": "Cross-country standards reference",
       "showInCountryFilters": true,
@@ -9918,6 +9899,25 @@
         {
           "date": "2026-11-08",
           "change": "Added using the official iGA policy PDF; status classified as adopted policy."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIO-GPAI-GUIDELINES-2025",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office)",
+      "title": "Guidelines on the scope of obligations for providers of general-purpose AI models under the AI Act",
+      "instrumentType": "Commission guidelines",
+      "status": "Guidance",
+      "publicationDate": "2025-07-18",
+      "effectiveDate": "—",
+      "topic": "AI Act · general-purpose AI · GPAI obligations",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
+      "summary": "Commission guidelines on the scope of the AI Act's obligations for providers of general-purpose AI models, issued before those obligations started to apply on 2 August 2025. They are available in all 24 EU official languages, together with the Commission Communication approving their content. Commission guidelines under the AI Act are non-binding interpretation.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
         }
       ]
     },
