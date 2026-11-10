@@ -1,6 +1,6 @@
 # Weekly public-law curation pipeline
 
-Use this process when the weekly curation workflow runs. Work from the checked-out `master` snapshot, create a new branch, and make a reviewable pull request. Do not push to `master` or deploy directly.
+Use this process when the weekly curation workflow runs. Work from the checked-out `master` snapshot and prepare a reviewable pull request. The Grok GitHub Actions workflow publishes its prepared files on `grok/weekly-curation`; a standalone run must create a new branch. Never push to `master`, merge a pull request, or deploy directly.
 
 ## Research
 
@@ -22,5 +22,5 @@ Use this process when the weekly curation workflow runs. Work from the checked-o
 1. Update `data.json` using its existing record structure. Keep source references and catalog attribution current. Update ingestion code or source documentation only when a repeatable source check needs to change.
 2. Create `reports/weekly/curation-YYYY-MM-DD.md` for the UTC date of the run. Report records added, materially changed, or checked without a change; include jurisdiction, title, status, primary source link, and a short note on verification. State which jurisdictions or feeds could not be checked and any coverage limitations. If no material records changed, make that explicit.
 3. Validate the JSON, unique record IDs, required source links for additions, change-history entries for updates, and that standards are not labeled as laws. Review `git diff` for accidental deletions, unrelated edits, fabricated dates, or unsupported status changes.
-4. Create a branch named `weekly-curation/YYYY-MM-DD` (append the workflow run number if it already exists), commit only the curation update and report, push that branch, and open a pull request against `master`. The PR title and description must summarize the number of additions and material updates, note major source and coverage limits, and link the report. Never merge the PR or trigger a deployment.
+4. For the Grok workflow, leave branch creation, commit, push, and pull-request creation to `.github/workflows/grok-weekly-curation.yml`; write the dated report and `reports/weekly/latest.md` for that action. For a standalone run, create `weekly-curation/YYYY-MM-DD` (append the workflow run number if it already exists), commit only the curation update and report, push that branch, and open a pull request against `master`. The PR title and description must summarize the number of additions and material updates, note major source and coverage limits, and link the report. Never merge the PR or trigger a deployment.
 5. If research cannot verify an item, exclude it from the legal register and describe the limitation in the report instead of presenting it as fact.
