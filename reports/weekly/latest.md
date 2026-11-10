@@ -1,243 +1,177 @@
-# Grok weekly curation report — 2026-11-10
+# Weekly curation report — 2026-11-10 (verified research pass of 9 November 2026)
 
-Research window: after 2026-11-09 through 2026-11-10 (UTC). Automated research is bounded; this report is not an exhaustive inventory and is not legal advice.
+Verifier: Dashboard Verifier. Candidate package: Dashboard Researcher research pass dated 9 November 2026 (America/Chicago), 60 candidates (56 new, 4 updates). Every candidate was checked against its official source by the verifier; research notes were not treated as proof. This report is not legal advice and the search was bounded, so it is not an exhaustive inventory.
 
 ## Results
 
-- Verified additions proposed: **0**
-- Material updates proposed: **0**
-- Candidates held out of the register: **0**
-- All changes are submitted for human review; this workflow does not merge or deploy.
+- Records added: **26**
+- Existing records materially changed: **3**
+- Candidates needing review (not added): **28**
+- Candidates rejected (not added): **3**
+- New official sources added to the sources list: **27**
+- No record was deleted, marked inactive, or given a US-FR-, CYBERLAW- or CYBERSTANDARD- id. This change is submitted for human review; it does not merge or deploy.
 
-## Added
+## Records added
 
-No new instrument met the source, evidence, and deduplication checks in this run.
+| id | jurisdiction | status | published | effective | official source |
+| --- | --- | --- | --- | --- | --- |
+| AU-RAPID-REVIEW-AI-CYBER-INCIDENT-2026 | Australia | Adopted policy | 2026-11-10 | — | [Department of the Prime Minister and Cabinet (with National Cyber Security Coordinator, Office of AI, ASD, Australian AI Safety Institute, Services Australia)](https://www.pmc.gov.au/resources/rapid-review-australian-government-arrangements-ai-driven-cyber-incident/rapid-review-australian-government-arrangements-ai-driven-cyber-incident-recommendations) |
+| AU-FRONTIER-AI-SAFETY-PROTECTIONS-2026 | Australia | Adopted policy | 2026-11-10 | — | [Australian Government · Prime Minister; Minister for Industry and Innovation; Minister for Home Affairs and Cyber Security; Minister for Defence](https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections) |
+| US-NIST-SP2400-102-AML-2026 | United States · Federal | Consultation | 2026-11-09 | — | [National Institute of Standards and Technology (NIST), Information Technology Laboratory / Computer Security Resource Center](https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd) |
+| KR-PIPC-SMART-GLASSES-ADVISORY-2026 | South Korea | Guidance | 2026-11-09 | — | [Personal Information Protection Commission (PIPC), New Technology Personal Information Division](https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12628) |
+| AU-DIGITAL-DUTY-OF-CARE-BILL-2026 | Australia | Proposed | 2026-10-15 | — | [Parliament of Australia · Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts / eSafety Commissioner](https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r7553) |
+| US-CA-SB947-2026 | United States · California | Enacted | 2026-09-30 | 2027-07-01 | [California Legislature / Governor / Labor Commissioner](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB947) |
+| AU-OAIC-ADM-TRANSPARENCY-GUIDANCE-2026 | Australia | Guidance | 2026-09-30 | — | [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/news/media-centre/new-resources-on-transparency-for-use-of-ai-and-automated-decision-making) |
+| AU-AI-INFRA-STANDARDS-CONSULTATION-2026 | Australia | Consultation | 2026-09-17 | — | [Department of the Prime Minister and Cabinet · Office of AI](https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia) |
+| AU-PRIVACY-PDP-BILL-ED-2026 | Australia | Consultation | 2026-08-31 | — | [Attorney-General's Department](https://consultations.ag.gov.au/rights-and-protections/privacy-reform/) |
+| US-CO-AG-ADMT-CHATBOT-RULES-2026 | United States · Colorado | Consultation | 2026-08-11 | — | [Colorado Department of Law (Attorney General)](https://coag.gov/ai/) |
+| AU-AI-CONSUMER-SAFETY-PRIORITIES-2026 | Australia | Adopted policy | 2026-07-20 | — | [Australian Government · Attorney-General; Ministers for Communications, Employment and Workplace Relations, Industry and Innovation; Assistant Ministers (Treasury; Science, Technology and Digital Economy)](https://ministers.ag.gov.au/media-centre/ai-consumer-safety-priorities-20-07-2026) |
+| US-RI-H7350-2026 | United States · Rhode Island | Enacted | 2026-06-22 | 2027-01-01 | [Rhode Island General Assembly](https://webserver.rilegislature.gov/PublicLaws/law26/law26375.htm) |
+| US-NY-A9581-2026 | United States · New York | Proposed | 2026-06-04 | — | [New York State Legislature / Department of Labor](https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A09581&term=2025&Summary=Y&Actions=Y&Text=Y) |
+| US-NY-A6578-2026 | United States · New York | Proposed | 2026-06-04 | — | [New York State Legislature](https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06578&term=2025&Summary=Y&Actions=Y&Text=Y) |
+| US-CO-HB26-1139-2026 | United States · Colorado | Enacted | 2026-06-02 | 2027-01-01 | [Colorado General Assembly / Division of Insurance](https://leg.colorado.gov/bills/hb26-1139) |
+| US-GA-SB540-2026 | United States · Georgia | Enacted | 2026-05-11 | 2027-07-01 | [Georgia General Assembly / Attorney General](https://www.legis.ga.gov/legislation/73452) |
+| US-GA-SB444-2026 | United States · Georgia | Enacted | 2026-05-05 | 2027-01-01 | [Georgia General Assembly / Department of Insurance](https://www.legis.ga.gov/legislation/72666) |
+| US-IA-SF2417-2026 | United States · Iowa | Enacted | 2026-05-02 | 2026-07-01 | [Iowa General Assembly / Attorney General](https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF%202417&ga=91) |
+| US-OR-SB1546-2026 | United States · Oregon | Enacted | 2026-03-31 | 2027-01-01 | [Oregon Legislative Assembly](https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546) |
+| US-ID-S1297-2026 | United States · Idaho | Enacted | 2026-03-31 | 2027-07-01 | [Idaho Legislature](https://legislature.idaho.gov/sessioninfo/2026/legislation/S1297/) |
+| US-WA-HB2225-2026 | United States · Washington | Enacted | 2026-03-24 | 2027-01-01 | [Washington State Legislature / Attorney General](https://app.leg.wa.gov/billsummary?BillNumber=2225&Year=2026) |
+| AU-DATA-CENTRE-AI-EXPECTATIONS-2026 | Australia | Adopted policy | 2026-03-23 | — | [Department of Industry, Science and Resources](https://www.industry.gov.au/publications/expectations-data-centres-and-ai-infrastructure-developers) |
+| US-ID-S1227-2026 | United States · Idaho | In force | 2026-03-19 | 2026-07-01 | [Idaho Legislature / State Board of Education](https://legislature.idaho.gov/sessioninfo/2026/legislation/S1227/) |
+| AU-AI-SAFETY-INSTITUTE-2025 | Australia | Adopted policy | 2025-11-25 | — | [Department of Industry, Science and Resources · Australia's AI Safety Institute](https://www.industry.gov.au/news/australia-establish-new-institute-strengthen-ai-safety) |
+| AU-COPYRIGHT-AI-NO-TDM-2025 | Australia | Adopted policy | 2025-10-26 | — | [Attorney-General's Department](https://ministers.ag.gov.au/media-centre/albanese-government-ensure-australia-prepared-future-copyright-challenges-emerging-ai-26-10-2025) |
+| US-IL-HB3773-2024 | United States · Illinois | In force | 2024-08-09 | 2026-01-01 | [Illinois General Assembly / Illinois Department of Human Rights / Human Rights Commission](https://ilga.gov/ftp/legislation/103/BillStatus/HTML/10300HB3773.html) |
 
-## Material updates
+## Materially changed
 
-No existing record passed the material-change checks.
+- **US-CO-SB26-189-2026**: changed title, effectiveDate, summary. Verified against Colorado Session Laws ch. 131 (SB 26-189), Section 5: the act takes effect 1 January 2027 except the rulemaking, insurance-rule, and appropriation provisions, which took effect on passage (14 May 2026). Effective date, title, and summary updated.
+- **US-NY-S8828-2026**: changed effectiveDate, sourceUrl, summary. Verified against the nyassembly.gov bill page and text for S 8828 (signed Chapter 96, 27 March 2026): Section 3 sets the 2025 RAISE Act chapter (Ch. 699 of 2025) to take effect 1 January 2027. Effective date and summary updated; source URL changed to the Assembly bill page.
+- **US-NY-S9051-2026**: changed title, effectiveDate, summary. Verified against the nyassembly.gov bill page (SIGNED CHAP.368, 10/28/2026; approval memo 6) and bill text: takes effect 1 January 2027. Chapter number added to the title; effective date and summary updated.
 
-## Coverage checked
+## Checked without change
 
-- **United States · Federal Register and public inspection** — checked: No 10 November 2026 issue was published on federalregister.gov or govinfo. Public inspection showed a US-China Economic and Security Review Commission meeting notice scheduled for 10 November; it is not an AI, cyber, or privacy instrument.
-- **United States · CISA and NIST** — checked: CISA news listing opened; latest listed release was 5 November 2026. NIST’s adversarial-machine-learning draft is dated 9 November 2026, outside this window.
-- **European Union · Official Journal L and C, 10 November 2026** — checked: Both series were opened. Acts were plant health, animal-origin imports, medical-device standards on sterilization and related product topics, electrical equipment protection, Switzerland statistics, civil-protection preparedness guidance, exchange rates, and a geographical-indication amendment. None is an AI, cybersecurity, cybercrime, or data-protection instrument.
-- **Australia · Prime Minister media listing** — checked: pm.gov.au/media opened; latest item was 9 November 2026. Secondary reports of a 10 November AI-incident review response were not found on an official issuer page.
-- **China · CAC news listing** — checked: Latest listed in-scope notice was 9 November 2026 (new-technology filing system). No 10 November instrument was listed.
-- **United Kingdom · legislation.gov.uk** — checked: No AI, cybersecurity, or data-protection instrument dated 10 November 2026 was identified.
-- **Canada · Gazette and consolidated laws** — checked: No 10 November 2026 cyber, privacy, or AI instrument was identified. Gazette results indexed through 7 November.
-- **Republic of Korea · PIPC** — checked: Homepage latest releases were late October 2026. No 10 November instrument identified.
-- **Singapore · MDDI** — checked: No 10 November 2026 AI, cyber, or privacy instrument identified in the newsroom search.
-- **Brazil · Diário Oficial highlights** — checked: Latest highlights shown were 9 November 2026 and were not in scope.
-- **India · eGazette search** — checked: No 10 November 2026 AI, cyber, or data-protection instrument verified.
-- **Japan · Prime Minister’s Office cybersecurity meetings** — checked: Emergency cybersecurity package meeting was 6 November 2026, outside this window.
-- **Standards · ISO/IEC and NIST** — checked: No standard verified as newly published on 10 November 2026. ISO/IEC 27090 is already in the register.
+- **US-CO-SB24-205**: proposed change to Superseded was rejected (see below); the record stays Enacted with its existing sb24-205 source URL.
+- **CN-ALG-RECOMMEND-2022, CN-DEEP-SYNTH-2023, CN-GENAI-2023**: checked against the CAC notice of 9 November 2026 on the unified filing system at beian.cac.gov.cn. No field changed; the notice creates no new duties. A dated history note on each is suggested for a future pass but was not applied because these records were not proposed as updates.
+
+## Needs review (not added)
+
+- **AU-AI-STANDARDS-INTERESTS-2026** — AI in Australia's interests: effectiveDate 2026-07-15 is supported only for establishment of the Office of AI ("Effective today"), not for the announced AI Standards themselves; whether to carry it as the record effectiveDate is a judgment call (recommend "—").; All other fields verified.
+- **CN-CAC-NEW-TECH-FILING-SYSTEM-2026** — Notice on the Launch of the Internet New Technology and New Application Information Service Filing System (关于互联网新技术新应用信息服务备案系统上线的通告): Official notice verified, but it is only a procedural launch of a unified filing system (no new duties); per flag, prefer dated history notes on CN-ALG-RECOMMEND-2022, CN-DEEP-SYNTH-2023 and CN-GENAI-2023 instead of a standalone record.; Status "Adopted policy" is a poor fit for an administrative system-launch notice.; Summary statement that filing duties come from the named CAC rules is not in the notice (inference).
+- **US-IL-SB315-2026** — Artificial Intelligence Safety Measures Act (SB 315, Public Act 104-0538): Signing (7/06/2026), PA 104-0538, effective 1 Jan 2027 and most duties verified in official text.; Summary misstates the 24-hour rule: Sec. 15(c) requires disclosure within 24 hours to an appropriate authority (e.g. law enforcement or a public-safety agency), not to IEMA-OHS and the Attorney General.
+- **US-NY-S8831-2026** — Automated employment decision-making tools and AI systems used by state and local public entities (S 8831 / A 9487, Chapter 86 of 2026): Chapter 86 signing on 13 Feb 2026 and the substance are verified.; effectiveDate '—' although the text gives a determinable date: § 18 'take effect immediately' (13 Feb 2026), with §§ 1-16 timed to Chapter 711 of 2025. Chapter 711 was signed 19 Dec 2025 and, as amended, takes effect immediately. In force is plausible, but the date is a judgment call.
+- **US-NY-A9349-2026** — Surveillance pricing prohibition, 'One Fair Price' (A 9349-B / S 8623-B): Passage on 4 June 2026, no delivery to the Governor, and the 180-day effective clause are verified.; The title's nickname 'One Fair Price' does not appear on the official bill page, text, or sponsor memo (nysenate.gov not checked).
+- **US-WA-HB1170-2026** — Informing users when content is developed or modified by artificial intelligence (E2SHB 1170, Chapter 167, 2026 Laws): Dates and chapter are verified (signed 24 Mar 2026; ch. 167; effective 1 Feb 2027), and the substance matches the session law.; The summary as written includes a research caveat ('Detailed obligations come from the bill title and secondary descriptions; check them against the session law'). That is unsuitable as published text and not grounded in an official source. It needs an editorial fix, not a correction of facts.
+- **US-HI-SB3001-2026** — Artificial Intelligence Disclosure and Safety Act (SB 3001 SD2 HD3 CD1, Act 248): Gov. Msg. 1350: signed into law July 14, 2026 as Act 248. Substance and In force status verified.; effectiveDate is '—', but SECTION 7 says 'This Act shall take effect upon its approval' and approval is officially dated 14 July 2026. An official date exists, so under the brief the '—' fails. Suggested effectiveDate: 2026-07-14.
+- **US-HI-HB2137-2026** — Relating to Artificial Intelligence — realistic digital imitations (HB 2137 HD3 SD2 CD1, Act 247): Gov. Msg. 1349: signed into law July 14, 2026 as Act 247. Substance and In force status verified.; effectiveDate is '—', but SECTION 5 says 'This Act shall take effect upon its approval' and approval is officially dated 14 July 2026. An official date exists, so under the brief the '—' fails. Suggested effectiveDate: 2026-07-14.
+- **US-RI-H7349-2026** — Oversight of Artificial Intelligence Technology in Mental Health Care Act (H 7349 Sub A, P.L. 2026 ch. 373; S 2197 Sub A, ch. 374): Chapters 373 (H 7349) and 374 (S 2197) were both 'Enacted 06/22/2026' and take effect 'upon passage'; In force is correct.; effectiveDate '—' although the official enactment date (2026-06-22) is the operative date.; The summary as written cites 'secondary sources' and asks for a check. The official text does contain written consent requirements and a ban on 'independent therapeutic decisions', so the sentence can be rewritten from the text.
+- **US-RI-H7538-2026** — Use of Artificial Intelligence by Healthcare Providers Notification Act (H 7538 Sub A, P.L. 2026 ch. 199; S 2570 Sub A, ch. 372): Chapters 199 (H 7538) and 372 (S 2570) were both 'Enacted 06/22/2026', effective 'upon passage'. Substance and In force status are verified.; effectiveDate '—' although the official enactment date (2026-06-22) is the operative date.
+- **US-VT-H816-2026** — An act relating to regulating the use of artificial intelligence in the provision of mental health services (H.816, Act 156): Act 156 as enacted: 'This act shall take effect on passage'; 'Date Governor signed bill: June 17, 2026'. Substance and In force status are verified.; effectiveDate '—' although the official signing date gives the operative date (2026-06-17).
+- **US-VT-H814-2026** — An act relating to neurological rights and the use of artificial intelligence technology in health and human services (H.814, Act 101): Act 101 as enacted: 'This act shall take effect on passage'; 'Date Governor signed bill: May 18, 2026'. Substance and In force status are verified.; effectiveDate '—' although the official signing date gives the operative date (2026-05-18).
+- **US-VA-SB394-2026** — Artificial intelligence system use and safety in instructional settings; AIS Innovation in Education Pilot Program (SB 394, Acts 2026 ch. 943; HB 1186, ch. 937): The PDF opened and is the official-format 'VIRGINIA ACTS OF ASSEMBLY - 2026 SESSION, CHAPTER 943 ... [S 394] Approved April 13, 2026'. Its substance matches § 22.1-20.2:1 and the pilot expiry on 1 July 2030.; Host lis.blob.core.windows.net is LIS's Azure blob storage, not a .gov domain. I could not open the lis.virginia.gov bill page (JavaScript-only) to confirm it links this file.; Status 'Enacted' with '—' is questionable. The chapter has no special effective clause, so under Virginia's default rule (1 July after a regular session) it would already be in force. I did not confirm that date from an official page.; The summary cites 'secondary sources' for companion HB 1186 = Chapter 937, which is not verified.
+- **US-IL-HB1806-2025** — Wellness and Oversight for Psychological Resources Act (HB 1806, Public Act 104-0054): Live ilga.gov page confirms approval 8/1/2025, effective August 1, 2025, Public Act 104-0054, but the candidate summary says the page 'could not be opened ... so check them before relying on them'. That caveat cannot be published; the summary needs rewriting.
+- **US-CA-SB1119-2026** — Companion chatbots: children's safety (Adam's Law) (SB 1119, Chapter 190, Statutes of 2026): Chapter 190 approved 9/10/26 confirmed on leginfo; §§ 21812, 21812.5 and 21813 become operative 1 July 2027, but the § 22602 amendment, the § 21811 age-assurance duty and the enforcement provisions carry no operative date (default 1 January 2027). effectiveDate 2027-07-01 for the whole act is a judgment call.
+- **US-CA-SB867-2026** — Toys: companion chatbots (SB 867, Chapter 189, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-SB813-2026** — Independent verification organizations (SB 813, Chapter 179, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-AB1405-2026** — Artificial intelligence: auditors: registration (AB 1405, Chapter 178, Statutes of 2026): Official text states the key operative date (§11549.82.5 'Beginning January 1, 2029, a person shall not offer, sell, or conduct a covered AI audit unless ... registered'), but the summary says that date comes from secondary sources and is unconfirmed; effectiveDate '—' while the text gives dated obligations.
+- **US-CA-SB951-2026** — Employment: technological displacement: notice (SB 951, Chapter 860, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-AB1883-2026** — Workplace surveillance tools (AB 1883, Chapter 853, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-AB1979-2026** — Health care services: artificial intelligence (AB 1979, Chapter 854, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-SB503-2026** — Health care services: artificial intelligence (SB 503, Chapter 857, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-AB2713-2026** — California AI Transparency Act: system provenance data (AB 2713, Chapter 856, Statutes of 2026): Official text states an operative date ('(e) This section shall become operative on January 1, 2027.') but candidate effectiveDate is '—'.
+- **US-CA-SB1000-2026** — California AI Transparency Act (SB 1000, Chapter 861, Statutes of 2026): Urgency statute confirmed (status 'Urgency'; Sec. 8 'shall go into immediate effect'), so it took effect on approval 2026-09-30; candidate is 'In force' but effectiveDate '—' — inconsistent when official text fixes immediate effect.
+- **US-CA-SB1159-2026** — Artificial intelligence: transparency and governance (SB 1159, Chapter 863, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CA-SB574-2026** — Attorneys, arbitrators, judicial officers, and alternative resolution providers (SB 574, Chapter 858, Statutes of 2026): Chapter and approval date confirmed on leginfo, but the official text states no operative date, so the California Constitution's default 1 January 2027 start for non-urgency statutes applies (the register records US-CA-SB53-2025 that way). The candidate leaves effectiveDate as '—' and its public summary says the effective date was 'not confirmed'. Needs a corrected effective date and summary before it can be added.
+- **US-CO-HB26-1263-2026** — Conversational AI Service Operator Requirements (HB 26-1263, Session Laws ch. 208): Session law ch.208 confirms 'Approved: May 29, 2026' and Sec. 3 effective date (Aug 12, 2026); bill history 'Governor Signed 05/29/2026'. Official sources conflict: coag.gov/ai says 'signed into law on July 1, 2026 and goes effect January 1, 2027'.; Summary says operator duties 'apply only on and after 1 January 2027', but 6-1-1708(2)'s age-estimation duty carries no date (arguably applies from 12 Aug 2026) and annual reporting starts 1 July 2027; Enacted vs In force for a law that took effect 12 Aug 2026 is a judgment call.
+- **US-PA-SB806-2026** — An Act providing for unfair methods of competition and for enforcement and penalties — AI-generated content in advertising (SB 806, Act 99 of 2026): Official text (PN 1808) read: takes effect in 60 days and is narrower than the summary (only advertising that creates a false consumer perception, with exceptions); summary relies on secondary sources and effectiveDate is '—'. Summary inaccuracy and a missing date are review issues, not grounds for rejection under the rules used for the Hawaii and Vermont candidates.
+
+## Rejected (not added)
+
+- **US-TN-SB1580-2026** — AI systems may not be represented as qualified mental health professionals (SB 1580 / HB 1470, Public Chapter 647): publicationDate 2026-04-06 and the summary's 'signed 6 April 2026' are wrong. The official page shows 'Signed by Governor. 04/01/2026'; 04/06/2026 is when Pub. Ch. 647 was assigned.; Other fields are verified (Pub. Ch. 647; effective 07/01/2026; In force).
+- **US-CO-SB24-205** — Consumer Protections for Artificial Intelligence (SB 24-205): Proposed status 'Superseded' is premature: SB 26-189 Sec. 5(1) says the act (incl. Sec. 1 repeal-and-reenactment of part 17) takes effect 1 Jan 2027; as of 9/10 Nov 2026 the SB 24-205 text of part 17 has not yet been displaced.; sourceUrl change to https://leg.colorado.gov/bills/sb26-189 would point this record at a different instrument (same URL as existing US-CO-SB26-189-2026).
+- **US-CT-SB5-2026** — An Act Concerning Online Safety (Substitute SB 5, Public Act 26-15): publicationDate 2026-06-02 is wrong: Public Act 26-15 PDF says 'Governor's Action: Approved May 27, 2026' and the CGA bill status page shows '5/27/2026 Signed by the Governor'.
+
+## Unconfirmed leads (not added)
+
+- Policy for the responsible use of AI in government - Version 2.0 (Digital Transformation Agency): digital.gov.au and dta.gov.au returned HTTP 500 to WebFetch, and curl failed to connect, so the title, publication date and effective date could not be read on an official page.
+- Australian AI Safety Institute operational start date: The official DISR pages opened give no operational date; the date was left blank in AU-AI-SAFETY-INSTITUTE-2025.
+- Joint Select Committee on Artificial Intelligence: 'interim report recommendations' / Letter of the committee to the Prime Minister 12 October 2026: The letter was not opened and is a committee communication rather than a government instrument. No interim report is listed on APH.
+- Secondary-press claims about the 10 November 2026 announcements (Reuters, Guardian, ABC, AAP, AFP, unite.ai): Only the official releases and the PM&C recommendations page were relied on. The full review report has not been published on an official page.
+- State data centre / AI infrastructure measures (NSW Data Centre Guidelines, Aug 2026; South Australia proposed Data Centre and AI Infrastructure legislation; ACT Data Centre Framework): No state page was opened to confirm titles or dates. These are planning and infrastructure measures rather than clearly material state AI statutes, and the SA legislation has not been introduced according to search results.
+- U.S. Federal Register issue of 10 November 2026: 
+- PIPC smart-glasses in-depth analysis report (스마트 글래스 심층보고서, '26.11월) and forthcoming PIPC smart-glasses privacy guideline: 
+- None: ilga.gov could not be opened directly from this environment; the date is included in the candidate record but flagged
+- None: No official statement on the interim period was found
+- None: Official sources conflict; the candidate uses the session law date
+- None: cga.ct.gov bill status page timed out; the candidate uses the release date
+- None: Final text not read; the 'AI Deceptive Advertising Act' description comes from a secondary source
+- None: The official title does not mention AI and the AI-specific provisions were not checked in the text
+- None: The AI provisions and their applicability dates were not read in the enrolled text
+- None: leginfo status pages for these bills were not opened
+- None: EO numbers, texts, and dates were not opened
+- None: Not opened at official sources this run
+- None: Bill number and veto not checked on azleg.gov
+
+## Ingest-feed note
+
+- Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global (Financial Crimes Enforcement Network (FinCEN), Treasury, document 2026-22962), [public inspection](https://www.federalregister.gov/public-inspection/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global). Left to the official Federal Register ingest workflow; no US-FR- record was added by hand.
+
+## Official feeds reviewed, nothing proposed
+
+- Federal Register public inspection for 10 Nov 2026: remaining 108 filings: No AI, cybersecurity, privacy or data-protection instrument found. The filings were CMS, SEC, FAA, EPA, FERC, NIH, USTR, ITA, DEA and others. Items checked and not in scope: DoD 'Removal of Designated Chinese Military Company' (2026-22840), NCRPA notices for TM Forum, Blockchain Security Standards Council, Rust Foundation and others (2026-22893 to 2026-22915; antitrust filings, not instruments), the US-China Economic and Security Review Commission meeting (2026-22856), and the PCAST meeting cancellation (2026-22918). Any of these belong to US-FR- ingest anyway.
+- EU OJ L and C, 10 Nov 2026: Confirms the prior run. The L series had plant health (Delegated Reg. 2026/1830), animal-origin import lists (Impl. Reg. 2026/2523), harmonised standards decisions 2026/2479–2481 (medical devices/sterilisation, equipment protection), EU–Switzerland statistics Decision 1/2026 and corrigenda. The C series had the Guidelines on Population Preparedness and a GI amendment. None is in scope.
+- EU OJ L and C, 9 Nov 2026: Biocidal authorisation, PDO cancellation, professional-qualifications delegated decision, EPSO notice and CJEU/General Court judgments. None is in scope.
+- CISA: 'CISA Announces Enhanced Reporting Form for Cyber Incidents' (press release, November 09, 2026) and 'Cyber Incident Reporting Form: Frequently Asked Questions' (Publish Date November 09, 2026): This updates CISA's Incident Reporting Portal questionnaire (more granular incident-type questions, MITRE ATT&CK mapping). It is an operational tool, not a new legal or guidance instrument. Mandatory reporting for federal civilian agencies still rests on existing BODs under FISMA and OMB M-25-04 and M-17-12, and reporting stays voluntary for everyone else. It could be added as a history note if the register tracks federal incident-reporting mechanisms. It is not the CIRCIA final rule.
+- CISA KEV alert, 9 Nov 2026 ('CISA Adds Four Known Exploited Vulnerabilities to Catalog'): Routine catalog update, not an instrument. Seen in the prior run's citations and in the CISA listing.
+- UK: The Data (Use and Access) Act 2025 (Commencement No. 10) Regulations 2026 (S.I. 2026/1167), made 4th November 2026: This brings ss. 61–65 of the Data (Use and Access) Act 2025 into force on 9 November 2026. Those sections cover electronic births and deaths registers and civil registration, not data-protection provisions. It was made before the window, and its subject is civil registration, not data protection, AI or cyber. data.json has no standalone DUAA 2025 record to update. The related Registration of Births and Deaths (Amendment) Regulations 2026 (S.I. 2026/1172) and (Specified Requirements) Regulations 2026 (S.I. 2026/1168) are likewise civil-registration measures.
+- UK legislation.gov.uk new legislation, 5–9 Nov 2026 (other items): Scottish air departure tax, trunk-road orders, Children's Wellbeing and Schools Act commencement, strategic planning and renewables regulations. None is in scope.
+- GOV.UK publications dated 9–10 Nov 2026: No AI, cyber or data-protection regulator guidance found. Results included the Cabinet Office personal information charter, privacy notices, HMRC scam-contact guidance and tribunal decisions (including HM Treasury v Finch & Information Commissioner [2026] UKUT 406 (AAC), a case decision, not an instrument).
+- PIPC: '개인정보위, 민간과 함께 인공지능 침해 위협에 대응하는 보호체계 정착방안 모색' (2026-11-09): Report on a policy forum held with the Korea CPO Council on prevention-oriented protection and AI-driven threats. It is an event, not an instrument.
+- PIPC: '‘내 개인정보를 지키는 꿀팁’.. 개인정보위, 숏폼 콘텐츠 공모전 개최' (2026-11-10): Short-form video contest announcement. Not an instrument.
+- PIPC: '기술환경 변화 등을 알기 쉽게 반영한 안전조치 안내서 개정' (2026-11-04): Revised safety-measures guidebook. Possibly in scope, but dated before the 9–10 Nov window and not opened or deduplicated this run. Flagged for a future pass.
+- CISA: 'Managing AI Token Consumption for Operational Resilience' (resource page datetime 2026-10-22): Outside the window. No 'token consumption' record exists in data.json. Flagged for a future pass and not verified in depth.
+- China CAC listings, 5–9 Nov 2026 (other items): Enforcement or campaign news dated 6 Nov: AI impersonation of public figures crackdown, a financial 'black and grey industry' clean-up with NFRA, and a 'Qinglang' health-rumour campaign. These are outside the window and are enforcement actions or campaigns, not instruments. No CAC item dated 10 Nov was listed.
+- Canada Gazette Part I (7 Nov 2026; Extra No. 8 of 6 Nov) and Part II (4 Nov 2026): No issue dated 9–10 Nov exists. The contents of earlier issues were not reopened, as the prior run covered them.
+- Singapore MDDI newsroom: Latest dated items were 6 Nov 2026 (PQ responses, speeches). None dated 9–10 Nov.
+- Brazil DOU 9 Nov 2026, Section 1 and its extra edition: Keyword scan (AI, cybersecurity, personal data/LGPD/ANPD, information security, algorithms, digital platforms) matched only Decreto nº 13.159 (fuel tax rates), a false positive. Nothing in scope.
+- Japan Kantei actions, 6–9 Nov 2026: The latest cybersecurity item is the 2nd Ministerial Meeting on Cybersecurity of 6 Nov 2026, which is outside the window. The 9 Nov item is a courtesy call. Nothing in scope dated 9–10 Nov.
+- NIST news RSS: Latest item is 2 Nov 2026 (solopreneur CSF guide). No 9–10 Nov NIST news item. The SP 2400-102e2026 draft appears only on CSRC and is proposed above.
+
+## Jurisdictions, feeds and sources that could not be checked or were only partly checked
+
+- Some official sites block automated access (PM&C, DISR, OAIC, ParlInfo, leginfo.legislature.ca.gov, legis.ga.gov, lis.virginia.gov, coag.gov, nysenate.gov). Where that happened, pages were read through an alternative fetch or through official PDFs on another official host. Records whose official page could not be confirmed were not approved.
+- Colorado SB 25B-004 (the earlier delay of SB 24-205) could not be opened, so whether SB 24-205 duties have applied since 30 June 2026 was not re-confirmed.
+- KR PIPC smart-glasses analysis report was not opened; only the PIPC release was.
+- (australia) legislation.gov.au was not searched for new AI-specific Commonwealth legislative instruments or commencement instruments, and no Federal Register of Legislation gazette check was done.
+- (australia) The full Rapid Review report (the PM said it will be released) and any PSPF guidance issued under Recommendation 9 were not found or checked.
+- (australia) Treasury consultation on Australian Consumer Law options for retail surveillance pricing and agentic commerce (announced 20 July 2026) was not located on treasury.gov.au.
+- (australia) Attorney-General's framework for automated decision-making in federal agencies: no consultation or exposure draft was searched.
+- (australia) The CAIRG copyright and AI consultation paper (circulated to CAIRG participants after 28 Oct 2025) and any later AGD copyright/AI outcome were not checked.
+- (australia) Digital Duty of Care: the 26 Oct 2026 feedback summary and the 'My Feed, My Way' rule consultation were not opened, and the Senate committee report is due 20 Nov 2026.
+- (australia) Joint Select Committee on AI final report (due 30 Nov 2026) and its 12 Oct 2026 letter to the PM were not opened.
+- (australia) Sector regulators (APRA, ASIC, TGA, eSafety codes and standards, ACCC, Fair Work) were not scanned for AI guidance after 2025-10-21.
+- (australia) NAIC guidance after 2025-10-21 (for example the 'Being clear about AI-generated content' guide and the planned online platform) was not checked for publication dates.
+- (australia) State and territory AI instruments were not scanned (NSW AI Assessment Framework updates, Victorian and Queensland AI policies, SA data centre legislation, ACT Data Centre Framework).
+- (australia) DFAT/DISR 'Australian Government Strategy for International Engagement and Regional Leadership on Artificial Intelligence' (flagged in the National AI Plan) was not checked for publication.
+- (australia) AU-NAIP-2025 and AU-AI-ADOPTION-GUIDANCE-2025 were not re-opened for updates. The new records reference the National AI Plan but show no change to it. Note: AU-NAIP-2025 uses effectiveDate "" and AU-AI-ADOPTION-GUIDANCE-2025 uses null rather than the em dash convention.
+- (official-feeds-9-10-nov) India eGazette (egazette.gov.in): timed out from the box (curl) and from WebFetch. Not checked this run.
+- (official-feeds-9-10-nov) Brazil DOU 10 Nov 2026: edition not yet loaded at time of check (about 00:10 BRT). Only 9 Nov Section 1 and its extra edition were scanned, by keyword. Sections 2 and 3 were not scanned.
+- (official-feeds-9-10-nov) U.S. Federal Register 10 Nov 2026 published issue: not yet available. Only public inspection was reviewed.
+- (official-feeds-9-10-nov) EU Official Journal 11 Nov 2026: not yet issued.
+- (official-feeds-9-10-nov) Canada: no Gazette issue after 7 Nov (Part I) and 4 Nov (Part II). Justice Laws consolidated 'recent amendments' were not opened.
+- (official-feeds-9-10-nov) ISO/IEC: the SC 42 catalogue shows stages but no publication dates, and the SC 27 page returned 403 to curl, so it was not browsed. IEC, ETSI and CEN catalogs were not opened. No standard was verified as newly published on 9–10 Nov.
+- (official-feeds-9-10-nov) Japan: only the Prime Minister's Office actions pages were checked. The National Cybersecurity Office, the Cabinet Office AI pages and e-Gov were not opened.
+- (official-feeds-9-10-nov) UK: legislation.gov.uk new-legislation feed and GOV.UK search API only. ICO, NCSC and Ofcom sites were not opened directly.
+- (official-feeds-9-10-nov) Korea: PIPC press releases only. MSIT and KISA were not checked.
+- (official-feeds-9-10-nov) Singapore: MDDI newsroom only. CSA, PDPC and IMDA were not checked.
+- (us-states) {'item': 'States not searched at official sources this run', 'reason': 'Time-bounded run. Not searched: New Jersey, Massachusetts, Minnesota, Maryland (listed only as a lead), Florida, Arizona (veto lead only), Nevada, Michigan, Ohio, North Carolina, Kentucky, Arkansas, Montana, Nebraska, Kansas, Missouri, Indiana, Wisconsin, South Carolina, Alabama (lead only), Louisiana (leads only), Mississippi, Oklahoma, New Mexico, North Dakota, South Dakota, Alaska, New Hampshire, Delaware, West Virginia, Wyoming. None of this is evidence that no AI law exists in those states.'}
+- (us-states) {'item': '2025 enactments in states other than Illinois', 'reason': 'The scan centred on 2026 enactments via the USLege 2026 list. 2025 laws in other states (for example Nevada AB 406, Montana SB 212, Kentucky SB 4, Arkansas, Maine 2025, Utah 2025 amendments) were not checked.'}
+- (us-states) {'item': 'State regulator guidance and adopted policies (AG advisories, insurance bulletins, state CIO AI policies, executive orders)', 'reason': 'Not searched except the Colorado AG rulemaking page and the California EO mentions'}
+- (us-states) {'item': 'New York City (other than existing LL144)', 'reason': 'No NYC Council or DCWP AI items re-checked'}
+- (us-states) {'item': 'Utah and Texas 2026 amendments', 'reason': 'Utah 2026 laws (HB 320 and others) are listed only as unconfirmed leads; Texas was not re-checked'}
+- (us-states) {'item': 'California operative dates for most 2026 chapters', 'reason': 'leginfo full text pages are behind a Cloudflare challenge for direct fetch; effective dates were left blank unless the official text or digest stated them'}
 
 ## Coverage limits
 
-- Federal Register issue for 10 November 2026 was not yet available; only public-inspection filings were reviewed.
-- Australia: Reuters and other secondary outlets reported a 10 November government response accepting a rapid review on AI incident reporting and model evaluation. The Prime Minister media listing did not contain that item, and no official issuer page was opened, so it was excluded.
-- Most national and subnational gazettes were not opened issue-by-issue for 10 November 2026, including US states other than the federal register, EU Member State gazettes, Africa, Latin America, the Middle East, and the Pacific.
-- ISO, IEC, ETSI, and CEN catalogs were not exhaustively browsed for a 10 November publication date.
+- Verification covered only the 60 candidates in this research pass and the flagged existing records. It is not a full sweep of all jurisdictions.
+- data.json item order on master is not globally sorted by (publicationDate, id). New records were inserted at their sorted position without reordering existing records, so the diff contains no unrelated moves.
 - A failed or bounded search is not evidence that no instrument exists.
-
-## Search citations
-
-- https://www.pm.gov.au/media/my-feed-my-way
-- https://www.pmc.gov.au/sites/default/files/resource/download/ai-consultation-paper.pdf
-- https://thefederalregister.org/citation/91-FR-70884
-- https://digital.nemko.com/news/isoiec-27090-published-as-new-ai-cybersecurity-standard
-- https://public-inspection.federalregister.gov/2026-19874.pdf
-- https://www.federalregister.gov/documents/2026/11/05/2026-22579/combined-notice-of-filings-1
-- https://eur-lex.europa.eu/eli/C/2026/3549/oj/eng
-- https://www.pm.gov.au/media/television-interview-abc-afternoon-briefing-11
-- https://www.pm.gov.au/media
-- https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=%22affordable+care+act%22+%7C+%22111-148%22++%7C+ppaca&order=newest
-- https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/
-- https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia
-- https://www.pm.gov.au/media/departmental-ministerial-appointment
-- https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:62024CJ0468
-- https://www.all-about-security.de/dsgvo-aenderung-eu-staaten-wollen-datennutzung-fuer-ki-erleichtern/
-- https://www.nextgov.com/cybersecurity/2026/11/cisa-updates-cyber-reporting-form-broader-incident-mandate-awaits-approval/417130/
-- https://www.aipolicydesk.com/regulations
-- https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng
-- https://www.pm.gov.au/media/press-conference-national-situation-room
-- https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of
-- https://ca.vlex.com/source/38873
-- https://www.pm.gov.au/media/shape-digital-world-or-it-will-shape-us
-- https://www.legal500.com/intelligence/saudi-arabia/privacy/saudi-arabias-proposed-pdpl-implementing-regulation-amendments-what-businesses-deploying-ai-cloud-and-data-driven-technologies-need-to-know
-- https://public-inspection.federalregister.gov/2026-22856.pdf
-- https://eur-lex.europa.eu/oj/daily-view/L-series/default.html?ojDate=09112026
-- https://content.govdelivery.com/accounts/USNIST/bulletins/431e524
-- https://www.legislation.gov.uk/uksi/2026/425
-- https://loganpartners.com/the-eu-ai-act-after-the-digital-omnibus-what-has-changed-for-businesses/
-- https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;page=0;query=Source%3A%22PRIME%20MINISTER%22;rec=7;resCount=Default?afd_azwaf_tok=eyJraWQiOiJBQTFBOUFGMTM1QUU0NDI0RDgyN0I1M0MwOUYyRDA4N0JCRTQxMjRENDE4MDNFMzY5NkYwMUYwQjk2NUU4RTUzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJwYXJsaW5mby5hcGguZ292LmF1IiwiZXhwIjoxNzkwMDM2NjYzLCJpYXQiOjE3OTAwMzY2NTMsImlzcyI6InRpZXIxLTc3NTViODlkYzctMjRoNXAiLCJzdWIiOiIxNTYuMjMzLjQxLjk3IiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA5MjJUMDAyNDEzWi0xNzc1NWI4OWRjNzI0aDVwaEMxSUFEcDdyZzAwMDAwMDBodGcwMDAwMDAwMDhrejIiLCJiIjoiRzM2N3YzZzdfWXpUMUJuZzVmck0zdzRIOUk3MmpnalBhelM1YlVUUVFwZyIsImgiOiJLOTh4T0tkUHZvRlFvMkNhZUJlVEtFQURCNnhvQkwxNUMyRVdDeUR4WndjIn19.BDvJB2FA5gA1lgA0dGBlKgZOHQkE1Focs0Z9XkRb5aAKJqnnSJplUod0f_q1l1-mKCCWXX-7wakKtQO8Xl5MiNz4TV04UxyM_QEnMwgjIRbvGULtY1C2nwJT9nepFu5ZMCgWADos32b4FLG1NGh6snqCx3y_ISnSfPs9hPhwUy_4frfptrj89Ome7F-m7kA__geuJ2ggv7E3qdfVqZ7ikBloLkJPgcYTpC-1CB2KFfkIuApu-2gVOuSAdNJg8YjCkuIiHI6wwkrgAfVxM4lPOCdomu5OZLN6Fr9y118FctQ82Hx4YtMmztPfaTZuHu9r9N-uF7LM2kYSOoyCpnF1lw.WF3obl2IDtqgvMFRqVdYkD5s
-- https://www.pmc.gov.au/sites/default/files/resource/download/covid-response-inquiry-summary.pdf
-- https://insights.aigovadvisors.ai/p/ai-brief-ai-governance-news-nov-2-nov-8-2026
-- https://www.cisa.gov/
-- https://www.cyberresilienceact.eu/news/germany-bundestag-cra-implementation-act-15-october-2026.html
-- https://www.fcc.gov/federal-register-documents
-- https://www.govinfo.gov/link/ccal/latest/house?link-type=context
-- https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601744
-- https://www.smh.com.au/national/australia-news-live-beaconsfield-mine-disaster-survivor-todd-russell-dies-consumer-confidence-among-homeowners-plummets-20261110-p61crb.html
-- https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261008/
-- https://www.pmc.gov.au/sites/default/files/2025-11/prompting-for-a-better-deal.pdf
-- https://www.federalregister.gov/documents/2026/11/09/2026-22799/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights
-- https://www.legislation.gov.uk/uksi/2026/425/introduction/made
-- https://www.pmc.gov.au/news/have-your-say-future-ai-training-and-infrastructure-australia
-- https://www.govinfo.gov/content/pkg/FR-2026-11-09/html/FR-2026-11-09-FrontMatter.htm
-- https://www.federalregister.gov/documents/2026/11/02/2026-22328/request-for-information-reopening-of-comment-period
-- https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%AD%EA%B0%80%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%84%EB%9E%B5%EC%9C%84%EC%9B%90%ED%9A%8C%EC%9D%98%EC%84%A4%EC%B9%98%EB%B0%8F%EC%9A%B4%EC%98%81%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95
-- https://www.in.gov.br/servicos/diario-oficial-da-uniao/destaques-do-diario-oficial-da-uniao
-- https://ciberlatam.com/en/news/chile-s-senate-advances-data
-- https://insidecybersecurity.com/daily-news/nist-cisa-finalize-publication-token-fraud-required-under-trump-cyber-order
-- https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?ojDate=10112026
-- https://www.mlex.com/mlex/articles/2544361/shanghai-proposes-autonomous-taxi-rollout-under-draft-rules
-- https://openai.com/zh-Hant/index/how-we-will-do-better-for-australia/
-- https://eur-lex.europa.eu/oj/direct-access.html
-- https://oeil.europarl.europa.eu/oeil/en/procedure-document-summary/pdf?id=1910754
-- https://ministers.pmc.gov.au/gorman/decade-putting-australians-heart-public-policy-design
-- https://www.mddi.gov.sg/newsroom/mddi-response-to-pq-on-government-and-commercial-data-compromised-in-litellm-supply-chain-attack-and-measures-to-prevent-recurrence/
-- https://oia.pmc.gov.au/sites/default/files/posts/2024/10/Impact%20Analysis_0.pdf
-- https://www.pm.gov.au/media/2026-commonwealth-heads-government-meeting
-- https://eur-lex.europa.eu/SV/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
-- https://csrc.nist.gov/News/2026/nist-releases-ir-8621
-- https://www.fdic.gov/federal-register-publications
-- https://public-inspection.federalregister.gov/2026-12909.pdf
-- https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd
-- https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/
-- https://thefederalregister.org/
-- https://www.marketscreener.com/news/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website-ce785fd3d08ef521
-- https://www.phmsa.dot.gov/regulations/federal-register-documents
-- https://eur-lex.europa.eu/EN/legal-content/summary/horizontal-cybersecurity-requirements-for-products-with-digital-elements-cyber-resilience-act.html
-- https://public-inspection.federalregister.gov/2026-22535.pdf
-- https://japan.kantei.go.jp/105/actions/index.html
-- https://www.trai.gov.in/sites/default/files/2026-10/PR_No145of2026.pdf
-- https://www.cac.gov.cn/wxzw/wxfb/A093702index_1.htm
-- https://www.cisa.gov/news-events/news/new-joint-guide-advances-secure-integration-artificial-intelligence-operational-technology
-- https://insidecybersecurity.com/daily-news/nist-extends-comment-periods-internet-things-differential-privacy-publications
-- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202605910
-- https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gr/technical/tax/tax-alerts/2026/regulation-eu-2026-1744-digital-omnibus-on-ai.pdf
-- https://www.abc.net.au/news/2026-09-24/federal-politics-live-blog-openai-medicare-breach/107186578
-- https://www.cisa.gov/news-events/news
-- https://www.iso.org/standard/56582.html
-- https://www.congress.gov/bill/119th-congress/house-resolution/1642/text/ih
-- https://a16zpolicy.substack.com/p/icymi-ai-policy-november-update
-- https://notiondigitalforensics.com.au/openai-medicare-portal-incident/
-- https://regulations.vlex.com/source/federal-register-1542/issue/2026/11/05
-- https://www.cisa.gov/news-events/events
-- https://www.legislation.gov.uk/ukpga/2000/11/section/58
-- https://insidecybersecurity.com/daily-news/white-house-launches-ai-cybersecurity-clearinghouse-mandated-june-executive-order
-- https://csrc.nist.gov/presentations/2026/wpec2026-100
-- https://www.minister.industry.gov.au/charlton/media/ai-consumer-safety-priorities
-- https://egazette.gov.in/WriteReadData/2025/268360.pdf
-- https://digital-magazin.de/digital-omnibus-rat-mandat-dsgvo/
-- https://www.nextgov.com/cybersecurity/2026/11/congress-returns-slew-cyber-deadlines-and-unfinished-ai-safety-bills/417123/
-- https://www.federalregister.gov/documents/2026/11/04/2026-22499/submission-for-omb-review-comment-request
-- https://www.pm.gov.au/
-- https://www.canada.ca/en/government/system/digital-government/policies-standards/spin/direction-government-canada-cyber-security-readiness-frontier-artificial-intelligence-era.html
-- https://public-inspection.federalregister.gov/2026-16270.pdf
-- https://www.govinfo.gov/app/details/CDOC-119hdoc209/CDOC-119hdoc209
-- https://www.pmc.gov.au/sites/default/files/resource/download/rapid-review-prevention-approaches-aus-gov-update-20-feb-2026.pdf
-- http://trai.gov.in/
-- https://www.pmc.gov.au/resources/pmc-organisation-chart
-- https://ministers.pmc.gov.au/mccarthy/shock-closure-yissa-leaves-vulnerable-peril
-- https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html/section-26-20150618.html
-- https://www.assentriskmanagement.co.uk/november-2026-standards-update/
-- https://www.pipc.go.kr/
-- https://www.nist.gov/news-events/upcoming-events/org
-- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52026DC0577
-- https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-18286-2026-published-in-ojeu/
-- https://www.pmc.gov.au/resources/long-term-insights-briefings/how-might-ai-affect-trust-public-service-delivery/summary
-- https://www.whitehouse.gov/wp-content/uploads/2026/06/eo-14409.pdf
-- https://ministers.pmc.gov.au/gorman/trust-australian-public-service-remains-record-high
-- https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security
-- https://oia.pmc.gov.au/sites/default/files/2021-10/2020-21-australian-government-regulation-impact%20-statement-status-by-agency.pdf
-- https://www.cac.gov.cn/2026-11/09/c_1769000000000000.htm
-- https://egazette.gov.in/WriteReadData/2026/269916.pdf
-- https://www.federalregister.gov/documents/2026/11/09/2026-22731/information-collection-general-services-administration-acquisition-regulation-implementation-of
-- https://www.federalregister.gov/documents/2026/11/09/2026-22828/sunshine-act-meeting
-- https://captaincompliance.com/education/eu-ai-act-gdpr-interplay-after-ai-omnibus/
-- https://www.cybersecuritydive.com/news/ai-critical-infrastructure-government-guidance/807052/
-- https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog
-- https://japan.kantei.go.jp/105/actions/202610/26kaigi_cyber.html
-- https://csrc.nist.gov/News/2026/adversarial-machine-learning-taxonomy-2026-draft
-- https://finance.cnr.cn/ycbd/20261029/t20261029_527856515.shtml
-- https://public-inspection.federalregister.gov/2026-18823.pdf
-- https://accuroai.co/blog/ai-compliance-calendar-november-2026-july-2027
-- https://oia.pmc.gov.au/resources/guidance-oia-procedures/carve-outs
-- https://www.mddi.gov.sg/newsroom/welcome-address-by-minister-josephine-teo-at-the-singapore-international-cyber-week-2026/
-- https://link.springer.com/article/10.1365/s43439-026-00177-5
-- https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=2026-11-07&conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=artificial+intelligence
-- https://insidecybersecurity.com/daily-news/nist-cisa-collaborate-guidance-address-potential-incidents-training-artificial
-- https://www.bundesregierung.de/breg-de/aktuelles/digital-gipfel-2026-2457634
-- https://www.cac.gov.cn/yaowen/A0936index_1.htm
-- https://addisons.com/article/new-privacy-policy-requirements-for-ai-and-automated-decision-making/
-- https://csrc.nist.gov/pubs/ir/8621/final
-- https://www.aph.gov.au/DocumentStore.ashx?id=624cc99a-6e83-4e7a-aabb-15828aeac37d
-- https://www.lewissilkin.com/insights/2026/11/09/digital-rulebook-simplification-of-eu-data-protection-and-cyber-rules-102o7e4
-- https://www.steptoe.com/en/news-publications/steptechtoe-blog/the-european-commission-published-its-proposed-reform-of-the-eu-data-protection-privacy-data-cyber-incident-reporting-and-ai-framework.html
-- https://www.globalshieldpolicy.org/wp-content/uploads/2026/08/Guardrails-and-Gap-Analyses-Report-print.pdf
-- https://www.cisa.gov/news-events/news/cisa-us-and-international-partners-release-guide-secure-adoption-agentic-ai
-- https://japan.kantei.go.jp/105/meibo/daijin/index.html
-- https://www.akingump.com/print/v2/content/1137625/saudi-data-and-ai-authority-proposes-amendments-to-implementing-regulations-of-the-pdpl-10-key-proposed-changes.pdf
-- https://aigeek.au/news/digital-duty-of-care-bill-introduced-ai/
-- https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/FR-2026-10-26.pdf
-- http://trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and
-- https://www.news.com.au/technology/openai-sorry-for-medicare-breach-want-to-rebuild-trust-with-australians/news-story/871f83e3f5534a031cf942702a9c4e14
-- https://openai.com/index/how-we-will-do-better-for-australia/
-- https://www.federalregister.gov/documents/2026/11/06/2026-22718/combined-notice-of-filings-1
-- https://www.federalregister.gov/documents/2026/11/09/2026-22802/notice-of-ofac-sanctions-actions
-- https://kempitlaw.com/insights/tech-law-developments-november-2026/
-- https://www.cac.gov.cn/2026-11/05/c_1795634335395362.htm
-- https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11654
-- https://www.mddi.gov.sg/newsroom/mddi-response-to-pq-on-providing-pre-deployment-government-access-to-frontier-ai-models-for-independent-evaluation-of-national-security-risks-and-vulnerab/
-- https://www.regulations.gov/search?documentTypes=Proposed%20Rule&sortBy=postedDate&sortDirection=desc
-- https://www.federalregister.gov/documents/search?conditions%5Bpublication_date%5D%5Bgte%5D=09%2F01%2F2026&conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=November+10%2C+2026&order=newest
-- https://www.congress.gov/bill/119th-congress/house-bill/10873/text
-- https://www.minister.industry.gov.au/ministers/charlton/media-releases/national-ai-plan-empowering-all-australians?zarsrc=31&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo
-- https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html
-- https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-security-and-resilience-month
-- https://oia.pmc.gov.au/sites/default/files/posts/2024/09/New%20Aged%20Care%20Bill.pdf
-- https://laws-lois.justice.gc.ca/eng/acts/C-47.4/page-1.html
-- https://eur-lex.europa.eu/legal-content/DE/HIS/?uri=celex:52026PC0483
-- https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?ojDate=10092026
-- https://www.gleisslutz.com/en/know-how/ai-act-and-cyber-resilience-act-update-new-procedural-rules-harmonised-standard-and-designated-supervisory-authority
-- https://www.pm.gov.au/media/press-conference-new-york
-- https://www.osborneclarke.com/de/insights/digital-omnibus-rat-legt-verhandlungsmandat-fest
-- https://www.clydeco.com/en/insights/2026/10/sdaia-publishes-draft-amendments-to-the-pdpl
-- https://www.thestar.com.my/tech/tech-news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website
-- https://eur-lex.europa.eu/oj/daily-view/L-series/default.html?ojDate=10112026
-- https://www.recht.bund.de/bgbl/1/2026/223/VO.html
-- https://www.laws-lois.justice.gc.ca/PDF/C-47.4.pdf
-- https://www.cac.gov.cn/2026-11/09/c_1795978604463007.htm
-- https://www.in.gov.br/en/web/dou/-/instrucao-normativa-gsi/pr-n-8-de-6-de-outubro-de-2025-660716869
-- https://www.etsi.org/newsroom/press-releases/etsi-unveils-new-standard-to-reduce-production-of-harmful-deepfakes/
-- https://www.lindsaytaylorlawyers.com.au/in_focus/privacy-act-reforms-propose-stronger-protections-to-address-ai-and-surveillance-technologies/
-- https://insidecybersecurity.com/share/17654
-- https://insidecybersecurity.com/share/17775
-- https://link.springer.com/article/10.1365/s43439-026-00178-4
-- https://www.nextgov.com/topic/artificial-intelligence/
-- https://www.dhs.gov/publication/roles-and-responsibilities-framework-artificial-intelligence-critical-infrastructure
-- https://www.govinfo.gov/content/pkg/FR-2026-11-04/html/FR-2026-11-04-FrontMatter.htm
-- https://www.yahoo.com/news/world/articles/australia-adopt-mandatory-ai-safeguards-014740648.html
-- https://oia.pmc.gov.au/published-impact-analyses-and-reports/digital-duty-care-model-online-safety
-- http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WL05R?channel=frL012
-- https://www.kantei.go.jp/jp/105/actions/202611/06kaigi_cyber.html
-- https://www.simmons-simmons.com/en/publications/cmw9h5dpz00siu48szeyphr1p/ai-view---november-2026
-- https://www.sparke.com.au/insights/a-new-era-for-privacy-in-australia-implications-of-privacy-act-reform-tranche-2/
-- https://insidecybersecurity.com/daily-news/nist-publishes-draft-update-security-and-privacy-controls-publication-meet-directive
-- https://oia.pmc.gov.au/sites/default/files/posts/2024/11/Impact%20Analysis_1.docx
-- https://www.pm.gov.au/media/first-update-defence-estate-audit
-- https://www.congress.gov/119/bills/s5576/BILLS-119s5576is.pdf
-- https://www.ai.gov.au/staying-safe-and-responsible/essential-ai-practices/guidance-ai-adoption-implementation-guidance
-- https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?ojDate=16102026
-- https://www.govinfo.gov/content/pkg/DCPD-202600417/html/DCPD-202600417.htm
-- https://www.chinadaily.com.cn/a/202611/01/WS6ae6afcfe4b06d4aa05664a5.html
-- http://legislation.gov.uk/ukpga/2018/12/part/3/chapter/4/crossheading/obligations-relating-to-security
-- https://www.computerweekly.com/news/366651163/Australia-sets-up-taskforce-after-OpenAI-agent-breaches-statistics-portal
-- https://www.i-scoop.eu/eu-ai-act-timeline-digital-omnibus/
-- https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services
-- https://dig.watch/updates/iso-iec-27090-sets-out-an-international-standard-for-ai-cybersecurity-addressing-security-threats-to-ai-systems
-
-Statuses and summaries are informational; the linked official source controls. Missing records and unsuccessful searches do not establish that no law applies.
