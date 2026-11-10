@@ -18,4 +18,4 @@ The **Grok weekly curation** GitHub Actions workflow runs each Monday at 15:30 U
 
 ## Local use
 
-Serve the repository root with any static HTTP server. Run `python3 ingest.py` to query the public Federal Register API. The script uses no credentials and accesses only public data.
+Serve the repository root with any static HTTPs server. Run `python3 ingest.py` to query the public Federal Register API. The script uses no credentials and accesses only public data.
