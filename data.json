@@ -1355,6 +1355,26 @@
       "name": "Singapore · Cyber Security Agency of Singapore (CSA), Government Technology Agency of Singapore (GovTech) and Infocomm Media Development Authority (IMDA)",
       "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-015/",
       "status": "Official source for Using Personal AI Agents Safely and Securely: What Consumers Should Know (Joint Advisory AD-2026-015)"
+    },
+    {
+      "name": "Canada · Innovation, Science and Economic Development Canada",
+      "url": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
+      "status": "Official consultation page: Have your say on advancing AI transparency in Canada (closed)"
+    },
+    {
+      "name": "South Korea · Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
+      "url": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030000&nttId=12611",
+      "status": "Official source for 개인정보의 안전성 확보조치 기준 안내서(2026.11.) (Guide to the Standards for Measures to Ensure the Safety of Personal Information, November 2026)"
+    },
+    {
+      "name": "Japan · Digital Agency",
+      "url": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "status": "Official source for the Government AI GENAI Standards on Governance, Security, and Safety (源内基準), First Edition"
+    },
+    {
+      "name": "Japan · Digital Agency",
+      "url": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "status": "Official source for DS-920 Guideline for the Government's Procurement and Utilization of Generative AI, Ver. 2.0"
     }
   ],
   "items": [
@@ -1561,6 +1581,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "KR-PIPC-SAFETY-MEASURES-GUIDE-2026",
+      "jurisdiction": "South Korea",
+      "regulator": "Personal Information Protection Commission (PIPC), New Technology Personal Information Division",
+      "title": "개인정보의 안전성 확보조치 기준 안내서(2026.11.) (Guide to the Standards for Measures to Ensure the Safety of Personal Information, November 2026)",
+      "instrumentType": "Regulator guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-11-05",
+      "effectiveDate": "—",
+      "topic": "Privacy · security safeguards · vulnerability testing",
+      "sourceUrl": "https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS217&mCode=D010030000&nttId=12611",
+      "summary": "PIPC's November 2026 revision of its guide to the safety-measures standards that personal information handlers must follow under the Personal Information Protection Act. The guide reflects the 1 July 2026 partial amendment of the standards, which requires public systems to undergo vulnerability checks and penetration tests at least once a year. It also updates examples on authentication methods (passkeys and others) and AI, adds material on post-quantum cryptography and key management, and expands FAQs, including on API security. The guide describes minimum safeguards; it is guidance and adds no binding duties beyond the PIPC notice it explains.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Personal Information Protection Commission (PIPC), www.pipc.go.kr)."
         }
       ]
     },
@@ -1861,6 +1900,63 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "JP-DIGITAL-GENNAI-STANDARDS-2026",
+      "jurisdiction": "Japan",
+      "regulator": "Digital Agency (デジタル庁), Team GENAI, developed with the Japan AI Safety Institute (AISI)",
+      "title": "Government AI GENAI Standards on Governance, Security, and Safety (“GENAI Standards”), First Edition (ガバメントAI 源内 ガバナンス・セキュリティ・セーフティに関する基準（「源内基準」）第1版)",
+      "instrumentType": "Government AI governance standard",
+      "status": "Guidance",
+      "publicationDate": "2026-10-20",
+      "effectiveDate": "—",
+      "topic": "AI · agentic AI · public sector governance",
+      "sourceUrl": "https://www.digital.go.jp/policies/genai/agent-safety-standard",
+      "summary": "Digital Agency standards for the government's shared generative AI platform 'GENAI' (源内) as it adds AI agent environments for about 180,000 government staff. They set out the matters to be observed by users, administrators and developers, along with the handling of confidential information and of AI outputs as administrative documents. They apply only to GENAI as hosted by the Digital Agency and sit beneath the government-wide generative AI procurement and use guideline (DS-920). They were developed with the Japan AI Safety Institute. They are operational guidance for one government platform and place no obligations on the private sector, which the agency says may use them as a reference model.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "CA-ISED-AI-TRANSPARENCY-CONSULTATION-2026",
+      "jurisdiction": "Canada",
+      "regulator": "Innovation, Science and Economic Development Canada (Minister of Artificial Intelligence and Digital Innovation)",
+      "title": "Have your say on advancing AI transparency in Canada",
+      "instrumentType": "Public consultation",
+      "status": "Consultation",
+      "publicationDate": "2026-07-23",
+      "effectiveDate": "—",
+      "topic": "AI · transparency · incident tracking · AI agents",
+      "sourceUrl": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
+      "summary": "ISED consulted from 23 July to 23 September 2026 on making AI systems and AI-generated outputs more transparent, as part of Canada's National AI Strategy 'AI for All'. The discussion paper, 'Enhancing trust in artificial intelligence through increased transparency', covered five areas: detecting and identifying AI-generated content, telling people when they are interacting with an AI system, giving consistent information about AI systems, tracking serious AI incidents, and tracking the activity of AI agents. The consultation is closed, and ISED says a 'What We Heard' report will follow. It proposes no binding rules.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Innovation, Science and Economic Development Canada, ised-isde.canada.ca)."
+        }
+      ]
+    },
+    {
+      "id": "JP-DS920-GENAI-GOV-GUIDELINE-2026",
+      "jurisdiction": "Japan",
+      "regulator": "Digital Agency · Executive Committee of the Digital Society Promotion Council (デジタル社会推進会議幹事会)",
+      "title": "行政の進化と革新のための生成AIの調達・利活用に係るガイドライン（第2.0版）(DS-920) (The Guideline for Japanese Government's Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration, Ver. 2.0)",
+      "instrumentType": "Government AI procurement and use guideline",
+      "status": "Adopted policy",
+      "publicationDate": "2026-06-12",
+      "effectiveDate": "2026-09-01",
+      "topic": "AI · public sector governance · procurement",
+      "sourceUrl": "https://www.digital.go.jp/news/decb64eb-f26e-41cb-8d37-f3dd173108b8",
+      "summary": "Version 2.0 of Japan's government-wide guideline on procurement and use of generative AI by ministries, decided on 12 June 2026 by the Executive Committee of the Digital Society Promotion Council. It revises the first edition of 27 May 2025. Each ministry must appoint a Chief AI Officer (CAIO) and set staff usage rules from a template. Projects judged high-risk go to an advisory board for advice, and risk cases must be reported. Procurement and contract checklists cover matters such as security, personal data, harmful or false outputs and incident handling. The document labels itself 'Normative', meaning rules that ministries must follow for government information systems. It applies inside government and is not a law binding businesses. Version 2.0 applies from 1 September 2026, with the CAIO measures due by 30 June 2026 and the AI governance framework scope applying from 1 July 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
         }
       ]
     },
