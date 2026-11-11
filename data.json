@@ -1425,6 +1425,46 @@
       "name": "Canada · Parliament of Canada LEGISinfo",
       "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-22",
       "status": "Official source for Bill C-22 (Lawful Access Act, 2026)"
+    },
+    {
+      "name": "United States · GovInfo (U.S. Government Publishing Office)",
+      "url": "https://www.govinfo.gov/app/collection/plaw",
+      "status": "Official text of federal public laws"
+    },
+    {
+      "name": "United States · Congress.gov (Library of Congress)",
+      "url": "https://www.congress.gov/",
+      "status": "Official federal bill text and legislative status"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "status": "Official source for the Article 50 transparency guidelines, C(2026) 7702"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act",
+      "status": "Official source for the prohibited AI practices guidelines, C(2025) 5052"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application",
+      "status": "Official source for the AI system definition guidelines, C(2025) 5053"
+    },
+    {
+      "name": "United States · Pennsylvania General Assembly",
+      "url": "https://www.palegis.us/statutes/unconsolidated/law-information?ActNum=0099.&SessInd=0&SessYr=2026",
+      "status": "Official Act page for Act No. 99 of 2026 (SB 806)"
+    },
+    {
+      "name": "China · Ministry of Industry and Information Technology",
+      "url": "https://www.miit.gov.cn/jgsj/xgj/wjfb/art/2026/art_5066b9dffa93405a988e266ff12bf674.html",
+      "status": "Official source for 工信厅信管〔2026〕42号"
+    },
+    {
+      "name": "France · Présidence de la République (Élysée)",
+      "url": "https://www.elysee.fr/en/emmanuel-macron/2026/11/09/paris-call-for-ai-safety-and-security",
+      "status": "Official source for the Paris Call for AI safety and security"
     }
   ],
   "items": [
@@ -1540,6 +1580,25 @@
       ]
     },
     {
+      "id": "FR-PARIS-CALL-AI-SAFETY-SECURITY-2026",
+      "jurisdiction": "France",
+      "regulator": "Présidence de la République (Élysée); co-signed by heads of state or government of Austria, Bahrain, Canada, Croatia, Cyprus, Estonia, Finland, Ireland, Kenya, Latvia, Liechtenstein, Luxembourg, the Netherlands, Norway and Portugal, plus AI companies and civil-society organisations",
+      "title": "Paris Call for AI safety and security",
+      "instrumentType": "International declaration",
+      "status": "Adopted policy",
+      "publicationDate": "2026-11-09",
+      "effectiveDate": "—",
+      "topic": "AI · frontier model safety · incident reporting",
+      "sourceUrl": "https://www.elysee.fr/en/emmanuel-macron/2026/11/09/paris-call-for-ai-safety-and-security",
+      "summary": "A joint declaration signed on 9 November 2026 by heads of state or government, frontier AI developers (including Anthropic, Microsoft, Mistral AI and OpenAI) and civil-society groups. Signatories commit to work toward a common framework for evaluating and managing risks from frontier models, supported by common technical standards and evaluation tools, and agree to publish non-sensitive evaluation findings in a standardised format. Developers commit to disclose model capabilities, limitations and known risks, to support independent evaluation where appropriate, and to build fail-safe mechanisms to shut down model operations. Policy makers recognise the need for legal frameworks to clarify responsibility and accountability for large-scale harm, and commit to offer secure and confidential whistleblower channels. Signatories commit to information sharing, reporting and early-warning systems, and recognise the value of strengthening existing reporting arrangements for serious cyber and AI control incidents. It is a political declaration, and the statement remains open to new endorsements.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Présidence de la République, www.elysee.fr)."
+        }
+      ]
+    },
+    {
       "id": "NR-REVIEW-AI-LAWS-2026",
       "jurisdiction": "Nauru",
       "regulator": "Department of Justice and Border Control (RONLAW)",
@@ -1597,6 +1656,25 @@
       ]
     },
     {
+      "id": "CN-MIIT-AI-AGENT-TERMINAL-NOTICE-2026",
+      "jurisdiction": "China",
+      "regulator": "Ministry of Industry and Information Technology (MIIT), General Office · Information and Communication Administration Bureau",
+      "title": "工业和信息化部办公厅关于加强智能体终端设备进网管理的通知 (工信厅信管〔2026〕42号) (Notice of the MIIT General Office on Strengthening Network Access Management of AI Agent Terminal Devices)",
+      "instrumentType": "Ministerial notice",
+      "status": "Adopted policy",
+      "publicationDate": "2026-11-06",
+      "effectiveDate": "—",
+      "topic": "AI · agentic AI · telecom devices · anti-fraud",
+      "sourceUrl": "https://www.miit.gov.cn/jgsj/xgj/wjfb/art/2026/art_5066b9dffa93405a988e266ff12bf674.html",
+      "summary": "MIIT General Office notice (工信厅信管〔2026〕42号, dated 24 October 2026, published 6 November 2026), issued under the Cybersecurity, Data Security, Personal Information Protection and Anti-Telecom-Fraud Laws, the Telecommunications Regulations and the telecom equipment network-access rules, on phones, tablets, wearables and other telecom terminals that come with pre-installed AI agents. Agent developers should verify compatibility with devices, strengthen management of permission calls, communications, network and data security, user rights and task execution, publish in the product settings a list of verified device models and operating systems, and report verification status to app distribution platforms before listing. Agent terminals must undergo agent compatibility verification in network-access testing, along with fraud-risk security assessments, and agents used on devices should carry a unique identity code with reference to the national agent-interconnection standards. Manufacturers must report major changes to MIIT. For over-the-air agent upgrades they must submit an upgrade plan and, afterwards, an upgrade report, and may formally offer the service only after MIIT organises an expert assessment and seeks views. App distribution platforms should have app developers declare by electronic signature whether they consent to agent invocation (agents may not forcibly invoke apps without that declaration), display verification lists, not offer agents for incompatible device models, and inspect listed agents, taking measures such as rectification within a deadline or removal against agents that have not completed verification. MIIT and the provincial communications administrations will supervise and inspect. The notice states no effective date.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Ministry of Industry and Information Technology, www.miit.gov.cn)."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-22615",
       "jurisdiction": "United States · Federal",
       "regulator": "Education Department",
@@ -1650,6 +1728,25 @@
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Personal Information Protection Commission (PIPC), www.pipc.go.kr)."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIO-ART50-TRANSPARENCY-GUIDELINES-2026",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office)",
+      "title": "Guidelines on the implementation of the transparency obligations for certain AI systems under Article 50 of Regulation (EU) 2024/1689 (the ‘AI Act’)",
+      "instrumentType": "Commission guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-11-05",
+      "effectiveDate": "—",
+      "topic": "AI Act · transparency · deepfakes · AI-generated content",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
+      "summary": "Commission guidelines clarifying the transparency obligations in Article 50 of the AI Act, which applies from 2 August 2026. They explain which duties fall on providers and which on deployers. Providers must make sure people are told when they interact directly with an AI system and must mark AI-generated or manipulated content in machine-readable form. Deployers must inform people exposed to emotion recognition or biometric categorisation, deepfakes, or AI-generated text on matters of public interest published without human review. The guidelines define key concepts, list exemptions such as standard editing, and give in-scope and out-of-scope examples. They explain that compliance can be shown by adhering to the Code of Practice on transparency of AI-generated content (or by equally adequate alternatives). They were developed with Member States, the AI Board and a public consultation, and are non-binding. They were adopted as Commission Communication C(2026) 7702 final of 5 November 2026; the Commission's library page for the guidelines is dated 20 July 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
         }
       ]
     },
@@ -1958,6 +2055,25 @@
       ]
     },
     {
+      "id": "US-PA-SB806-AI-DECEPTIVE-ADVERTISING-2026",
+      "jurisdiction": "United States · Pennsylvania",
+      "regulator": "Pennsylvania General Assembly / Governor",
+      "title": "Artificial Intelligence Deceptive Advertising Act (Act No. 99 of 2026, SB 806)",
+      "instrumentType": "State statute",
+      "status": "Enacted",
+      "publicationDate": "2026-10-22",
+      "effectiveDate": "2026-12-21",
+      "topic": "AI · synthetic content · advertising disclosure",
+      "sourceUrl": "https://www.palegis.us/statutes/unconsolidated/law-information?ActNum=0099.&SessInd=0&SessYr=2026",
+      "summary": "Pennsylvania law enacted from SB 806 on 22 October 2026 that targets deceptive advertising using AI. An advertiser may not knowingly, recklessly or wilfully create and disseminate an advertisement that uses synthetic content (images, video, audio or text significantly modified or generated by AI) in a way that creates a false consumer perception about the nature, origin or authenticity of the goods or services, unless it makes a clear and conspicuous disclosure that the ad contains AI-modified or AI-generated content. The disclosure must appear the first time the content is shown, in the same medium, and where technically feasible be permanent or extraordinarily difficult to remove. Evidently fictional content and certain other content are exempt. The Attorney General or a district attorney may enforce it, with a civil fine of up to $3,000. Under section 6 the Act takes effect in 60 days; the register records 21 December 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Pennsylvania General Assembly, www.palegis.us). effectiveDate 2026-12-21 is the curator-decided date for 'take effect in 60 days' after approval on 22 October 2026; palegis shows 'Effective 60 DAYS' and does not state the calendar date."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-21505",
       "jurisdiction": "United States · Federal",
       "regulator": "State Justice Institute",
@@ -1977,6 +2093,25 @@
       ]
     },
     {
+      "id": "US-PL119-129-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress (enforcement: Federal Trade Commission; State attorneys general)",
+      "title": "Romance Scam Prevention Act (H.R.2481, Public Law 119-129)",
+      "instrumentType": "Act (Public Law)",
+      "status": "Enacted",
+      "publicationDate": "2026-10-20",
+      "effectiveDate": "—",
+      "topic": "Online fraud · consumer protection · online dating platforms",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/PLAW-119publ129/html/PLAW-119publ129.htm",
+      "summary": "Public Law 119-129, H.R.2481 in the 119th Congress, sponsored by Rep. David G. Valadao [R-CA-22]. It requires online dating service providers to send a fraud ban notification to users who have interacted with a member banned for fraud. The notification is due within 24 hours, extendable to 3 days, or later at the request of law enforcement. Violations are treated as unfair or deceptive acts or practices enforced by the FTC, and the Act also provides for civil actions by state attorneys general. Under §(e), the section takes effect 1 year after the date of enactment. Approved 20 October 2026.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (U.S. Government Publishing Office, www.govinfo.gov; status via the Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
       "id": "JP-DIGITAL-GENNAI-STANDARDS-2026",
       "jurisdiction": "Japan",
       "regulator": "Digital Agency (デジタル庁), Team GENAI, developed with the Japan AI Safety Institute (AISI)",
@@ -1992,6 +2127,215 @@
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "US-HR10238-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — House (Small Business Administration)",
+      "title": "H.R.10238, Cybersecurity for Small Businesses Act of 2026",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-09-02",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · small business",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
+      "summary": "H.R.10238, Cybersecurity for Small Businesses Act of 2026, introduced in the House on 2026-09-02 by Rep. Tony Wied [R-WI-8] (119th Congress). The bill would require the SBA Administrator to disseminate cybersecurity information and resources to small business concerns. According to the CRS summary, this includes information on the CMMC program. Current stage: reported (amended) by the House Committee on Small Business (H. Rept. 119-851) and placed on the Union Calendar (No. 748) on 13 Oct 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-HR10152-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — House (Department of Commerce)",
+      "title": "H.R.10152, Open-Source AI Leadership Act",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-08-27",
+      "effectiveDate": "—",
+      "topic": "AI · open models · national security",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10152",
+      "summary": "H.R.10152, Open-Source AI Leadership Act, introduced in the House on 2026-08-27 by Rep. Gabe Evans [R-CO-8] (119th Congress). The bill would direct the Secretary of Commerce to support the adoption and use of American open AI models. According to the CRS summary, this includes assessing risks from open models from China, Iran, North Korea and Russia. Current stage: ordered reported by the House Energy and Commerce Committee, 26-21, on 16 Sep 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-S5360-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — Senate (Department of Energy)",
+      "title": "S.5360, Rural and Municipal Utility Cybersecurity Act",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-08-07",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · energy utilities · grants",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5360",
+      "summary": "S.5360, Rural and Municipal Utility Cybersecurity Act, introduced in the Senate on 2026-08-07 by Sen. David McCormick [R-PA] (119th Congress). The bill would amend the Infrastructure Investment and Jobs Act to reauthorize the DOE Rural and Municipal Utility Advanced Cybersecurity Grant and Technical Assistance Program, through FY2031 per the CRS summary. Current stage: ordered reported without amendment by the Senate Energy and Natural Resources Committee on 30 Sep 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-HR7625-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — House (GAO; U.S. Coast Guard)",
+      "title": "H.R.7625, MTS CYBER Act of 2026",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-02-20",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · maritime critical infrastructure",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7625",
+      "summary": "H.R.7625, MTS CYBER Act of 2026, introduced in the House on 2026-02-20 by Rep. Addison P. McDowell [R-NC-6] (119th Congress). The bill would direct GAO to review the budget, resources and capabilities of the Coast Guard as co-Sector Risk Management Agency for the marine transportation system. No CRS summary was available. Current stage: ordered reported (amended) by voice vote by the House Transportation and Infrastructure Committee on 15 Sep 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-HR7294-2026",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — House (NTIA)",
+      "title": "H.R.7294, AI for Secure Networks Act",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2026-01-30",
+      "effectiveDate": "—",
+      "topic": "AI · telecommunications security",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7294",
+      "summary": "H.R.7294, AI for Secure Networks Act, introduced in the House on 2026-01-30 by Rep. Robert Menendez [D-NJ-8] (119th Congress). The bill would require a study, by NTIA per the CRS summary, of the impacts of artificial intelligence on the security of telecommunications networks. Current stage: ordered reported by the House Energy and Commerce Committee, 37-0, on 16 Sep 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "KR-AI-BASIC-ENFORCEMENT-DECREE-2026",
+      "jurisdiction": "South Korea",
+      "regulator": "Ministry of Science and ICT (MSIT) · Presidential Decree",
+      "title": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법 시행령 (대통령령 제36580호) (Enforcement Decree of the Framework Act on the Development of Artificial Intelligence and the Creation of a Foundation for Trust)",
+      "instrumentType": "Enforcement decree",
+      "status": "In force",
+      "publicationDate": "2026-01-21",
+      "effectiveDate": "2026-08-20",
+      "topic": "AI · high-impact AI · transparency · frontier AI safety",
+      "sourceUrl": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=288781&efYd=20260820",
+      "summary": "The Presidential Decree implementing Korea's AI Framework Act, first enacted as Decree No. 36053 on 21 January 2026 and in force from 22 January 2026. The current version is Decree No. 36580 of 18 August 2026, in force from 20 August 2026. It sets out how AI businesses must give advance notice when products use high-impact or generative AI. Generative AI outputs must be labelled in human- or machine-readable form, and realistic synthetic audio, images or video must be easy for users to identify as AI-generated. The decree applies the safety-assurance duty to AI systems trained with at least 10^26 floating-point operations that use state-of-the-art technology and pose broad, serious risks to life, safety or fundamental rights. On high-impact AI, MSIT must answer a business's request to confirm its status within 30 days, with a 10-day window to ask for re-confirmation, and businesses must keep documentary evidence of their high-impact AI duties. Foreign AI businesses above set revenue or user thresholds (e.g. KRW 1 trillion total revenue, KRW 10 billion AI revenue, or 1 million daily domestic users) must appoint a domestic agent. The decree also covers the National AI Strategy Committee, the AI Policy Center, the AI Safety Institute and AI clusters. A partial amendment (Decree No. 36506 of 20 July 2026, in force 21 July 2026) added rules on the scope of AI-vulnerable groups (Art. 1-2), support for the cost of using AI products and services (Art. 15-2) and the bodies that may establish AI research institutes (Art. 16-2), among other changes. Decree No. 36580, an amendment made through the Enforcement Decree of the National R&D Innovation Act, changed only a cross-reference in Art. 2(2)(나).",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Ministry of Government Legislation, National Law Information Center, www.law.go.kr)."
+        }
+      ]
+    },
+    {
+      "id": "US-S3404-2025",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — Senate (CISA)",
+      "title": "S.3404, Satellite Cybersecurity Act of 2025",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-12-09",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · space systems",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3404",
+      "summary": "S.3404, Satellite Cybersecurity Act of 2025, introduced in the Senate on 2025-12-09 by Sen. Gary C. Peters [D-MI] (119th Congress). The bill would require a report on federal support for the cybersecurity of commercial satellite systems, among other measures. No CRS summary was available. Current stage: passed the Senate with an amendment by unanimous consent on 23 Sep 2026; received in the House and held at the desk on 24 Sep 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "US-S3315-2025",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress — Senate (HHS; CISA)",
+      "title": "S.3315, Health Care Cybersecurity and Resiliency Act of 2026",
+      "instrumentType": "Bill",
+      "status": "Proposed",
+      "publicationDate": "2025-12-02",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · health sector",
+      "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3315",
+      "summary": "S.3315, Health Care Cybersecurity and Resiliency Act of 2026, introduced in the Senate on 2025-12-02 by Sen. Bill Cassidy [R-LA] (119th Congress). The bill would require HHS and CISA to coordinate to improve cybersecurity in the health care and public health sectors. According to the CRS summary, HHS would require minimum cybersecurity practices such as multifactor authentication for regulated health entities, among other measures. Current stage: passed the Senate with an amendment by unanimous consent on 30 Sep 2026; received in the House and held at the desk on 5 Oct 2026. The bill is not law.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIO-PROHIBITED-PRACTICES-GUIDELINES-2025",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office)",
+      "title": "Commission Guidelines on prohibited artificial intelligence practices established by Regulation (EU) 2024/1689 (AI Act)",
+      "instrumentType": "Commission guidelines",
+      "status": "Guidance",
+      "publicationDate": "2025-07-29",
+      "effectiveDate": "—",
+      "topic": "AI Act · prohibited practices",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act",
+      "summary": "Commission guidelines giving an overview of the AI practices the AI Act bans as unacceptable risks, such as harmful manipulation, social scoring and real-time remote biometric identification, with legal explanations and practical examples. They aim at consistent, effective and uniform application of the Act across the EU. They are non-binding, and authoritative interpretation is reserved to the Court of Justice of the EU. The Commission approved their content on 4 February 2025 (C(2025) 884), when they were first published, and formally adopted them as Communication C(2025) 5052 final of 29 July 2025.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIO-AI-SYSTEM-DEFINITION-GUIDELINES-2025",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office)",
+      "title": "Commission Guidelines on the definition of an artificial intelligence system established by Regulation (EU) 2024/1689 (AI Act)",
+      "instrumentType": "Commission guidelines",
+      "status": "Guidance",
+      "publicationDate": "2025-07-29",
+      "effectiveDate": "—",
+      "topic": "AI Act · AI system definition · scope",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application",
+      "summary": "Commission guidelines explaining how the AI Act's legal definition of an 'AI system' applies in practice, to help providers and others decide whether a software system is an AI system covered by the Act. They are non-binding, designed to evolve over time, and will be updated as needed in light of practical experience and new use cases. The Commission approved their content on 6 February 2025 (C(2025) 924), when they were first published, and formally adopted them as Communication C(2025) 5053 final of 29 July 2025.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        }
+      ]
+    },
+    {
+      "id": "US-PL119-12-2025",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Congress (enforcement: Federal Trade Commission; Department of Justice)",
+      "title": "TAKE IT DOWN Act (S.146, Public Law 119-12)",
+      "instrumentType": "Act (Public Law)",
+      "status": "In force",
+      "publicationDate": "2025-05-19",
+      "effectiveDate": "2025-05-19",
+      "topic": "AI · deepfakes · nonconsensual intimate imagery · platform duties",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm",
+      "summary": "Public Law 119-12 (139 Stat. 55), S.146 in the 119th Congress, sponsored by Sen. Ted Cruz [R-TX]. It makes it a federal crime to knowingly publish nonconsensual intimate visual depictions, including 'digital forgeries' (AI-generated or otherwise computer-generated depictions). Penalties are up to 2 years' imprisonment where the victim is an adult and up to 3 years where the victim is a minor. Covered platforms must set up a notice-and-removal process within 1 year of enactment and remove reported depictions within 48 hours of a valid request. Failure to comply is treated as an unfair or deceptive act or practice enforced by the FTC. Approved 19 May 2025. The Act has no separate effective-date clause, so it took effect on enactment; section 3 gives covered platforms 1 year from enactment to set up the notice-and-removal process.",
+      "history": [
+        {
+          "date": "2026-11-10",
+          "change": "Added after verification against the official source (U.S. Government Publishing Office, www.govinfo.gov; status via the Congress.gov API, api.congress.gov)."
         }
       ]
     },
@@ -9952,18 +10296,22 @@
       "id": "EU-AIO-GPAI-GUIDELINES-2025",
       "jurisdiction": "European Union",
       "regulator": "European Commission (AI Office)",
-      "title": "Guidelines on the scope of obligations for providers of general-purpose AI models under the AI Act",
+      "title": "Commission Guidelines on the scope of the obligations for providers of general-purpose AI models established by Regulation (EU) 2024/1689 (AI Act)",
       "instrumentType": "Commission guidelines",
       "status": "Guidance",
-      "publicationDate": "2025-07-18",
+      "publicationDate": "2025-11-19",
       "effectiveDate": "—",
       "topic": "AI Act · general-purpose AI · GPAI obligations",
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/guidelines-scope-obligations-providers-general-purpose-ai-models-under-ai-act",
-      "summary": "Commission guidelines on the scope of the AI Act's obligations for providers of general-purpose AI models, issued before those obligations started to apply on 2 August 2025. They are available in all 24 EU official languages, together with the Commission Communication approving their content. Commission guidelines under the AI Act are non-binding interpretation.",
+      "summary": "Commission guidelines on the scope of the AI Act's obligations for providers of general-purpose AI models. The Commission approved their content on 18 July 2025 (C(2025) 5045), before those obligations started to apply on 2 August 2025, and formally adopted them as Communication C(2025) 7719 final of 19 November 2025. They are available in all 24 EU official languages, together with the Commission Communication approving their content. Commission guidelines under the AI Act are non-binding interpretation.",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        },
+        {
+          "date": "2026-11-10",
+          "change": "Curator decision applied (EU guidelines dated by formal Commission Communication): publicationDate 2025-07-18 → 2025-11-19 and title changed to the formal title of C(2025) 7719 final (Brussels, 19.11.2025); summary now states the 18 July 2025 content approval (C(2025) 5045) and the formal Communication. Verified against the European Commission (digital-strategy.ec.europa.eu, document 118340)."
         }
       ]
     },
