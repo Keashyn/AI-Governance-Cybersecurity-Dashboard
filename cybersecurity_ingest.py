@@ -283,12 +283,25 @@ def official_identifiers(text):
             continue
         _add_identifier(found, f"{match.group(1)}{match.group(2)}{match.group(3) or ''}")
     for match in re.finditer(
-        r"\b(presidential decree|decreto|decree|act|law|loi)\b(?:\s+[a-z]+){0,4}\s*"
-        r"(?:n[o.]|no|n)?\s*[°.]*\s*(\d{3,6}(?:\.\d{1,4})?|\d{1,3}\.\d{1,4})\b",
+        r"\b(presidential decree|decreto|decree|act|law|loi)\b(?:\s+[a-z]+){0,4}?\s*"
+        r"(?:(n[o.]|no|n)\s*)?[°.]*\s*"
+        r"(\d{3,6}(?:\.\d{1,4})?|\d{1,3}\.\d{1,4})(?:-(\d{1,6}))?",
         text,
     ):
         kind = KIND_ALIASES[match.group(1)]
-        _add_identifier(found, kind + match.group(2).replace(".", ""))
+        has_number_marker = bool(match.group(2))
+        number = match.group(3)
+        suffix = match.group(4)
+        # "Public Law 119-12" and "Public Law 119-129" share the Congress
+        # number. Keep the whole citation so they stay different instruments.
+        if suffix:
+            _add_identifier(found, kind + number.replace(".", "") + "-" + suffix)
+            continue
+        digits = number.replace(".", "")
+        # "Act of 2026" names a year, not an instrument number.
+        if not has_number_marker and "." not in number and re.fullmatch(r"(?:19|20)\d{2}", digits):
+            continue
+        _add_identifier(found, kind + digits)
     return found
 
 

@@ -352,6 +352,51 @@ class DuplicateTests(unittest.TestCase):
     def test_texas_does_not_match_the_other_texas_bill(self):
         self.assertNotEqual(matched_id(TX, overrides=False), "US-TX-SB1964-2025")
 
+    def test_public_law_numbers_keep_the_hyphenated_suffix(self):
+        self.assertEqual(ingest.official_identifiers("Public Law 119-12"), {"law119-12"})
+        self.assertEqual(ingest.official_identifiers("Public Law 119-129"), {"law119-129"})
+        self.assertIn("decree234", ingest.official_identifiers("Decreto Legislativo N.° 234"))
+        self.assertIn("law24001", ingest.official_identifiers("Law No. 24.001 on the protection of personal data"))
+        self.assertIn("decree36053", ingest.official_identifiers("Presidential Decree No. 36053"))
+        self.assertIn("act20676", ingest.official_identifiers("Act No. 20676"))
+        take_it_down = curated(
+            "US-PL119-12-2025", "United States · Federal",
+            "TAKE IT DOWN Act (S.146, Public Law 119-12)",
+            publicationDate="2025-05-19",
+            sourceUrl="https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm",
+        )
+        romance = doc(
+            slug="us-romance-scam-prevention-act-2026",
+            jurisdiction="US",
+            issuing_body="United States Congress",
+            date_adopted="2026-10-20",
+            title_original="Romance Scam Prevention Act (H.R.2481, Public Law 119-129)",
+            short_title={"en": "Romance Scam Prevention Act"},
+            source_url="https://www.congress.gov/bill/119th-congress/house-bill/2481",
+        )
+        self.assertIsNone(matched_id(romance, items=[take_it_down], overrides=False))
+
+    def test_a_title_year_is_not_an_instrument_number(self):
+        self.assertNotIn("act2026", ingest.official_identifiers("MTS CYBER Act of 2026"))
+        self.assertNotIn("act2026", ingest.official_identifiers("Cybersecurity for Small Businesses Act of 2026"))
+        self.assertNotIn("act2026", ingest.official_identifiers("Cybersecurity Act 2026"))
+        small = curated(
+            "US-HR10238-2026", "United States · Federal",
+            "H.R.10238, Cybersecurity for Small Businesses Act of 2026",
+            publicationDate="2026-09-02",
+            sourceUrl="https://www.congress.gov/bill/119th-congress/house-bill/10238",
+        )
+        mts = doc(
+            slug="us-mts-cyber-act-2026",
+            jurisdiction="US",
+            issuing_body="United States Congress",
+            date_adopted="2026-02-20",
+            title_original="H.R.7625, MTS CYBER Act of 2026",
+            short_title={"en": "H.R.7625, MTS CYBER Act of 2026"},
+            source_url="https://www.congress.gov/bill/119th-congress/house-bill/7625",
+        )
+        self.assertIsNone(matched_id(mts, items=[small], overrides=False))
+
     def test_eu_act_does_not_match_a_member_state_applicability_record(self):
         self.assertEqual(matched_id(EU_ACT, overrides=False), "EU-2024-1689")
 
