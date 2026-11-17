@@ -1505,6 +1505,46 @@
       "name": "European Union · EUR-Lex",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC06005",
       "status": "Official Journal C/2026/6005 publication of the Article 50 transparency guidelines"
+    },
+    {
+      "name": "South Korea · Korea Internet & Security Agency (KISA)",
+      "url": "https://www.kisa.or.kr/2060204/form?postSeq=19&page=1",
+      "status": "Official source for 인공지능(AI) 보안 안내서 (AI Security Guide)"
+    },
+    {
+      "name": "Australia · NSW Department of Customer Service (Digital NSW)",
+      "url": "https://www.digital.nsw.gov.au/policy/artificial-intelligence/ai-strategy-and-operational-policy/nsw-ai-operational-policy",
+      "status": "Official source for the NSW AI Operational Policy"
+    },
+    {
+      "name": "Australia · NSW Department of Customer Service (Digital NSW)",
+      "url": "https://arp.nsw.gov.au/dcs-2026-02-use-of-artificial-intelligence-by-nsw-government-agencies",
+      "status": "Official source for DCS Circular DCS-2026-02 (Use of Artificial Intelligence by NSW Government Agencies)"
+    },
+    {
+      "name": "Singapore · Personal Data Protection Commission (PDPC)",
+      "url": "https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-use-of-personal-data-in-generative-ai",
+      "status": "Official source for the Advisory Guidelines on Use of Personal Data in Generative AI"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "status": "Official source for the General-Purpose AI Code of Practice"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems",
+      "status": "Official source for the draft guidelines on the classification of high-risk AI systems"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024XC03014",
+      "status": "Official source for the 2024 DSA election guidelines (C/2024/3014)"
+    },
+    {
+      "name": "India · CERT-In",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0020&pageid=PUBVLNOTES02",
+      "status": "Official source for CERT-In advisory CIAD-2026-0020"
     }
   ],
   "items": [
@@ -2247,6 +2287,139 @@
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "AU-NSW-AI-OPERATIONAL-POLICY-2026",
+      "jurisdiction": "Australia · New South Wales",
+      "regulator": "NSW Department of Customer Service (Digital NSW / NSW Office for AI)",
+      "title": "NSW AI Operational Policy",
+      "instrumentType": "Government policy (mandatory under DCS Circular DCS-2026-02)",
+      "status": "Adopted policy",
+      "publicationDate": "2026-07-30",
+      "effectiveDate": "—",
+      "topic": "AI governance · public sector AI use · assurance",
+      "sourceUrl": "https://www.digital.nsw.gov.au/policy/artificial-intelligence/ai-strategy-and-operational-policy/nsw-ai-operational-policy",
+      "summary": "An all-of-government policy of NSW, first published 30 July 2026, that replaces the NSW AI Ethics Policy and adopts Australia's AI Ethics Principles. Compliance is mandatory under DCS Circular DCS-2026-02 'Use of Artificial Intelligence by NSW Government Agencies', issued on 30 July 2026 by the Secretary of the Department of Customer Service and updated 1 September 2026. Agencies must appoint an accountable official, establish AI governance and assurance, and register all AI use cases on the AI Assessment Framework (AIAF) Platform. They must apply the AIAF where registration requires it and refer high- and critical-risk use cases to the NSW AI Review Committee. They must also align ICT acceptable-use policies with the policy's acceptable-use standard and provide AI literacy and policy training. The policy PDF on the site is 'Final version 1.1 – 30 July 2026'. Digital NSW states the AIAF Platform is mandatory from 30 September 2026.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (Digital NSW, www.digital.nsw.gov.au; DCS Circular DCS-2026-02, arp.nsw.gov.au)."
+        }
+      ]
+    },
+    {
+      "id": "SG-PDPC-GENAI-ADVISORY-GUIDELINES-2026",
+      "jurisdiction": "Singapore",
+      "regulator": "Personal Data Protection Commission (PDPC)",
+      "title": "Advisory Guidelines on Use of Personal Data in Generative AI",
+      "instrumentType": "Advisory guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-07-20",
+      "effectiveDate": "—",
+      "topic": "Privacy · generative AI · personal data",
+      "sourceUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-use-of-personal-data-in-generative-ai",
+      "summary": "PDPC advisory guidelines issued 20 July 2026, after a public consultation that ran from 2 June to 1 July 2026, on how the PDPA applies to personal data in generative AI models and systems. They are read with the 2024 Advisory Guidelines on AI Recommendation and Decision Systems and the Key Concepts guidelines. Part II (development) covers the Publicly Available Exception for collecting personal data, for example web scraping, including documentation of the organisation's assessment, plus consent and notification obligations. Part III (deployment) allocates responsibilities among model providers, system providers and system deployers, with deployers bearing primary responsibility; this part includes expectations for systems with agentic functionality. Part IV covers access and correction requests. The guidelines are advisory and not legally binding.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (Personal Data Protection Commission, www.pdpc.gov.sg)."
+        }
+      ]
+    },
+    {
+      "id": "EU-AIO-HIGH-RISK-CLASSIFICATION-GUIDELINES-DRAFT-2026",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office)",
+      "title": "Draft Commission guidelines on the classification of high-risk AI systems (Article 6 AI Act)",
+      "instrumentType": "Draft Commission guidelines",
+      "status": "Consultation",
+      "publicationDate": "2026-05-19",
+      "effectiveDate": "—",
+      "topic": "AI Act · high-risk classification · Article 6",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems",
+      "summary": "Draft guidelines published by the Commission on 19 May 2026 under Article 6(5) of the AI Act to help providers, deployers and market surveillance authorities decide whether an AI system is high-risk. Section III covers Article 6(1), safety components or products under Annex I harmonisation legislation that require third-party conformity assessment. Section IV covers Article 6(2), the Annex III use cases. The drafts include practical, non-exhaustive examples of systems that are and are not high-risk. They were open to targeted stakeholder feedback via EU Survey until 23 July 2026. As of this check the guidelines remain in draft and have not been formally adopted.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        }
+      ]
+    },
+    {
+      "id": "IN-CERTIN-CIAD-2026-0020-FRONTIER-AI-ADVISORY-2026",
+      "jurisdiction": "India",
+      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
+      "title": "CERT-In Advisory CIAD-2026-0020: Defending Against Frontier AI Driven Cyber Risks",
+      "instrumentType": "Advisory",
+      "status": "Guidance",
+      "publicationDate": "2026-04-26",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · frontier AI · AI-enabled attacks",
+      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0020&pageid=PUBVLNOTES02",
+      "summary": "A CERT-In advisory (severity High) issued 26 April 2026. It warns that frontier AI systems can autonomously discover vulnerabilities, accelerate exploit development, automate reconnaissance and credential harvesting, generate convincing phishing and impersonation, and orchestrate multi-stage attacks. For organisations it recommends heightened vigilance and monitoring for fast or anomalous activity, reducing internet-exposed attack surface, DDoS protection, zero trust architecture with MFA, rapid risk-based patching, supply-chain controls, and log preservation and reporting to CERT-In under its 2022 Directions. It also has recommendations for individuals. CERT-In's later CISG-2026-03 OEM guidelines (10 June 2026) cite this advisory.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
+        }
+      ]
+    },
+    {
+      "id": "KR-KISA-AI-SECURITY-GUIDE-2025",
+      "jurisdiction": "South Korea",
+      "regulator": "Korea Internet & Security Agency (KISA) · Ministry of Science and ICT (MSIT)",
+      "title": "인공지능(AI) 보안 안내서 (AI Security Guide)",
+      "instrumentType": "Guidance",
+      "status": "Guidance",
+      "publicationDate": "2025-12-10",
+      "effectiveDate": "—",
+      "topic": "AI security · AI models and services · cyber threats",
+      "sourceUrl": "https://www.kisa.or.kr/2060204/form?postSeq=19&page=1",
+      "summary": "A guide published by KISA on 10 December 2025, and also distributed via the MSIT website, for companies and the public to use in protecting AI models and services from external cyber threats. KISA reissued a corrected version with an errata sheet on 13 March 2026. The guide is non-binding.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (Korea Internet & Security Agency, www.kisa.or.kr)."
+        }
+      ]
+    },
+    {
+      "id": "EU-GPAI-CODE-OF-PRACTICE-2025",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (AI Office); independent experts (drafting)",
+      "title": "General-Purpose AI Code of Practice",
+      "instrumentType": "Code of practice (voluntary)",
+      "status": "Guidance",
+      "publicationDate": "2025-07-10",
+      "effectiveDate": "—",
+      "topic": "AI Act · general-purpose AI models · transparency, copyright, safety and security",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "summary": "A voluntary code, drawn up by 13 independent experts with input from over 1,000 stakeholders, to help providers of general-purpose AI models comply with AI Act obligations. It was published on 10 July 2025 and has three chapters. Transparency (with a Model Documentation Form) and Copyright serve all GPAI providers under Article 53. Safety and Security is for providers of GPAI models with systemic risk under Article 55. On 1 August 2025 the Commission (by Commission Opinion) and the AI Board confirmed the code is an adequate voluntary tool for demonstrating compliance. Signatories (listed on the Commission page, including Amazon, Anthropic, Google, IBM, Microsoft, Mistral AI and OpenAI) can show compliance by adhering to it, and a Signatory Taskforce chaired by the AI Office coordinates its application. It complements the Commission's GPAI guidelines (EU-AIO-GPAI-GUIDELINES-2025).",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        }
+      ]
+    },
+    {
+      "id": "EU-DSA-ELECTION-GUIDELINES-2024",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (DG CONNECT)",
+      "title": "Commission Guidelines for providers of Very Large Online Platforms and Very Large Online Search Engines on the mitigation of systemic risks for electoral processes pursuant to Article 35(3) of Regulation (EU) 2022/2065",
+      "instrumentType": "Commission guidelines (Communication)",
+      "status": "Guidance",
+      "publicationDate": "2024-04-26",
+      "effectiveDate": "—",
+      "topic": "Online platforms · elections · DSA Article 35",
+      "sourceUrl": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52024XC03014",
+      "summary": "Commission guidelines adopted on 26 April 2024 and published in the Official Journal C series (C/2024/3014) the same day. They are addressed to VLOPs and VLOSEs on mitigating systemic risks to electoral processes under Article 35(3) of the Digital Services Act. They explain how platforms can meet the Article 35 duty to put reasonable, proportionate and effective mitigation measures in place for election-related risks, alongside other relevant DSA obligations (terms and conditions, recommender systems, crisis response, transparency and audits, advertising transparency, data access). On 10 November 2026 the Commission opened a consultation on a revised version (EU-DSA-ELECTION-GUIDELINES-REVISION-CONSULTATION-2026).",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (EUR-Lex, eur-lex.europa.eu)."
         }
       ]
     },
