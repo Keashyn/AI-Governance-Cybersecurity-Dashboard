@@ -2251,63 +2251,6 @@
       ]
     },
     {
-      "id": "IN-CERTIN-CISG-2026-03-OEM-AI-VULNERABILITY-GUIDELINES-2026",
-      "jurisdiction": "India",
-      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
-      "title": "Guidelines regarding AI-Accelerated Vulnerability Protection and Response Requirements for Original Equipment Manufacturers (OEMs), and Technology Providers (CERT-In Security Guidelines CISG-2026-03)",
-      "instrumentType": "Guidelines",
-      "status": "Guidance",
-      "publicationDate": "2026-06-10",
-      "effectiveDate": "—",
-      "topic": "Cybersecurity · vulnerability disclosure · patching · supply chain · AI-assisted exploitation",
-      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-03",
-      "summary": "CERT-In Security Guidelines CISG-2026-03 (V1.0, 10 June 2026), issued following CERT-In's 26 April 2026 advisory 'Defending Against Frontier AI Driven Cyber Risks'. It sets cybersecurity compliance guidelines and recommendations for global and domestic OEMs and technology providers supplying products, software, firmware, cloud services, APIs or managed services in India. These include vulnerability assessment using both traditional and AI-assisted techniques, SBOM inventories, and immediate disclosure of critical and high-severity vulnerabilities and zero-days to affected organisations and CERT-In. It sets indicative patch or compensating-control timelines by CVSS severity, distinguishing vulnerabilities likely exploitable with AI from those reported through responsible disclosure (for example, critical IT vulnerabilities: emergency release or 5 days). It also covers incident-response transparency and reminds providers of the 6-hour incident reporting requirement under CERT-In's Directions of 28 April 2022 under s.70B of the IT Act. It is framed as guidance ('advised'), and the timelines are indicative.",
-      "history": [
-        {
-          "date": "2026-11-16",
-          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
-        }
-      ]
-    },
-    {
-      "id": "IN-CERTIN-CISG-2026-02-AI-EXPLOITATION-BLUEPRINT-2026",
-      "jurisdiction": "India",
-      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
-      "title": "Blueprint for Reducing Exposure and Defending against AI-Assisted Vulnerabilities Exploitation in Digital Infrastructure (CERT-In Security Guidelines CISG-2026-02)",
-      "instrumentType": "Guidelines",
-      "status": "Guidance",
-      "publicationDate": "2026-05-25",
-      "effectiveDate": "—",
-      "topic": "Cybersecurity · AI-assisted exploitation · vulnerability management",
-      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-02",
-      "summary": "CERT-In Security Guidelines CISG-2026-02 (Version 1.0, 25 May 2026), a 38-page implementation-oriented framework to help organisations withstand AI-enabled cyber threats, including AI-accelerated reconnaissance, automated vulnerability discovery, targeted phishing and adaptive malware. It covers governance and accountability, exposure reduction, technical defensive controls, AI-aware security operations and continuous monitoring, vulnerability and patch management, supply-chain security, incident response and resilience, continuous security validation, secure adoption and governance of AI systems, workforce readiness, and a recommended implementation roadmap. Organisations are encouraged to implement it in a risk-informed manner.",
-      "history": [
-        {
-          "date": "2026-11-16",
-          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
-        }
-      ]
-    },
-    {
-      "id": "CN-CAC-FACIAL-RECOGNITION-SECURITY-MEASURES-2025",
-      "jurisdiction": "China",
-      "regulator": "Cyberspace Administration of China (CAC) · Ministry of Public Security (MPS)",
-      "title": "人脸识别技术应用安全管理办法 (Measures for the Security Management of the Application of Facial Recognition Technology), CAC/MPS Order No. 19",
-      "instrumentType": "Departmental rule (部门规章)",
-      "status": "In force",
-      "publicationDate": "2025-03-21",
-      "effectiveDate": "2025-06-01",
-      "topic": "Biometrics · facial recognition · personal information protection",
-      "sourceUrl": "https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm",
-      "summary": "A departmental rule issued jointly by the Cyberspace Administration of China and the Ministry of Public Security as Order No. 19 (国家互联网信息办公室 中华人民共和国公安部 令 第19号). It was adopted at the CAC's 23rd office meeting of 2024 on 30 September 2024 with MPS consent, signed 13 March 2025, published on 21 March 2025, and in force from 1 June 2025. In 20 articles, based on the Cybersecurity Law, Data Security Law, PIPL and the Network Data Security Management Regulations, it governs processing of facial information using facial recognition technology in China; R&D and algorithm training are excluded. Requirements include specific purpose and sufficient necessity, notice, separate consent (guardian consent for under-14s), and storage in the device unless law or separate consent allows otherwise. A prior personal information protection impact assessment is required, with records kept at least 3 years. Facial recognition may not be the only verification method where alternatives exist, and devices are banned in private spaces such as hotel rooms and public toilets. Security measures such as encryption and access control are required. Processors holding facial information on 100,000 or more people must file with the provincial-level CAC within 30 working days. The CAC supervises together with public security organs.",
-      "history": [
-        {
-          "date": "2026-11-16",
-          "change": "Added after verification against the official source (Cyberspace Administration of China, www.cac.gov.cn)."
-        }
-      ]
-    },
-    {
       "id": "CYBERLAW-IT-ACN-DETERMINAZIONE-314287-2026-PIATTAFORMA-NIS",
       "jurisdiction": "Italy",
       "regulator": "National Cybersecurity Agency (ACN) – Director General",
@@ -5709,6 +5652,25 @@
       ]
     },
     {
+      "id": "IN-CERTIN-CISG-2026-03-OEM-AI-VULNERABILITY-GUIDELINES-2026",
+      "jurisdiction": "India",
+      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
+      "title": "Guidelines regarding AI-Accelerated Vulnerability Protection and Response Requirements for Original Equipment Manufacturers (OEMs), and Technology Providers (CERT-In Security Guidelines CISG-2026-03)",
+      "instrumentType": "Guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-06-10",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · vulnerability disclosure · patching · supply chain · AI-assisted exploitation",
+      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-03",
+      "summary": "CERT-In Security Guidelines CISG-2026-03 (V1.0, 10 June 2026), issued following CERT-In's 26 April 2026 advisory 'Defending Against Frontier AI Driven Cyber Risks'. It sets cybersecurity compliance guidelines and recommendations for global and domestic OEMs and technology providers supplying products, software, firmware, cloud services, APIs or managed services in India. These include vulnerability assessment using both traditional and AI-assisted techniques, SBOM inventories, and immediate disclosure of critical and high-severity vulnerabilities and zero-days to affected organisations and CERT-In. It sets indicative patch or compensating-control timelines by CVSS severity, distinguishing vulnerabilities likely exploitable with AI from those reported through responsible disclosure (for example, critical IT vulnerabilities: emergency release or 5 days). It also covers incident-response transparency and reminds providers of the 6-hour incident reporting requirement under CERT-In's Directions of 28 April 2022 under s.70B of the IT Act. It is framed as guidance ('advised'), and the timelines are indicative.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
+        }
+      ]
+    },
+    {
       "id": "EU-COP-AI-CONTENT-MARKING-2026",
       "jurisdiction": "European Union",
       "regulator": "European Commission",
@@ -6354,6 +6316,25 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "IN-CERTIN-CISG-2026-02-AI-EXPLOITATION-BLUEPRINT-2026",
+      "jurisdiction": "India",
+      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
+      "title": "Blueprint for Reducing Exposure and Defending against AI-Assisted Vulnerabilities Exploitation in Digital Infrastructure (CERT-In Security Guidelines CISG-2026-02)",
+      "instrumentType": "Guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-05-25",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · AI-assisted exploitation · vulnerability management",
+      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-02",
+      "summary": "CERT-In Security Guidelines CISG-2026-02 (Version 1.0, 25 May 2026), a 38-page implementation-oriented framework to help organisations withstand AI-enabled cyber threats, including AI-accelerated reconnaissance, automated vulnerability discovery, targeted phishing and adaptive malware. It covers governance and accountability, exposure reduction, technical defensive controls, AI-aware security operations and continuous monitoring, vulnerability and patch management, supply-chain security, incident response and resilience, continuous security validation, secure adoption and governance of AI systems, workforce readiness, and a recommended implementation roadmap. Organisations are encouraged to implement it in a risk-informed manner.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
         }
       ]
     },
@@ -12230,6 +12211,25 @@
       "catalogSlug": "ua-zakon-4336-ix-kiberzakhyst-2025",
       "catalogUpdatedAt": "2026-10-29",
       "titleTranslationSource": "Cybersecurity Database English short title"
+    },
+    {
+      "id": "CN-CAC-FACIAL-RECOGNITION-SECURITY-MEASURES-2025",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China (CAC) · Ministry of Public Security (MPS)",
+      "title": "人脸识别技术应用安全管理办法 (Measures for the Security Management of the Application of Facial Recognition Technology), CAC/MPS Order No. 19",
+      "instrumentType": "Departmental rule (部门规章)",
+      "status": "In force",
+      "publicationDate": "2025-03-21",
+      "effectiveDate": "2025-06-01",
+      "topic": "Biometrics · facial recognition · personal information protection",
+      "sourceUrl": "https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm",
+      "summary": "A departmental rule issued jointly by the Cyberspace Administration of China and the Ministry of Public Security as Order No. 19 (国家互联网信息办公室 中华人民共和国公安部 令 第19号). It was adopted at the CAC's 23rd office meeting of 2024 on 30 September 2024 with MPS consent, signed 13 March 2025, published on 21 March 2025, and in force from 1 June 2025. In 20 articles, based on the Cybersecurity Law, Data Security Law, PIPL and the Network Data Security Management Regulations, it governs processing of facial information using facial recognition technology in China; R&D and algorithm training are excluded. Requirements include specific purpose and sufficient necessity, notice, separate consent (guardian consent for under-14s), and storage in the device unless law or separate consent allows otherwise. A prior personal information protection impact assessment is required, with records kept at least 3 years. Facial recognition may not be the only verification method where alternatives exist, and devices are banned in private spaces such as hotel rooms and public toilets. Security measures such as encryption and access control are required. Processors holding facial information on 100,000 or more people must file with the provincial-level CAC within 30 working days. The CAC supervises together with public security organs.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (Cyberspace Administration of China, www.cac.gov.cn)."
+        }
+      ]
     },
     {
       "id": "CYBERLAW-MX-LFPDPPP-2025",
