@@ -124,7 +124,7 @@
     { phrases: ["spanish"], label: "Spain", test: (j) => j === "Spain" },
     { phrases: ["chinese"], label: "China", test: (j) => j === "China" },
     { phrases: ["canadian"], label: "Canada", test: (j) => j === "Canada" },
-    { phrases: ["australian"], label: "Australia", test: (j) => j === "Australia" },
+    { phrases: ["australian"], label: "Australia", broad: true, test: (j) => j === "Australia" || j.startsWith("Australia ·") },
     { phrases: ["indian"], label: "India", test: (j) => j === "India" },
     { phrases: ["brazilian"], label: "Brazil", test: (j) => j === "Brazil" },
     { phrases: ["mexican"], label: "Mexico", broad: true, test: (j) => j === "Mexico" || j.startsWith("Mexico ·") },
