@@ -1465,9 +1465,68 @@
       "name": "France · Présidence de la République (Élysée)",
       "url": "https://www.elysee.fr/en/emmanuel-macron/2026/11/09/paris-call-for-ai-safety-and-security",
       "status": "Official source for the Paris Call for AI safety and security"
+    },
+    {
+      "name": "European Union · European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-revised-election-guidelines-under-digital-services-act-dsa",
+      "status": "Official source for the targeted consultation on the draft revised DSA election guidelines"
+    },
+    {
+      "name": "China · Cyberspace Administration of China",
+      "url": "https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm",
+      "status": "Official source for 人脸识别技术应用安全管理办法 (CAC/MPS Order No. 19)"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2487/oj",
+      "status": "Official source for Commission Implementing Regulation (EU) 2026/2487 (AI regulatory sandboxes)"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2550/oj",
+      "status": "Official source for Council Implementing Regulation (EU) 2026/2550 (cyber sanctions listing)"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/eli/dec/2026/2546/oj",
+      "status": "Official source for Council Decision (CFSP) 2026/2546 (cyber sanctions listing)"
+    },
+    {
+      "name": "India · CERT-In",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-02",
+      "status": "Official source for CERT-In Security Guidelines CISG-2026-02"
+    },
+    {
+      "name": "India · CERT-In",
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-03",
+      "status": "Official source for CERT-In Security Guidelines CISG-2026-03"
+    },
+    {
+      "name": "European Union · EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC06005",
+      "status": "Official Journal C/2026/6005 publication of the Article 50 transparency guidelines"
     }
   ],
   "items": [
+    {
+      "id": "EU-CYBER-SANCTIONS-NONAME05716-LISTING-2026",
+      "jurisdiction": "European Union",
+      "regulator": "Council of the European Union",
+      "title": "Council Decision (CFSP) 2026/2546 and Council Implementing Regulation (EU) 2026/2550 adding NoName057(16) to the EU cyber-attacks sanctions list (Decision (CFSP) 2019/797 / Regulation (EU) 2019/796)",
+      "instrumentType": "Council decision and implementing regulation (restrictive measures)",
+      "status": "In force",
+      "publicationDate": "2026-11-16",
+      "effectiveDate": "2026-11-16",
+      "topic": "Cybersecurity · cyber sanctions · DDoS · foreign threat actors",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg_impl/2026/2550/oj",
+      "summary": "On 16 November 2026 the Council added one entity, NoName057(16) (aliases 05716nnm, Nnm05716, NoName057, NoName05716), to the list of persons and entities subject to restrictive measures under the EU framework against cyber-attacks threatening the Union or its Member States. This is done through Decision (CFSP) 2026/2546, amending Decision (CFSP) 2019/797, and Implementing Regulation (EU) 2026/2550, implementing Regulation (EU) 2019/796. The listing reasons describe NoName057(16) as a pro-Russian hacker group, active since March 2022, that conducts DDoS attacks using the DDoSia toolkit against government bodies, critical infrastructure and companies in Ukraine, the United States and Member States. Both acts entered into force on the date of publication in the Official Journal, 16 November 2026.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (EUR-Lex, eur-lex.europa.eu)."
+        }
+      ]
+    },
     {
       "id": "US-FR-2026-23155",
       "jurisdiction": "United States · Federal",
@@ -1484,6 +1543,44 @@
         {
           "date": "2026-11-13",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "EU-AI-ACT-SANDBOXES-IMPLEMENTING-REGULATION-2026-2487",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission",
+      "title": "Commission Implementing Regulation (EU) 2026/2487 laying down rules for the application of Regulation (EU) 2024/1689 as regards the establishment, development, implementation, operation and supervision of AI regulatory sandboxes",
+      "instrumentType": "Implementing regulation",
+      "status": "Enacted",
+      "publicationDate": "2026-11-11",
+      "effectiveDate": "2026-12-01",
+      "topic": "AI Act · AI regulatory sandboxes · innovation",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg_impl/2026/2487/oj",
+      "summary": "An implementing regulation adopted on 10 November 2026 under Article 58(1) of the AI Act and published in OJ L on 11 November 2026. It sets common rules and detailed arrangements for all AI regulatory sandboxes established under Article 57: application and selection, participation, written proof and exit reports, follow-up after participation, extension and suspension of sandbox projects, and evaluation. Entry into force is on the twentieth day after publication (Art. 10); EUR-Lex gives the date of effect as 1 December 2026. It is binding and directly applicable in all Member States.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (EUR-Lex, eur-lex.europa.eu)."
+        }
+      ]
+    },
+    {
+      "id": "EU-DSA-ELECTION-GUIDELINES-REVISION-CONSULTATION-2026",
+      "jurisdiction": "European Union",
+      "regulator": "European Commission (DG CONNECT)",
+      "title": "Targeted consultation on the draft revised election guidelines under the Digital Services Act (DSA)",
+      "instrumentType": "Consultation (draft guidelines)",
+      "status": "Consultation",
+      "publicationDate": "2026-11-10",
+      "effectiveDate": "—",
+      "topic": "Online platforms · elections · generative AI · deepfakes · DSA Article 35",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-revised-election-guidelines-under-digital-services-act-dsa",
+      "summary": "The Commission opened a targeted consultation on 10 November 2026, closing on 23 November 2026, on draft revised guidelines for VLOPs and VLOSEs on mitigating systemic risks to electoral processes under DSA Article 35. The drafts update the April 2024 guidelines. They propose five main changes: (1) stronger defences against foreign information manipulation and interference, including early detection of coordinated inauthentic behaviour; (2) recommender-system expectations, such as testing algorithms for manipulation before every national election and recording changes in the six months before a vote; (3) safeguards for AI-generated content, so deepfakes are clearly labelled, keep their labels when shared, and illegal deepfakes of candidates are removed fast; (4) dedicated channels and protections for candidates; and (5) reporting to the Commission and national authorities within 30 days of an election, plus a public version of that report. These are draft guidelines and are not yet adopted.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
         }
       ]
     },
@@ -1761,11 +1858,15 @@
       "effectiveDate": "—",
       "topic": "AI Act · transparency · deepfakes · AI-generated content",
       "sourceUrl": "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems",
-      "summary": "Commission guidelines clarifying the transparency obligations in Article 50 of the AI Act, which applies from 2 August 2026. They explain which duties fall on providers and which on deployers. Providers must make sure people are told when they interact directly with an AI system and must mark AI-generated or manipulated content in machine-readable form. Deployers must inform people exposed to emotion recognition or biometric categorisation, deepfakes, or AI-generated text on matters of public interest published without human review. The guidelines define key concepts, list exemptions such as standard editing, and give in-scope and out-of-scope examples. They explain that compliance can be shown by adhering to the Code of Practice on transparency of AI-generated content (or by equally adequate alternatives). They were developed with Member States, the AI Board and a public consultation, and are non-binding. They were adopted as Commission Communication C(2026) 7702 final of 5 November 2026; the Commission's library page for the guidelines is dated 20 July 2026.",
+      "summary": "Commission guidelines clarifying the transparency obligations in Article 50 of the AI Act, which applies from 2 August 2026. They explain which duties fall on providers and which on deployers. Providers must make sure people are told when they interact directly with an AI system and must mark AI-generated or manipulated content in machine-readable form. Deployers must inform people exposed to emotion recognition or biometric categorisation, deepfakes, or AI-generated text on matters of public interest published without human review. The guidelines define key concepts, list exemptions such as standard editing, and give in-scope and out-of-scope examples. They explain that compliance can be shown by adhering to the Code of Practice on transparency of AI-generated content (or by equally adequate alternatives). They were developed with Member States, the AI Board and a public consultation, and are non-binding. They were adopted as Commission Communication C(2026) 7702 final of 5 November 2026; the Commission's library page for the guidelines is dated 20 July 2026. They were published in the Official Journal, C series, as C/2026/6005 on 12 November 2026.",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (European Commission, digital-strategy.ec.europa.eu)."
+        },
+        {
+          "date": "2026-11-16",
+          "change": "Summary updated: published in the Official Journal of the EU, C series, as C/2026/6005 on 12 November 2026 (the OJ publication of the Communication adopted as C(2026) 7702 of 5 November 2026). Verified against EUR-Lex (CELEX 52026XC06005). publicationDate and sourceUrl unchanged."
         }
       ]
     },
@@ -2146,6 +2247,63 @@
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Digital Agency, www.digital.go.jp)."
+        }
+      ]
+    },
+    {
+      "id": "IN-CERTIN-CISG-2026-03-OEM-AI-VULNERABILITY-GUIDELINES-2026",
+      "jurisdiction": "India",
+      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
+      "title": "Guidelines regarding AI-Accelerated Vulnerability Protection and Response Requirements for Original Equipment Manufacturers (OEMs), and Technology Providers (CERT-In Security Guidelines CISG-2026-03)",
+      "instrumentType": "Guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-06-10",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · vulnerability disclosure · patching · supply chain · AI-assisted exploitation",
+      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-03",
+      "summary": "CERT-In Security Guidelines CISG-2026-03 (V1.0, 10 June 2026), issued following CERT-In's 26 April 2026 advisory 'Defending Against Frontier AI Driven Cyber Risks'. It sets cybersecurity compliance guidelines and recommendations for global and domestic OEMs and technology providers supplying products, software, firmware, cloud services, APIs or managed services in India. These include vulnerability assessment using both traditional and AI-assisted techniques, SBOM inventories, and immediate disclosure of critical and high-severity vulnerabilities and zero-days to affected organisations and CERT-In. It sets indicative patch or compensating-control timelines by CVSS severity, distinguishing vulnerabilities likely exploitable with AI from those reported through responsible disclosure (for example, critical IT vulnerabilities: emergency release or 5 days). It also covers incident-response transparency and reminds providers of the 6-hour incident reporting requirement under CERT-In's Directions of 28 April 2022 under s.70B of the IT Act. It is framed as guidance ('advised'), and the timelines are indicative.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
+        }
+      ]
+    },
+    {
+      "id": "IN-CERTIN-CISG-2026-02-AI-EXPLOITATION-BLUEPRINT-2026",
+      "jurisdiction": "India",
+      "regulator": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology",
+      "title": "Blueprint for Reducing Exposure and Defending against AI-Assisted Vulnerabilities Exploitation in Digital Infrastructure (CERT-In Security Guidelines CISG-2026-02)",
+      "instrumentType": "Guidelines",
+      "status": "Guidance",
+      "publicationDate": "2026-05-25",
+      "effectiveDate": "—",
+      "topic": "Cybersecurity · AI-assisted exploitation · vulnerability management",
+      "sourceUrl": "https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-02",
+      "summary": "CERT-In Security Guidelines CISG-2026-02 (Version 1.0, 25 May 2026), a 38-page implementation-oriented framework to help organisations withstand AI-enabled cyber threats, including AI-accelerated reconnaissance, automated vulnerability discovery, targeted phishing and adaptive malware. It covers governance and accountability, exposure reduction, technical defensive controls, AI-aware security operations and continuous monitoring, vulnerability and patch management, supply-chain security, incident response and resilience, continuous security validation, secure adoption and governance of AI systems, workforce readiness, and a recommended implementation roadmap. Organisations are encouraged to implement it in a risk-informed manner.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (CERT-In, www.cert-in.org.in)."
+        }
+      ]
+    },
+    {
+      "id": "CN-CAC-FACIAL-RECOGNITION-SECURITY-MEASURES-2025",
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China (CAC) · Ministry of Public Security (MPS)",
+      "title": "人脸识别技术应用安全管理办法 (Measures for the Security Management of the Application of Facial Recognition Technology), CAC/MPS Order No. 19",
+      "instrumentType": "Departmental rule (部门规章)",
+      "status": "In force",
+      "publicationDate": "2025-03-21",
+      "effectiveDate": "2025-06-01",
+      "topic": "Biometrics · facial recognition · personal information protection",
+      "sourceUrl": "https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm",
+      "summary": "A departmental rule issued jointly by the Cyberspace Administration of China and the Ministry of Public Security as Order No. 19 (国家互联网信息办公室 中华人民共和国公安部 令 第19号). It was adopted at the CAC's 23rd office meeting of 2024 on 30 September 2024 with MPS consent, signed 13 March 2025, published on 21 March 2025, and in force from 1 June 2025. In 20 articles, based on the Cybersecurity Law, Data Security Law, PIPL and the Network Data Security Management Regulations, it governs processing of facial information using facial recognition technology in China; R&D and algorithm training are excluded. Requirements include specific purpose and sufficient necessity, notice, separate consent (guardian consent for under-14s), and storage in the device unless law or separate consent allows otherwise. A prior personal information protection impact assessment is required, with records kept at least 3 years. Facial recognition may not be the only verification method where alternatives exist, and devices are banned in private spaces such as hotel rooms and public toilets. Security measures such as encryption and access control are required. Processors holding facial information on 100,000 or more people must file with the provincial-level CAC within 30 working days. The CAC supervises together with public security organs.",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "change": "Added after verification against the official source (Cyberspace Administration of China, www.cac.gov.cn)."
         }
       ]
     },
@@ -3526,11 +3684,15 @@
       "effectiveDate": "—",
       "topic": "Cybersecurity · small business",
       "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10238",
-      "summary": "H.R.10238, Cybersecurity for Small Businesses Act of 2026, introduced in the House on 2026-09-02 by Rep. Tony Wied [R-WI-8] (119th Congress). The bill would require the SBA Administrator to disseminate cybersecurity information and resources to small business concerns. According to the CRS summary, this includes information on the CMMC program. Current stage: reported (amended) by the House Committee on Small Business (H. Rept. 119-851) and placed on the Union Calendar (No. 748) on 13 Oct 2026. The bill is not law.",
+      "summary": "H.R.10238, Cybersecurity for Small Businesses Act of 2026, introduced in the House on 2026-09-02 by Rep. Tony Wied [R-WI-8] (119th Congress). The bill would require the SBA Administrator to disseminate cybersecurity information and resources to small business concerns. According to the CRS summary, this includes information on the CMMC program. Current stage: passed the House, as amended, under suspension of the rules by voice vote on 11 Nov 2026; received in the Senate, read twice and referred to the Senate Committee on Small Business and Entrepreneurship on 12 Nov 2026. The bill is not law.",
       "history": [
         {
           "date": "2026-11-10",
           "change": "Added after verification against the official source (Library of Congress, Congress.gov; verified via the official Congress.gov API, api.congress.gov)."
+        },
+        {
+          "date": "2026-11-16",
+          "change": "Stage updated: passed the House, as amended, under suspension of the rules by voice vote on 11 Nov 2026; received in the Senate and referred to the Committee on Small Business and Entrepreneurship on 12 Nov 2026. Verified via the official Congress.gov API (api.congress.gov)."
         }
       ]
     },
