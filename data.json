@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-17",
+  "lastChecked": "2026-11-18",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -1548,6 +1548,63 @@
     }
   ],
   "items": [
+    {
+      "id": "US-FR-2026-23506",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Labor Statistics Bureau",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus",
+      "summary": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23427",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23425",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-18",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
     {
       "id": "US-FR-2026-23370",
       "jurisdiction": "United States · Federal",
@@ -25009,7 +25066,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "58e19a3a-8acf-55d4-94b6-e5e3ddafa78d",
       "catalogSlug": "fr-loi-2018-133-transposition-nis",
-      "catalogUpdatedAt": "2026-11-15",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -30054,10 +30111,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-16",
-    "lastChecked": "2026-11-17",
+    "catalogUpdatedAt": "2026-11-18",
+    "lastChecked": "2026-11-18",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 125,
-    "standardsUpdatedAt": "2026-11-16"
+    "standardsUpdatedAt": "2026-11-18"
   }
 }
