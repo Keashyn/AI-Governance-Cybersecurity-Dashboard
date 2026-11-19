@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-18",
+  "lastChecked": "2026-11-19",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -1549,6 +1549,63 @@
   ],
   "items": [
     {
+      "id": "US-FR-2026-23555",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Executive Compensation Disclosure Reform",
+      "instrumentType": "Proposed Rule",
+      "status": "Proposed",
+      "publicationDate": "2026-11-19",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform",
+      "summary": "The Securities and Exchange Commission (\"Commission\") is proposing amendments to its executive and director compensation disclosure rules to make the requirements more principles-based and to reduce compliance burdens for registrants, while maintaining the disclosure of material information to investors. The proposed amendments would focus the disclosures on the principal executive officer (\"PEO\") and principal financial officer (\"PFO\"), streamline the tabular disclosure requirements, and simplify and rationalize various other aspects of the compensation disclosure rules, including the Compensation Discussion and Analysis (\"CD&A\"), pay ratio, pay- versus-performance, and perquisites disclosu",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23539",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Administrative Conference of the United States",
+      "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-19",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
+      "summary": "The Office of the Chairman of ACUS is requesting public input on the development of policies regarding the use of generative super intelligence, previously referenced as generative artificial intelligence,\\1\\ by agency adjudicators, other agency personnel, parties, representatives, and other participants in federal agency adjudications. Responses to this request may inform an ongoing ACUS project, Policies on the Use of Generative Super Intelligence in Agency Adjudication, which will recommend best practices for agencies. ---------------------------------------------------------------------------",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23529",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Commerce Department, Industry and Security Bureau",
+      "title": "Addressing Remote Access to Advanced Semiconductors",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-11-19",
+      "effectiveDate": "2026-11-19",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+      "summary": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models. Data cente",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-23506",
       "jurisdiction": "United States · Federal",
       "regulator": "Labor Department, Labor Statistics Bureau",
@@ -2049,6 +2106,36 @@
           "change": "Drafting status and expected submission date checked against the government’s National AI Policy portal."
         }
       ]
+    },
+    {
+      "id": "CYBERSTANDARD-EN-40000",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "CEN, CENELEC",
+      "title": "Cybersecurity requirements for products with digital elements",
+      "officialTitle": "EN 40000",
+      "instrumentType": "Series",
+      "status": "Published standard",
+      "publicationDate": "2026-11",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · software security · iot",
+      "sourceUrl": "https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-cra-standards-en-40000-1-1-and-en-40000-1-2/",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/en-40000/",
+      "summary": "This is the series of European standards that CEN and CENELEC are preparing, at the Commission's request (standardisation request M/606), to help apply the Cyber Resilience Act to hardware and software products with digital elements. The first two parts, published in November 2026, are horizontal, meaning they apply to all products. Part 1-1 sets the common terms and definitions for the series. Part 1-2 sets out general cybersecurity principles, baseline requirements for managing product risks and the activities to carry out across the whole lifecycle, from design to the end of the support period and decommissioning; it provides the framework for the standards on vulnerability handling and for the vertical standards on individual product categories, which are still being prepared.",
+      "access": "a_pagamento",
+      "standardEdition": "",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "c9694384-26dc-583c-be7c-febc05430211",
+      "catalogSlug": "en-40000",
+      "catalogUpdatedAt": "2026-11-19"
     },
     {
       "id": "US-FR-2026-22174",
@@ -4733,7 +4820,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "ba161969-e083-50ee-a97e-1c2dfc0e2071",
       "catalogSlug": "iec-62351",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "US-FR-2026-14679",
@@ -5080,7 +5167,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "227073fd-0daa-4622-9ef5-e1ce3dcf5d18",
       "catalogSlug": "nl-wet-weerbaarheid-kritieke-entiteiten-2026",
-      "catalogUpdatedAt": "2026-11-12"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-NL-CYBERBEVEILIGINGSWET-2026",
@@ -5105,7 +5192,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "6ac67e85-8a97-5e21-8108-bc8c54820a82",
       "catalogSlug": "nl-cyberbeveiligingswet-2026",
-      "catalogUpdatedAt": "2026-11-12"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-NL-CYBERBEVEILIGINGSBESLUIT-2026",
@@ -5241,7 +5328,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "299a08bf-1b0d-55e0-aa21-e6d4c9250537",
       "catalogSlug": "iso-iec-27000",
-      "catalogUpdatedAt": "2026-11-08"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "US-FR-2026-13451",
@@ -5320,19 +5407,23 @@
       "topic": "Cybersecurity standard · cryptography · telecommunications",
       "sourceUrl": "https://www.rfc-editor.org/rfc/rfc9846",
       "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/ietf-rfc-9846-tls-1-3/",
-      "summary": "It defines version 1.3 of the TLS protocol, which protects communications over the Internet between clients and servers (websites, email, APIs, VPNs) against eavesdropping, tampering and message forgery. It describes the handshake through which the parties authenticate and agree on keys, only with forward-secret algorithms, the record layer that encrypts the data, and the mechanisms for session resumption and early data (0-RTT). Compared with earlier versions it removes weak algorithms and encrypts a larger part of the handshake. It is the IETF Internet Standard referred to by many standards and guidelines on the encryption of data in transit.",
+      "summary": "It defines version 1.3 of the TLS protocol, which protects communications over the Internet between clients and servers (websites, email, APIs, VPNs) against eavesdropping, tampering and message forgery. It describes the handshake through which the parties authenticate and agree on keys, only with forward-secret algorithms, the record layer that encrypts the data, and the mechanisms for session resumption and early data (0-RTT). Compared with earlier versions it removes weak algorithms and encrypts a larger part of the handshake. It is the IETF specification (status: Proposed Standard) referred to by many standards and guidelines on the encryption of data in transit.",
       "access": "gratuito",
       "standardEdition": "RFC 9846",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "4aa73ecf-e547-511b-87f9-539a54a26ed1",
       "catalogSlug": "ietf-rfc-9846-tls-1-3",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-EN-17640-2022",
@@ -5392,7 +5483,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "9d7bcf47-4de7-5f57-b1f6-94755eaae30e",
       "catalogSlug": "bsi-tr-03183",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-SY-MOJ-CIRCULAR-26-CYBERCRIME-2026",
@@ -5407,7 +5498,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime",
       "sourceUrl": "https://moj.gov.sy/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d8%af%d9%84-%d9%8a%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%aa%d8%b9%d9%85%d9%8a%d9%85-%d8%b1%d9%82%d9%85-26-%d9%84%d8%b6%d8%a8%d8%b7-%d8%a5%d8%ac%d8%b1%d8%a7/",
-      "summary": "In this circular the Minister of Justice gives judges procedural rules for information crime cases, to balance the protection of society with the freedom of expression guaranteed by the Constitutional Declaration. Complaints are referred to the specialised judicial police only for offences that need technical investigation, such as electronic fraud, unlawful access to information systems or offences by unidentified perpetrators; for the others, in particular defamation and insult by known persons, the case goes directly before the court. Prosecutors may not order the arrest, detention or a wanted notice against the person complained of without an explicit written judicial decision, and pre-trial detention remains an exceptional measure limited to the time strictly necessary. In each judicial district a committee led by a public prosecution judge reviews the wanted notices already issued for information crimes, under the oversight of the Judicial Inspection.",
+      "summary": "In this circular the Minister of Justice gives judges procedural rules for information crime cases, to balance the protection of society with the freedom of expression guaranteed by the Constitutional Declaration. Complaints are referred to the specialised judicial police only for offences that need technical investigation, such as electronic fraud, unlawful access to information systems or offences by unidentified perpetrators; for the others, in particular defamation and insult by known persons, the case goes directly before the court. Prosecutors must instruct the judicial police not to detain the person complained of, bring them in under arrest or issue a wanted notice without the prosecution's explicit written decision, and pre-trial detention remains an exceptional measure limited to the time strictly necessary. In each judicial district a committee of public prosecution judges, appointed by the attorney general, reviews under his supervision the wanted notices already issued for information crimes; the Judicial Inspection and the attorneys general oversee the application of the circular.",
       "history": [
         {
           "date": "2026-11-08",
@@ -5416,12 +5507,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1a9a3b0c-a01e-4547-b2c9-08c2f8d29166",
       "catalogSlug": "sy-moj-circular-26-cybercrime-2026",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -5603,7 +5698,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · governance · certification",
       "sourceUrl": "https://www.cac.gov.cn/2026-06/18/c_1783525609815499.htm",
-      "summary": "The measures govern the network data security risk assessments required by the Data Security Law and the 2024 network data security management regulations. Processors of important data must carry out an assessment every year, and again when their security situation changes significantly, and send the report to the sector authority within 20 working days; other processors are encouraged to assess at least every three years. Assessments can be done in-house or by third-party bodies, which may not subcontract the work or assess the same processor for more than three consecutive years. After serious risks or incidents involving leaks of important data or large volumes of personal data, the authorities can require an assessment by a certified body and order corrective action.",
+      "summary": "The measures govern the network data security risk assessments required by the Data Security Law and the 2024 network data security management regulations. Processors of important data must carry out an assessment every year, and again when their security situation changes significantly, and send the report to the sector authority within 20 working days; other processors are encouraged to assess at least every three years. Assessments can be done in-house or by third-party bodies, which may not subcontract the work or carry out the annual assessment of the same processor three or more times in a row (Art. 12). After serious risks or incidents involving leaks of important data or large volumes of personal data, the authorities can require an assessment by a certified body and order corrective action.",
       "history": [
         {
           "date": "2026-11-08",
@@ -5612,12 +5707,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "030819e6-cc13-5d76-9270-0b0c86c5e2e0",
       "catalogSlug": "cn-network-data-security-risk-assessment-measures-2026",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -6317,7 +6416,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9619c21a-9dd1-4e47-94b4-ec06350b20e1",
       "catalogSlug": "pl-ustawa-zarzadzanie-kryzysowe-nowelizacja-2026",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -6377,7 +6476,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e624676d-21a9-400b-b1e9-d1a9f071e967",
       "catalogSlug": "fi-laki-439-2026-kyberkestavyys",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -7167,7 +7266,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0a0e2c46-e32c-58a1-8a9a-dd6323cf6e89",
       "catalogSlug": "au-apra-cps-230-operational-risk-management-2026",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-IT-DPCM-22-APRILE-2026-GESTIONE-CRISI",
@@ -7465,7 +7564,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f952a6b1-051f-5ca1-96c4-42f43e928b9e",
       "catalogSlug": "bd-cyber-security-act-2026",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -7836,7 +7935,7 @@
       "effectiveDate": "2030-01-01",
       "topic": "Cybersecurity · critical infrastructure · incident reporting",
       "sourceUrl": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/66",
-      "summary": "The act transposes Directive (EU) 2022/2557 on the resilience of critical entities (CER) in Germany. It governs the identification of critical entities providing essential services, risk assessments, and the resilience measures and incident notifications required of those entities. Competent authority: Federal Office of Civil Protection and Disaster Assistance (BBK). It is Germany's first framework law on the physical protection of critical infrastructure.",
+      "summary": "The act transposes Directive (EU) 2022/2557 on the resilience of critical entities (CER) in Germany. It governs the identification of critical entities providing essential services, risk assessments, and the resilience measures and incident notifications required of those entities. Single point of contact and registration authority: Federal Office of Civil Protection and Disaster Assistance (BBK); the competent authorities are designated per critical service (§ 3). It is Germany's first framework law on the physical protection of critical infrastructure.",
       "history": [
         {
           "date": "2026-11-08",
@@ -7845,12 +7944,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "8b252358-dc57-4318-a27a-77cb476f2dec",
       "catalogSlug": "de-kritis-dachgesetz-2026",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -8079,7 +8182,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "b4b017d8-8808-55e5-8d13-7d862a13e9d2",
       "catalogSlug": "bsi-c5",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "GA-SOCIAL-MEDIA-AI-CONTENT-ORDER-DRAFT-2026",
@@ -8375,7 +8478,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ed3e162f-fd3c-594a-a385-c080e0e91712",
       "catalogSlug": "bg-zakon-kibersigurnost-izmenenie-2026",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-19",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -8541,7 +8644,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "41d02f5e-4979-501c-847a-c6af2d2df7f2",
       "catalogSlug": "pl-ustawa-ksc-nowelizacja-2026",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9223,7 +9326,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "12eba429-f806-5077-8c31-a3f6f8b73e41",
       "catalogSlug": "at-nisg-2026",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9415,7 +9518,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "da331144-b486-5139-89fa-728c57bc984c",
       "catalogSlug": "hu-2025-cxxxv-kiberreziliencia",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9480,7 +9583,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · incident reporting",
       "sourceUrl": "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/2025/2025-0074/2025-0074_1.pdf",
-      "summary": "It is The Bahamas' new general personal data protection law, which will replace the Data Protection (Privacy of Personal Information) Act of 2003. It sets processing principles, conditions for sensitive data, data subjects' rights, obligations of controllers and processors and rules on transfers abroad, and entrusts supervision to the Office of the Data Protection Commissioner. Controllers must notify personal data breaches to the Commissioner within 72 hours and processors must inform the controller within 72 hours. Offences are punishable by fines of up to 50,000 dollars or imprisonment.",
+      "summary": "It is The Bahamas' new general personal data protection law, which will replace the Data Protection (Privacy of Personal Information) Act of 2003. It sets processing principles, conditions for sensitive data, data subjects' rights, obligations of controllers and processors and rules on transfers abroad, and entrusts supervision to the Office of the Data Protection Commissioner. Controllers must notify personal data breaches to the Commissioner within 72 hours and processors must inform the controller within 72 hours. Offences are punishable by fines of up to 100,000 dollars or imprisonment.",
       "history": [
         {
           "date": "2026-11-08",
@@ -9489,12 +9592,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "19a1d97d-b957-4662-99ca-01e40c9baad9",
       "catalogSlug": "bs-data-protection-act-2025",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -10032,7 +10139,7 @@
       "effectiveDate": "2028-06-22",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://files.diariodarepublica.pt/1s/2025/12/23400/0000400068.pdf",
-      "summary": "The decree-law transposes the NIS 2 Directive in Portugal and replaces Decree-Law 65/2021. It applies to essential, important and relevant public entities, with registration, risk-management measures and incident reporting to the National Cybersecurity Centre (CNCS), which set out its implementation in Regulation 756/2026.",
+      "summary": "The decree-law transposes the NIS 2 Directive in Portugal and replaces Law 46/2018 and Decree-Law 65/2021, which it repeals. It applies to essential, important and relevant public entities, with registration, risk-management measures and incident reporting to the National Cybersecurity Centre (CNCS), which set out its implementation in Regulation 756/2026.",
       "history": [
         {
           "date": "2026-11-08",
@@ -10041,12 +10148,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "942d7851-3071-511a-af54-b41f63062610",
       "catalogSlug": "pt-dl-125-2025-ciberseguranca",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -10328,7 +10439,7 @@
       "showInCountryFilters": true,
       "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
       "regulator": "IEC, ISO",
-      "title": "Health software and health IT systems safety, effectiveness and security – Part 2-2: Guidance for the implementation, disclosure and communication of security needs, risks and controls",
+      "title": "Health software and health IT systems safety, effectiveness and security – Part 2-2: Coordination – Guidance for the implementation, disclosure and communication of security needs, risks and controls",
       "officialTitle": "IEC TS 81001-2-2:2025",
       "instrumentType": "Technical Specification",
       "status": "Published standard",
@@ -10345,12 +10456,16 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: title. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "49215c63-3655-59a3-b027-4a860d6ecbc9",
       "catalogSlug": "iec-ts-81001-2-2-2025",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "BT-NATIONAL-AI-STRATEGY-2025",
@@ -10464,7 +10579,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "67c273ac-5dc6-400a-9323-d5fe11e45704",
       "catalogSlug": "at-rkeg-2025",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -10551,7 +10666,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · incident reporting · incident response · critical infrastructure",
       "sourceUrl": "https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm",
-      "summary": "The measures govern how network operators in China report cybersecurity incidents. Incidents must be graded under an annexed four-level guide, and those rated \"relatively major\" or above must be reported: within 1 hour by critical information infrastructure operators to their protection department and the police, within 2 hours by central and state bodies to their own cyberspace unit, and within 4 hours by all other operators to the provincial office of the Cyberspace Administration. Reports cover the affected systems, type, level, impact and measures taken and, for ransomware, the amount and method of the ransom demanded; missing details may follow later. Within 30 days after the incident is closed the operator submits a final report on causes, measures and lessons learned. Late, missed, false or concealed reports are punished more severely, while timely reporting and adequate measures can reduce liability.",
+      "summary": "The measures govern how network operators in China report cybersecurity incidents. Incidents must be graded under an annexed four-level guide, and those rated \"relatively major\" or above must be reported: within 1 hour by critical information infrastructure operators to their protection department and the police, within 2 hours by central and state bodies to their own cyberspace unit, and within 4 hours by all other operators to the provincial office of the Cyberspace Administration. Reports cover the affected systems, type, level, impact and measures taken and, for ransomware, the amount and method of the ransom demanded; missing details may follow later. Within 30 days after the incident is closed the operator submits a final report on causes, measures and lessons learned. Late, missed, false or concealed reports that cause serious harm are punished more severely (Art. 10), while timely reporting and adequate measures can reduce liability.",
       "history": [
         {
           "date": "2026-11-09",
@@ -10560,12 +10675,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "875a69c6-691c-5c33-bd4a-195feb6f7258",
       "catalogSlug": "cn-cybersecurity-incident-reporting-measures-2025",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -11553,7 +11672,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1382b7f7-c371-4053-afe4-cf6f322d56ab",
       "catalogSlug": "fi-laki-310-2025-kriittinen-infrastruktuuri",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -11596,7 +11715,7 @@
       "status": "In force",
       "publicationDate": "",
       "adoptedDate": "2025-06-11",
-      "effectiveDate": "",
+      "effectiveDate": "2025-12-31",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://e-sbirka.gov.cz/sb/2025/264",
       "summary": "The new act transposes the NIS 2 Directive in the Czech Republic and replaces Act 181/2014 Coll. It introduces a higher and a lower regime of obligations for providers of regulated services, with registration with NÚKIB, security measures set by Decrees 409/2025 and 410/2025 Coll. and incident reporting.",
@@ -11608,12 +11727,16 @@
         {
           "date": "2026-11-08",
           "change": "Added an English display title; the original-language title is retained for reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: effectiveDate. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "d077d1f0-f290-5dea-842b-9c1940681d3d",
       "catalogSlug": "cz-zakon-264-2025-kyberneticka-bezpecnost",
-      "catalogUpdatedAt": "2026-11-01",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -11630,17 +11753,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cryptography · critical infrastructure · incident reporting · certification",
       "sourceUrl": "https://www.cac.gov.cn/2025-07/01/c_1753083518894995.htm",
-      "summary": "The Provisions specify how critical information infrastructure operators must use the commercial cryptography required by the Cryptography Law and the 2023 Regulations. Operators must protect their infrastructure with commercial cryptography, appoint qualified staff (key administrators, cryptographic operators and security auditors) and budget the necessary resources. The application plan must be assessed at the design stage, systems must pass a cryptography security assessment before going live and at least once a year thereafter, and a system that fails may not operate until it has been fixed. The cryptographic products and services used must be tested and certified, and the algorithms, protocols and key management must be approved by the cryptography authority. Major cryptography-related incidents and threats must be reported promptly to the cryptography, cyberspace and public security authorities, and every year operators report on their use of cryptography to the sector's protection departments.",
+      "summary": "The Provisions specify how critical information infrastructure operators must use the commercial cryptography required by the Cryptography Law and the 2023 Regulations. Operators must protect their infrastructure with commercial cryptography, appoint qualified staff (key administrators, cryptographic operators and security auditors) and budget the necessary resources. The application plan must be assessed at the design stage, systems must pass a cryptography security assessment before going live and at least once a year thereafter, and a system that fails the pre-operation assessment must be fixed and may not go live until it has been. The cryptographic products and services used must be tested and certified, and the algorithms, protocols and key management must be approved by the cryptography authority. The sector protection departments report major cryptography-related incidents and threats promptly to the cryptography, cyberspace and public security authorities, and every year operators report on their use of cryptography to the sector's protection departments.",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "85d0ffec-bc10-5e84-b6b8-9b0ff507f95c",
       "catalogSlug": "cn-cii-commercial-cryptography-provisions-2025",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-US-EO-14306-CYBERSECURITY-2025",
@@ -11699,7 +11826,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "a63f59cc-029d-4f46-a402-05c16dab9af6",
       "catalogSlug": "hr-zakon-kriticna-infrastruktura-2025",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -12027,7 +12154,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "dbbdf8eb-dd98-5d2f-b82a-89287c8ce09a",
       "catalogSlug": "dk-nis2-loven-2025",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -12291,7 +12418,7 @@
       "instrumentType": "Law",
       "status": "In force",
       "publicationDate": "",
-      "adoptedDate": "2025-04-07",
+      "adoptedDate": "2025-04-04",
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.finlex.fi/fi/lainsaadanto/2025/124",
@@ -12300,12 +12427,17 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "97bf7f9c-9a9c-5047-815d-76f15b783ef2",
       "catalogSlug": "fi-kyberturvallisuuslaki-124-2025",
-      "catalogUpdatedAt": "2026-11-12"
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
     },
     {
       "id": "OM-GENERAL-AI-SAFE-ETHICAL-POLICY-2025",
@@ -12371,7 +12503,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "9b51a019-5f02-573d-abf2-d2443268e9ba",
       "catalogSlug": "fncdp-2025",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-MH-CYBERSECURITY-ACT-2025",
@@ -12855,17 +12987,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · governance",
       "sourceUrl": "https://www.cac.gov.cn/2025-02/14/c_1741233507681519.htm",
-      "summary": "The Measures implement the periodic audit obligation of China's Personal Information Protection Law. Processors must regularly check their own compliance, through an internal function or an external firm, following the annexed guidelines; those processing personal information of more than 10 million people must do so at least every two years. Authorities may order an external audit at the processor's expense where there are serious risks, harm to many people or leaks affecting more than 1 million people (or 100,000 for sensitive data); the report must be submitted to the authority and the problems remedied, with a report within 15 working days. Processors handling the data of more than 1 million people must appoint a personal information protection officer, and large platforms must set up an independent oversight body made up mainly of external members. Audit firms may not subcontract and may not audit the same entity more than three times in a row.",
+      "summary": "The Measures implement the periodic audit obligation of China's Personal Information Protection Law. Processors must regularly check their own compliance, through an internal function or an external firm, following the annexed guidelines; those processing personal information of more than 10 million people must do so at least every two years. Authorities may order an external audit at the processor's expense where there are serious risks, harm to many people or leaks affecting more than 1 million people (or 100,000 for sensitive data); the report must be submitted to the authority and the problems remedied, with a report within 15 working days. Processors handling the data of more than 1 million people must appoint a personal information protection officer, and large platforms must set up an independent oversight body made up mainly of external members. Audit firms may not subcontract and may not audit the same entity three or more times in a row (Art. 15).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b00b3ac8-b404-5b4d-8aa3-534a6f24710d",
       "catalogSlug": "cn-personal-information-compliance-audit-measures-2025",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CH-FEDCOUNCIL-AI-APPROACH-2025",
@@ -13087,17 +13223,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · artificial intelligence · governance · critical infrastructure · research innovation",
       "sourceUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%B0%9C%EC%A0%84%EA%B3%BC%EC%8B%A0%EB%A2%B0%EA%B8%B0%EB%B0%98%EC%A1%B0%EC%84%B1%EB%93%B1%EC%97%90%EA%B4%80%ED%95%9C%EA%B8%B0%EB%B3%B8%EB%B2%95",
-      "summary": "South Korea's framework act on artificial intelligence combines promotion measures (a basic plan, a national strategy committee chaired by the President, an AI Safety Institute) with obligations for AI business operators supervised by the Ministry of Science and ICT. For systems trained above the compute threshold set by decree, operators must identify, assess and mitigate risks across the life cycle, set up a risk management system that monitors and responds to AI safety incidents, and submit the results to the Ministry (Art. 32). High-impact AI, which includes uses in energy, water, health, nuclear facilities, transport and biometric identification, requires a risk management plan, explainability, user protection, human oversight and documentation (Art. 34). AI-generated content and deepfakes must be disclosed (Art. 31). Foreign operators above set thresholds must appoint a domestic representative (Art. 36); the Ministry may investigate and order corrections, with fines of up to KRW 30 million (Arts. 40 and 43).",
+      "summary": "South Korea's framework act on artificial intelligence combines promotion measures (a basic plan, a national strategy committee chaired by the President, an AI Safety Institute) with obligations for AI business operators supervised by the Ministry of Science and ICT. For systems trained above the compute threshold set by decree, operators must identify, assess and mitigate risks across the life cycle, set up a risk management system that monitors and responds to AI safety incidents, and submit the results to the Ministry (Art. 32). High-impact AI, which includes uses in energy, water, health, nuclear facilities, transport and the analysis of biometric data in criminal investigations, requires a risk management plan, explainability, user protection, human oversight and documentation (Art. 34). AI-generated content and deepfakes must be disclosed (Art. 31). Foreign operators above set thresholds must appoint a domestic representative (Art. 36); the Ministry may investigate and order corrections, with fines of up to KRW 30 million (Arts. 40 and 43).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c000c3d5-706b-533c-a21f-b35ada71c8e6",
       "catalogSlug": "kr-ai-basic-act-2025",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-PT-DL-22-2025-ENTIDADES-CRITICAS",
@@ -13126,7 +13266,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c1022f5b-75d1-4f2c-bea8-2e524babde00",
       "catalogSlug": "pt-dl-22-2025-entidades-criticas",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -13243,7 +13383,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "fcf3c25f-92a0-562a-8906-3921e97ddf43",
       "catalogSlug": "ecb-tiber-eu",
-      "catalogUpdatedAt": "2026-11-10"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-OWASP-TOP-10-2025",
@@ -13482,7 +13622,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "df9ef0b1-4328-4082-a3de-1c56631c1f37",
       "catalogSlug": "al-ligj-124-2024-mbrojtja-te-dhenave-personale",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -13542,7 +13682,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0f38738f-3b8d-4ff2-b44b-bf7f60fe9cb9",
       "catalogSlug": "hu-2024-lxxxiv-kritikus-szervezetek",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -13572,7 +13712,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e340a32d-bb86-50c2-89d3-c6ecd3abd5a9",
       "catalogSlug": "hu-2024-lxix-kiberbiztonsag",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -13761,7 +13901,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "fa381940-5e01-4109-8f4b-54316b458f71",
       "catalogSlug": "sk-zakon-367-2024-kriticka-infrastruktura",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14141,7 +14281,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "aeceb0bb-223d-573a-ac1f-e2bf7184ad7c",
       "catalogSlug": "eu-cyber-resilience-act-2024-2847",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14280,7 +14420,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c714551c-81cb-4b53-a112-faf43710c89c",
       "catalogSlug": "ie-si-559-2024-critical-entities",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14350,7 +14490,7 @@
       "officialTitle": "EUROCAE ED-202B",
       "instrumentType": "Industry Requirements",
       "status": "Published standard",
-      "publicationDate": "2024-09-30",
+      "publicationDate": "2024-10",
       "adoptedDate": "",
       "effectiveDate": "",
       "topic": "Cybersecurity standard · aviation · ot cps",
@@ -14363,12 +14503,16 @@
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: publicationDate. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "86648094-0dad-58d0-b1df-abaeae829c33",
       "catalogSlug": "eurocae-ed-202b-2024",
-      "catalogUpdatedAt": "2026-10-28"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-EE-HADAOLUKORRA-SEADUSE-MUUTMINE-2024-CER",
@@ -14508,7 +14652,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "40676eb6-af3f-5f32-b79f-6aef20cf00c2",
       "catalogSlug": "it-dlgs-138-2024-nis2",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -16697,7 +16841,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c75683c5-8931-5073-a8ba-bc49d1c9f0b5",
       "catalogSlug": "hr-zakon-kiberneticka-sigurnost-2024",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -17115,17 +17259,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cloud · iot · data protection",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2023/2854/oj",
-      "summary": "The Data Act sets out who may access and use the data generated by connected products and related services, how to make switching between cloud providers easier and when public bodies may request data from businesses. Its security aspects are more limited: data must be made accessible to the user \"securely\" (Arts. 3 and 4), and the data holder may restrict or refuse sharing where it would undermine the product's security requirements with serious effects on people's health or safety (Art. 4(2)); the data holder may protect the data with technical measures such as encryption and smart contracts, and third parties may not use them in a way that harms the product's security (Art. 11; Art. 6(2)(f)). When switching to another cloud service, the provider must ensure service continuity and a high level of security for the data in transit (Art. 25(2)(a)); providers must also take technical, organisational and legal measures against unlawful third-country governmental access to non-personal data held in the EU (Art. 32). The public emergencies that justify data requests by public bodies include major cybersecurity incidents (Art. 2, point 29; Art. 15).",
+      "summary": "The Data Act sets out who may access and use the data generated by connected products and related services, how to make switching between cloud providers easier and when public bodies may request data from businesses. Its security aspects are more limited: data must be made accessible to the user \"securely\" (Arts. 3 and 4), and users and data holders may contractually restrict or prohibit access, use or further sharing where it could undermine the product's security requirements with serious effects on people's health or safety (Art. 4(2)); the data holder may protect the data with technical measures such as encryption and smart contracts, and third parties may not use them in a way that harms the product's security (Art. 11; Art. 6(2)(f)). When switching to another cloud service, the provider must ensure service continuity and a high level of security for the data in transit (Art. 25(2)(a)); providers must also take technical, organisational and legal measures against unlawful third-country governmental access to non-personal data held in the EU (Art. 32). The public emergencies that justify data requests by public bodies include major cybersecurity incidents (Art. 2, point 29; Art. 15).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5abbe2b3-3d17-5b83-ac60-3c6ef8965187",
       "catalogSlug": "eu-data-act-2023-2854",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-ISO-IEC-27033",
@@ -17344,6 +17492,40 @@
       "catalogSlug": "ca-wechat-kaspersky-ban-government-mobile-devices-2023",
       "catalogUpdatedAt": "2026-11-16",
       "titleTranslationSource": "Cybersecurity Database English short title"
+    },
+    {
+      "id": "CYBERSTANDARD-CLC-TS-50701-2023",
+      "jurisdiction": "Cross-country standards reference",
+      "showInCountryFilters": true,
+      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
+      "regulator": "CENELEC",
+      "title": "Railway applications – Cybersecurity",
+      "officialTitle": "CLC/TS 50701:2023",
+      "instrumentType": "Technical Specification",
+      "status": "Published standard",
+      "publicationDate": "2023-08-11",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity standard · rail · ot cps",
+      "sourceUrl": "https://standards.cencenelec.eu/ords/f?p=CENELEC:110:::::FSP_PROJECT,FSP_ORG_ID:74651,1257173&cs=18CE441485FB90728BAF5E2089328262B",
+      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/clc-ts-50701-2023/",
+      "summary": "The European technical specification applies cybersecurity to the railway sector: signalling, communications and processing, rolling stock and fixed installations. It takes up the concepts of the IEC 62443 series (zones and conduits, security levels, system and component requirements) and integrates them into the EN 50126 RAMS lifecycle, linking cyber risk analysis with functional safety analysis. It sets out the roles of infrastructure managers, railway undertakings, integrators and suppliers, and how to document requirements at each project phase. It is the basis of the international standard IEC 63452 now in preparation.",
+      "access": "a_pagamento",
+      "standardEdition": "",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: publicationDate. Official issuing-authority source remains linked."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database standards",
+      "catalogRecordId": "057de746-7ba6-5c8b-ae9a-f97208cbc9f1",
+      "catalogSlug": "clc-ts-50701-2023",
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-IN-DIGITAL-PERSONAL-DATA-PROTECTION-ACT-2023",
@@ -17616,36 +17798,6 @@
       ]
     },
     {
-      "id": "CYBERSTANDARD-CLC-TS-50701-2023",
-      "jurisdiction": "Cross-country standards reference",
-      "showInCountryFilters": true,
-      "scopeNote": "Reference surfaced alongside country results for research; this does not establish local adoption, applicability, or legal force.",
-      "regulator": "CENELEC",
-      "title": "Railway applications – Cybersecurity",
-      "officialTitle": "CLC/TS 50701:2023",
-      "instrumentType": "Technical Specification",
-      "status": "Published standard",
-      "publicationDate": "2023-06-19",
-      "adoptedDate": "",
-      "effectiveDate": "",
-      "topic": "Cybersecurity standard · rail · ot cps",
-      "sourceUrl": "https://standards.cencenelec.eu/ords/f?p=CENELEC:110:::::FSP_PROJECT,FSP_ORG_ID:74651,1257173&cs=18CE441485FB90728BAF5E2089328262B",
-      "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/clc-ts-50701-2023/",
-      "summary": "The European technical specification applies cybersecurity to the railway sector: signalling, communications and processing, rolling stock and fixed installations. It takes up the concepts of the IEC 62443 series (zones and conduits, security levels, system and component requirements) and integrates them into the EN 50126 RAMS lifecycle, linking cyber risk analysis with functional safety analysis. It sets out the roles of infrastructure managers, railway undertakings, integrators and suppliers, and how to document requirements at each project phase. It is the basis of the international standard IEC 63452 now in preparation.",
-      "access": "a_pagamento",
-      "standardEdition": "",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
-        }
-      ],
-      "catalogSource": "Cybersecurity Database standards",
-      "catalogRecordId": "057de746-7ba6-5c8b-ae9a-f97208cbc9f1",
-      "catalogSlug": "clc-ts-50701-2023",
-      "catalogUpdatedAt": "2026-11-06"
-    },
-    {
       "id": "CYBERLAW-GE-LAW-PERSONAL-DATA-PROTECTION-2023",
       "jurisdiction": "Georgia",
       "regulator": "Parliament of Georgia",
@@ -17697,7 +17849,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c07a4a3e-f87a-55e5-8dae-e04ff7c2b5d9",
       "catalogSlug": "eu-machinery-regulation-2023-1230",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -17938,17 +18090,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cryptography · critical infrastructure · certification · digital identity",
       "sourceUrl": "https://www.gov.cn/gongbao/2023/issue_10506/202306/content_6885266.html",
-      "summary": "The Regulations implement the Cryptography Law for commercial cryptography, which protects information not classified as a state secret. They cover research, technical standards, testing and certification, electronic certification services, imports and exports, and supervision. Cryptographic products that affect national security, the economy or the public interest must be certified before sale, and testing laboratories must be accredited by the State Cryptography Administration. Critical information infrastructure operators must use commercial cryptography, draw up an application plan and pass a security assessment before going live and at least once a year thereafter, while network operators must use it in line with the Multi-Level Protection Scheme (MLPS). Fines go up to CNY 1 million.",
+      "summary": "The Regulations implement the Cryptography Law for commercial cryptography, which protects information not classified as a state secret. They cover research, technical standards, testing and certification, electronic certification services, imports and exports, and supervision. Cryptographic products that affect national security, the economy or the public interest must be certified before sale, and testing laboratories must be accredited by the State Cryptography Administration. Critical information infrastructure operators must use commercial cryptography, draw up an application plan and pass a security assessment before going live and at least once a year thereafter, while network operators must use it in line with the Multi-Level Protection Scheme (MLPS). For critical information infrastructure operators, fines reach CNY 1 million (Art. 60) and, for using products and services that have not passed the security review, 10 times the purchase amount (Art. 61); other fines are calculated on the illegal gains.",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "db1c86c5-3813-550d-8e2f-2f3e1fc99371",
       "catalogSlug": "cn-commercial-cryptography-regulations-2023",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-CISA-ZERO-TRUST-MATURITY-MODEL-2-0",
@@ -18440,7 +18596,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "fddf01a9-c19d-5123-b8fb-503a11cf218c",
       "catalogSlug": "ieee-1686-2022",
-      "catalogUpdatedAt": "2026-10-28"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-ISO-24089-2023",
@@ -18608,19 +18764,23 @@
       "topic": "Cybersecurity standard · health · governance · sme",
       "sourceUrl": "https://405d.hhs.gov/cornerstone/hicp",
       "catalogEntryUrl": "https://www.cybersecuritydatabase.org/en/standards/hhs-405d-hicp/",
-      "summary": "The publication of the US Department of Health and Human Services 405(d) programme, written with the private healthcare sector, identifies the five main threats to healthcare organisations (phishing, ransomware, loss or theft of equipment, data loss, attacks on medical devices) and ten practices to mitigate them. It has a main volume and two technical volumes, one for small organisations and one for medium and large ones. It is voluntary, but it is among the recognised security practices that the HITECH Act asks regulators to consider in HIPAA enforcement.",
+      "summary": "The publication of the US Department of Health and Human Services 405(d) programme, written with the private healthcare sector, identifies the five main threats to healthcare organisations (social engineering, ransomware, loss or theft of equipment, data loss, attacks on medical devices) and ten practices to mitigate them. It has a main volume and two technical volumes, one for small organisations and one for medium and large ones. It is voluntary, but it is among the recognised security practices that the HITECH Act asks regulators to consider in HIPAA enforcement.",
       "access": "gratuito",
       "standardEdition": "2023",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database standards catalog (CC BY 4.0); the linked standards-body catalog is the source reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "6e9a5e82-e418-582e-bfb5-217cde3e4d3c",
       "catalogSlug": "hhs-405d-hicp",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-CH-IKT-MINIMALSTANDARD",
@@ -18859,7 +19019,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "458c52e3-14d5-5d18-9736-02e895aec43e",
       "catalogSlug": "eu-nis2-directive-2022-2555",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -18919,7 +19079,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0a8a09e8-94d0-539b-b2fd-72d291a7f1a7",
       "catalogSlug": "eu-cer-directive-2022-2557",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -18949,7 +19109,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b19d4d55-b8fe-501c-9bcd-b639ad9e50cc",
       "catalogSlug": "ro-legea-354-2022-antivirus-rusia",
-      "catalogUpdatedAt": "2026-11-13",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19083,17 +19243,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · governance",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj",
-      "summary": "The Digital Services Act sets the rules for online intermediary services (hosting, platforms and search engines) on illegal content, transparency and user protection; it is not a cybersecurity law, but it contains obligations closely related to it. Very large online platforms and search engines (over 45 million active users in the EU) must assess every year the systemic risks stemming from the functioning of their service, including intentional manipulation through inauthentic use or automated exploitation, and the effects on public security and electoral processes (Art. 34). They must then take mitigation measures, such as adapting design and interfaces, reinforcing internal processes for detecting risks and crisis protocols (Art. 35), and undergo an independent audit every year (Art. 37). In a crisis seriously threatening public security, the Commission may require urgent measures for up to three months (Art. 36). Platforms accessible to minors must ensure a high level of privacy, safety and security (Art. 28).",
+      "summary": "The Digital Services Act sets the rules for online intermediary services (hosting, platforms and search engines) on illegal content, transparency and user protection; it is not a cybersecurity law, but it contains obligations closely related to it. Very large online platforms and search engines (over 45 million active users in the EU) must assess every year the systemic risks stemming from the functioning of their service, including intentional manipulation through inauthentic use or automated exploitation, and the effects on public security and electoral processes (Art. 34). They must then take mitigation measures, such as adapting design and interfaces, reinforcing internal processes for detecting risks and crisis protocols (Art. 35), and undergo an independent audit every year (Art. 37). In a crisis seriously threatening public security, the Commission may require urgent measures for up to three months, extendable by a further three (Art. 36). Platforms accessible to minors must ensure a high level of privacy, safety and security (Art. 28).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "37f7d2cb-6416-57ba-857f-913fdf5bb2cd",
       "catalogSlug": "eu-digital-services-act-2022-2065",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-ID-UU-27-2022-PELINDUNGAN-DATA-PRIBADI",
@@ -19307,7 +19471,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · certification · supply chain · governance",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-08-03;123",
-      "summary": "The decree adapts Italian law to the European cybersecurity certification framework of Regulation (EU) 2019/881 (Cybersecurity Act). It confirms ACN as the national cybersecurity certification authority: ACN supervises conformity assessment bodies, holders of European certificates and manufacturers issuing EU declarations of conformity, and issues high-assurance certificates through OCSI. It provides for cooperation with the national accreditation body and, in the absence of harmonised EU rules, allows ACN to make certification or a declaration of conformity mandatory. It sets out a system of administrative penalties of up to €5 million, together with the withdrawal from the market of non-compliant products and services.",
+      "summary": "The decree adapts Italian law to the European cybersecurity certification framework of Regulation (EU) 2019/881 (Cybersecurity Act). It confirms ACN as the national cybersecurity certification authority: ACN supervises conformity assessment bodies, holders of European certificates and manufacturers issuing EU declarations of conformity, and issues high-assurance certificates through OCSI (since 6 November 2026, under Legislative Decree 191/2026, also substantial- and basic-assurance certificates). It provides for cooperation with the national accreditation body and, in the absence of harmonised Union law, allows ACN to adopt national technical regulations making certification under a European scheme mandatory (Art. 6(3)). It sets out a system of administrative penalties of up to €5 million, together with the withdrawal from the market of non-compliant products and services.",
       "history": [
         {
           "date": "2026-11-08",
@@ -19316,12 +19480,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b6bc1668-a986-5f57-a18a-9dcd631eba21",
       "catalogSlug": "it-dlgs-123-2022-certificazione-cybersicurezza",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -20432,7 +20600,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · certification · data protection · telecommunications · iot",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg_del/2022/30/oj",
-      "summary": "The Regulation makes the cybersecurity requirements of Directive 2014/53/EU (RED) mandatory for radio equipment: network protection, protection of personal data and privacy, and protection from fraud. It applies to internet-connected devices, including many IoT devices, toys and wearables. Compliance is normally shown with the harmonised standards EN 18031-1, EN 18031-2 and EN 18031-3:2024, cited in the Official Journal with some restrictions. From 11 December 2027 the Regulation will be repealed and the cybersecurity requirements for these products will be those of the Cyber Resilience Act.",
+      "summary": "The Regulation makes the cybersecurity requirements of Directive 2014/53/EU (RED) mandatory for radio equipment: network protection, protection of personal data and privacy, and protection from fraud. It applies to internet-connected radio equipment, including many IoT devices, and, for personal data protection, also to toys, childcare equipment and wearables. Compliance is normally shown with the harmonised standards EN 18031-1, EN 18031-2 and EN 18031-3:2024, cited in the Official Journal with some restrictions. From 11 December 2027 the Regulation will be repealed and the cybersecurity requirements for these products will be those of the Cyber Resilience Act.",
       "history": [
         {
           "date": "2026-11-08",
@@ -20441,12 +20609,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "77a2999c-8fc3-5e7b-917f-ea641a24a276",
       "catalogSlug": "eu-red-delegated-regulation-2022-30",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -20597,7 +20769,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "1409d78d-340b-56bb-9548-017fe8806a01",
       "catalogSlug": "iec-80001-1-2021",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-AE-PDPL-FEDERAL-DECREE-LAW-45-2021",
@@ -20747,7 +20919,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "da25fc59-38b6-52d0-894b-8010bf5c0e8a",
       "catalogSlug": "iso-iec-5962-2021-spdx",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERSTANDARD-API-STD-1164-2021",
@@ -20792,7 +20964,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm",
-      "summary": "The Regulations implement the Cybersecurity Law for critical information infrastructure in sectors such as telecommunications, energy, transport, finance, public services and defence. Sector authorities identify critical infrastructure; operators must set up a dedicated security unit, carry out checks and risk assessments at least once a year and report serious incidents immediately. They provide for coordination by the Cyberspace Administration of China and for security review of purchased products and services.",
+      "summary": "The Regulations implement the Cybersecurity Law for critical information infrastructure in sectors such as telecommunications, energy, transport, finance, public services and defence. Sector authorities identify critical infrastructure; operators must set up a dedicated security unit, carry out checks and risk assessments at least once a year and report major incidents and threats to the sector protection department and the public security authorities (Art. 18). They provide for coordination by the Cyberspace Administration of China and for security review of purchased products and services.",
       "history": [
         {
           "date": "2026-11-09",
@@ -20801,12 +20973,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ea72a64b-2a15-5e43-9b46-859d4d1d8047",
       "catalogSlug": "cn-critical-information-infrastructure-regulations-2021",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -21033,7 +21209,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ef6d5995-7446-5026-80ab-ce0910b1ee59",
       "catalogSlug": "cn-data-security-law-2021",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -22226,6 +22402,36 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-JM-DATA-PROTECTION-ACT-2020",
+      "jurisdiction": "Jamaica",
+      "regulator": "Parliament of Jamaica",
+      "title": "The Data Protection Act, 2020 (No. 7 of 2020)",
+      "officialTitle": "The Data Protection Act, 2020 (No. 7 of 2020)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2020-07-10",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · data protection · incident reporting",
+      "sourceUrl": "https://japarliament.gov.jm/attachments/article/341/The%20Data%20Protection%20Act,%202020%20No.%207.pdf",
+      "summary": "Jamaica's personal data protection law, modelled on the GDPR. It sets data protection standards (including lawfulness, purpose limitation, minimisation, accuracy, retention, security and transfers abroad), data subjects' rights, a duty for controllers to register with the regulator and in some cases appoint a data protection officer, and rules on impact assessments and data-sharing codes. It establishes the Information Commissioner, with powers of inspection, enforcement notices and fixed penalties. Controllers must report contraventions of the standards and security breaches affecting personal data to the Commissioner within 72 hours of becoming aware of them. Contraventions are offences punishable by fines and imprisonment; bodies corporate face fines of up to 4% of annual gross worldwide turnover.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "1d698ea3-2924-48c7-840a-2ee02385d8fb",
+      "catalogSlug": "jm-data-protection-act-2020",
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
+    },
+    {
       "id": "CYBERLAW-US-FCC-ZTE-DESIGNATION-2020",
       "jurisdiction": "United States · Federal",
       "regulator": "Federal Communications Commission, Public Safety and Homeland Security Bureau",
@@ -22584,31 +22790,6 @@
       "catalogSlug": "nz-privacy-act-2020",
       "catalogUpdatedAt": "2026-11-07",
       "titleTranslationSource": "Cybersecurity Database English short title"
-    },
-    {
-      "id": "CYBERLAW-JM-DATA-PROTECTION-ACT-2020",
-      "jurisdiction": "Jamaica",
-      "regulator": "Parliament of Jamaica",
-      "title": "The Data Protection Act, 2020 (No. 7 of 2020)",
-      "officialTitle": "The Data Protection Act, 2020 (No. 7 of 2020)",
-      "instrumentType": "Law",
-      "status": "In force",
-      "publicationDate": "",
-      "adoptedDate": "2020",
-      "effectiveDate": "",
-      "topic": "Cybersecurity · data protection · incident reporting",
-      "sourceUrl": "https://japarliament.gov.jm/attachments/article/341/The%20Data%20Protection%20Act,%202020%20No.%207.pdf",
-      "summary": "Jamaica's personal data protection law, modelled on the GDPR. It sets data protection standards (including lawfulness, purpose limitation, minimisation, accuracy, retention, security and transfers abroad), data subjects' rights, a duty for controllers to register with the regulator and in some cases appoint a data protection officer, and rules on impact assessments and data-sharing codes. It establishes the Information Commissioner, with powers of inspection, enforcement notices and fixed penalties. Controllers must report contraventions of the standards and security breaches affecting personal data to the Commissioner within 72 hours of becoming aware of them. Contraventions are offences punishable by fines and imprisonment; bodies corporate face fines of up to 4% of annual gross worldwide turnover.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
-        }
-      ],
-      "catalogSource": "Cybersecurity Database",
-      "catalogRecordId": "1d698ea3-2924-48c7-840a-2ee02385d8fb",
-      "catalogSlug": "jm-data-protection-act-2020",
-      "catalogUpdatedAt": "2026-11-04"
     },
     {
       "id": "CYBERLAW-ML-LOI-2019-056-CYBERCRIMINALITE",
@@ -23278,7 +23459,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f89066b8-106d-5d3f-b151-9a1c23d77c6a",
       "catalogSlug": "eu-cybersecurity-act-2019-881",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -23368,7 +23549,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "2066271f-8288-4ccf-8c79-6c97920a314c",
       "catalogSlug": "cz-zakon-110-2019-zpracovani-osobnich-udaju",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -23594,7 +23775,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection",
       "sourceUrl": "https://www.finlex.fi/fi/lainsaadanto/2018/1050",
-      "summary": "Finnish law specifying and supplementing the GDPR and repealing the Personal Data Act of 1999 (henkilötietolaki). It establishes the Data Protection Ombudsman (tietosuojavaltuutettu), an independent authority attached to the Ministry of Justice, with two Deputy Ombudsmen and an expert board, and governs its access and inspection powers. It specifies legal bases for certain processing (including special categories of data, criminal-offence data, research, archiving and statistics), derogations from data subjects' rights and freedom of expression, and sets the age of children's consent to information society services at 13. GDPR administrative fines are imposed by a sanctions board made up of the Ombudsman and the Deputy Ombudsmen and cannot be imposed on state and municipal authorities; data protection offences are punished under the Criminal Code. Breach notification follows Article 33 GDPR (to the Ombudsman within 72 hours).",
+      "summary": "Finnish law specifying and supplementing the GDPR and repealing the Personal Data Act of 1999 (henkilötietolaki). It establishes the Data Protection Ombudsman (tietosuojavaltuutettu), an independent authority attached to the Ministry of Justice, with at least two Deputy Ombudsmen and an expert board, and governs its access and inspection powers. It specifies legal bases for certain processing (including special categories of data, criminal-offence data, research, archiving and statistics), derogations from data subjects' rights and freedom of expression, and sets the age of children's consent to information society services at 13. GDPR administrative fines are imposed by a sanctions board made up of the Ombudsman and the Deputy Ombudsmen and cannot be imposed on state and municipal authorities; data protection offences are punished under the Criminal Code. Breach notification follows Article 33 GDPR (to the Ombudsman within 72 hours).",
       "history": [
         {
           "date": "2026-11-08",
@@ -23603,12 +23784,16 @@
         {
           "date": "2026-11-08",
           "change": "Added an English display title; the original-language title is retained for reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7d7e6128-d8d6-4bf3-abc9-05e5653e2579",
       "catalogSlug": "fi-tietosuojalaki-1050-2018",
-      "catalogUpdatedAt": "2026-11-04",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -23789,7 +23974,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "134dd1ae-108e-51c7-9560-d2a795991216",
       "catalogSlug": "cobit-2019",
-      "catalogUpdatedAt": "2026-11-02"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-LB-LAW-81-ELECTRONIC-TRANSACTIONS-PERSONAL-DATA-2018",
@@ -24062,6 +24247,36 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-GY-CYBERCRIME-ACT-2018",
+      "jurisdiction": "Guyana",
+      "regulator": "National Assembly of Guyana",
+      "title": "Cybercrime Act 2018 (Act No. 16 of 2018)",
+      "officialTitle": "Cybercrime Act 2018 (Act No. 16 of 2018)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2018-08-13",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · critical infrastructure",
+      "sourceUrl": "https://www.parliament.gov.gy/documents/acts/17173-17173-act_no._16_of_2018_(1).pdf",
+      "summary": "The Act creates cybercrime offences in Guyana: illegal access, interception and interference with data and systems, illegal devices, computer-related forgery and fraud, offences affecting critical infrastructure, identity-related offences, child pornography and child luring, publication of intimate images, spam and fraudulent websites, online harassment and offences against the State. It governs investigations through retention of traffic data by service providers, search and seizure, production and expedited preservation orders, removal of data, remote forensic tools and forfeiture.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "eacf7d7b-d337-5b1d-8c95-4ff51e5f0e1d",
+      "catalogSlug": "gy-cybercrime-act-2018",
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
+    },
+    {
       "id": "CYBERLAW-LU-LOI-2018-08-01-PROTECTION-DONNEES",
       "jurisdiction": "Luxembourg",
       "regulator": "Chambre des Députés (Chamber of Deputies of Luxembourg)",
@@ -24090,31 +24305,6 @@
       "catalogSlug": "lu-loi-2018-08-01-protection-donnees",
       "catalogUpdatedAt": "2026-11-15",
       "titleTranslationSource": "Cybersecurity Database English short title"
-    },
-    {
-      "id": "CYBERLAW-GY-CYBERCRIME-ACT-2018",
-      "jurisdiction": "Guyana",
-      "regulator": "National Assembly of Guyana",
-      "title": "Cybercrime Act 2018 (Act No. 16 of 2018)",
-      "officialTitle": "Cybercrime Act 2018 (Act No. 16 of 2018)",
-      "instrumentType": "Law",
-      "status": "In force",
-      "publicationDate": "",
-      "adoptedDate": "2018-08",
-      "effectiveDate": "",
-      "topic": "Cybersecurity · cybercrime · critical infrastructure",
-      "sourceUrl": "https://www.parliament.gov.gy/documents/acts/17173-17173-act_no._16_of_2018_(1).pdf",
-      "summary": "The Act creates cybercrime offences in Guyana: illegal access, interception and interference with data and systems, illegal devices, computer-related forgery and fraud, offences affecting critical infrastructure, identity-related offences, child pornography and child luring, publication of intimate images, spam and fraudulent websites, online harassment and offences against the State. It governs investigations through retention of traffic data by service providers, search and seizure, production and expedited preservation orders, removal of data, remote forensic tools and forfeiture.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
-        }
-      ],
-      "catalogSource": "Cybersecurity Database",
-      "catalogRecordId": "eacf7d7b-d337-5b1d-8c95-4ff51e5f0e1d",
-      "catalogSlug": "gy-cybercrime-act-2018",
-      "catalogUpdatedAt": "2026-11-09"
     },
     {
       "id": "CYBERSTANDARD-BS-10012-2017",
@@ -24813,7 +25003,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection",
       "sourceUrl": "https://lawcommission.gov.kn/wp-content/documents/Annual-Laws/2018/ACTs/Act-5-of-2018-Data-Protection-Act-2018.pdf",
-      "summary": "It is Saint Kitts and Nevis's general law on the protection of personal data processed by public and private bodies. It rests on principles of notice and choice, limited disclosure, security, retention, data integrity and access, gives data subjects rights of access and rectification and sets specific conditions for processing sensitive data. For private bodies it applies to processing in respect of commercial transactions. Supervision lies with the Information Commissioner appointed under the Freedom of Information Act, who receives complaints, investigates and can issue enforcement notices. The Act does not require breach notification; offences are punishable by fines of up to 100,000 dollars and imprisonment for individuals and up to 500,000 dollars for companies.",
+      "summary": "It is Saint Kitts and Nevis's general law on the protection of personal data processed by public and private bodies. It rests on principles of notice and choice, limited disclosure, security, retention, data integrity and access, gives data subjects rights of access and rectification and sets specific conditions for processing sensitive data. For private bodies it applies to processing in respect of commercial transactions. Supervision lies with the Information Commissioner appointed under the Freedom of Information Act, who receives complaints, investigates and can issue enforcement notices. The Act does not require breach notification; offences are punishable by fines of up to 200,000 dollars and imprisonment for individuals and up to 500,000 dollars for companies.",
       "history": [
         {
           "date": "2026-11-08",
@@ -24822,12 +25012,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f6b66788-b099-450d-aa2f-77c2278835fb",
       "catalogSlug": "kn-data-protection-act-2018",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -25121,7 +25315,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "769053fa-4f46-51ba-a53f-896d63dcbef8",
       "catalogSlug": "sk-zakon-69-2018-kyberneticka-bezpecnost",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -25228,17 +25422,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · financial sector · digital identity · cryptography",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg_del/2018/389/oj",
-      "summary": "The regulatory technical standards required by Art. 98 of PSD2 set out how payment service providers apply strong customer authentication and how they communicate securely with payment initiation and account information services. Strong authentication relies on at least two independent elements of knowledge, possession and inherence, which generate a single-use authentication code; for remote payments the code is dynamically linked to the amount and payee (Arts. 4-9). Exemptions, for example for contactless and low-value payments, trusted beneficiaries or transaction risk analysis, are allowed within set fraud thresholds (Arts. 10-21). Providers must monitor transactions to detect fraud, have their security measures audited by auditors with IT security expertise, protect personalised security credentials and encrypt communications (Arts. 2, 3, 22-27 and 35). Banks must offer third-party providers an account access interface, with identification through eIDAS qualified certificates and contingency measures in case of unavailability (Arts. 30-34).",
+      "summary": "The regulatory technical standards required by Art. 98 of PSD2 set out how payment service providers apply strong customer authentication and how they communicate securely with payment initiation and account information services. Strong authentication relies on at least two independent elements of knowledge, possession and inherence, which generate a single-use authentication code; for remote payments the code is dynamically linked to the amount and payee (Arts. 4-9). Exemptions, for example for contactless and low-value payments, trusted beneficiaries or transaction risk analysis, are allowed within set amount limits or, for transaction risk analysis, reference fraud rates (Arts. 10-21). Providers must monitor transactions to detect fraud, have their security measures audited by auditors with IT security expertise, protect personalised security credentials and encrypt communications (Arts. 2, 3, 22-27 and 35). Banks must offer third-party providers an account access interface, with identification through eIDAS qualified certificates and contingency measures in case of unavailability (Arts. 30-34).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "3b9330d4-14ed-557f-b0a0-907066e36183",
       "catalogSlug": "eu-psd2-rts-strong-customer-authentication-2018-389",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-US-BOD-18-01-EMAIL-WEB-SECURITY-2017",
@@ -25463,17 +25661,22 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · incident reporting",
       "sourceUrl": "https://www.gesetze-im-internet.de/bdsg_2018/",
-      "summary": "German federal law supplementing the GDPR, transposing Directive (EU) 2016/680 on processing in criminal matters and replacing the previous 1990 BDSG. Part 1 contains common provisions, including the statute of the Federal Commissioner for Data Protection and Freedom of Information (BfDI), the supervisory authority for federal public bodies, while private bodies are supervised by the authorities of the Länder. Part 2 specifies the GDPR (among other things employee data, video surveillance, credit scoring, data protection officers and restrictions on data subjects' rights); Part 3 governs police and criminal-justice processing, with a duty to notify breaches to the BfDI without undue delay and, where feasible, within 72 hours. Public authorities are not subject to administrative fines; unlawful disclosure or processing of data for gain is a criminal offence punishable by up to three years' imprisonment.",
+      "summary": "German federal law supplementing the GDPR, transposing Directive (EU) 2016/680 on processing in criminal matters and replacing the previous 1990 BDSG. Part 1 contains common provisions, including video surveillance of publicly accessible areas and the statute of the Federal Commissioner for Data Protection and Freedom of Information (BfDI), the supervisory authority for federal public bodies, while private bodies are supervised by the authorities of the Länder. Part 2 specifies the GDPR (among other things employee data, credit scoring, data protection officers and restrictions on data subjects' rights); Part 3 governs police and criminal-justice processing, with a duty to notify breaches to the BfDI without undue delay and, where feasible, within 72 hours. Public authorities are not subject to administrative fines; commercially transferring the data of a large number of people without authorisation is a criminal offence punishable by up to three years' imprisonment, and unauthorised processing for payment or with intent to enrich oneself or cause harm by up to two years (§ 42).",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "2f033b58-fc37-4394-8537-de307bc579ea",
       "catalogSlug": "de-bundesdatenschutzgesetz-2017",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
     },
     {
       "id": "CYBERLAW-AT-DATENSCHUTZGESETZ-2018",
@@ -25488,7 +25691,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · incident reporting",
       "sourceUrl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597",
-      "summary": "It is the Austrian law implementing the GDPR: the 2018 adaptation act renamed and largely rewrote the Data Protection Act 2000, and the text also transposes Directive (EU) 2016/680 on police and criminal justice processing. It keeps the fundamental right to data protection (§ 1) with constitutional rank. It sets the age of children's consent to information society services at 14 and lays down specific rules on, among other things, research, archives and statistics, freedom of expression and journalism, and image recording, including CCTV. The supervisory authority is the Datenschutzbehörde, headed by a director appointed by the Federal President on the Government's proposal for five years; since 2025 a Parliamentary Data Protection Committee has supervised legislative activities. The Datenschutzbehörde imposes the fines under Article 83 GDPR, favouring warnings for first infringements, but may not fine authorities and public bodies; the law also provides for administrative fines of up to EUR 50,000 and a criminal offence punishable by up to one year's imprisonment. Personal data breaches are notified under Article 33 GDPR (72 hours), also for police and criminal justice processing.",
+      "summary": "It is the Austrian law implementing the GDPR: the 2018 adaptation act renamed and largely rewrote the Data Protection Act 2000, and the text also transposes Directive (EU) 2016/680 on police and criminal justice processing. It keeps the fundamental right to data protection (§ 1) with constitutional rank. It sets the age of children's consent to information society services at 14 and lays down specific rules on, among other things, research, archives and statistics, freedom of expression and journalism, and image recording, including CCTV. The supervisory authority is the Datenschutzbehörde, headed by a director appointed by the Federal President on the Government's proposal for five years; since 2025 a Parliamentary Data Protection Committee has supervised processing in the legislative sphere (Parliament, Court of Audit, Ombudsman Board). The Datenschutzbehörde imposes the fines under Article 83 GDPR, favouring warnings for first infringements, but may not fine authorities and public bodies; the law also provides for administrative fines of up to EUR 50,000 and a criminal offence punishable by up to one year's imprisonment. Personal data breaches are notified under Article 33 GDPR (72 hours), also for police and criminal justice processing.",
       "history": [
         {
           "date": "2026-11-08",
@@ -25497,12 +25700,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "d013414f-4861-4daa-a0d3-70f57f488d07",
       "catalogSlug": "at-datenschutzgesetz-2018",
-      "catalogUpdatedAt": "2026-11-07",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -25895,7 +26102,7 @@
       "instrumentType": "Law",
       "status": "In force",
       "publicationDate": "",
-      "adoptedDate": "2016-07-26",
+      "adoptedDate": "2016-07-28",
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime · data protection · incident response · governance",
       "sourceUrl": "https://anssi.gov.gn/nproject/loi-l037-2016-relative-a-la-cybersecurite-et-la-protection-des-donnees-a-caractere-personnel/",
@@ -25908,12 +26115,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "9a498778-e6a8-4636-9696-3e170526609e",
       "catalogSlug": "gn-loi-l-2016-037-cybersecurite-donnees-personnelles",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -25959,7 +26170,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · incident response",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
-      "summary": "The GDPR is the EU's single framework for personal data protection and repeals Directive 95/46/EC. On security it requires technical and organisational measures appropriate to the risk (Article 32), data protection by design, and notification of personal data breaches to the supervisory authority within 72 hours and, in serious cases, to the people affected. Fines can reach 20 million euro or 4% of worldwide turnover.",
+      "summary": "The GDPR is the EU's single framework for personal data protection and repeals Directive 95/46/EC. On security it requires technical and organisational measures appropriate to the risk (Article 32), data protection by design, and notification of personal data breaches to the supervisory authority within 72 hours and, where the breach is likely to result in a high risk, to the people affected. Fines can reach 20 million euro or 4% of total worldwide annual turnover, whichever is higher; for infringements of the security and notification obligations the maximum is 10 million euro or 2% (Article 83).",
       "history": [
         {
           "date": "2026-11-08",
@@ -25968,12 +26179,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "a8d72389-334f-5e04-b73c-25034d423ee1",
       "catalogSlug": "eu-gdpr-2016-679",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -26003,7 +26218,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ce29fcfe-2fff-4d9a-8d4e-93a026c2b6f6",
       "catalogSlug": "tr-kvkk-6698-2016",
-      "catalogUpdatedAt": "2026-11-04",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -26127,6 +26342,36 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-JM-CYBERCRIMES-ACT-2015",
+      "jurisdiction": "Jamaica",
+      "regulator": "Parliament of Jamaica",
+      "title": "The Cybercrimes Act, 2015 (No. 31 of 2015)",
+      "officialTitle": "The Cybercrimes Act, 2015 (No. 31 of 2015)",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2015-12-21",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · critical infrastructure",
+      "sourceUrl": "https://japarliament.gov.jm/attachments/article/341/The%20Cybercrimes%20Act,%202015-final%20No.31.pdf",
+      "summary": "The Act repeals and replaces the Cybercrimes Act 2010. It punishes unauthorised access to computers and data, interference with data and systems, unlawful interception, use of computers for malicious communication and unlawful use of devices and data, with penalties of up to 25 years for protected computers, such as those linked to national security, defence and essential services. It also regulates data preservation and production orders and search and seizure.",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "b6015ad3-f9eb-5f68-b804-45fde735dd6c",
+      "catalogSlug": "jm-cybercrimes-act-2015",
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
+    },
+    {
       "id": "CYBERLAW-US-CYBERSECURITY-INFORMATION-SHARING-ACT-2015",
       "jurisdiction": "United States · Federal",
       "regulator": "United States Congress",
@@ -26155,31 +26400,6 @@
       "catalogSlug": "us-cybersecurity-information-sharing-act-2015",
       "catalogUpdatedAt": "2026-10-29",
       "titleTranslationSource": "Cybersecurity Database English short title"
-    },
-    {
-      "id": "CYBERLAW-JM-CYBERCRIMES-ACT-2015",
-      "jurisdiction": "Jamaica",
-      "regulator": "Parliament of Jamaica",
-      "title": "The Cybercrimes Act, 2015 (No. 31 of 2015)",
-      "officialTitle": "The Cybercrimes Act, 2015 (No. 31 of 2015)",
-      "instrumentType": "Law",
-      "status": "In force",
-      "publicationDate": "",
-      "adoptedDate": "2015-12",
-      "effectiveDate": "",
-      "topic": "Cybersecurity · cybercrime · critical infrastructure",
-      "sourceUrl": "https://japarliament.gov.jm/attachments/article/341/The%20Cybercrimes%20Act,%202015-final%20No.31.pdf",
-      "summary": "The Act repeals and replaces the Cybercrimes Act 2010. It punishes unauthorised access to computers and data, interference with data and systems, unlawful interception, use of computers for malicious communication and unlawful use of devices and data, with penalties of up to 25 years for protected computers, such as those linked to national security, defence and essential services. It also regulates data preservation and production orders and search and seizure.",
-      "history": [
-        {
-          "date": "2026-11-08",
-          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
-        }
-      ],
-      "catalogSource": "Cybersecurity Database",
-      "catalogRecordId": "b6015ad3-f9eb-5f68-b804-45fde735dd6c",
-      "catalogSlug": "jm-cybercrimes-act-2015",
-      "catalogUpdatedAt": "2026-11-08"
     },
     {
       "id": "CYBERLAW-EU-PSD2-DIRECTIVE-2015-2366",
@@ -26847,7 +27067,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "35ebcdf2-e1e3-5755-be71-b7efacfe32d6",
       "catalogSlug": "ag-electronic-crimes-act-2013",
-      "catalogUpdatedAt": "2026-11-09"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-PE-LEY-30096-DELITOS-INFORMATICOS-2013",
@@ -26858,7 +27078,7 @@
       "instrumentType": "Law",
       "status": "In force",
       "publicationDate": "",
-      "adoptedDate": "2013-10",
+      "adoptedDate": "2013-10-21",
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime",
       "sourceUrl": "https://busquedas.elperuano.pe/normaslegales/ley-de-delitos-informaticos-ley-n-30096-1003117-1/",
@@ -26871,12 +27091,16 @@
         {
           "date": "2026-11-08",
           "change": "Added an English display title; the original-language title is retained for reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: adoptedDate. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "d28e84bd-3219-51b5-922d-c886483b16bb",
       "catalogSlug": "pe-ley-30096-delitos-informaticos-2013",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -26902,7 +27126,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "37929125-2caa-5468-a0bb-700ddac44387",
       "catalogSlug": "gd-electronic-crimes-act-2013",
-      "catalogUpdatedAt": "2026-11-09"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-AG-DATA-PROTECTION-ACT-2013",
@@ -26942,7 +27166,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime · international cooperation",
       "sourceUrl": "https://eur-lex.europa.eu/eli/dir/2013/40/oj",
-      "summary": "The Directive harmonises Member States' criminal law on cyber offences and replaces Framework Decision 2005/222/JHA. It defines as offences illegal access to systems, illegal system and data interference, illegal interception and the production or supply of tools to commit them, with higher minimum penalties for botnet attacks or attacks on critical infrastructure. It strengthens cooperation through national contact points available 24 hours a day.",
+      "summary": "The Directive harmonises Member States' criminal law on cyber offences and replaces Framework Decision 2005/222/JHA. It defines as offences illegal access to systems, illegal system and data interference, illegal interception and the production or supply of tools to commit them, with higher minimum levels for the maximum prison term (three and five years) for botnet attacks or attacks on critical infrastructure. It strengthens cooperation through national contact points available 24 hours a day.",
       "history": [
         {
           "date": "2026-11-08",
@@ -26951,12 +27175,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: titleTranslationSource. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "983860c2-be6f-5747-aa58-5878e99a1fe7",
       "catalogSlug": "eu-directive-attacks-information-systems-2013-40",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -27002,7 +27230,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · governance",
       "sourceUrl": "https://www.artci.ci/wp-content/uploads/2024/05/loi_2013_450.pdf",
-      "summary": "Ivorian framework law on personal data protection, applying to automated and non-automated processing carried out in the country. Processing must be declared in advance or, for genetic, medical, biometric and criminal-record data, national identification numbers and transfers to third countries, authorised beforehand by the Protection Authority. It sets the principles of processing (consent, purpose, proportionality, limited retention, security and confidentiality) and the rights to information, access, objection, rectification and erasure. The Protection Authority's functions are entrusted to the telecommunications regulator (ARTCI), which can issue warnings, formal notices, suspensions or withdrawals of authorisation and fines of up to CFA 10 million, or 100 million for repeat breaches; criminal penalties also apply.",
+      "summary": "Ivorian framework law on personal data protection, applying to automated and non-automated processing carried out in the country. Processing must be declared in advance or, for genetic, medical, biometric and criminal-record data, national identification numbers and transfers to third countries, authorised beforehand by the Protection Authority. It sets the principles of processing (consent, purpose, proportionality, limited retention, security and confidentiality) and the rights to information, access, objection, rectification and erasure. The Protection Authority's functions are entrusted to the telecommunications regulator (ARTCI), which can issue warnings, formal notices, suspensions or withdrawals of authorisation and fines of up to CFA 10 million, or 100 million for a repeat breach within five years (or, for a company, 5% of turnover capped at 500 million); criminal penalties also apply.",
       "history": [
         {
           "date": "2026-11-08",
@@ -27011,12 +27239,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e376c1f5-9223-4408-806d-db85175b8ecf",
       "catalogSlug": "ci-loi-2013-450-donnees-personnelles-2013",
-      "catalogUpdatedAt": "2026-11-04",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -27474,7 +27706,7 @@
       "effectiveDate": "2026-09-11",
       "topic": "Cybersecurity · data protection · incident reporting · governance",
       "sourceUrl": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EB%B2%95",
-      "summary": "It is Korea's general personal data protection law, covering the public and private sectors and supervised by the Personal Information Protection Commission (PIPC). It sets the legal bases for processing and rules on sensitive data, transfers abroad and the domestic representative of foreign controllers, and requires security measures, a chief privacy officer and notification of data leaks without delay to the people affected and to the PIPC or the designated body. Violations, including leaks caused by inadequate security measures, carry surcharges of up to 3% of total turnover. The amendment in force since 11 September 2026 raises the maximum to 10% for repeat violations within three years committed intentionally or with gross negligence, for violations affecting at least 10 million people and for leaks after a corrective order was ignored; it extends notification to cases of possible leaks, makes top management ultimately accountable and allows damages of up to five times the loss.",
+      "summary": "It is Korea's general personal data protection law, covering the public and private sectors and supervised by the Personal Information Protection Commission (PIPC). It sets the legal bases for processing and rules on sensitive data, transfers abroad and the domestic representative of foreign controllers, and requires security measures, a chief privacy officer and notification of data leaks without delay to the people affected and to the PIPC or the designated body. Violations, including leaks caused by inadequate security measures, carry surcharges of up to 3% of total turnover. The amendment in force since 11 September 2026 raises the maximum to 10% for repeat violations within three years committed intentionally or with gross negligence, for violations affecting at least 10 million people and for leaks after a corrective order was ignored; it extends notification to cases of possible leaks, and makes top management ultimately accountable (Art. 30-3). Since 2023, courts can award up to five times the loss for leaks caused by intent or gross negligence (Art. 39(3)).",
       "history": [
         {
           "date": "2026-11-08",
@@ -27483,12 +27715,16 @@
         {
           "date": "2026-11-08",
           "change": "Added an English display title; the original-language title is retained for reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4938de53-e8cd-5e8b-9305-95f80b890102",
       "catalogSlug": "kr-personal-information-protection-act-2011",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -27891,7 +28127,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c1bec132-d04e-5ab8-93de-3006a4154585",
       "catalogSlug": "kn-electronic-crimes-act-2009",
-      "catalogUpdatedAt": "2026-11-09"
+      "catalogUpdatedAt": "2026-11-18"
     },
     {
       "id": "CYBERLAW-UY-LEY-18331-PROTECCION-DATOS-2008",
@@ -28092,7 +28328,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "1b48ade4-2686-4521-bd7b-7b9db1653fcd",
       "catalogSlug": "do-ley-53-07-crimenes-delitos-alta-tecnologia-2007",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -28367,7 +28603,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c275d291-7509-491d-a487-45508698013d",
       "catalogSlug": "it-codice-protezione-dati-personali-2003",
-      "catalogUpdatedAt": "2026-11-04",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -28922,17 +29158,22 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · incident reporting",
       "sourceUrl": "https://www.legislation.gov.au/C2004A03712/latest/text",
-      "summary": "Australia's federal law on the protection of personal information, amended many times, most recently by the Privacy and Other Legislation Amendment Act 2024. It subjects federal agencies and private organisations to the 13 Australian Privacy Principles on collection, use, disclosure, quality, security, access, correction and cross-border disclosure of information, with specific rules for credit reporting and APP codes. The Notifiable Data Breaches scheme (Part IIIC) requires entities to notify the Office of the Australian Information Commissioner (OAIC) and affected individuals of breaches likely to result in serious harm: the assessment must be completed within 30 days and notification made as soon as practicable. Serious interferences with privacy carry civil penalties of up to the greater of AUD 50 million, three times the benefit obtained or 30% of adjusted turnover. The 2024 amendments also created a statutory tort for serious invasions of privacy and transparency duties for automated decisions.",
+      "summary": "Australia's federal law on the protection of personal information, amended many times, significantly by the Privacy and Other Legislation Amendment Act 2024. It subjects federal agencies and private organisations to the 13 Australian Privacy Principles on collection, use, disclosure, quality, security, access, correction and cross-border disclosure of information, with specific rules for credit reporting and APP codes. The Notifiable Data Breaches scheme (Part IIIC) requires entities to notify the Office of the Australian Information Commissioner (OAIC) and affected individuals of breaches likely to result in serious harm: the assessment must be completed within 30 days and notification made as soon as practicable. Serious interferences with privacy carry civil penalties of up to the greater of AUD 50 million, three times the benefit obtained or, if the benefit cannot be determined, 30% of adjusted turnover. The 2024 amendments also created a statutory tort for serious invasions of privacy and transparency duties for automated decisions.",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f5bb5ba4-8819-4890-a8d3-0ff0e87697b6",
       "catalogSlug": "au-privacy-act-1988",
-      "catalogUpdatedAt": "2026-11-04"
+      "catalogUpdatedAt": "2026-11-18",
+      "titleTranslationSource": ""
     },
     {
       "id": "CYBERLAW-US-COMPUTER-FRAUD-AND-ABUSE-ACT-1986",
@@ -28961,7 +29202,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "0020917f-2463-428d-a2bd-1040d1f47bde",
       "catalogSlug": "us-computer-fraud-and-abuse-act-1986",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -30111,10 +30352,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-18",
-    "lastChecked": "2026-11-18",
+    "catalogUpdatedAt": "2026-11-19",
+    "lastChecked": "2026-11-19",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
-    "standardsCount": 125,
-    "standardsUpdatedAt": "2026-11-18"
+    "standardsCount": 126,
+    "standardsUpdatedAt": "2026-11-19"
   }
 }
