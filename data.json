@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-19",
+  "lastChecked": "2026-11-20",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -1548,6 +1548,44 @@
     }
   ],
   "items": [
+    {
+      "id": "US-FR-2026-23650",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-20",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-20",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23649",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-20",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-20",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
     {
       "id": "US-FR-2026-23555",
       "jurisdiction": "United States · Federal",
@@ -23974,7 +24012,7 @@
       "catalogSource": "Cybersecurity Database standards",
       "catalogRecordId": "134dd1ae-108e-51c7-9560-d2a795991216",
       "catalogSlug": "cobit-2019",
-      "catalogUpdatedAt": "2026-11-18"
+      "catalogUpdatedAt": "2026-11-20"
     },
     {
       "id": "CYBERLAW-LB-LAW-81-ELECTRONIC-TRANSACTIONS-PERSONAL-DATA-2018",
@@ -30353,9 +30391,9 @@
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
     "catalogUpdatedAt": "2026-11-19",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-20",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
-    "standardsCount": 126,
+    "standardsCount": 127,
     "standardsUpdatedAt": "2026-11-19"
   }
 }
