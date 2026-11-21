@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-20",
+  "lastChecked": "2026-11-21",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -1548,6 +1548,44 @@
     }
   ],
   "items": [
+    {
+      "id": "US-FR-2026-23777",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Labor Department, Wage and Hour Division",
+      "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+      "instrumentType": "Rule",
+      "status": "In force",
+      "publicationDate": "2026-11-23",
+      "effectiveDate": "2027-01-22",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+      "summary": "This final rule rescinds the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA or Act) set forth in the Department of Labor's (Department) regulations and replaces it with an analysis similar to what it published in a final rule promulgated in 2021, with several modifications and enhancements. In addition, this final rule amends provisions in the Department's regulations implementing the Family and Medical Leave Act (FMLA) and Migrant and Seasonal Agricultural Worker Protection Act (MSPA) to provide that employee or independent contractor status under those laws should be determined using the Department's FLSA analysis, as the FMLA an",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "id": "US-FR-2026-23748",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Securities and Exchange Commission",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+      "instrumentType": "Notice",
+      "status": "Guidance",
+      "publicationDate": "2026-11-23",
+      "effectiveDate": "—",
+      "topic": "AI · federal rulemaking",
+      "sourceUrl": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change",
+      "summary": "",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
     {
       "id": "US-FR-2026-23650",
       "jurisdiction": "United States · Federal",
@@ -30390,10 +30428,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-19",
-    "lastChecked": "2026-11-20",
+    "catalogUpdatedAt": "2026-11-21",
+    "lastChecked": "2026-11-21",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 127,
-    "standardsUpdatedAt": "2026-11-19"
+    "standardsUpdatedAt": "2026-11-21"
   }
 }
