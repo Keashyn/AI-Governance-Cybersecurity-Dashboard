@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-22",
+  "lastChecked": "2026-11-24",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -2186,6 +2186,32 @@
           "change": "Added from the official Executive Legal Consultancy announcement reporting issuance of Decree 787-26 on 2 November 2026."
         }
       ]
+    },
+    {
+      "id": "CYBERLAW-GT-LEY-MARCO-CIBERSEGURIDAD-2026",
+      "jurisdiction": "Guatemala",
+      "regulator": "Congreso de la República de Guatemala",
+      "title": "Ley Marco de Ciberseguridad",
+      "officialTitle": "Ley Marco de Ciberseguridad",
+      "titleTranslationSource": "",
+      "instrumentType": "Law",
+      "status": "Enacted",
+      "publicationDate": "",
+      "adoptedDate": "2026-11-03",
+      "effectiveDate": "2026-12-17",
+      "topic": "Cybersecurity · governance · critical infrastructure · incident response · cybercrime · international cooperation · skills",
+      "sourceUrl": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/arevalo-sanciona-la-ley-marco-de-ciberseguridad/",
+      "summary": "Guatemala's first comprehensive cybersecurity law, setting up the institutional framework for the field. The National Cybersecurity Council (Conciber), chaired by the President of the Republic and made up of the ministers of the interior, defence, foreign affairs, finance and communications and the secretary for strategic intelligence, is the lead body for strategic decisions; the Ministry of the Interior is the lead sectoral authority, and the National Cybersecurity Directorate (Diciber), part of that ministry, is the technical and operational body that drafts policies, strategies and protocols. A Cybersecurity Incident Response Centre (CRIC-GT) is set up within Diciber. The law introduces administrative penalties, with fines on companies of up to 300,000 quetzales in some cases, and eight new computer offences, including illegal access (4 to 6 years in prison), illegal interception (5 to 8 years), data interference (5 to 7 years) and system interference (5 to 8 years), computer-related forgery and fraud, identity theft and misuse of devices, with heavier penalties when critical infrastructure is affected or public officials are involved. It also contains rules on digital evidence and international cooperation and brings cybersecurity into the national school curriculum.",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "d7af5842-64c7-53ad-91a5-40b7e5e2428c",
+      "catalogSlug": "gt-ley-marco-ciberseguridad-2026",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "BD-NATIONAL-AI-POLICY-FORMULATION-2026",
@@ -5284,17 +5310,22 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://zoek.officielebekendmakingen.nl/stb-2026-187.html",
-      "summary": "The act transposes the NIS 2 Directive in the Netherlands and replaces the Network and Information Systems Security Act (Wbni). It requires essential and important entities to register, exercise a duty of care in managing risks and report incidents; it entered into force together with the Critical Entities Resilience Act (Wwke).",
+      "summary": "The act transposes the NIS 2 Directive in the Netherlands and replaces the Network and Information Systems Security Act (Wbni). Essential and important entities register in a national register (Arts. 43-44) and are subject to a duty of care: technical, operational and organisational measures proportionate to the risks (Art. 21), approved by the management body (Art. 24). Significant incidents must be reported to the CSIRT and the competent authority with an early warning within 24 hours, a notification within 72 hours and a final report within one month (Arts. 26-29). The sectoral ministers supervise and may impose fines of up to EUR 10 million or 2% of worldwide turnover on essential entities and up to EUR 7 million or 1.4% on important ones (Arts. 15, 80 and 87).",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "6ac67e85-8a97-5e21-8108-bc8c54820a82",
       "catalogSlug": "nl-cyberbeveiligingswet-2026",
-      "catalogUpdatedAt": "2026-11-18"
+      "catalogUpdatedAt": "2026-11-23",
+      "titleTranslationSource": ""
     },
     {
       "id": "CYBERLAW-NL-CYBERBEVEILIGINGSBESLUIT-2026",
@@ -9428,7 +9459,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "12eba429-f806-5077-8c31-a3f6f8b73e41",
       "catalogSlug": "at-nisg-2026",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9880,7 +9911,7 @@
       "effectiveDate": "2026-03-06",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · public administration · supply chain",
       "sourceUrl": "https://www.recht.bund.de/bgbl/1/2025/301/VO.html",
-      "summary": "The act transposes the NIS 2 Directive in Germany through a comprehensive reform of the BSI Act (BSIG). It greatly expands the number of companies covered, classed as particularly important or important, with registration, risk-management and incident-reporting duties. It also regulates information security management in the federal administration.",
+      "summary": "The act transposes the NIS 2 Directive in Germany through a comprehensive reform of the BSI Act (BSIG). It greatly expands the number of companies covered, classed as particularly important or important (section 28 BSIG), which must register with the BSI within three months (section 33), take risk-management measures (section 30) and report significant incidents with an initial notification within 24 hours, an incident report within 72 hours and a final report within one month (section 32). Management must implement and oversee the measures and undergo training (section 38). The BSI supervises and may impose fines of up to EUR 10 million or, for companies with turnover above EUR 500 million, up to 2% of worldwide turnover (section 65). It also regulates information security in the federal administration (sections 43-48).",
       "history": [
         {
           "date": "2026-11-08",
@@ -9889,12 +9920,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "93887fd6-5bba-57a2-9f46-a1236f3c5f1d",
       "catalogSlug": "de-nis2umsucg-2025",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -10681,7 +10716,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "67c273ac-5dc6-400a-9323-d5fe11e45704",
       "catalogSlug": "at-rkeg-2025",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -11410,7 +11445,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "345b2665-5317-4464-a20e-b7bf821fd6b6",
       "catalogSlug": "cz-zakon-266-2025-kriticka-infrastruktura",
-      "catalogUpdatedAt": "2026-11-01",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -11838,7 +11873,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "d077d1f0-f290-5dea-842b-9c1940681d3d",
       "catalogSlug": "cz-zakon-264-2025-kyberneticka-bezpecnost",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
     },
     {
@@ -11898,7 +11933,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "fbfd4a9d-b3de-5dff-91b4-a6d7bc206b74",
       "catalogSlug": "us-eo-14306-cybersecurity-2025",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -13372,6 +13407,32 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-US-USCG-CYBERSECURITY-MARINE-TRANSPORTATION-SYSTEM-2025",
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Coast Guard (Department of Homeland Security)",
+      "title": "Coast Guard maritime cyber rule (US)",
+      "officialTitle": "Cybersecurity in the Marine Transportation System (33 CFR Part 101, Subpart F)",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Regulation",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2025-01-08",
+      "effectiveDate": "2025-07-16",
+      "topic": "Cybersecurity · maritime · critical infrastructure · incident reporting · ot cps",
+      "sourceUrl": "https://www.ecfr.gov/current/title-33/chapter-I/subchapter-H/part-101/subpart-F",
+      "summary": "The Coast Guard rule adds minimum cybersecurity requirements to the maritime security regulations under the Maritime Transportation Security Act of 2002 for U.S.-flagged vessels, port facilities and Outer Continental Shelf facilities. The owner or operator must designate a Cybersecurity Officer (CySO) accessible to the Coast Guard 24 hours a day (§ 101.620), carry out an annual Cybersecurity Assessment and have a Cybersecurity Plan approved by the Coast Guard (§§ 101.630 and 101.650(e)), with drills at least twice a year and annual exercises (§ 101.635). The minimum measures (§ 101.650) include account lockout after failed logins, changing default passwords, multifactor authentication, least privilege, a list of approved hardware and software and an inventory of systems, protected logs and encryption, personnel training, patching known exploited vulnerabilities (KEVs) in critical IT and OT systems without delay, a penetration test with each Plan renewal, a duty for vendors to report vulnerabilities and incidents, a Cyber Incident Response Plan, backups, network segmentation and physical security. Reportable cyber incidents (substantial loss of confidentiality, integrity or availability, disruption of operations, access to the personal information of many individuals, the risk of a transportation security incident) must be reported to the National Response Center without delay (§ 101.650(g)).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "f68a4a00-033a-5f21-9644-36d6c75895ea",
+      "catalogSlug": "us-uscg-cybersecurity-marine-transportation-system-2025",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
       "id": "CYBERLAW-BN-PERSONAL-DATA-PROTECTION-ORDER-2025",
       "jurisdiction": "Brunei",
       "regulator": "His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam",
@@ -13650,7 +13711,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · incident response · international cooperation · governance",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2025/38/oj",
-      "summary": "The Regulation sets up a European Cybersecurity Alert System of national and cross-border cyber hubs to improve threat detection. It creates a Cybersecurity Emergency Mechanism, including an EU reserve of trusted providers to respond to large-scale incidents. It also provides for a review mechanism for significant incidents.",
+      "summary": "The Regulation sets up the European Cybersecurity Alert System, a network of National and Cross-Border Cyber Hubs joined on a voluntary basis to detect and analyse cyber threats (Arts. 3-5); Cross-Border Cyber Hubs report potential or ongoing large-scale incidents without undue delay through EU-CyCLONe and the CSIRTs network (Art. 7). It creates a Cybersecurity Emergency Mechanism that supports coordinated preparedness testing of entities in sectors of high criticality, mutual assistance between Member States and the EU Cybersecurity Reserve of trusted managed security service providers, run by the Commission with ENISA (Arts. 10-18). At the request of the Commission or EU-CyCLONe, ENISA reviews significant or large-scale incidents and draws lessons learned and recommendations (Art. 21).",
       "history": [
         {
           "date": "2026-11-08",
@@ -13659,12 +13720,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "48e55834-dd34-529c-b978-c3f4a3534ee2",
       "catalogSlug": "eu-cyber-solidarity-act-2025-38",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -13974,7 +14039,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ffda5067-bb5d-5f3e-b5b3-b5ef8c364207",
       "catalogSlug": "au-cyber-security-act-2024",
-      "catalogUpdatedAt": "2026-10-29"
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CYBERLAW-SK-ZAKON-367-2024-KRITICKA-INFRASTRUKTURA",
@@ -14740,7 +14805,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-04;138",
-      "summary": "The decree transposes the NIS 2 Directive into Italian law and designates ACN as national competent authority and single point of contact. It defines essential and important entities, which must register on the ACN platform, adopt security measures and notify significant incidents. It repeals Legislative Decree 65/2018, which had transposed the first NIS Directive.",
+      "summary": "The decree transposes the NIS 2 Directive into Italian law and designates ACN as national competent authority and single point of contact (Art. 10). Essential and important entities register every year on the ACN platform by 28 February (Art. 7) and take risk-management measures approved by their management bodies, which are liable for infringements (Arts. 23-24). Significant incidents must be notified to CSIRT Italia with an early warning within 24 hours, an incident notification within 72 hours and a final report within one month (Art. 25). Fines reach EUR 10 million or 2% of worldwide turnover for essential entities and EUR 7 million or 1.4% for important ones (Art. 38). It repeals Legislative Decree 65/2018, which had transposed the first NIS Directive.",
       "history": [
         {
           "date": "2026-11-08",
@@ -14749,12 +14814,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "40676eb6-af3f-5f32-b79f-6aef20cf00c2",
       "catalogSlug": "it-dlgs-138-2024-nis2",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14770,7 +14839,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · energy · health · incident reporting",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-04;134",
-      "summary": "The decree transposes the CER Directive and governs the identification of critical entities providing essential services in Italy. It provides for a national strategy and risk assessments, and requires critical entities to adopt resilience measures and notify significant incidents. Coordination lies with the Prime Minister's Office, with sectoral competent authorities.",
+      "summary": "The decree transposes the CER Directive and governs the identification of critical entities providing essential services in Italy, which are identified by the sectoral competent authorities and included in a list adopted by an unpublished Prime Ministerial decree (Art. 8). It provides for a national strategy and a State risk assessment (Arts. 6-7). Critical entities, to which the obligations apply ten months after notification, assess their risks (Art. 13), take technical, security and organisational measures described in a resilience plan (Art. 14) and notify significant incidents to the sectoral authority and the single point of contact within 24 hours (Art. 16). Coordination lies with the Prime Minister's Office (Art. 3); the sectoral authorities supervise and impose fines of EUR 25,000 to 125,000 (Arts. 20-21).",
       "history": [
         {
           "date": "2026-11-08",
@@ -14779,12 +14848,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f889bf22-ba6d-5a7f-a6ea-2c7af7a81c49",
       "catalogSlug": "it-dlgs-134-2024-cer",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14920,6 +14993,32 @@
       "catalogRecordId": "02a16971-0cbf-5b6f-b140-898945dbcdbb",
       "catalogSlug": "gb-44495-2024",
       "catalogUpdatedAt": "2026-11-16"
+    },
+    {
+      "id": "CYBERLAW-UY-LEY-20327-CIBERDELINCUENCIA-2024",
+      "jurisdiction": "Uruguay",
+      "regulator": "Asamblea General (General Assembly of Uruguay)",
+      "title": "Cybercrime Law (UY)",
+      "officialTitle": "Ley N° 20.327 – Regulación para la prevención y represión de la ciberdelincuencia",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2024-08-23",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · financial sector",
+      "sourceUrl": "https://www.impo.com.uy/bases/leyes/20327-2024",
+      "summary": "The law inserted into Uruguay's Criminal Code unlawful access to another person's information in digital form by computer or telematic means (Art. 297-BIS), the unlawful interception or interruption of computer data in non-public transmissions (Art. 297-TER), accessing, seizing, using or modifying third parties' confidential data stored on digital media and disclosing it (Art. 297-QUATER), computer fraud, including deceiving people to obtain information through information and communication technologies and unauthorised transactions, transfers or payments made through computer manipulation or someone else's means of payment (Art. 347-BIS), identity theft through technological tools or computer systems (Art. 347-TER), computer damage to data or systems (Art. 358-QUATER), the misuse of programs, systems, credentials or passwords intended for committing offences (Art. 358-QUINQUIES) and telematic harassment (Art. 288-BIS). Penalties increase, among other cases, when State data or systems or those linked to critical infrastructure are affected (Arts. 297-QUATER, 348-BIS, 348-TER and 359-TER); new aggravating circumstances also concern the grooming of minors (Art. 277-TER). The law adds cybercrimes worth more than 100,000 indexed units to the predicate offences for money laundering (Art. 4), provides for a national education campaign on personal finance and cybersecurity (Art. 9) and allows banks and e-money issuers to set up shared fraud registers and to freeze funds received through unauthorised transactions, informing the Central Bank within one business day (Arts. 10 and 11).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "35f1284d-7a99-5070-af16-dd9cf6ff3547",
+      "catalogSlug": "uy-ley-20327-ciberdelincuencia-2024",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CYBERSTANDARD-NIST-FIPS-203-204-205-PQC",
@@ -15883,7 +15982,7 @@
       "effectiveDate": "2025-01-13",
       "topic": "Cybersecurity · cybercrime · public administration · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-06-28;90",
-      "summary": "The law extends incident reporting duties to ACN to central and local public administrations and other public bodies, with short deadlines. It requires administrations to set up a cybersecurity unit and appoint a cybersecurity officer. It increases penalties for computer crimes and introduces new offences, such as extortion committed through computer crimes.",
+      "summary": "The law extends the duty to report to ACN the incidents listed in the Agency's taxonomy to central and local public administrations and other public bodies: incidents must be reported within 24 hours and fully notified within 72 hours (Art. 1). Where non-compliance is repeated within five years, ACN imposes fines of EUR 25,000 to 125,000, which also apply to those who fail to act within 15 days on vulnerabilities flagged by the Agency (Arts. 1-2). Administrations must set up a cybersecurity unit and appoint a cybersecurity officer (Art. 8). The law increases penalties for computer crimes such as unauthorised access to a computer system and introduces extortion committed through computer crimes, punishable by six to twelve years' imprisonment (Art. 16).",
       "history": [
         {
           "date": "2026-11-08",
@@ -15892,12 +15991,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ab14633d-5654-5341-b3fb-634b0abdbd2f",
       "catalogSlug": "it-legge-90-2024",
-      "catalogUpdatedAt": "2026-11-09",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -16673,6 +16776,32 @@
       "catalogUpdatedAt": "2026-11-16"
     },
     {
+      "id": "CYBERLAW-US-FCC-IOT-CYBERSECURITY-LABELING-2024",
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission (FCC)",
+      "title": "U.S. Cyber Trust Mark (FCC)",
+      "officialTitle": "Cybersecurity Labeling for Internet of Things (47 CFR Part 8, Subpart B)",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Regulation",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2024-03-14",
+      "effectiveDate": "2024-08-29",
+      "topic": "Cybersecurity · iot · certification · supply chain",
+      "sourceUrl": "https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-8/subpart-B",
+      "summary": "The rules, adopted by the FCC in Report and Order FCC 24-26, set up a voluntary cybersecurity labeling program for wireless consumer IoT products, the U.S. Cyber Trust Mark. Products that meet the program's minimum cybersecurity requirements may display the FCC IoT Label, with the mark and a QR code linking to a public registry of product information, including the minimum period during which the manufacturer will provide security updates. The product also covers the components needed to use it, such as apps, gateways and cloud services, following NIST's definition (NISTIR 8425). Compliance is tested by accredited laboratories (CyberLABs) and certified by Cybersecurity Label Administrators (CLAs) authorised by the FCC, coordinated by a Lead Administrator. Products from entities on the FCC Covered List, the Department of Commerce Entity List or the Department of Defense list of Chinese military companies, or from entities debarred from federal procurement, cannot obtain the mark.",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "083b5883-33a1-5116-be31-0ae4f034a7eb",
+      "catalogSlug": "us-fcc-iot-cybersecurity-labeling-2024",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
       "id": "US-UT-SB149-2024",
       "jurisdiction": "United States · Utah",
       "regulator": "Utah Legislature / Department of Commerce, Office of Artificial Intelligence Policy",
@@ -17330,7 +17459,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · public administration · governance · incident response · incident reporting",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2023/2841/oj",
-      "summary": "The Regulation applies NIS2-like obligations to EU institutions, bodies and agencies: an internal risk-management framework, regular maturity assessments, cybersecurity plans and reporting of significant incidents. It creates the Interinstitutional Cybersecurity Board and turns CERT-EU into the Cybersecurity Service for the Union institutions.",
+      "summary": "The Regulation applies NIS2-like obligations to EU institutions, bodies, offices and agencies. Each Union entity sets up, under the responsibility of its top management, an internal cybersecurity risk-management, governance and control framework (Art. 6), carries out maturity assessments at least every two years (Art. 7), takes risk-management measures such as multifactor authentication and encryption (Art. 8) and approves a cybersecurity plan (Art. 9). Significant incidents must be reported to CERT-EU with an early warning within 24 hours, an incident notification within 72 hours and a final report within one month (Art. 21). The Interinstitutional Cybersecurity Board (IICB) monitors implementation and may issue reasoned opinions and warnings (Art. 12); CERT-EU becomes the Cybersecurity Service for the Union institutions.",
       "history": [
         {
           "date": "2026-11-08",
@@ -17339,12 +17468,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "27d38a95-2b28-5521-a3cd-6e519b06a4bf",
       "catalogSlug": "eu-institutions-cybersecurity-regulation-2023-2841",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -17406,6 +17539,32 @@
       "catalogRecordId": "f4f9a041-9377-5df1-b1f9-3a3678739f6c",
       "catalogSlug": "iso-iec-27033",
       "catalogUpdatedAt": "2026-11-02"
+    },
+    {
+      "id": "CYBERLAW-UY-LEY-20212-CIBERSEGURIDAD-2023",
+      "jurisdiction": "Uruguay",
+      "regulator": "Asamblea General (General Assembly of Uruguay)",
+      "title": "Cybersecurity provisions (UY, Law 20,212)",
+      "officialTitle": "Ley N° 20.212 – Aprobación de Rendición de Cuentas y Balance de Ejecución Presupuestal, Ejercicio 2022 (artículos 78 a 84, ciberseguridad)",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2023-11-06",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · governance · incident reporting · critical infrastructure · public administration",
+      "sourceUrl": "https://www.impo.com.uy/bases/leyes/20212-2023",
+      "summary": "Articles 78-84 of the 2022 budget accounts law are the basis of Uruguay's cybersecurity obligations. Public entities and private entities linked to critical services or sectors must adopt effective security measures for their critical information assets in line with Agesic guidelines, appoint an information security officer, plan measures to mitigate risks, report any potential cybersecurity incident fully and immediately according to CERTuy criteria, adopt Agesic's cybersecurity framework according to their maturity level and comply with other measures set by the Executive (Art. 78). Agesic can require non-compliant entities to adjust procedures, take specific measures and provide information, and can issue warnings; every six months it reports the list to the General Assembly (Art. 79). The law creates the National Register of Cybersecurity Incidents, to which the same entities must report incidents within 24 hours of becoming aware of them (Art. 80), and provides for security-by-design requirements in public procurement (Art. 81), CERTuy staff (Art. 82), the management committee of the national strategy (Art. 83) and the role of the advisory council on information security (Art. 84). Decree 66/025 implements these provisions: it lists the critical sectors (health, public order, emergency services, energy, telecommunications, transport, drinking water, environment, agro-industry, industry, public services, banking and financial services, defence), requires audit logs to be kept for at least 12 months, audits under the cybersecurity framework and incident reports to CERTuy within 24 hours.",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "a3da8d27-fe63-521e-b213-424758047422",
+      "catalogSlug": "uy-ley-20212-ciberseguridad-2023",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CYBERSTANDARD-FIRST-CVSS-4-0",
@@ -17656,7 +17815,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "bf47aa6f-944a-58c9-bbbb-0d6a78207408",
       "catalogSlug": "in-digital-personal-data-protection-act-2023",
-      "catalogUpdatedAt": "2026-11-15",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19227,7 +19386,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · certification · supply chain · telecommunications · iot",
       "sourceUrl": "https://www.legislation.gov.uk/ukpga/2022/46/contents",
-      "summary": "Part 1 of the Act introduces mandatory security requirements for consumer internet-connectable products, such as cameras, TVs and smart home devices. The implementing regulations ban universal default passwords and require a vulnerability disclosure policy and a stated minimum period of security updates. Part 2 deals with telecommunications infrastructure.",
+      "summary": "Part 1 of the Act introduces mandatory security requirements for consumer internet-connectable products, such as cameras, TVs and smart home devices. The implementing regulations ban universal default passwords and require publication of a contact point for reporting security issues and of the minimum security update period. Manufacturers, importers and distributors must comply with the requirements, supply products with a statement of compliance, act on compliance failures and notify the enforcement authority (ss. 8-25). Enforcement lies with the Secretary of State (s. 26), who can issue compliance, stop and recall notices, failure to comply with which is an offence, and penalties of up to £10 million or 4% of worldwide revenue, whichever is greater (ss. 28-38). Part 2 deals with telecommunications infrastructure.",
       "history": [
         {
           "date": "2026-11-08",
@@ -19236,12 +19395,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "12ce3da6-9032-5362-aa3d-8ec80bb56b3d",
       "catalogSlug": "gb-psti-act-2022",
-      "catalogUpdatedAt": "2026-11-15",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19595,6 +19758,32 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-GR-NOMOS-4961-2022-ANADYOMENES-TECHNOLOGIES",
+      "jurisdiction": "Greece",
+      "regulator": "Βουλή των Ελλήνων (Hellenic Parliament)",
+      "title": "Law 4961/2022 on emerging technologies (IoT, public sector security, AI)",
+      "officialTitle": "Νόμος 4961/2022 – Αναδυόμενες τεχνολογίες πληροφορικής και επικοινωνιών, ενίσχυση της ψηφιακής διακυβέρνησης και άλλες διατάξεις",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2022-07-26",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · iot · public administration · telecommunications · supply chain · certification · artificial intelligence",
+      "sourceUrl": "https://ia37rg02wpsa01.blob.core.windows.net/fek/01/2022/20220100146.pdf",
+      "summary": "Omnibus law on emerging technologies and digital governance, several parts of which concern cybersecurity. It designates the General Directorate for Cybersecurity of the Ministry of Digital Governance as the national cybersecurity certification authority under the EU Cybersecurity Act (Art. 15) and as the national coordination centre under Regulation (EU) 2021/887 (Art. 17), and sets up a Hybrid Threats Analysis Observatory as an advisory body of the National Cybersecurity Authority (Art. 16). Every central government body must appoint an ICT Security Officer (Υ.Α.Σ.Π.Ε.) reporting directly to top management, keep a risk analysis plan and a single ICT security policy, and appoint a security coordinator for each critical digital infrastructure (Arts. 18-22). Providers of public electronic communications networks and services must keep a risk assessment plan for equipment procurement, updated every year, covering the reliability of suppliers and their control over the supply chain, and a procurement plan that ADAE, EETT and the National Cybersecurity Authority may examine (Art. 24). Part B, Chapter C (Arts. 32-42) sets cybersecurity requirements for Internet of Things devices used by operators of essential services, digital service providers and local authorities: security by design (secure passwords, timely updates, encryption, a contact point and a vulnerability disclosure policy), a manufacturer's declaration of conformity, obligations for importers and distributors, an IoT security officer, a register of connected devices and incident and vulnerability handling procedures, with fines of up to €15,000 and up to €100,000 for repeat infringements (Art. 42). The law also regulates the use of artificial intelligence by public bodies (algorithmic impact assessment, transpar",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "a9819663-50ba-5c14-bd46-92245ada99f9",
+      "catalogSlug": "gr-nomos-4961-2022-anadyomenes-technologies",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
       "id": "CYBERLAW-CN-DATA-EXPORT-SECURITY-ASSESSMENT-MEASURES-2022",
       "jurisdiction": "China",
       "regulator": "Cyberspace Administration of China (CAC)",
@@ -19794,7 +19983,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · public administration · certification · supply chain",
       "sourceUrl": "https://www.boe.es/eli/es/rd/2022/05/03/311",
-      "summary": "The decree updates the National Security Framework (ENS), which sets principles and minimum security requirements for Spanish public-sector information systems. It also applies to private suppliers providing services to public administrations. It provides for system categorisation, proportionate security measures and a conformity certification scheme.",
+      "summary": "The decree updates the National Security Framework (ENS), which sets principles and minimum security requirements for Spanish public-sector information systems, and repeals Royal Decree 3/2010. It also applies to private suppliers providing services to public administrations (Art. 2). Each body adopts a security policy and applies minimum requirements, including risk analysis and incident management (Arts. 12-27). Systems are classified in the basic, medium or high category (Art. 40) and audited at least every two years (Art. 31); conformity requires certification for medium and high-category systems and a self-assessment for basic ones (Art. 38). Significant incidents must be notified to the National Cryptologic Centre (CCN), which coordinates the response through CCN-CERT (Art. 33).",
       "history": [
         {
           "date": "2026-11-08",
@@ -19803,12 +19992,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f4f57090-963f-593a-a6df-a25a09b7ff58",
       "catalogSlug": "es-rd-311-2022-ens",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -20261,6 +20454,32 @@
       "catalogRecordId": "25e831a6-29b6-41bf-987e-0ac86c8d8a26",
       "catalogSlug": "sz-data-protection-act-2022",
       "catalogUpdatedAt": "2026-11-04"
+    },
+    {
+      "id": "CYBERLAW-SZ-COMPUTER-CRIME-CYBERCRIME-ACT-2022",
+      "jurisdiction": "Eswatini",
+      "regulator": "Parliament of Eswatini",
+      "title": "Computer Crime and Cybercrime Act 2022",
+      "officialTitle": "The Computer Crime and Cybercrime Act, 2022 (Act No. 6 of 2022)",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2022",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime · critical infrastructure · governance",
+      "sourceUrl": "https://esccom.org.sz/wp-content/uploads/2026/02/COMPUTER-CRIME-CYBERCRIME-ACT.pdf",
+      "summary": "Eswatini's cybercrime law punishes offences committed against and through computer systems, regulates investigations and the collection of electronic evidence, and gives the Eswatini Communications Commission powers over cybersecurity. Part II punishes illegal access and illegally remaining in a system (sections 3-4), illegal interception (section 5), data interference (section 6), data espionage (section 7), system interference (section 8), illegal devices (section 9), computer-related forgery and fraud (sections 10-11), phishing (section 12), cyberterrorism (section 13), child pornography and the sexual grooming of children (section 14), identity-related crimes (section 16), cyberbullying, cyberstalking and harassment (sections 17 and 28), extortion (section 18), website defacement (section 19), racist and xenophobic material and the denial of genocide (sections 20-22), spam (section 24), denial of service and botnets (section 25) and violations of intellectual property rights (section 29). Interference with data or systems of critical infrastructure, national security or essential services carries up to ten years' imprisonment or a fine of up to one million emalangeni (sections 6(6) and 8(3)). Part IV gives courts and law enforcement agents powers of search and seizure, production orders, expedited preservation and partial disclosure of traffic data, real-time collection of traffic data, interception of content data and the use of remote forensic tools for serious offences (sections 33-40). Part V limits the criminal liability of access, hosting, caching, hyperlink and search engine providers, which have no general obligation to monitor (sections 41-46). The Commission regulates and coordinates cybersecurity and enforces security standards for critical information in",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "89f056cd-dbb6-5518-baef-774899b2604c",
+      "catalogSlug": "sz-computer-crime-cybercrime-act-2022",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CN-ALG-RECOMMEND-2022",
@@ -22050,7 +22269,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "89e809c3-93fb-5d90-9a73-8be2c0d7099c",
       "catalogSlug": "ch-informationssicherheitsgesetz-isg-2020",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -23573,7 +23792,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · certification · governance",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2019/881/oj",
-      "summary": "The Regulation gives ENISA a permanent mandate and strengthens its tasks and resources as the EU Agency for Cybersecurity. It establishes a European cybersecurity certification framework for ICT products, services and processes, with basic, substantial and high assurance levels. European certification schemes progressively replace equivalent national ones.",
+      "summary": "The Regulation gives ENISA a permanent mandate (Art. 68) and strengthens its tasks and resources as the EU Agency for Cybersecurity, which among other things provides the secretariat of the CSIRTs network (Art. 7). It establishes a European cybersecurity certification framework for ICT products, services and processes, with basic, substantial and high assurance levels (Art. 52). European schemes, prepared by ENISA and adopted by the Commission through implementing acts (Art. 49), progressively replace equivalent national ones (Art. 57). Certification is voluntary unless EU or national law provides otherwise, and certificates are recognised in all Member States (Art. 56). Each Member State designates one or more national cybersecurity certification authorities with supervisory powers and lays down effective, proportionate and dissuasive penalties (Arts. 58 and 65).",
       "history": [
         {
           "date": "2026-11-08",
@@ -23582,12 +23801,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f89066b8-106d-5d3f-b151-9a1c23d77c6a",
       "catalogSlug": "eu-cybersecurity-act-2019-881",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -24237,7 +24460,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · incident response · incident reporting",
       "sourceUrl": "https://www.boe.es/eli/es/rdl/2018/09/07/12",
-      "summary": "The decree-law transposes the first NIS Directive in Spain, setting security and incident-reporting duties for operators of essential services and digital service providers. It designates the competent authorities and reference CSIRTs, including INCIBE-CERT and CCN-CERT. It was further developed by Royal Decree 43/2021.",
+      "summary": "The decree-law transposes the first NIS Directive in Spain, setting security and incident-reporting duties for operators of essential services and digital service providers. They must take appropriate and proportionate technical and organisational measures to manage risks (Art. 16) and notify incidents with significant disruptive effects to the competent authority through the reference CSIRT (Art. 19); operators of essential services send an initial, intermediate and final notification (Art. 22). The competent authorities include the Interior Ministry's CNPIC for critical operators and the CCN for the public sector (Art. 9); the reference CSIRTs include INCIBE-CERT and CCN-CERT (Art. 11). Very serious infringements carry fines of up to EUR 1 million (Art. 37). It was further developed by Royal Decree 43/2021.",
       "history": [
         {
           "date": "2026-11-08",
@@ -24246,12 +24469,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "64f7f5bc-e3d7-5197-b377-147916d7d4e4",
       "catalogSlug": "es-rdl-12-2018-seguridad-redes",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-23",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -25358,7 +25585,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "78546683-1495-5ce6-b888-f23603fe9e0f",
       "catalogSlug": "au-security-of-critical-infrastructure-act-2018",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -25445,6 +25672,32 @@
       "catalogSlug": "sk-zakon-69-2018-kyberneticka-bezpecnost",
       "catalogUpdatedAt": "2026-11-18",
       "titleTranslationSource": "Manual English translation; verify wording against the linked official source."
+    },
+    {
+      "id": "CYBERLAW-HN-CODIGO-PENAL-2019-DELITOS-INFORMATICOS",
+      "jurisdiction": "Honduras",
+      "regulator": "Congreso Nacional de Honduras",
+      "title": "Criminal Code (HN) – Computer crime",
+      "officialTitle": "Código Penal (Decreto No. 130-2017) – disposiciones sobre delitos informáticos",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2018-01-18",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime",
+      "sourceUrl": "https://tsc.gob.hn/biblioteca/index.php/codigos/830-codigo-penal-2019",
+      "summary": "The Criminal Code adopted by Decree No. 130-2017 devotes Title XXII to the security of networks and computer systems. It punishes anyone who accesses all or part of a computer system without authorisation by breaching the security measures in place (Art. 398, six to eighteen months' imprisonment or a fine), anyone who without authorisation inputs, deletes, damages, alters, suppresses or renders inaccessible computer data in a serious way and anyone who disables a computer system, preventing access to it or its services (Art. 399), the manufacture, import, sale, supply or procurement of devices, computer programs, passwords or access codes designed or adapted for these offences (Art. 400) and the impersonation of a natural or legal person through information and communication technologies with intent to defraud (Art. 401). Penalties increase by one third when the attack affects structures or services essential to the community or causes serious economic damage (Arts. 398 and 399) and when the offender belongs to an organised criminal group or is the person responsible for, or authorised to access, the system (Art. 402). Other provisions punish fraud through computer manipulation (Art. 365), the interception of telecommunications, unauthorised access to personal data held in computer files and the unauthorised dissemination of intimate images (Art. 272), the solicitation of children under fourteen for sexual purposes through information and communication technologies (Art. 253) and child sexual abuse material (Arts. 261 and 262). Article 405 defines computer data, computer systems and computer programs.",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "08c42499-e638-51ab-876d-876e9865470f",
+      "catalogSlug": "hn-codigo-penal-2019-delitos-informaticos",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CYBERLAW-MU-DATA-PROTECTION-ACT-2017",
@@ -28288,6 +28541,32 @@
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
+      "id": "CYBERLAW-AR-LEY-26388-DELITOS-INFORMATICOS-2008",
+      "jurisdiction": "Argentina",
+      "regulator": "Congreso de la Nación Argentina (National Congress)",
+      "title": "Computer Crime Law (AR)",
+      "officialTitle": "Ley 26.388 – Código Penal: modificación (delitos informáticos)",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "2008-06-04",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime",
+      "sourceUrl": "https://www.argentina.gob.ar/normativa/nacional/ley-26388-141790/texto",
+      "summary": "The law inserted computer offences into the Argentine Criminal Code. It extends the notions of document, signature and certificate to digital documents and signatures (Art. 77) and punishes anyone who knowingly accesses a restricted computer system or computer data without authorisation or exceeding the authorisation held, with a higher penalty if the system belongs to a public body or to a provider of public or financial services (Art. 153 bis), anyone who unduly opens, accesses, seizes, suppresses or diverts electronic communications or intercepts electronic communications or telecommunications from private or restricted systems (Art. 153) and anyone who unduly publishes them (Art. 155). It also punishes unlawful access to personal databases, the disclosure of their data and the unlawful insertion of data (Art. 157 bis), fraud by means of computer manipulation techniques (Art. 173(16)), altering, destroying or disabling computer data, documents, programs or systems and selling, distributing or introducing into a system programs designed to cause damage (Art. 183), with higher penalties for public data and systems and for the computer systems of health, communications, energy, transport or other public services (Art. 184), the interruption of communications (Art. 197) and the production and dissemination by any means of sexual representations of minors (Art. 128).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "5170f45a-c31c-57fd-92c3-2f03b7c20468",
+      "catalogSlug": "ar-ley-26388-delitos-informaticos-2008",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
       "id": "CYBERLAW-SI-KZ-1-KAZENSKI-ZAKONIK-RACUNALNISKA-KRIMINALITETA",
       "jurisdiction": "Slovenia",
       "regulator": "Državni zbor Republike Slovenije (National Assembly of Slovenia)",
@@ -28761,7 +29040,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "27d1fce5-9e99-4ab3-9735-91afe09712e0",
       "catalogSlug": "jp-act-protection-personal-information-2003",
-      "catalogUpdatedAt": "2026-11-04",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -29219,6 +29498,32 @@
       "catalogUpdatedAt": "2026-11-12"
     },
     {
+      "id": "CYBERLAW-AU-CRIMINAL-CODE-ACT-1995-COMPUTER-OFFENCES",
+      "jurisdiction": "Australia",
+      "regulator": "Parliament of Australia",
+      "title": "Criminal Code (AU) – Computer offences",
+      "officialTitle": "Criminal Code Act 1995 – computer and telecommunications offences",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "1995-03-15",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime",
+      "sourceUrl": "https://www.legislation.gov.au/C2004A04868/latest/text",
+      "summary": "The Australian federal Criminal Code groups computer offences in Part 10.7: unauthorised access, modification or impairment with intent to commit a serious offence (s. 477.1), unauthorised modification of data to cause impairment (s. 477.2), unauthorised impairment of electronic communication (s. 477.3), unauthorised access to or modification of restricted data and impairment of data held on a computer disk (ss. 478.1-478.2), and possession, control, production, supply or obtaining of data with intent to commit a computer offence (ss. 478.3-478.4). Part 10.6 covers offences using a carriage service: interception devices (s. 474.4), menacing and harassment, including making personal data available (ss. 474.17, 474.17C), transmitting sexual material without consent (s. 474.17A), child abuse material (ss. 474.22-474.23) and procuring or grooming persons under 16 (ss. 474.26-474.27). The Code also punishes dealing in and possessing identification information (ss. 372.1-372.2), fraud against Commonwealth entities, including where the deception consists in causing a computer to make an unauthorised response (ss. 133.1, 134.1-134.2), advocating force or violence against groups (ss. 80.2A-80.2B) and, among terrorist acts, serious interference with electronic systems (s. 100.1).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "f3cffafa-0d39-4753-b9b6-eb71ea2ca241",
+      "catalogSlug": "au-criminal-code-act-1995-computer-offences",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
       "id": "CYBERLAW-SG-COMPUTER-MISUSE-ACT-1993",
       "jurisdiction": "Singapore",
       "regulator": "Parliament of Singapore",
@@ -29261,17 +29566,22 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime",
       "sourceUrl": "https://www.legislation.gov.uk/ukpga/1990/18",
-      "summary": "The Act is the UK's main criminal statute on computer crime. It criminalises unauthorised access to computer systems, access with intent to commit further offences, and unauthorised acts that impair the operation of a computer. It has been amended several times, notably in 2006 and 2015.",
+      "summary": "The Act is the UK's main criminal statute on computer crime. It criminalises unauthorised access to programs or data (s. 1, up to two years' imprisonment), access with intent to commit further offences (s. 2, up to five years) and unauthorised acts that impair the operation of a computer or access to data (s. 3, up to ten years). Section 3A, added in 2006, punishes making, supplying or obtaining articles for use in these offences. Section 3ZA, added in 2015, covers acts that cause or create a significant risk of serious damage to human welfare, the environment, the economy or national security, punishable by up to 14 years' imprisonment or, where the damage concerns human life, health or national security, by life imprisonment.",
       "history": [
         {
           "date": "2026-11-08",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "adafb0c4-341e-5a69-902b-f4ade3951327",
       "catalogSlug": "gb-computer-misuse-act-1990",
-      "catalogUpdatedAt": "2026-11-15"
+      "catalogUpdatedAt": "2026-11-23",
+      "titleTranslationSource": ""
     },
     {
       "id": "CYBERLAW-AU-PRIVACY-ACT-1988",
@@ -29300,7 +29610,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f5bb5ba4-8819-4890-a8d3-0ff0e87697b6",
       "catalogSlug": "au-privacy-act-1988",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-22",
       "titleTranslationSource": ""
     },
     {
@@ -29465,6 +29775,58 @@
       "catalogRecordId": "ee8eb953-4d7c-4d4c-a85f-da2ea74d86b6",
       "catalogSlug": "se-brottsbalk-1962-700-it-brott",
       "catalogUpdatedAt": "2026-11-12"
+    },
+    {
+      "id": "CYBERLAW-BR-CODIGO-PENAL-CRIMES-INFORMATICOS",
+      "jurisdiction": "Brazil",
+      "regulator": "Presidência da República (President of the Republic of Brazil)",
+      "title": "Penal Code (BR) – Computer crimes",
+      "officialTitle": "Código Penal (Decreto-Lei nº 2.848/1940) – crimes informáticos",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "1940-12-07",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime",
+      "sourceUrl": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "summary": "The Brazilian Penal Code punishes invading another person's computer device, whether or not connected to a network, without the user's authorisation, in order to obtain, alter or destroy data or to install vulnerabilities (art. 154-A), with the same penalty for producing, offering, distributing, selling or disseminating devices or programs intended for it (art. 154-A, § 1) and a higher penalty if the invasion results in obtaining the content of private electronic communications, trade or industrial secrets or classified information, or in remote control of the device (art. 154-A, § 3). It also punishes theft by fraud committed with an electronic or computer device (art. 155, § 4-B), electronic fraud using information obtained through social networks, phone calls, fraudulent emails or internet applications (art. 171, § 2-A), interruption of telematic or public-utility information services (art. 266, § 1), disclosure without consent of scenes of sex, nudity or sexual violence (art. 218-C) and, for public officials, inserting false data into and making unauthorised changes to public administration information systems (arts. 313-A and 313-B).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "a7dd51e4-c38f-4c71-91ea-05c509a5281a",
+      "catalogSlug": "br-codigo-penal-crimes-informaticos",
+      "catalogUpdatedAt": "2026-11-22"
+    },
+    {
+      "id": "CYBERLAW-CH-STRAFGESETZBUCH-COMPUTERDELIKTE",
+      "jurisdiction": "Switzerland",
+      "regulator": "Federal Assembly of the Swiss Confederation",
+      "title": "Criminal Code (CH) – Computer crime",
+      "officialTitle": "Schweizerisches Strafgesetzbuch (StGB) – Bestimmungen zur Computerkriminalität",
+      "titleTranslationSource": "Cybersecurity Database English short title",
+      "instrumentType": "Law",
+      "status": "In force",
+      "publicationDate": "",
+      "adoptedDate": "1937-12-21",
+      "effectiveDate": "",
+      "topic": "Cybersecurity · cybercrime",
+      "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de",
+      "summary": "The Swiss Criminal Code punishes unauthorised obtaining of data (Art. 143), unauthorised access to a specially secured data processing system and putting into circulation passwords, programs or other data intended for it (Art. 143bis), damage to data and producing or distributing programs intended to damage data (Art. 144bis) and computer fraud, i.e. fraudulent misuse of a data processing system (Art. 147). Recordings on data carriers count as documents (Art. 110(4)) and are therefore covered by forgery of documents (Art. 251). It also punishes misuse of a telecommunications installation to harass (Art. 179septies), unauthorised obtaining of sensitive personal data (Art. 179novies), identity misuse (Art. 179decies), pornography involving minors (Art. 197(4) and (5)), unauthorised forwarding of non-public sexual content (Art. 197a) and discrimination and incitement to hatred (Art. 261bis).",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        }
+      ],
+      "catalogSource": "Cybersecurity Database",
+      "catalogRecordId": "5c42c4cf-c605-428b-9de0-0ff92fbce74a",
+      "catalogSlug": "ch-strafgesetzbuch-computerdelikte",
+      "catalogUpdatedAt": "2026-11-22"
     },
     {
       "id": "CYBERLAW-DK-STRAFFELOVEN-IT-KRIMINALITET",
@@ -30480,10 +30842,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-22",
-    "lastChecked": "2026-11-22",
+    "catalogUpdatedAt": "2026-11-23",
+    "lastChecked": "2026-11-24",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 127,
-    "standardsUpdatedAt": "2026-11-22"
+    "standardsUpdatedAt": "2026-11-23"
   }
 }
