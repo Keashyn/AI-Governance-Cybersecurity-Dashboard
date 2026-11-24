@@ -1545,6 +1545,11 @@
       "name": "India · CERT-In",
       "url": "https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0020&pageid=PUBVLNOTES02",
       "status": "Official source for CERT-In advisory CIAD-2026-0020"
+    },
+    {
+      "name": "Official issuer source · www.ppc.go.jp",
+      "url": "https://www.ppc.go.jp/",
+      "status": "Primary source cited by a weekly curation record; verify the linked instrument for current legal effect"
     }
   ],
   "items": [
@@ -1587,6 +1592,29 @@
       ]
     },
     {
+      "jurisdiction": "United States · Federal",
+      "regulator": "Federal Communications Commission, Public Safety and Homeland Security Bureau",
+      "title": "Cybersecurity Labeling for Internet of Things",
+      "instrumentType": "Proposed rule",
+      "status": "Proposed",
+      "publicationDate": "2026-11-23",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity; consumer IoT labeling",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/FR-2026-11-23/html/2026-23812.htm",
+      "summary": "The FCC Public Safety and Homeland Security Bureau published a proposed rule seeking comment on recommendations for the voluntary U.S. Cyber Trust Mark program for wireless consumer Internet of Things products. The notice covers design and placement of the FCC IoT Label, display of product-registry information, certification renewal, post-market surveillance, and procedures for complaints, noncompliant products, and program administrators that withdraw or whose authority is terminated. Comments are due on or before 23 December 2026 and reply comments on or before 7 January 2027. The notice says technical-requirements recommendations will be addressed in a subsequent public notice. This is not a final rule.",
+      "officialTitle": "Cybersecurity Labeling for Internet of Things",
+      "showInCountryFilters": true,
+      "scopeNote": "Proposed rule and comment request; PS Docket No. 23-239, DA 26-1162.",
+      "id": "GROK-69BC23FB9586C5F6",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added after Grok research and source-page citation checks; pending human PR review."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-23650",
       "jurisdiction": "United States · Federal",
       "regulator": "Securities and Exchange Commission",
@@ -1621,6 +1649,29 @@
         {
           "date": "2026-11-20",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "jurisdiction": "China",
+      "regulator": "Cyberspace Administration of China",
+      "title": "Public consultation on the second-batch product catalogue for cybersecurity labeling and related implementing rules",
+      "instrumentType": "Consultation notice",
+      "status": "Consultation",
+      "publicationDate": "2026-11-20",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Cybersecurity labeling; consumer connected products",
+      "sourceUrl": "https://www.cac.gov.cn/2026-11/20/c_1796931132798351.htm",
+      "summary": "On 20 November 2026, the Cyberspace Administration of China sought public comment on a draft second batch of the product catalogue for implementing cybersecurity labeling and related implementing rules. The notice says the draft was prepared under the Cybersecurity Labeling Management Measures jointly issued by CAC, the Ministry of Industry and Information Technology, and the Ministry of Public Security. The published draft rules cover consumer smart door locks, smart speakers, and children's smart watches, and describe voluntary labeling, capability grades, testing, filing, and display. Comments are due by 20 December 2026. The catalogue and rules are drafts, not adopted instruments.",
+      "officialTitle": "国家互联网信息办公室关于公开征求《实施网络安全标识的产品目录（第二批）》及相关实施规则意见的通知",
+      "showInCountryFilters": true,
+      "scopeNote": "Consultation only. Draft implementing rules on the page describe a voluntary labeling arrangement.",
+      "id": "GROK-02C2F3AE63C18729",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added after Grok research and source-page citation checks; pending human PR review."
         }
       ]
     },
@@ -1682,6 +1733,53 @@
       ]
     },
     {
+      "jurisdiction": "United States · Federal",
+      "regulator": "U.S. Department of Health and Human Services, Office for Civil Rights",
+      "title": "HIPAA Privacy Rule: Changes To Support Coordinated Care and Individual Engagement and Reduce Regulatory Burdens",
+      "instrumentType": "Final rule",
+      "status": "Enacted",
+      "publicationDate": "2026-11-19",
+      "adoptedDate": "",
+      "effectiveDate": "2027-01-19",
+      "topic": "Privacy; health information",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23429.htm",
+      "summary": "HHS published a final rule amending the HIPAA Privacy Rule at 45 CFR Parts 160 and 164. The notice states that the changes address standards that may impede value-based care by limiting individual access or care coordination and case management, or by imposing other unnecessary burdens, and that they promote sharing of protected health information for care coordination and individual engagement while continuing to protect privacy and security. The Federal Register states that the rule is effective on 19 January 2027 and that persons subject to it must comply with the applicable requirements by 19 July 2027. A signature date separate from publication was not stated on the page checked.",
+      "officialTitle": "HIPAA Privacy Rule: Changes To Support Coordinated Care and Individual Engagement and Reduce Regulatory Burdens",
+      "showInCountryFilters": true,
+      "scopeNote": "Binding final rule. Compliance date stated in the notice is 19 July 2027, distinct from the effective date.",
+      "id": "GROK-8D9684B7A3421423",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added after Grok research and source-page citation checks; pending human PR review."
+        }
+      ]
+    },
+    {
+      "jurisdiction": "United States · Federal",
+      "regulator": "National Institute of Standards and Technology",
+      "title": "Digital Identities – Mobile Driver’s License (mDL) (NIST SP 1800-42, Second Public Draft)",
+      "instrumentType": "Draft practice guide",
+      "status": "Consultation",
+      "publicationDate": "2026-11-19",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Digital identity; cybersecurity and privacy",
+      "sourceUrl": "https://csrc.nist.gov/pubs/sp/1800/42/2pd",
+      "summary": "NIST published the second public draft of SP 1800-42 on 19 November 2026, with comments due 20 December 2026. The CSRC page states that the earlier single volume has been split into SP 1800-42, on enabling secure and interoperable online use, and Volume A, on accelerating adoption by financial institutions. It says the update broadens the guidelines to all organizations and adds guidelines on credential revocation and same-device implementation, among other updates. The abstract describes foundational considerations for organizations adopting verifiable digital credentials. This is a draft practice guide open for comment, not a statute or a final standard.",
+      "officialTitle": "NIST SP 1800-42, Digital Identities – Mobile Driver’s License (mDL)",
+      "standardEdition": "Second public draft, 19 November 2026",
+      "showInCountryFilters": true,
+      "scopeNote": "Second public draft. Not a law and not a final published standard.",
+      "id": "GROK-3474CC42548D0E6A",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added after Grok research and source-page citation checks; pending human PR review."
+        }
+      ]
+    },
+    {
       "id": "US-FR-2026-23506",
       "jurisdiction": "United States · Federal",
       "regulator": "Labor Department, Labor Statistics Bureau",
@@ -1735,6 +1833,29 @@
         {
           "date": "2026-11-18",
           "change": "Added from the Federal Register’s public API."
+        }
+      ]
+    },
+    {
+      "jurisdiction": "Japan",
+      "regulator": "Personal Information Protection Commission",
+      "title": "Alert on deletion of images of official photo identification documents",
+      "instrumentType": "Guidance",
+      "status": "Guidance",
+      "publicationDate": "2026-11-18",
+      "adoptedDate": "",
+      "effectiveDate": "",
+      "topic": "Privacy; identity-document images",
+      "sourceUrl": "https://www.ppc.go.jp/news/careful_information/261118_alert_idcard/",
+      "summary": "On 18 November 2026, Japan's Personal Information Protection Commission published an alert on deletion of images of official photo identification documents, including driver's licenses. The page states that the Commission decided to issue the alert and that it asked the Ministry of Land, Infrastructure, Transport and Tourism to circulate an attached alert to car-rental businesses and to take necessary steps toward appropriate deletion of identification-document images by those businesses. The HTML page does not itself set out a new statutory obligation. This is official guidance.",
+      "officialTitle": "運転免許証等の顔写真付きの公的身分証明書の画像の消去について（注意喚起）",
+      "showInCountryFilters": true,
+      "scopeNote": "Alert and request for circulation. Detailed alert text is in an attached PDF that was not separately opened.",
+      "id": "GROK-6543916CE4FC66A4",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "change": "Added after Grok research and source-page citation checks; pending human PR review."
         }
       ]
     },
