@@ -2034,17 +2034,21 @@
       "effectiveDate": "2026-12-06",
       "topic": "Cybersecurity · software security · supply chain · iot",
       "sourceUrl": "https://www.gazzettaufficiale.it/eli/id/2026/11/21/26G00231/sg",
-      "summary": "The decree transposes the new EU Product Liability Directive by rewriting Title II of Part IV of the Italian Consumer Code (Articles 114-127). The link with cybersecurity is direct: software is a product, except free and open-source software developed or supplied outside a commercial activity (Art. 115(2)(d)); when assessing whether a product is defective, product safety requirements count, \"including safety-relevant cybersecurity requirements\" (Art. 117(2)(f)), such as those of the Cyber Resilience Act; the manufacturer is not exempted where the defect is due to software, updates or the lack of the software updates needed to maintain safety, as long as the product is within its control (Art. 118(2)). Liability is not reduced where the damage is also caused by a third party, such as someone exploiting a vulnerability (Art. 122(3)), and compensable damage includes the destruction or corruption of data not used for professional purposes, including recovery costs (Art. 123(1)(c)).",
+      "summary": "The decree transposes the new EU Product Liability Directive by rewriting Title II of Part IV of the Italian Consumer Code (Articles 114-127). These rules are relevant to cybersecurity: software is a product, except free and open-source software developed or supplied outside a commercial activity (Art. 115(2)(d)); when assessing whether a product is defective, product safety requirements count, \"including safety-relevant cybersecurity requirements\" (Art. 117(2)(f)); the manufacturer is not exempted where the defect is due to software, updates or the lack of the software updates needed to maintain safety, as long as the product is within its control (Art. 118(2)). Liability is not reduced where the damage is caused jointly by the defectiveness of the product and by an act or omission of a third party (Art. 122(3)), and compensable damage includes the destruction or corruption of data not used for professional purposes, including recovery costs (Art. 123(1)(c)).",
       "history": [
         {
           "date": "2026-11-22",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5fb11fbf-9da7-5314-b969-815fbddb6f08",
       "catalogSlug": "it-dlgs-211-2026-prodotti-difettosi",
-      "catalogUpdatedAt": "2026-11-22"
+      "catalogUpdatedAt": "2026-11-24"
     },
     {
       "id": "CN-MIIT-AI-AGENT-TERMINAL-NOTICE-2026",
@@ -3180,7 +3184,7 @@
       "jurisdiction": "Austria",
       "regulator": "Bundesamt für Cybersicherheit (Cybersicherheitsbehörde)",
       "title": "NISV 2026 (NIS 2 risk-management ordinance)",
-      "officialTitle": "Verordnung der Cybersicherheitsbehörde zur Festlegung näherer Anforderungen an die Risikomanagementmaßnahmen im Bereich der Cybersicherheit und weiterer Kriterien über das Vorliegen eines erheblichen Cybersicherheitsvorfalls (NISV 2026)",
+      "officialTitle": "Verordnung der Cybersicherheitsbehörde zur Festlegung näherer Anforderungen an die Risikomanagementmaßnahmen im Bereich der Cybersicherheit und weiterer Kriterien über das Vorliegen eines erheblichen Cybersicherheitsvorfalls (Netz- und Informationssystemsicherheits-Verordnung – NISV 2026)",
       "instrumentType": "Regulation",
       "status": "In force",
       "publicationDate": "",
@@ -3188,7 +3192,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · governance · incident reporting · supply chain · critical infrastructure",
       "sourceUrl": "https://www.ris.bka.gv.at/eli/bgbl/II/2026/290",
-      "summary": "The ordinance, adopted by the Federal Office for Cybersecurity under the NISG 2026, specifies the risk-management measures that essential and important entities must apply from 1 October 2026. It extends the technical and methodological requirements of Article 2 and the annex of Implementing Regulation (EU) 2024/2690 to all types of entities listed in Annexes 1 and 2 of the NISG 2026, creating a single catalogue to be implemented with a risk-based approach. It sets four broad risk categories and allows compensating measures where a requirement cannot be met immediately. It also lays down criteria for deciding when an incident is significant and must be reported, excluding planned outages and treating repeated incidents together. It does not apply where sector-specific EU rules, such as the DORA Regulation, ensure at least an equivalent level.",
+      "summary": "The ordinance, adopted by the Federal Office for Cybersecurity under the NISG 2026, specifies the risk-management measures that essential and important entities must apply from 1 October 2026. It extends the technical and methodological requirements of Article 2 and the annex of Implementing Regulation (EU) 2024/2690 to all types of entities listed in Annexes 1 and 2 of the NISG 2026. It sets four risk categories to be taken into account at least in the risk analysis and requires compensating measures where an entity cannot meet a requirement temporarily or because of its size. It also lays down criteria for deciding when an incident is significant and must be reported, excluding planned outages and treating repeated incidents together. Under § 27 of the NISG 2026, the risk-management requirements do not apply to the extent that sector-specific EU acts impose measures ensuring at least an equivalent level of cybersecurity.",
       "history": [
         {
           "date": "2026-11-08",
@@ -3197,12 +3201,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle, summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5fe4cb5f-09af-5120-9b8b-c3d3f3cc74c7",
       "catalogSlug": "at-nisv-2026",
-      "catalogUpdatedAt": "2026-11-02",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -7414,7 +7422,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · governance · incident response · critical infrastructure",
       "sourceUrl": "https://www.gazzettaufficiale.it/eli/id/2026/05/06/26A02148/sg",
-      "summary": "The regulation sets out how the Interministerial Committee for the Security of the Republic (CISR) handles systemic crises affecting national security, including hybrid threats. In cybersecurity crises, and in cases of serious risk to networks and systems under the perimeter decree, the CISR is joined by the Minister for Technological Innovation and ACN's Director General, and an ACN representative sits on the technical CISR. It provides for a National Security Strategy, to be updated at least every three years, and a permanent technical table on hybrid threats within DIS. It repeals the Prime Ministerial Decree of 5 May 2010 on the national crisis management organisation.",
+      "summary": "The regulation sets out how the Interministerial Committee for the Security of the Republic (CISR) handles systemic crises affecting national security, including hybrid threats. In cybersecurity crises, and in cases of serious risk to networks and systems under the perimeter decree, the CISR is joined by the Minister for Technological Innovation and the Digital Transition and ACN's Director General, and an ACN representative sits on the technical CISR. It provides for a National Security Strategy, to be updated at least every three years, and a permanent technical table on hybrid threats within DIS. It repeals the Prime Ministerial Decree of 5 May 2010 on the national crisis management organisation.",
       "history": [
         {
           "date": "2026-11-08",
@@ -7423,6 +7431,10 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
@@ -8537,7 +8549,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · incident reporting · public administration",
       "sourceUrl": "https://www.gazzettaufficiale.it/eli/id/2026/02/17/26A00713/sg",
-      "summary": "The determination adopts the taxonomy of incidents that public administrations and the other bodies covered by Law 90/2024 must report to ACN. Annex A classifies incidents as loss of confidentiality (digital data exposed externally), loss of integrity with external impact and breach of expected service levels. The taxonomy matches the NIS basic significant incidents: an entity that notifies an incident under Article 25 of Legislative Decree 138/2024 also meets the Law 90/2024 obligation.",
+      "summary": "The determination adopts the taxonomy of incidents that public administrations and the other bodies covered by Law 90/2024 must report to ACN. Annex A classifies incidents as loss of confidentiality (digital data exposed externally), loss of integrity with external impact and breach of expected service levels. The taxonomy is consistent with the list of NIS basic significant incidents (Art. 1(2)): according to the recitals of the determination, an entity that makes the pre-notification and notification under Article 25 of Legislative Decree 138/2024 also meets the Law 90/2024 obligation.",
       "history": [
         {
           "date": "2026-11-08",
@@ -8546,12 +8558,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "56eb5a95-4e5f-5f13-ad73-9791a34a3854",
       "catalogSlug": "it-acn-determina-tassonomia-incidenti-2026",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9445,7 +9461,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.ris.bka.gv.at/eli/bgbl/I/2025/94",
-      "summary": "The act transposes the NIS 2 Directive in Austria and replaces the NISG 2018. It extends obligations to thousands of essential and important entities in 18 sectors, with registration, risk-management and incident-reporting duties, and entrusts supervision to the new Federal Office for Cybersecurity (Bundesamt für Cybersicherheit).",
+      "summary": "The act transposes the NIS 2 Directive in Austria and replaces the NISG 2018. It extends obligations to essential and important entities in 18 sectors, with registration, risk-management and incident-reporting duties, and entrusts supervision to the new Federal Office for Cybersecurity (Bundesamt für Cybersicherheit).",
       "history": [
         {
           "date": "2026-11-08",
@@ -9454,12 +9470,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "12eba429-f806-5077-8c31-a3f6f8b73e41",
       "catalogSlug": "at-nisg-2026",
-      "catalogUpdatedAt": "2026-11-22",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -9929,7 +9949,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "93887fd6-5bba-57a2-9f46-a1236f3c5f1d",
       "catalogSlug": "de-nis2umsucg-2025",
-      "catalogUpdatedAt": "2026-11-23",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -10038,7 +10058,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "b7aafc33-a35b-5d9d-9e19-ee66c12edc19",
       "catalogSlug": "eu-cra-important-critical-products-2025-2392",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -10211,7 +10231,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "e128a4b6-0abd-5688-b263-87ee6209ea93",
       "catalogSlug": "it-acn-circolare-diversificazione-2025",
-      "catalogUpdatedAt": "2026-11-13",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -13729,7 +13749,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "48e55834-dd34-529c-b978-c3f4a3534ee2",
       "catalogSlug": "eu-cyber-solidarity-act-2025-38",
-      "catalogUpdatedAt": "2026-11-23",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14409,17 +14429,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · software security · supply chain · artificial intelligence · iot",
       "sourceUrl": "https://eur-lex.europa.eu/eli/dir/2024/2853/oj",
-      "summary": "The new Product Liability Directive makes manufacturers liable, without proof of fault, for damage caused by defective products, and for the first time treats software, including AI systems, and digital manufacturing files as products (Art. 4). The link with cybersecurity is direct: when assessing whether a product is defective, product safety requirements count, \"including safety-relevant cybersecurity requirements\" (Art. 7(2)(f)), such as those of the Cyber Resilience Act. The manufacturer remains liable after placing on the market for defects due to software, its updates or the failure to supply the updates needed to maintain safety, as long as they are within its control (Art. 11(2)), which covers unpatched vulnerabilities. Liability is not reduced where the damage is also caused by a third party, such as someone exploiting a vulnerability (Art. 13(1); recital 55). Compensable damage includes the destruction or corruption of data not used for professional purposes (Art. 6(1)(c)).",
+      "summary": "The new Product Liability Directive makes manufacturers liable, without proof of fault, for damage caused by defective products, and for the first time treats software, including AI systems, and digital manufacturing files as products (Art. 4). The link with cybersecurity is direct: when assessing whether a product is defective, product safety requirements count, \"including safety-relevant cybersecurity requirements\" (Art. 7(2)(f)). The manufacturer remains liable after placing on the market for defects due to software, its updates or the failure to supply the updates needed to maintain safety, as long as they are within its control (Art. 11(2)), which covers unpatched vulnerabilities. Liability is not reduced where the damage is also caused by a third party, such as someone exploiting a vulnerability (Art. 13(1); recital 55). Compensable damage includes the destruction or corruption of data not used for professional purposes (Art. 6(1)(c)).",
       "history": [
         {
           "date": "2026-11-16",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "4ac2bd51-6127-5e40-a378-7ca4d578be3d",
       "catalogSlug": "eu-product-liability-directive-2024-2853",
-      "catalogUpdatedAt": "2026-11-16"
+      "catalogUpdatedAt": "2026-11-24"
     },
     {
       "id": "CYBERLAW-EU-CYBER-RESILIENCE-ACT-2024-2847",
@@ -14448,7 +14472,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "aeceb0bb-223d-573a-ac1f-e2bf7184ad7c",
       "catalogSlug": "eu-cyber-resilience-act-2024-2847",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14505,7 +14529,7 @@
       "jurisdiction": "European Union",
       "regulator": "European Commission",
       "title": "NIS 2 Implementing Regulation (EU) 2024/2690",
-      "officialTitle": "Commission Implementing Regulation (EU) 2024/2690 laying down rules for the application of Directive (EU) 2022/2555 as regards technical and methodological requirements of cybersecurity risk-management measures and significant incidents",
+      "officialTitle": "Commission Implementing Regulation (EU) 2024/2690 laying down rules for the application of Directive (EU) 2022/2555 as regards technical and methodological requirements of cybersecurity risk-management measures and further specification of the cases in which an incident is considered to be significant",
       "instrumentType": "Regulation",
       "status": "In force",
       "publicationDate": "",
@@ -14513,7 +14537,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · incident response · supply chain · digital identity",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg_impl/2024/2690/oj",
-      "summary": "The NIS2 implementing regulation details risk-management measures for DNS providers, TLD registries, cloud and data centre providers, content delivery networks, managed and managed security service providers, online marketplaces, search engines, social networks and trust service providers. Its annex lists the technical and methodological requirements, from security policy to business continuity, supply chain and access control. It also defines when an incident is significant and must be reported.",
+      "summary": "The NIS 2 implementing regulation details risk-management measures for DNS providers, TLD registries, cloud and data centre providers, content delivery networks, managed and managed security service providers, online marketplaces, search engines, social networks and trust service providers. Its annex lists the technical and methodological requirements, from security policy to business continuity, supply chain and access control. It also defines when an incident is significant and must be reported.",
       "history": [
         {
           "date": "2026-11-08",
@@ -14522,12 +14546,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle, summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5c136264-6b82-50fe-9e14-1243b5046c09",
       "catalogSlug": "eu-nis2-implementing-regulation-2024-2690",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14805,7 +14833,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · governance · incident response · incident reporting · supply chain",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-04;138",
-      "summary": "The decree transposes the NIS 2 Directive into Italian law and designates ACN as national competent authority and single point of contact (Art. 10). Essential and important entities register every year on the ACN platform by 28 February (Art. 7) and take risk-management measures approved by their management bodies, which are liable for infringements (Arts. 23-24). Significant incidents must be notified to CSIRT Italia with an early warning within 24 hours, an incident notification within 72 hours and a final report within one month (Art. 25). Fines reach EUR 10 million or 2% of worldwide turnover for essential entities and EUR 7 million or 1.4% for important ones (Art. 38). It repeals Legislative Decree 65/2018, which had transposed the first NIS Directive.",
+      "summary": "The decree transposes the NIS 2 Directive into Italian law and designates ACN as national competent authority and single point of contact (Art. 10). Essential and important entities register every year on the ACN platform by 28 February (Art. 7) and take risk-management measures; the management bodies approve the arrangements for implementing them and are responsible for infringements (Arts. 23-24). Significant incidents must be notified to CSIRT Italia with an early warning within 24 hours, an incident notification within 72 hours and a final report within one month (Art. 25). Fines reach EUR 10 million or 2% of worldwide turnover for essential entities and EUR 7 million or 1.4% for important ones (Art. 38). It repeals Legislative Decree 65/2018, which had transposed the first NIS Directive.",
       "history": [
         {
           "date": "2026-11-08",
@@ -14818,12 +14846,16 @@
         {
           "date": "2026-11-24",
           "change": "Catalog update: summary. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "40676eb6-af3f-5f32-b79f-6aef20cf00c2",
       "catalogSlug": "it-dlgs-138-2024-nis2",
-      "catalogUpdatedAt": "2026-11-23",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -14831,7 +14863,7 @@
       "jurisdiction": "Italy",
       "regulator": "President of the Republic, on a resolution of the Council of Ministers",
       "title": "Legislative Decree 134/2024 – CER transposition",
-      "officialTitle": "Decreto legislativo 4 settembre 2024, n. 134 – Attuazione della direttiva (UE) 2022/2557 relativa alla resilienza dei soggetti critici",
+      "officialTitle": "Decreto legislativo 4 settembre 2024, n. 134 – Attuazione della direttiva (UE) 2022/2557 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, relativa alla resilienza dei soggetti critici e che abroga la direttiva 2008/114/CE del Consiglio",
       "instrumentType": "Decree",
       "status": "In force",
       "publicationDate": "",
@@ -14852,12 +14884,16 @@
         {
           "date": "2026-11-24",
           "change": "Catalog update: summary. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f889bf22-ba6d-5a7f-a6ea-2c7af7a81c49",
       "catalogSlug": "it-dlgs-134-2024-cer",
-      "catalogUpdatedAt": "2026-11-23",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -16000,7 +16036,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "ab14633d-5654-5341-b3fb-634b0abdbd2f",
       "catalogSlug": "it-legge-90-2024",
-      "catalogUpdatedAt": "2026-11-23",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -16120,7 +16156,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · artificial intelligence · certification · supply chain",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj",
-      "summary": "The AI Act regulates artificial intelligence systems with a risk-based approach: it bans certain practices and sets obligations for high-risk systems and general-purpose AI models. High-risk systems must achieve accuracy, robustness and cybersecurity (Article 15), including against attacks such as data poisoning or adversarial inputs, alongside risk management, data governance and transparency. Products that comply with the Cyber Resilience Act are presumed to meet the AI Act's cybersecurity requirements.",
+      "summary": "The AI Act regulates artificial intelligence systems with a risk-based approach: it bans certain practices and sets obligations for high-risk systems and general-purpose AI models. High-risk systems must achieve accuracy, robustness and cybersecurity (Article 15), including against attacks such as data poisoning or adversarial examples, alongside risk management, data governance and transparency. High-risk AI systems that fall within the scope of the Cyber Resilience Act and fulfil the conditions of its Article 12(1) are deemed to comply with the cybersecurity requirements of Article 15 (Article 42(3)).",
       "history": [
         {
           "date": "2026-11-08",
@@ -16129,12 +16165,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "14b54df5-581e-5d6b-a0e3-23ee877a8aa0",
       "catalogSlug": "eu-ai-act-2024-1689",
-      "catalogUpdatedAt": "2026-11-15",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -16825,7 +16865,7 @@
       "jurisdiction": "European Union",
       "regulator": "European Commission",
       "title": "Network code on electricity cybersecurity (NCCS)",
-      "officialTitle": "Commission Delegated Regulation (EU) 2024/1366 establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (NCCS)",
+      "officialTitle": "Commission Delegated Regulation (EU) 2024/1366 supplementing Regulation (EU) 2019/943 of the European Parliament and of the Council by establishing a network code on sector-specific rules for cybersecurity aspects of cross-border electricity flows (NCCS)",
       "instrumentType": "Regulation",
       "status": "In force",
       "publicationDate": "",
@@ -16833,7 +16873,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · energy · critical infrastructure · supply chain · ot cps",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg_del/2024/1366/oj",
-      "summary": "The network code sets sector-specific cybersecurity rules for electricity, implementing Regulation (EU) 2019/943. It provides for regular risk assessments at EU, regional and national level, identification of high-impact and critical-impact entities, minimum and advanced cybersecurity requirements, supply-chain risk management and sharing of incident information. It involves system operators, ENTSO-E, the EU DSO entity and national authorities.",
+      "summary": "The network code sets sector-specific cybersecurity rules for electricity, supplementing Regulation (EU) 2019/943. It provides for regular risk assessments at EU, regional and national level, identification of high-impact and critical-impact entities, minimum and advanced cybersecurity requirements, supply-chain risk management and sharing of incident information. It involves system operators, ENTSO-E, the EU DSO entity and national authorities.",
       "history": [
         {
           "date": "2026-11-08",
@@ -16842,12 +16882,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle, summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f6383af4-e43d-50a6-a759-2028170c0dd1",
       "catalogSlug": "eu-network-code-cybersecurity-electricity-2024-1366",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -17012,7 +17056,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "86d8d2e1-27db-56b0-a129-6d5b4ab62d90",
       "catalogSlug": "eu-eucc-certification-scheme-2024-482",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -17508,7 +17552,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "5abbe2b3-3d17-5b83-ac60-3c6ef8965187",
       "catalogSlug": "eu-data-act-2023-2854",
-      "catalogUpdatedAt": "2026-11-18"
+      "catalogUpdatedAt": "2026-11-24"
     },
     {
       "id": "CYBERSTANDARD-ISO-IEC-27033",
@@ -18110,7 +18154,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c07a4a3e-f87a-55e5-8dae-e04ff7c2b5d9",
       "catalogSlug": "eu-machinery-regulation-2023-1230",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19280,7 +19324,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "458c52e3-14d5-5d18-9736-02e895aec43e",
       "catalogSlug": "eu-nis2-directive-2022-2555",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19310,7 +19354,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "76e1341d-193d-5e8b-a22b-3ecffa9c57db",
       "catalogSlug": "eu-dora-2022-2554",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -19508,7 +19552,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · governance",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj",
-      "summary": "The Digital Services Act sets the rules for online intermediary services (hosting, platforms and search engines) on illegal content, transparency and user protection; it is not a cybersecurity law, but it contains obligations closely related to it. Very large online platforms and search engines (over 45 million active users in the EU) must assess every year the systemic risks stemming from the functioning of their service, including intentional manipulation through inauthentic use or automated exploitation, and the effects on public security and electoral processes (Art. 34). They must then take mitigation measures, such as adapting design and interfaces, reinforcing internal processes for detecting risks and crisis protocols (Art. 35), and undergo an independent audit every year (Art. 37). In a crisis seriously threatening public security, the Commission may require urgent measures for up to three months, extendable by a further three (Art. 36). Platforms accessible to minors must ensure a high level of privacy, safety and security (Art. 28).",
+      "summary": "The Digital Services Act sets the rules for online intermediary services (hosting, platforms and search engines) on illegal content, transparency and user protection; it is not a cybersecurity law, but it contains obligations closely related to it. Very large online platforms and search engines (at least 45 million average monthly active users in the EU, Art. 33) must assess every year the systemic risks stemming from the functioning of their service, including intentional manipulation through inauthentic use or automated exploitation, and the effects on public security and electoral processes (Art. 34). They must then take mitigation measures, such as adapting design and interfaces, reinforcing internal processes for detecting risks and crisis protocols (Art. 35), and undergo an independent audit every year (Art. 37). In a crisis seriously threatening public security, the Commission may require urgent measures for up to three months, extendable by a further three (Art. 36). Platforms accessible to minors must ensure a high level of privacy, safety and security (Art. 28).",
       "history": [
         {
           "date": "2026-11-16",
@@ -19517,12 +19561,16 @@
         {
           "date": "2026-11-19",
           "change": "Catalog update: summary. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "37f7d2cb-6416-57ba-857f-913fdf5bb2cd",
       "catalogSlug": "eu-digital-services-act-2022-2065",
-      "catalogUpdatedAt": "2026-11-18"
+      "catalogUpdatedAt": "2026-11-24"
     },
     {
       "id": "CYBERLAW-ID-UU-27-2022-PELINDUNGAN-DATA-PRIBADI",
@@ -20913,7 +20961,7 @@
       "jurisdiction": "European Union",
       "regulator": "European Commission",
       "title": "RED Delegated Regulation (EU) 2022/30",
-      "officialTitle": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU (Radio Equipment Directive) with regard to the essential requirements of Article 3(3)(d), (e) and (f)",
+      "officialTitle": "Commission Delegated Regulation (EU) 2022/30 supplementing Directive 2014/53/EU (Radio Equipment Directive) with regard to the application of the essential requirements referred to in Article 3(3), points (d), (e) and (f), of that Directive",
       "instrumentType": "Regulation",
       "status": "In force",
       "publicationDate": "",
@@ -20934,12 +20982,16 @@
         {
           "date": "2026-11-19",
           "change": "Catalog update: summary. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "77a2999c-8fc3-5e7b-917f-ea641a24a276",
       "catalogSlug": "eu-red-delegated-regulation-2022-30",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -21478,7 +21530,7 @@
       "jurisdiction": "Italy",
       "regulator": "Italian Government (converted into law by Parliament with Law No. 109 of 4 August 2021)",
       "title": "DL 82/2021 – Establishing the ACN",
-      "officialTitle": "Decreto-legge 14 giugno 2021, n. 82 – Disposizioni urgenti in materia di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale",
+      "officialTitle": "Decreto-legge 14 giugno 2021, n. 82 – Disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale",
       "instrumentType": "Decree",
       "status": "In force",
       "publicationDate": "",
@@ -21486,7 +21538,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · governance · incident response · certification · artificial intelligence",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-06-14;82",
-      "summary": "The decree-law redesigns Italy's national cybersecurity architecture and establishes the National Cybersecurity Agency (ACN) as national cybersecurity authority. It gives the Prime Minister overall direction and creates the Interministerial Committee for Cybersecurity. It transfers to ACN, among other things, CSIRT Italia and the functions relating to the national cybersecurity perimeter. Later amendments have also made ACN the national NIS authority, the national cybersecurity certification authority and, through Law 132/2025 and Legislative Decree 179/2026, the market surveillance authority for artificial intelligence.",
+      "summary": "The decree-law redesigns Italy's national cybersecurity architecture and establishes the National Cybersecurity Agency (ACN) as national cybersecurity authority. It gives the Prime Minister overall direction and creates the Interministerial Committee for Cybersecurity. ACN is, among other things, the national competent NIS authority and NIS single point of contact, the national CSIRT (CSIRT Italia) and the national cybersecurity certification authority, and takes over the functions relating to the national cybersecurity perimeter (Article 7(1)). Through Law 132/2025 and Legislative Decree 179/2026 it is also the market surveillance authority and single point of contact under Article 70 of Regulation (EU) 2024/1689 on artificial intelligence (Article 7(1)(aa-bis)).",
       "history": [
         {
           "date": "2026-11-08",
@@ -21495,12 +21547,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle, summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "52a4f53f-8db7-5b13-9b4c-c2b4fb67fd7d",
       "catalogSlug": "it-dl-82-2021-acn",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -21571,7 +21627,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · research innovation · skills · governance",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2021/887/oj",
-      "summary": "The Regulation sets up the European Cybersecurity Competence Centre (ECCC) in Bucharest and the Network of National Coordination Centres, one per Member State. The Centre manages cybersecurity funding from the Digital Europe and Horizon Europe programmes and sets a common strategic agenda for research, industry and skills. It involves the Cybersecurity Competence Community of companies, universities and research centres.",
+      "summary": "The Regulation sets up the European Cybersecurity Competence Centre (ECCC) in Bucharest and the Network of National Coordination Centres, one per Member State. The Centre has an essential role in implementing the cybersecurity part of the Digital Europe Programme, contributes to the implementation of Horizon Europe (Art. 1(2)) and sets a common strategic agenda for research, industry and skills. It involves the Cybersecurity Competence Community of companies, universities and research centres.",
       "history": [
         {
           "date": "2026-11-08",
@@ -21580,12 +21636,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7745ce81-70ae-5de6-8b18-933c7027c934",
       "catalogSlug": "eu-eccc-regulation-2021-887",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -21743,7 +21803,7 @@
       "jurisdiction": "Italy",
       "regulator": "President of the Council of Ministers",
       "title": "DPCM 81/2021 – Perimeter incident reporting and security measures",
-      "officialTitle": "Decreto del Presidente del Consiglio dei ministri 14 aprile 2021, n. 81 – Regolamento in materia di notifiche degli incidenti aventi impatto su reti, sistemi informativi e servizi informatici di cui all'articolo 1, comma 2, lettera b), del decreto-legge 21 settembre 2019, n. 105, e di misure volte a garantire elevati livelli di sicurezza",
+      "officialTitle": "Decreto del Presidente del Consiglio dei ministri 14 aprile 2021, n. 81 – Regolamento in materia di notifiche degli incidenti aventi impatto su reti, sistemi informativi e servizi informatici di cui all'articolo 1, comma 2, lettera b), del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, e di misure volte a garantire elevati livelli di sicurezza",
       "instrumentType": "Decree",
       "status": "In force",
       "publicationDate": "",
@@ -21760,6 +21820,10 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
@@ -23372,7 +23436,7 @@
       "jurisdiction": "Italy",
       "regulator": "Italian Government (converted into law by Parliament with Law No. 133 of 18 November 2019)",
       "title": "DL 105/2019 – National cybersecurity perimeter",
-      "officialTitle": "Decreto-legge 21 settembre 2019, n. 105 – Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica",
+      "officialTitle": "Decreto-legge 21 settembre 2019, n. 105 – Disposizioni urgenti in materia di perimetro di sicurezza nazionale cibernetica e di disciplina dei poteri speciali nei settori di rilevanza strategica",
       "instrumentType": "Decree",
       "status": "In force",
       "publicationDate": "",
@@ -23380,7 +23444,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · supply chain · certification · incident reporting",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-09-21;105",
-      "summary": "The decree-law establishes the national cybersecurity perimeter, covering administrations and operators on which essential State functions depend. Included entities must list their ICT assets, adopt security measures and notify incidents. It also sets up an assessment procedure for ICT procurements intended for the perimeter, entrusted to the National Evaluation and Certification Centre.",
+      "summary": "The decree-law establishes the national cybersecurity perimeter, covering administrations and operators on which the exercise of an essential State function or the provision of an essential service depends (Article 1(1)). Included entities must list their ICT assets, adopt security measures and notify incidents. It also sets up an assessment procedure for ICT procurements intended for the perimeter, entrusted to the National Evaluation and Certification Centre.",
       "history": [
         {
           "date": "2026-11-08",
@@ -23389,12 +23453,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: officialTitle, summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "97f17193-3625-5256-b710-e558cbaa24ac",
       "catalogSlug": "it-dl-105-2019-perimetro",
-      "catalogUpdatedAt": "2026-10-29",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -23707,17 +23775,21 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · international cooperation · cyber defence · cybercrime",
       "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2019/796/oj",
-      "summary": "This is the EU sanctions regime against cyber-attacks, the main instrument of the joint diplomatic response framework (cyber diplomacy toolbox). Together with Decision (CFSP) 2019/797, which also provides for a ban on entry into the EU, it allows the Council to freeze the funds and economic resources of the persons, entities and bodies listed in Annex I and prohibits making any available to them (Art. 3). It applies to cyber-attacks with a significant effect, including attempted ones, which constitute an external threat to the Union or its Member States: attacks originating or carried out from outside the Union, using infrastructure outside it, or carried out or supported by persons or entities outside the EU (Art. 1(1)-(2)). Cyber-attacks are unauthorised access to information systems, system or data interference (including theft of data, funds or intellectual property) and data interception (Art. 1(3) and (7)). They include attacks on critical infrastructure, essential services (energy, transport, banking, health, water, digital infrastructure), critical State functions such as elections, classified information and government emergency response teams (Art. 1(4)); measures may also respond to attacks against third States or international organisations (Art. 1(6)). Factors determining a significant effect include the scale of the disruption, the number of persons and Member States affected, the economic loss and the amount of data stolen (Art. 2).",
+      "summary": "This is the EU sanctions regime against cyber-attacks, one of the categories of measures in the framework for a joint diplomatic response to malicious cyber activities (the Cyber Diplomacy Toolbox). Together with Decision (CFSP) 2019/797, which also provides for a ban on entry into the EU, it allows the Council to freeze the funds and economic resources of the persons, entities and bodies listed in Annex I and prohibits making any available to them (Art. 3). It applies to cyber-attacks with a significant effect, including attempted ones, which constitute an external threat to the Union or its Member States: attacks originating or carried out from outside the Union, using infrastructure outside it, or carried out or supported by persons or entities outside the EU (Art. 1(1)-(2)). Cyber-attacks are unauthorised access to information systems, system or data interference (including theft of data, funds or intellectual property) and data interception (Art. 1(3) and (7)). They include attacks on critical infrastructure, essential services (energy, transport, banking, health, water, digital infrastructure), critical State functions such as elections, classified information and government emergency response teams (Art. 1(4)); measures may also respond to attacks against third States or international organisations (Art. 1(6)). Factors determining a significant effect include the scale of the disruption, the number of persons and Member States affected, the economic loss and the amount of data stolen (Art. 2).",
       "history": [
         {
           "date": "2026-11-22",
           "change": "Added from the Cybersecurity Database open catalog (CC BY 4.0); the linked issuing-authority source is the legal reference."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "a45ee1ef-72dc-53b9-8ecf-97f0667ccb67",
       "catalogSlug": "eu-cyber-sanctions-regulation-2019-796",
-      "catalogUpdatedAt": "2026-11-22"
+      "catalogUpdatedAt": "2026-11-24"
     },
     {
       "id": "CYBERSTANDARD-GB-T-22239-2019",
@@ -25178,7 +25250,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · critical infrastructure · incident response",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;65",
-      "summary": "The decree transposed the first NIS Directive, identifying the operators of essential services and digital service providers subject to security and notification duties. It established CSIRT Italia and designated sectoral competent authorities. It was repealed by Legislative Decree 138/2024 transposing NIS 2.",
+      "summary": "The decree transposed the first NIS Directive, identifying the operators of essential services and digital service providers subject to security and notification duties. It established the Italian CSIRT at the Presidency of the Council of Ministers (Article 8) and designated sectoral competent authorities (Article 7). It was repealed with effect from 18 October 2024 by Legislative Decree 138/2024 transposing NIS 2 (Article 41(2)).",
       "history": [
         {
           "date": "2026-11-08",
@@ -25187,12 +25259,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "7425e8c0-ad70-50d7-8aa1-5d44f98876c2",
       "catalogSlug": "it-dlgs-65-2018-nis",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -26535,7 +26611,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c8c0806f-8696-5582-87be-e496b0b8061b",
       "catalogSlug": "eu-nis-directive-2016-1148",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -27362,7 +27438,7 @@
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "f8cb5f1e-7e22-51a8-a5f2-fc861527f574",
       "catalogSlug": "eu-radio-equipment-directive-2014-53",
-      "catalogUpdatedAt": "2026-11-12",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -27547,7 +27623,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · cybercrime · international cooperation",
       "sourceUrl": "https://eur-lex.europa.eu/eli/dir/2013/40/oj",
-      "summary": "The Directive harmonises Member States' criminal law on cyber offences and replaces Framework Decision 2005/222/JHA. It defines as offences illegal access to systems, illegal system and data interference, illegal interception and the production or supply of tools to commit them, with higher minimum levels for the maximum prison term (three and five years) for botnet attacks or attacks on critical infrastructure. It strengthens cooperation through national contact points available 24 hours a day.",
+      "summary": "The Directive harmonises Member States' criminal law on cyber offences and replaces Framework Decision 2005/222/JHA. It defines as offences illegal access to systems, illegal system and data interference, illegal interception and the production or supply of tools to commit them, with a maximum prison term of at least two years, rising to three years where a significant number of systems are affected through a tool designed for that purpose (botnets) and to five years for attacks committed within a criminal organisation, causing serious damage or against a critical infrastructure information system (Art. 9). To exchange information, Member States must have an operational national point of contact and use the existing network of contact points available 24 hours a day and seven days a week; for urgent requests the competent authority indicates within eight hours at least whether it will answer (Art. 13).",
       "history": [
         {
           "date": "2026-11-08",
@@ -27560,12 +27636,16 @@
         {
           "date": "2026-11-19",
           "change": "Catalog update: summary. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "983860c2-be6f-5747-aa58-5878e99a1fe7",
       "catalogSlug": "eu-directive-attacks-information-systems-2013-40",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -28996,7 +29076,7 @@
       "effectiveDate": "",
       "topic": "Cybersecurity · data protection · telecommunications",
       "sourceUrl": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196",
-      "summary": "Italy's Personal Data Protection Code, rewritten by Legislative Decree 101/2018 to bring it into line with the GDPR and now confined to the matters the Regulation leaves to Member States. It governs the legal bases for public-interest processing and for special categories of data, sets the age of children's consent to information society services at 14 and contains sector rules (health, employment, research, journalism, electronic communications, marketing). It regulates the organisation, powers and procedures of the supervisory authority, the Garante per la protezione dei dati personali, including complaints and administrative sanctions. It establishes offences such as unlawful processing of data (six months to eighteen months' imprisonment) and unlawful large-scale disclosure of data (one to six years). Breach notification follows Article 33 GDPR (to the Garante within 72 hours).",
+      "summary": "Italy's Personal Data Protection Code, brought into line with the GDPR by Legislative Decree 101/2018: it contains the national provisions that supplement the Regulation. It governs the legal bases for public-interest processing and for special categories of data, sets the age of children's consent to information society services at 14 and contains sector rules (health, employment, research, journalism, electronic communications, marketing). It regulates the organisation, powers and procedures of the supervisory authority, the Garante per la protezione dei dati personali, including complaints and administrative sanctions. It establishes offences such as unlawful processing of data (Article 167: six months to eighteen months' imprisonment, one to three years in the cases of paragraphs 2 and 3) and unlawful communication or dissemination of personal data processed on a large scale (Article 167-bis: one to six years). On security, Article 132-ter requires providers of publicly available electronic communications services to take technical and organisational measures appropriate to the risk, in accordance with Article 32 GDPR. Breach notification follows Article 33 GDPR (to the Garante without undue delay and, where feasible, within 72 hours).",
       "history": [
         {
           "date": "2026-11-08",
@@ -29005,12 +29085,16 @@
         {
           "date": "2026-11-09",
           "change": "Catalog update: title. Official issuing-authority source remains linked."
+        },
+        {
+          "date": "2026-11-24",
+          "change": "Catalog update: summary. Official issuing-authority source remains linked."
         }
       ],
       "catalogSource": "Cybersecurity Database",
       "catalogRecordId": "c275d291-7509-491d-a487-45508698013d",
       "catalogSlug": "it-codice-protezione-dati-personali-2003",
-      "catalogUpdatedAt": "2026-11-18",
+      "catalogUpdatedAt": "2026-11-24",
       "titleTranslationSource": "Cybersecurity Database English short title"
     },
     {
@@ -30842,10 +30926,10 @@
     "apiUrl": "https://www.cybersecuritydatabase.org/api/v1/documents.json",
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
-    "catalogUpdatedAt": "2026-11-23",
+    "catalogUpdatedAt": "2026-11-24",
     "lastChecked": "2026-11-24",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 127,
-    "standardsUpdatedAt": "2026-11-23"
+    "standardsUpdatedAt": "2026-11-24"
   }
 }
