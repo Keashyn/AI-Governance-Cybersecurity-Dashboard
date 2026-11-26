@@ -1,17 +1,26 @@
-# Grok weekly curation report — 2026-11-17
+# Grok weekly curation report — 2026-11-24
 
-Research window: after 2026-11-17 through 2026-11-17 (UTC). Automated research is bounded; this report is not an exhaustive inventory and is not legal advice.
+Research window: after 2026-11-17 through 2026-11-24 (UTC). Automated research is bounded; this report is not an exhaustive inventory and is not legal advice.
 
 ## Results
 
-- Verified additions proposed: **0**
+- Verified additions proposed: **5**
 - Material updates proposed: **0**
-- Candidates held out of the register: **0**
+- Candidates held out of the register: **2**
 - All changes are submitted for human review; this workflow does not merge or deploy.
 
 ## Added
 
-No new instrument met the source, evidence, and deduplication checks in this run.
+- **United States · Federal — [HIPAA Privacy Rule: Changes To Support Coordinated Care and Individual Engagement and Reduce Regulatory Burdens](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23429.htm)** — Enacted; publicationDate: 2026-11-19, effectiveDate: 2027-01-19. HHS published a final rule amending the HIPAA Privacy Rule at 45 CFR Parts 160 and 164. The notice states that the changes address standards that may impede value-based care by limiting individual access or care coordination and case management, or by imposing other unnecessary burdens, and that they promote sharing of protected health information for care coordination and individual engagement while continuing to protect privacy and security. The Federal Register states that the rule is effective on 19 January 2027 and that persons subject to it must comply with the applicable requirements by 19 July 2027. A signature date separate from publication was not stated on the page checked.
+  - Verification: govinfo Federal Register text checked for agency, action, RIN 0945-AA00, publication date, effective date, and compliance date.
+- **United States · Federal — [Cybersecurity Labeling for Internet of Things](https://www.govinfo.gov/content/pkg/FR-2026-11-23/html/2026-23812.htm)** — Proposed; publicationDate: 2026-11-23. The FCC Public Safety and Homeland Security Bureau published a proposed rule seeking comment on recommendations for the voluntary U.S. Cyber Trust Mark program for wireless consumer Internet of Things products. The notice covers design and placement of the FCC IoT Label, display of product-registry information, certification renewal, post-market surveillance, and procedures for complaints, noncompliant products, and program administrators that withdraw or whose authority is terminated. Comments are due on or before 23 December 2026 and reply comments on or before 7 January 2027. The notice says technical-requirements recommendations will be addressed in a subsequent public notice. This is not a final rule.
+  - Verification: govinfo proposed-rule text checked for agency, docket, publication date, comment deadlines, and voluntary-program scope.
+- **China — [Public consultation on the second-batch product catalogue for cybersecurity labeling and related implementing rules](https://www.cac.gov.cn/2026-11/20/c_1796931132798351.htm)** — Consultation; publicationDate: 2026-11-20. On 20 November 2026, the Cyberspace Administration of China sought public comment on a draft second batch of the product catalogue for implementing cybersecurity labeling and related implementing rules. The notice says the draft was prepared under the Cybersecurity Labeling Management Measures jointly issued by CAC, the Ministry of Industry and Information Technology, and the Ministry of Public Security. The published draft rules cover consumer smart door locks, smart speakers, and children's smart watches, and describe voluntary labeling, capability grades, testing, filing, and display. Comments are due by 20 December 2026. The catalogue and rules are drafts, not adopted instruments.
+  - Verification: CAC notice page checked for issuer, date, draft title, comment deadline, and consultation status.
+- **Japan — [Alert on deletion of images of official photo identification documents](https://www.ppc.go.jp/news/careful_information/261118_alert_idcard/)** — Guidance; publicationDate: 2026-11-18. On 18 November 2026, Japan's Personal Information Protection Commission published an alert on deletion of images of official photo identification documents, including driver's licenses. The page states that the Commission decided to issue the alert and that it asked the Ministry of Land, Infrastructure, Transport and Tourism to circulate an attached alert to car-rental businesses and to take necessary steps toward appropriate deletion of identification-document images by those businesses. The HTML page does not itself set out a new statutory obligation. This is official guidance.
+  - Verification: PPC alert page checked for issuer, date, subject, and the request to the transport ministry.
+- **United States · Federal — [Digital Identities – Mobile Driver’s License (mDL) (NIST SP 1800-42, Second Public Draft)](https://csrc.nist.gov/pubs/sp/1800/42/2pd)** — Consultation; publicationDate: 2026-11-19. NIST published the second public draft of SP 1800-42 on 19 November 2026, with comments due 20 December 2026. The CSRC page states that the earlier single volume has been split into SP 1800-42, on enabling secure and interoperable online use, and Volume A, on accelerating adoption by financial institutions. It says the update broadens the guidelines to all organizations and adds guidelines on credential revocation and same-device implementation, among other updates. The abstract describes foundational considerations for organizations adopting verifiable digital credentials. This is a draft practice guide open for comment, not a statute or a final standard.
+  - Verification: CSRC publication page checked for draft status, publication date, comment deadline, and the two-volume split.
 
 ## Material updates
 
@@ -19,128 +28,167 @@ No existing record passed the material-change checks.
 
 ## Coverage checked
 
-- **European Union · EUR-Lex / Official Journal and Commission events** — checked: No new OJ legal act, guidance, or consultation dated 17 November 2026 was verified. The Apply AI Summit that day is an event, not an instrument.
-- **United States · Federal Register** — checked: No 17 November 2026 issue was found. The latest located issue is 16 November 2026; documents reviewed there were technical corrections or unrelated notices, not new AI, cyber, or privacy instruments.
-- **France · Assemblée nationale / Légifrance** — checked: The resilience and cybersecurity bill’s solemn vote was scheduled for 17 November 2026. The official page still describes that vote as forthcoming, and no adopted text or vote result was verified.
-- **United States · Department of State** — checked: San Francisco Declaration on SI supply-chain security was signed 15 November 2026 and is outside this window.
-- **European Data Protection Board** — checked: Guidelines 1/2024 version 2.0 on legitimate interests were adopted 10 November 2026, before this window.
-- **United Kingdom · GOV.UK** — checked: Items dated 6–16 November 2026 were press or cooperation statements, not a new instrument on 17 November 2026.
-- **Japan · Digital Agency; standards feeds (ISO/IEC 27090)** — checked: GENAI Standards and ISO/IEC 27090:2026 are already in the register; no new 17 November publication was verified.
-- **Australia, China CAC, India MeitY, South Korea PIPC** — checked: Targeted official-source searches returned no new AI, cybersecurity, or data-protection instrument dated 17 November 2026.
+- **United States · Federal Register / govinfo, 18–24 November 2026** — checked: govinfo issues for 19 and 23 November opened. federalregister.gov HTML was CAPTCHA-blocked. HIPAA final rule and FCC IoT labeling proposal verified; routine KEV alerts and an individual CYBER4 SDN notice were not treated as new instruments.
+- **European Union · EUR-Lex / Official Journal** — checked: No new AI, cybersecurity, or data-protection regulation identified in OJ for 18–24 November. Commission CRA guidance is dated 17 November, outside this window. Quantum Act not found as a published Commission proposal.
+- **China · CAC** — checked: 20 November notices on cybersecurity labeling consultation, draft practice guides, and generative-AI filing statistics opened. Filing bulletin not added as a new instrument.
+- **Japan · PPC and Digital Agency** — checked: PPC alert of 18 November verified. Digital Agency 20 November file-sharing incident notice is an incident announcement, not a new rule.
+- **India · CERT-In** — checked: Advisory list and CIAD-2026-0062 opened. Routine Java vulnerability advisory CIAD-2026-0061 not added.
+- **United States · NIST CSRC / NCCoE** — checked: SP 1800-42 second public draft page opened. OCC SI supervisory framework is dated 4 November, outside the window.
+- **South Korea · PIPC homepage and korea.kr** — checked: 18–19 November press titles seen. Java advisory body was not available on the HTML page, so it was not added.
+- **United Kingdom · legislation.gov.uk and bills.parliament.uk** — checked: No new AI, cyber, or data-protection instrument dated 18–24 November. Cyber Security and Resilience Bill still showed Commons consideration of Lords amendments as scheduled for 24 November; completion not verified.
+- **Australia · Parliament** — checked: Digital Duty of Care Bill had Senate second-reading debate on 23 November; no verified change of legal status beyond continued parliamentary consideration.
+- **France · Assemblée nationale** — checked: First-reading adoption of the critical-infrastructure and cybersecurity bill was on 17 November, outside the after-17 November window.
+- **Germany · BMI** — checked: 19 November BSI situation-report press release opened. No new statute or ordinance text located in-window.
+- **Canada · ISED / canada.ca** — checked: AI transparency consultation page remains closed; no new instrument dated 18–24 November found.
+- **Singapore · CSA / MDDI** — checked: In-window CSA advisory list showed items dated before 18 November. No new in-window instrument verified.
+- **Brazil · Diário Oficial search** — checked: Bounded search did not identify an in-window AI, cyber, or privacy instrument.
 
 ## Coverage limits
 
-- Research window was only 17 November 2026 UTC, so earlier November instruments were not added even where an official page was seen.
-- San Francisco Declaration (signed 15 November 2026; state.gov) and EDPB Guidelines 1/2024 v2.0 (adopted 10 November 2026) fall before the window.
-- French NIS2/CER bill: solemn vote announced for 17 November 2026, but no official vote result or adopted text was found.
-- No Federal Register issue for 17 November 2026 was located; the 16 November issue was reviewed only to confirm it was outside the window and not a material new instrument.
-- Canada, other EU member-state gazettes, Latin America, Africa, Middle East, Pacific jurisdictions, U.S. states, and standards-body catalogues were not exhaustively checked. A failed or bounded search is not evidence that no law applies.
+- Not an exhaustive sweep of every jurisdiction in the register. Africa, Latin America, the Pacific, and most U.S. states were not systematically rechecked beyond bounded searches.
+- federalregister.gov document HTML was blocked by CAPTCHA; U.S. Federal Register verification used govinfo and search snippets.
+- France's National Assembly adopted the critical-infrastructure and cybersecurity bill at first reading on 17 November 2026, which is outside the after-17 November window, so it was not added.
+- The UK Cyber Security and Resilience Bill's Commons consideration of Lords amendments was scheduled for 24 November 2026; the parliamentary page last reviewed did not confirm that it occurred.
+- The European Commission Quantum Act was reported as expected around 18–24 November but no official proposal page was found.
+- South Korea PIPC's 18 November Java-vulnerability press title was seen, but the release body was not retrieved from the issuer HTML page, so it was excluded.
+- An OFAC notice of 23 November publishing a CYBER4 designation was treated as an individual listing under existing sanctions authority, not a new instrument. Routine CISA KEV alerts were likewise not added.
+- China's 20 November generative-AI filing announcement was checked and not added because it reports filings under the existing interim measures rather than adopting a new instrument.
+- Germany's 19 November BSI situation report mentioned a cybersecurity package in a press statement; the underlying legal text was not located.
+
+## Excluded or held for review
+
+- Draft cybersecurity standard practice guides on labeling requirements for smart door locks, smart speakers, and children's smart watches: Standards and frameworks cannot be classified as laws or proposals.
+- CERT-In Advisory CIAD-2026-0062: Abuse of Business Payment Workflows and Use of AI-Driven Agentic Offensive Frameworks across Sectors: Possible duplicate of IN-CERTIN-CIAD-2026-0020-FRONTIER-AI-ADVISORY-2026.
 
 ## Search citations
 
-- https://www.actuia.com/actualite/nis-2-avant-le-vote-du-17-novembre-ce-qui-est-acquis-et-ce-qui-peut-tomber/
-- https://www2.assemblee-nationale.fr/recherche/resultats_recherche/(legislature)/17/(tri)/date/(typeDoc)/compte%20rendu/(query)/eyJxIjoiY29udGVudTooXCJDb21wdGVcIiBBTkQgXCJyZW5kdVwiIEFORCBcImRlXCIgQU5EIFwiclx1MDBlOXVuaW9uXCIpIiwiZnEiOiIiLCJyb3dzIjoxMCwic3RhcnQiOmZhbHNlLCJ3dCI6InBocCIsImhsIjoiZmFsc2UiLCJmbCI6InNjb3JlLHVybCx0aXRyZSx1cmxEb3NzaWVyTGVnaXNsYXRpZix0aXRyZURvc3NpZXJMZWdpc2xhdGlmLHRleHRlUXVlc3Rpb24sdHlwZURvY3VtZW50LHNzVHlwZURvY3VtZW50LHJ1YnJpcXVlLHRldGVBbmFseXNlLG1vdHNDbGVzLGF1dGV1cixkYXRlRGVwb3Qsc2lnbmF0YWlyZXNBbWVuZGVtZW50LGRlc2lnbmF0aW9uQXJ0aWNsZSxzb21tYWlyZSxzb3J0In0=
-- https://webstore.iec.ch/en/publication/117332
-- http://legislation.gov.uk/ukpga/2018/12/part/3/chapter/4/crossheading/obligations-relating-to-security
-- https://thesuperintelligencenews.com/articles/uk-ai-regulation-tracker-no-ai-bill-agentic-ai-measures-superintelligence-ban-bill-aisi-dated
-- https://insideaipolicy.com/ai-daily-news/industry-sources-lieu-obernolte-ai-bill-scopes-out-areas-agreement-could-help-smooth
-- https://www.insurancejournal.com/news/national/2026/11/16/892718.htm
-- https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-lundi-09-novembre-2026
-- https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-experts-projects/one-stop-shop-case-digest-legal-basis_en
-- https://insidecybersecurity.com/daily-news/trump-administration-s-plan-ai-cybersecurity-clearinghouse-comes-focus
-- https://www.legislation.gov.uk/uksi/2026/425
-- https://www.steptoe.com/en/news-publications/steptechtoe-blog/eu-ai-act-amendments-enter-into-force.html
-- https://eur-lex.europa.eu/legal-content/PT/TXT/PDF/?uri=OJ:L_202601744
-- https://www.federalregister.gov/documents/2026/11/09/2026-22731/information-collection-general-services-administration-acquisition-regulation-implementation-of
-- https://casrai.org/news/eu-ai-act-2-december-2026-obligations-article-50
-- https://mdp-data.com/digital-omnibus-position-conseil-rgpd/
-- https://www.federalregister.gov/documents/2026/11/16/2026-23255/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security
-- https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gr/technical/tax/tax-alerts/2026/regulation-eu-2026-1744-digital-omnibus-on-ai.pdf
-- https://insidecybersecurity.com/share/17654
-- https://www.revisori.it/2026/11/09/digital-omnibus-le-5-regole-che-contano-per-i-professionisti-con-lai-act-gestione-dei-dati-e-cybersecurity/
-- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52026DC0577
-- https://artificialintelligenceregulations.com/news.html
-- https://www.federalregister.gov/documents/2026/11/16/2026-23249/notice-of-public-meeting-of-the-rhode-island-advisory-committee-to-the-us-commission-on-civil-rights
-- https://www.legislation.gov.uk/cy/ukpga/2018/12/section/17
-- https://www.phmsa.dot.gov/regulations/federal-register-documents
-- https://www.fedlex.admin.ch/eli/fga/2026/1182/fr
-- https://www.assemblee-nationale.fr/17/cri/2026-2027/20270057.asp
-- https://www.legislation.gov.uk/ukpga/2018/12/schedule/16
-- https://cisonews.ai/regulation
-- https://privacyrules.com/wp-content/uploads/2026/07/RJ_DigitalOmnibus_20260728DRF_English6163559.1.pdf
-- https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence
-- https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity
-- https://journal-officiel.legifrance.gouv.fr/file/joe_20261114_0266_p000.pdf
-- https://www.federalregister.gov/documents/2026/11/12/2026-23031/national-cybersecurity-center-of-excellence-nccoe-projects-and-activities
-- https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071307/LEGISCTA000020411272/
-- https://www.edpb.europa.eu/documents/edpb-correspondence/edpb-letter-to-the-european-commission-on-the-need-for-a-legal-basis_en
-- https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/
-- https://www.federalregister.gov/documents/2026/11/16/2026-23286/privacy-of-consumer-financial-information
-- https://insideaipolicy.com/ai-daily-news/iti-encouraged-obernolte-trahan-draft-laying-out-potential-fines-ai-developers
-- https://www.cybersecuritydive.com/news/ai-critical-infrastructure-government-guidance/807052/
-- https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055075618
-- https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679/
-- https://www.dittmar.fi/news/the-digital-omnibus-at-a-glance/
-- https://nhimg.org/us-federal-ai-bills-tracker
-- https://www.nextgov.com/topic/artificial-intelligence/
-- https://oeil.europarl.europa.eu/oeil/en/procedure-document-summary/pdf?id=1910754
-- https://www.edpb.europa.eu/documents/guideline/guidelines-12024-on-processing-of-personal-data-based-on-article-61f-gdpr_en
-- https://www.vktr.com/ai-market/us-signs-ai-supply-chain-pact-with-allies-readies-national-champions-list/
-- https://pitch.law/academy/eu-digital-rulebook-2026
-- https://single-market-economy.ec.europa.eu/events/why-made-europe-good-europe-2026-11-17_en
+- https://www.pipc.go.kr/
+- https://egazette.gov.in/WriteReadData/2026/269916.pdf
+- http://videos.assemblee-nationale.fr/video.19713544_6afc5a9d4e402.1ere-seance--questions-au-gouvernement--renforcement-de-la-cybersecurite-vote-solennel--relance-17-novembre-2026
+- https://thenextweb.com/news/eu-quantum-act-proposal-european-suppliers
+- https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada
+- https://www.legislation.gov.uk/new/uksi/2026-11-23
+- https://www.csa.gov.sg/alerts-and-advisories/advisories/
+- https://csrc.nist.gov/pubs/sp/1800/42/2pd
+- https://www.twobirds.com/en/insights/2026/cyber-resilience-act-key-changes-in-the-commissions-guidelines-on-its-application
+- https://www.osabee.com/wake/guides/digital-omnibus-ai-act-what-changes/
+- https://www.pm.gov.au/media/new-australian-ai-safety-and-security-protections
+- https://www.legislation.gov.uk/uksi/2018/506
+- https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23812.pdf
+- https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789798
+- https://cn.yna.co.kr/view/AKR20261118173000530
+- https://www.govinfo.gov/content/pkg/FR-2026-11-23/html/2026-23812.htm
+- https://pitch.law/academy/eu-digital-rulebook
+- https://www.federalregister.gov/documents/2026/11/23/2026-23812/cybersecurity-labeling-for-internet-of-things
+- https://www.congress.gov/bill/119th-congress/senate-bill/69/all-actions
+- https://bills.parliament.uk/publications/67449/documents/8676
+- https://eur-lex.europa.eu/DE/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
+- https://www.in.gov.br/en/web/dou/-/portaria-gabdpgf-dpgu-n-622-de-14-de-maio-de-2025-629781545
+- https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11616
 - https://pitch.law/academy/digital-omnibus-on-ai-regulation-2026-1744
-- https://pitch.law/nl/academy/digital-omnibus-on-ai-regulation-2026-1744
-- https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure
-- https://european-digital-innovation-hubs.ec.europa.eu/events/apply-ai-summit
-- https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth
-- https://www.forth.news/lists/state/Ch5pRjEi3aQiJ7KFtQGzV
-- https://insidecybersecurity.com/daily-news/nist-proposes-design-principles-agentic-ai-management-systems
-- https://eur-lex.europa.eu/eli/C/2026/3795/oj/eng
-- https://www.dlapiper.com/en/insights/publications/innovation-law-insights/2026/innovation-law-insights-11-november-2026
-- https://news.bloomberglaw.com/artificial-intelligence/us-partners-agree-to-safeguard-key-ai-tech-infrastructure-2
-- https://www.assemblee-nationale.fr/dyn/17/montage/seance/l17b1779_montage-seance.pdf
-- https://www.assemblee-nationale.fr/dyn/docs/CRSAJOANR5L17S2026O1N064.raw
-- https://www.digital.go.jp/en/policies/genai/agent-safety-standard
-- https://www.iso.org/standard/27090
-- https://www.gov.uk/government/publications/statement-on-the-global-cybersecurity-labelling-initiative
-- https://www.data.gouv.fr/datasets/referentiel-ia-act-echeances-obligations-et-sanctions-du-reglement-europeen-sur-lia
-- https://ai-policy.org/the-great-american-ai-act-of-2026-a-bipartisan-bet-on-federal-preemption/
-- https://eur-lex.europa.eu/legal-content/SK/TXT/PDF/?uri=OJ:C_202603795&qid=1790869793336
-- https://www.federalregister.gov/documents/2026/11/16/C1-2026-20951/privacy-act-of-1974-matching-program
-- https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker
-- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=intcom:C%282025%298493
-- https://www.data.gouv.fr/datasets/referentiel-ia-act-echeances-obligations-et-sanctions-du-reglement-europeen-sur-lia/informations
-- https://www.assemblee-nationale.fr/dyn/17/scrutins/9794
-- https://www.state.gov/pax-silica
-- https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states
-- https://www.ceps.eu/ceps-publications/a-dataset-of-eu-legal-and-policy-instruments-for-the-digital-world-2/
-- https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for
-- https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security
-- https://www.clearygottlieb.com/news-and-insights/publication-listing/italy-ai-regulation-new-rules-and-risks-for-businesses
-- https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-et-au-renforcement-de-la-cybersecurite
-- https://docs.modulos.ai/frameworks/eu-ai-act/commission-guidance
-- https://www.journaldunet.com/intelligence-artificielle/1558009-ia-et-donnees-personnelles-le-cepd-confirme-que-l-interet-legitime-peut-servir-de-base-legale/
-- https://gov.uk/government/news/tough-new-laws-to-strengthen-the-uks-defences-against-cyber-attacks-on-nhs-transport-and-energy
-- https://shop.standards.ie/en-ie/standards/iso-iec-27090-2026-1538362_saig_iso_iso_4057166/
-- https://cisonews.ai/year/2026
-- https://www.edpb.europa.eu/system/files/2026-11/edpb_guidelines_202401_legitimateinterest_v2_en.pdf
-- https://thefederalregister.org/issues/2026/11
-- https://i10x.ai/news/san-francisco-declaration-pax-silica-ai-supply-chains
-- https://www.europarl.europa.eu/news/en/press-room/20261111IPR48786/world-e-parliament-conference-returns-to-the-european-parliament-after-18-years
-- https://insidecybersecurity.com/share/17775
+- https://ecovis.lt/regrally-insights-personal-data-protection-ict-regulation-november-2026/
+- https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-016/
+- https://www.ppc.go.jp/news/careful_information/261118_alert_idcard/
+- https://www.nccoe.nist.gov/news-insights/updated-guidelines-accelerating-adoption-mobile-drivers-licenses-mdl
+- https://pipc.go.kr/eng/user/ltn/new/noticeDetail.do?bbsId=BBSMSTR_000000000001&nttId=2943
+- https://pipc.go.kr/np/default/page.do?mCode=B010040000
+- https://otgovernanceradar.com/
+- https://bills.parliament.uk/bills/4035/news
+- https://www.nccoe.nist.gov/sites/default/files/2026-11/nist-sp-1800-42a-2pd.pdf
+- https://www.politico.eu/article/eu-quantum-act-boost-europe-tech-competitiveness/
+- https://www.cac.gov.cn/2026-11/20/c_1796931132798351.htm
+- https://www.cac.gov.cn/2026-11/20/c_1796931128243078.htm
+- https://www.ajupress.com/view/20261123100470270
+- https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-873-de-26-de-novembro-de-2025-671619189
+- https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97.html
+- https://table.media/en/europe/feature/quantum-act-how-the-commission-plans-to-position-the-bloc-in-the-race-to-build-a-quantum-industry
+- https://www.ppc.go.jp/enforcement/minutes/2026/
+- https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:52026DC0577
+- https://www.govinfo.gov/content/pkg/FR-2026-03-04/html/2026-04217.htm
+- https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11521
+- https://www.dalloz-actualite.fr/flash/l-assemblee-adopte-enfin-projet-de-loi-cybersecurite
+- https://www.cisa.gov/news-events/cybersecurity-advisories
+- https://www.federalregister.gov/documents/2026/11/23/2026-23797/meeting-of-the-microbiome-subcommittee-of-the-presidential-advisory-council-on-combating
+- https://www.pipc.go.kr/np/default/agenda.do?op=view&mCode=E030010000&idxId=2026-0721
+- https://insideaipolicy.com/ai-daily-news/nist-publishes-findings-workshop-ai-profile-cybersecurity-framework
+- https://www.congress.gov/bill/119th-congress/house-bill/10873/text
+- https://pitch.law/academy/eu-digital-rulebook-2026
+- https://www.korea.kr/news/policyNewsView.do?newsId=148975494
+- https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12131
+- https://www.steptoe.com/en/news-publications/steptechtoe-blog/the-european-commission-published-its-proposed-reform-of-the-eu-data-protection-privacy-data-cyber-incident-reporting-and-ai-framework.html
+- https://www.cert-in.org.in/s2cMainServlet?pageid=PUBADVLIST02&year=2026
+- https://www.assemblee-nationale.fr/dyn/17/textes/l17t0366_texte-adopte-provisoire.pdf
+- https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog
+- https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0062&pageid=PUBVLNOTES02
+- http://legislation.gov.uk/ukpga/2018/12/part/3/chapter/4/crossheading/obligations-relating-to-security
+- https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23785.pdf
+- https://cn.yna.co.kr/view/AKR20261118190300071
+- https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/canada-and-the-united-kingdom-renew-their-partnership-on-artificial-intelligence-security.html
+- https://www.congress.gov/bill/119th-congress/senate-bill/3741
+- https://eur-lex.europa.eu/ES/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
+- https://www.aph.gov.au/DocumentStore.ashx?id=910e6f5d-7e98-4012-a184-561c2adc8e4f&subId=802416
+- https://eur-lex.europa.eu/EN/legal-content/summary/horizontal-cybersecurity-requirements-for-products-with-digital-elements-cyber-resilience-act.html
+- https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7553
+- https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html
+- https://www.politico.com/news/2026/11/18/cyber-threats-infrastructure-congress-01172093
+- https://egov.eletsonline.com/2026/11/eu-guidance-on-ai-act-and-gdpr-interplay-delayed-to-early-2027/
+- https://eur-lex.europa.eu/TodayOJ/fallbackOJ/ESEAL-C_202606013-sig-20261117023020503_immc/C_202606013EN.pdf
+- https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11453
+- https://health.ec.europa.eu/latest-updates/commission-publishes-medical-countermeasures-roadmaps-boost-eu-preparedness-health-emergencies-2026-11-23_en
+- http://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074%26mCode=C020010000%26nttId=10362
+- https://theeuropeanpost.eu/research-analysis/brussels-rewrites-gdpr-rules-for-the-ai-era/
+- https://eur-lex.europa.eu/EN/legal-content/summary/working-conditions-in-platform-work.html
+- https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/pdf/
+- https://www.cac.gov.cn/yaowen/wxyw/A093602index_1.htm
+- https://likms.assembly.go.kr/filegate/sender36?dummy=dummy&bookId=14915c83-b798-46a9-bea4-fd695de8e71d&type=1
+- https://thefederalregister.org/issues/2026/11/19
+- https://www.federalregister.gov/documents/2026/11/23/2026-23785/notice-of-ofac-sanctions-action
+- https://www.pm.gov.au/media/quad-leaders-summit-joint-press-release
+- https://www.nextgov.com/topic/artificial-intelligence/
 - https://www.leto.legal/guides/digital-omnibus-ia-reglement-2026-1744
-- https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02024R1689-20260727
-- https://www.gov.uk/government/news/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines
-- https://pitch.law/nl/academy/eu-digital-rulebook-2026
-- https://www.bloomberg.com/news/articles/2026-11-16/us-partners-agree-to-safeguard-key-ai-tech-infrastructure
-- https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000047046786?datePublication=&dateSignature=&init=true&page=1&query=&searchField=ALL&tab_selection=lawarticledecree
-- https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents
-- https://www.federalregister.gov/documents/2026/11/04/2026-22535/agency-information-collection-activities-proposed-ecollection-ecomments-requested-safer-skies-state
-- https://www.journaldunet.com/cybersecurite/1557881-nis2-l-assemblee-adopte-enfin-la-transposition-et-la-reecrit-contre-l-avis-du-gouvernement/
-- https://www.assemblee-nationale.fr/dyn/17/scrutins?page=5&limit=10
-- https://aipolicydaily.org/
-- https://www.edpb.europa.eu/system/files/2026-11/annex_flowchart_edpb_guidelines_202401_legitimateinterest_v2_en.pdf
-- https://www.state.gov/
-- https://www.gov.uk/government/news/united-kingdom-norway-joint-statement-of-intent-on-artificial-intelligence
+- https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986
+- https://insidecybersecurity.com/daily-news/nist-publishes-annotated-outline-ai-security-overlays-ahead-wednesday-workshop
+- https://www.govinfo.gov/content/pkg/FR-2026-11-23/pdf/2026-23738.pdf
+- https://www.mddi.gov.sg/newsroom/mddi-meti-joint-media-statement-on-us-interim-final-rule-on-addressing-remote-access-to-advanced-semiconductors/
+- https://www.legislation.gov.uk/uksi/2026/425
+- https://www.nccoe.nist.gov/
+- https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/11/bsi-lagebericht.html
+- https://www.ppc.go.jp/news/press/2026
+- https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N064
+- https://www.congress.gov/bill/119th-congress/senate-bill/69
+- https://www.cac.gov.cn/2026-11/20/c_1796918603542950.htm
+- https://www.nist.gov/news-events/news/2026/11/us-and-international-standardization-news-and-activities-november-19-2026
+- https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html
+- https://eur-lex.europa.eu/FR/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
+- https://www.legal500.com/intelligence/switzerland/corporate-commercial-law/the-eu-ai-act-after-the-digital-omnibus-what-has-changed-for-businesses
+- https://kohenavocats.fr/2026/11/22/digital-omnibus-ia-2-decembre-2026-reforme-rgpd-cookies-ce-qui-change-entreprise/
+- https://gowlingwlg.com/en/insights-resources/articles/2026/data-and-cyber-school
+- https://www.cisa.gov/news-events/ics-advisories
+- https://www.reuters.com/legal/government/us-senators-warn-white-house-that-ai-enabled-cyber-threats-are-outpacing-2026-11-18/
+- https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption
+- https://www.etsi.org/enjoy-magazine/articles/ai-cybersecurity-standard-etsi-en-304-223/
+- https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security
+- https://www.nextgov.com/policy/2026/11/bipartisan-bill-would-create-cyber-and-ai-review-board-amid-series-tech-outages/417299/
+- https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS216&mCode=D010020040&nttId=11599
+- https://cyprus.representation.ec.europa.eu/news/eu-stood-firm-ambition-and-implementation-cop31-2026-11-23_en
+- https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence
+- https://digital-strategy.ec.europa.eu/de/node/13918/printable/pdf
+- https://www.govinfo.gov/content/pkg/FR-2026-07-15/pdf/2026-14247.pdf
+- https://insidecybersecurity.com/daily-news/nist-publishes-draft-update-taxonomy-adversarial-machine-learning
+- https://www.legislation.gov.uk/ukpga/2023/32/section/1
+- https://eur-lex.europa.eu/EN/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
+- https://2eu.brussels/en/news/eu-publishes-first-two-cybersecurity-standards-ahead-of-cyber-resilience-act-s-full-application-in-2027
+- https://www.congress.gov/bill/119th-congress/senate-bill/69/text
+- https://bills.parliament.uk/bills/4035?ref=themorningintelligence.uk
+- https://www.congress.gov/crs-product/R48909
+- https://www.digital.go.jp/speech/minister-261110-01
+- https://www.federalregister.gov/documents/2026/11/18/2026-23493/agency-information-collection-activities-submission-for-omb-review-comment-request-registration-for
+- https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23429.htm
+- https://www.bmi.bund.de/SharedDocs/kurzmeldungen/EN/2026/11/gdaz-kloeckner-dobrindt.html
+- https://eur-lex.europa.eu/SV/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html
+- https://insidecybersecurity.com/daily-news/commerce-dept-issues-interim-final-rule-block-use-advanced-ai-through-export-controls
+- https://www.legal500.com/intelligence/saudi-arabia/privacy/saudi-data-and-ai-authority-proposes-amendments-to-implementing-regulations-of-the-pdpl-10-key-proposed-changes
+- https://wap.cac.gov.cn/wxzw/sjzl/A093708phoneindex_1.htm
+- https://eur-lex.europa.eu/legal-content/En/TXT/PDF/?uri=OJ:L_202601744
 
 Statuses and summaries are informational; the linked official source controls. Missing records and unsuccessful searches do not establish that no law applies.
