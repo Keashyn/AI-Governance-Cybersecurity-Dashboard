@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-26",
+  "lastChecked": "2026-11-27",
   "sources": [
     {
       "name": "United States · Federal Register API",
@@ -34022,7 +34022,7 @@
     "license": "CC BY 4.0",
     "attribution": "Cybersecurity Database – cybersecuritydatabase.org",
     "catalogUpdatedAt": "2026-11-26",
-    "lastChecked": "2026-11-26",
+    "lastChecked": "2026-11-27",
     "standardsApiUrl": "https://www.cybersecuritydatabase.org/api/v1/standards.json",
     "standardsCount": 142,
     "standardsUpdatedAt": "2026-11-26"
